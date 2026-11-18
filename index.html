@@ -7444,7 +7444,7 @@ function renderSearch(){
   const hits=INDEX.filter(x=>terms.every(t=>x.h.includes(t))).map(x=>({x,r:(terms.every(t=>x.w.includes(t))?0:1)}));
   hits.sort((a,b)=>a.r-b.r);
   info.hidden=false;info.textContent=hits.length?`Найдено: ${hits.length}`:'Ничего не найдено. Попробуй другое слово или форму слова (например, без окончания).';
-  const groups=['Новые слова','Reading','Listening','Writing','Speaking'];
+  const groups=['Новые слова','Reading','Listening','Writing','Speaking','Grammar'];
   out.innerHTML=groups.map(g=>{const list=hits.filter(h=>h.x.g===g).slice(0,40);if(!list.length)return '';
     return `<div class="grp"><h2>${g} · ${hits.filter(h=>h.x.g===g).length}</h2>`+list.map((h,i)=>`<a class="hit" href="${h.x.go||'#'+h.x.v}" data-i="${INDEX.indexOf(h.x)}"><b>${hl(h.x.t,terms)}</b><span>${esc(h.x.s)}</span></a>`).join('')+'</div>';}).join('');
 }
