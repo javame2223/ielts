@@ -389,7 +389,9 @@ ol.ql li,ul.ql li{margin:6px 0}
   </div>
   <div class="lvopts">
    <label>Карточка Part 2: <select id="lvCardSel"><option value="">случайная</option></select></label>
+   <label>Голос экзаменатора: <select id="lvVoice"><option value="f">женский (Emma)</option><option value="m">мужской (James)</option></select></label>
    <label><input type="checkbox" id="lvSubs" checked> Показывать текст вопросов</label>
+   <label><input type="checkbox" id="lvStrict"> Строгий режим (как на экзамене: без комментариев)</label>
    <label><input type="checkbox" id="lvType"> Отвечать текстом (без микрофона)</label>
   </div>
   <div class="acts"><button type="button" class="btn pri" id="lvStart">Начать экзамен</button></div>
@@ -399,7 +401,8 @@ ol.ql li,ul.ql li{margin:6px 0}
   <li><b>Наушники.</b> Лучше надеть их, чтобы микрофон не слышал голос экзаменатора.</li>
   <li><b>Браузер.</b> Распознавание речи работает в Chrome и Edge (на компьютере и Android) и в Safari на iPhone. В других браузерах тест идёт без расшифровки, но запись голоса сохраняется.</li>
   <li><b>Конец ответа.</b> Когда ты замолчал на 2–3 секунды (в Part 2 — дольше), экзаменатор продолжает. Можно нажать «Я закончил ответ».</li>
-  <li><b>Как на экзамене:</b> Emma не обсуждает твои ответы, она работает по сценарию, как настоящий экзаменатор. Если ответ слишком короткий, она спросит «Why?», как на экзамене.</li>
+  <li><b>Живой диалог:</b> экзаменатор реагирует на ответы («Great answer! Let's move on…») и задаёт уточняющие вопросы по тому, что ты сказал: на «да» — один вопрос, на «нет» — другой. На слишком короткий ответ попросит рассказать подробнее.</li>
+  <li><b>Строгий режим</b> — как настоящий IELTS: экзаменатор не комментирует ответы и только иногда спрашивает «Why?».</li>
   <li><b>После теста</b> будет запись всего экзамена, расшифровка, темп речи, слова-паразиты и короткие ответы, а также ссылки на образцы ответов на эти же вопросы.</li>
  </ul></details>
 </div>
@@ -706,7 +709,7 @@ function lvSay(line,part){
       if(!('speechSynthesis' in window)){setTimeout(fin,1200);return;}
       const u=new SpeechSynthesisUtterance(line[0]);u.lang='en-GB';const v=speechSynthesis.getVoices().find(x=>/en[-_]GB/i.test(x.lang));if(v)u.voice=v;u.rate=.95;
       u.onend=u.onerror=fin;speechSynthesis.speak(u);};
-    LV.wake=fin;lvAudio.onended=fin;lvAudio.onerror=tts;lvAudio.src='audio/'+line[1];
+    LV.wake=fin;lvAudio.onended=fin;lvAudio.onerror=tts;lvAudio.src='audio/sp/'+LV.voice+'/'+line[1]+'.mp3';
     const pr=lvAudio.play();if(pr&&pr.catch)pr.catch(tts);
   }).then(()=>{lvChk();return new Promise(r=>setTimeout(r,250));});
 }
@@ -761,13 +764,33 @@ $('#lvRep').addEventListener('click',()=>{if(LV&&LV.finish)LV.finish('repeat');}
 $('#lvQuit').addEventListener('click',()=>{if(LV){LV.quit=true;lvAbort();}});
 $('#lvPrepDone').addEventListener('click',()=>{if(LV&&LV.prepDone)LV.prepDone();});
 
-async function lvAsk(part,line,o,fu){
+function lvPol(text){const f=' '+text.toLowerCase().replace(/[^a-z' ]/g,' ').split(/\s+/).slice(0,10).join(' ')+' ';
+  if(/\b(no|nope|not really|not at all|never|don't|do not|doesn't|didn't|haven't|hasn't|isn't|aren't|wasn't|can't|cannot|hate|dislike|rarely|hardly)\b/.test(f))return '-';
+  if(/\b(yes|yeah|yep|sure|definitely|of course|absolutely|i do|i did|i have|i am|i'm|i love|i like|i really|i enjoy|always|often|usually)\b/.test(f))return '+';
+  return null;}
+function lvReact(set){const pool=LD.react[set].filter(x=>x[1]!==LV.lastReact);const x=lvPick(pool.length?pool:LD.react[set]);LV.lastReact=x[1];return x;}
+async function lvAsk(part,qq,o,kind){
   let r;
-  do{await lvSay(line,part);r=await lvListen(o);lvChk();}while(r.why==='repeat');
-  const turn={part,q:line[0],a:r.text,ms:r.ms,heard:r.heard,src:o.src};LV.turns.push(turn);
-  const w=r.text?r.text.split(/\s+/).length:0;
-  if(fu&&w>0&&w<fu.min){const f=LD.ph[lvPick(fu.ph)];await lvSay(f,part);const r2=await lvListen(o);lvChk();
-    turn.fu=f[0];turn.a=(turn.a+' … '+r2.text).trim();turn.ms+=r2.ms;}
+  do{await lvSay(qq,part);r=await lvListen(o);lvChk();}while(r.why==='repeat');
+  const turn={part,q:qq[0],a:r.text,ms:r.ms,heard:r.heard,src:o.src};LV.turns.push(turn);
+  if(!kind)return turn;
+  const words=s=>s?s.split(/\s+/).filter(Boolean).length:0;
+  const w=words(r.text),hasT=LV.typed||!!SRec,said=r.heard||w>0;
+  const short=hasT?(w>0&&w<(kind==='p1'?8:25)):(said&&r.ms<(kind==='p1'?5000:12000));
+  let f=null;
+  if(LV.strict){if(short)f=LD.ph[lvPick(kind==='p1'?['why','more']:['why2','example'])];}
+  else if(said){
+    const fu=qq[2]||{};const pol=r.text?lvPol(r.text):null;
+    const pick=(fu['+']||fu['-'])?(pol?fu[pol]:fu['=']||null):(fu['=']||null);
+    const budget=kind==='p1'?LV.fuP1>0:LV.fuP3>0;
+    if(short)f=pick||LD.ph[kind==='p1'?'more':'example'];
+    else if(budget&&pick&&Math.random()<(kind==='p1'?.4:.55)){f=pick;if(kind==='p1')LV.fuP1--;else LV.fuP3--;}
+  }
+  if(f){await lvSay(f,part);const r2=await lvListen(o);lvChk();turn.fu=f[0];turn.a=(turn.a+' … '+r2.text).trim();turn.ms+=r2.ms;}
+  if(!LV.strict&&said&&!o.last){
+    const n=words(turn.a);const set=turn.fu?'fu':kind==='p3'?'p3':(n>=25||(!hasT&&turn.ms>12000))?'long':'mid';
+    if(turn.fu||Math.random()<.75)await lvSay(lvReact(set),part);
+  }
   return turn;
 }
 function lvCountdown(ms){
@@ -782,16 +805,17 @@ async function lvRun(){
   const sel=$('#lvCardSel').value;const card=sel?LD.cards[+sel-1]:lvPick(LD.cards);LV.card=card;
   if(lvMode==='full'){
     const h=new Date().getHours();
-    await lvAsk('Introduction',LD.ph[h<12?'hi_morning':h<18?'hi_afternoon':'hi_evening'],{max:15000,silence:1800,idle:9000});
-    await lvAsk('Introduction',LD.ph.call,{max:12000,silence:1800,idle:8000});
-    await lvAsk('Introduction',LD.ph.from,{max:20000,silence:2200,idle:9000});
+    await lvAsk('Introduction',LD.greet[LV.voice][h<12?'morning':h<18?'afternoon':'evening'],{max:15000,silence:1800,idle:9000});
+    await lvAsk('Introduction',LD.ph[LV.strict?'call_strict':'call'],{max:12000,silence:1800,idle:8000});
+    await lvAsk('Introduction',LD.ph[LV.strict?'from_strict':'from'],{max:20000,silence:2200,idle:9000});
   }
   if(lvMode==='full'||lvMode==='p1'){
     await lvSay(LD.ph[lvMode==='full'?'p1intro':'p1intro_short'],'Part 1');
     const core=lvPick(LD.p1.filter(t=>t.core)),others=lvShuffle(LD.p1.filter(t=>!t.core)).slice(0,2);
     for(const tp of [core,...others]){
       LV.topics.push(tp);await lvSay(tp.intro,'Part 1 · '+tp.t);
-      for(const q of tp.qs.slice(0,tp===core?4:3))await lvAsk('Part 1 · '+tp.t,q,{...P1,src:'p'+tp.n},{min:7,ph:['why','more']});
+      const qs=tp.qs.slice(0,tp===core?4:3);
+      for(let i=0;i<qs.length;i++)await lvAsk('Part 1 · '+tp.t,qs[i],{...P1,src:'p'+tp.n,last:i===qs.length-1},'p1');
     }
   }
   if(lvMode!=='p1'){
@@ -807,18 +831,19 @@ async function lvRun(){
     let timeUp=r.why==='time';
     if(!timeUp&&r.ms<60000){await lvSay(LD.ph.p2add,'Part 2');const r2=await lvListen({max:120000-r.ms,silence:5000,idle:8000,show:true});lvChk();
       turn.a=(turn.a+' '+r2.text).trim();turn.ms+=r2.ms;timeUp=r2.why==='time';}
-    await lvSay(LD.ph[timeUp?'stop':'thanks'],'Part 2');$('#lvCard').hidden=true;
+    await lvSay(LD.ph[timeUp?'stop':(!LV.strict&&turn.ms>=90000?'p2good':'thanks')],'Part 2');$('#lvCard').hidden=true;
   }
   if(lvMode==='full'||lvMode==='p23'){
     await lvSay(LD.ph.p3intro,'Part 3 · '+card.t.replace(/^Describe /,''));
-    for(const q of card.p3)await lvAsk('Part 3',q,{...P3,src:'c'+card.n},{min:20,ph:['why2','example']});
+    for(let i=0;i<card.p3.length;i++)await lvAsk('Part 3',card.p3[i],{...P3,src:'c'+card.n,last:i===card.p3.length-1},'p3');
   }
-  await lvSay(LD.ph.end,'Конец теста');
+  await lvSay(LD.ph[LV.strict?'end':'end_friendly'],'Конец теста');
 }
 $('#lvStart').addEventListener('click',async()=>{
   // unlock audio playback inside the click (needed on iPhone)
-  lvAudio.muted=true;lvAudio.src='audio/'+LD.ph.thanks[1];const u=lvAudio.play();if(u&&u.then)u.then(()=>{lvAudio.pause();lvAudio.muted=false;}).catch(()=>{lvAudio.muted=false;});else lvAudio.muted=false;
-  LV={abort:false,turns:[],topics:[],typed:$('#lvType').checked,start:now(),mode:lvMode};
+  lvAudio.muted=true;lvAudio.src='audio/sp/'+$('#lvVoice').value+'/'+LD.ph.thanks[1]+'.mp3';const u=lvAudio.play();if(u&&u.then)u.then(()=>{lvAudio.pause();lvAudio.muted=false;}).catch(()=>{lvAudio.muted=false;});else lvAudio.muted=false;
+  LV={abort:false,turns:[],topics:[],typed:$('#lvType').checked,start:now(),mode:lvMode,voice:$('#lvVoice').value,strict:$('#lvStrict').checked,fuP1:3,fuP3:2,lastReact:''};
+  $('#lvAv').textContent=LV.voice==='m'?'J':'E';
   $('#lvSetup').hidden=true;$('#lvResult').hidden=true;$('#lvRoom').hidden=false;$('#lvCard').hidden=true;$('#lvTypedBox').hidden=true;$('#lvQ').textContent='';
   const mic=await lvMic();if(!mic)LV.typed=true;lvAudio.muted=false;
   try{await lvRun();}catch(e){}
@@ -861,7 +886,7 @@ function lvResults(L,blob){
   const links=[...new Map(T.filter(t=>t.src).map(t=>[t.src,t])).values()].map(t=>{const isC=t.src[0]==='c';const name=isC?'Part 2–3: '+(L.card?L.card.t:''):'Part 1: '+t.part.replace(/^Part 1 · /,'');
     return `<li><a href="#${t.src}">${esc(name)}</a></li>`;}).join('');
   const turns=L.turns.map(t=>{const n=words(t.a).length;const fl=shortT(t)&&!/^Introduction/.test(t.part);
-    return `<div class="lvturn"><div class="mm">${esc(t.part)}</div><div class="qq">${esc(t.q)}</div>${t.fu?`<div class="mm">Уточнение экзаменатора: ${esc(t.fu)}</div>`:''}
+    return `<div class="lvturn"><div class="mm">${esc(t.part)}</div><div class="qq">${esc(t.q)}</div>${t.fu?`<div class="mm">Уточняющий вопрос: ${esc(t.fu)}</div>`:''}
     <div class="aa">${t.a?esc(t.a):'<i>(расшифровки нет)</i>'}</div><div class="mm">${lvClock(Math.round(t.ms/1000))} · ${n} слов${fl?'<span class="lvflag">коротко</span>':''}</div></div>`;}).join('');
   $('#lvResult').innerHTML=`<div class="card"><p class="eyebrow">Результат</p><h2>Экзамен завершён</h2>
    <div class="lvsum"><div><b>${L.typed?'—':lvClock(Math.round(speakMs/1000))}</b><span>ты говорил</span></div><div><b>${hasText?all.length:'—'}</b><span>слов</span></div>

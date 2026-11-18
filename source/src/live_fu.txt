@@ -1,0 +1,612 @@
+// Follow-up questions for Live Speaking. "+" after a yes / positive answer, "-" after a no / negative answer, "=" in any case.
+Q: Are you working or studying?
+= And what do you like most about it?
+Q: Why did you choose your subject?
+= Would you choose the same subject again?
+Q: Do you enjoy it?
++ What do you enjoy most about it?
+- What would make it more enjoyable for you?
+Q: Do you prefer studying in the morning or afternoon?
+= Has that always been the case?
+Q: What technology do you use when studying?
+= Do you think technology makes studying easier or harder?
+Q: Do you live in a house or an apartment?
+= And who do you live there with?
+Q: Which part of your home do you like the most?
+= Is there anything you would change about your home?
+Q: Do you plan to live there for a long time?
++ What makes you want to stay?
+- Where would you like to move to?
+Q: Would you prefer a house or an apartment in the future?
+= Why is that important to you?
+Q: Where is your hometown?
+= What is the best thing about living there?
+Q: Do you like it?
++ What do you like most about it?
+- What would you change about it?
+Q: What is it famous for?
+= Would you recommend it to visitors?
+Q: Has it changed much?
++ Do you think those changes are positive?
+- Why do you think it has stayed the same?
+Q: Do you like the area where you live?
++ What do you like most about it?
+- What would you change about it?
+Q: Do you know your neighbours?
++ How did you get to know them?
+- Would you like to know them better?
+Q: Is your area noisy?
++ Does the noise bother you?
+- Do you prefer quiet places in general?
+Q: Has the area changed recently?
++ What has changed the most?
+- Would you like it to change?
+Q: What city do you live in?
+= How long have you lived there?
+Q: Do you like living there?
++ What do you like most about it?
+- What would make it a better place to live?
+Q: Would you recommend your city to others?
++ What should visitors see first?
+- What kind of place would you recommend instead?
+Q: Do you have a favourite teacher?
++ What was special about this teacher?
+- What makes a good teacher, in your opinion?
+Q: How did your favourite teacher help you?
+= Do you still use what you learned from them?
+Q: Are you still in touch with your old teachers?
++ How do you keep in touch?
+- Would you like to meet them again?
+Q: Would you like to become a teacher?
++ What subject would you like to teach?
+- What would be the hardest part of the job for you?
+Q: When did you start using social media?
+= Do you use it differently now?
+Q: Do you think you spend too much time on it?
++ Have you ever tried to use it less?
+- How do you manage your time on it?
+Q: What do people usually do on social media?
+= And what do you use it for most?
+Q: Have you ever posted anything online?
++ What kind of things do you usually post?
+- Why do you prefer not to post?
+Q: Do you like music?
++ When do you usually listen to it?
+- What do you prefer to do instead?
+Q: What kind of music do you enjoy?
+= Has your taste in music changed over the years?
+Q: Do you prefer happy or sad music?
+= Does it depend on your mood?
+Q: Does happy music make you excited?
++ What do you listen to when you need energy?
+- What kind of music relaxes you?
+Q: Do you like singing?
++ Where do you usually sing?
+- Do you enjoy listening to other people sing?
+Q: Did you sing as a child?
++ Did you sing at school?
+- Did anyone in your family sing?
+Q: Do you sing in the car?
++ What songs do you usually sing?
+- Do you listen to music in the car, then?
+Q: Do you use headphones often?
++ What do you usually listen to?
+- Why do you prefer not to use them?
+Q: Are headphones useful?
+= When are they most useful for you?
+Q: When should people avoid using headphones?
+= Have you ever seen someone use them in a dangerous situation?
+Q: Do you like keeping things tidy?
++ Which room do you keep the tidiest?
+- Does it cause problems with the people you live with?
+Q: Were you tidy as a child?
++ Who taught you to be tidy?
+- Did your parents ask you to tidy up?
+Q: Are you a tidy person now?
++ How do you stay organised?
+- Would you like to be tidier?
+Q: What kinds of websites do you visit?
+= Which one do you use most often?
+Q: What is your favourite website?
+= How did you first find it?
+Q: Have websites changed in recent years?
+= Do you think they are better now?
+Q: Would you like to have your own website?
++ What would it be about?
+- Why not?
+Q: Do you use a computer regularly?
++ What do you mostly use it for?
+- What do you use instead?
+Q: Do you prefer computers or tablets?
+= Do you think you will always prefer it?
+Q: When did you first start using computers?
+= Who taught you to use one?
+Q: Do you wear a watch?
++ When did you start wearing one?
+- How do you usually check the time?
+Q: Have you ever received a watch as a gift?
++ Who gave it to you?
+- Would you like to receive one?
+Q: Why do people wear expensive watches?
+= Would you ever buy an expensive watch?
+Q: Is wearing a watch still important?
+= Do you think watches will disappear in the future?
+Q: Do you enjoy shopping?
++ What do you enjoy buying most?
+- How do you avoid going shopping, then?
+Q: How often do you go shopping?
+= Do you usually go alone or with others?
+Q: Do you prefer online or in-store shopping?
+= What are the disadvantages of that way of shopping?
+Q: Do you compare prices?
++ How do you usually compare them?
+- What matters more to you than the price?
+Q: Do you visit street markets?
++ What do you usually buy there?
+- Why don't you go to them?
+Q: What do people normally buy there?
+= Are markets cheaper than shops?
+Q: Do you prefer street markets or shopping malls?
+= Has that changed since you were younger?
+Q: What kind of clothes do you normally wear?
+= Do you dress differently at the weekend?
+Q: Do you prefer casual or smart clothes?
+= When do you need to dress smartly?
+Q: Do you like wearing T-shirts?
++ Do you have a favourite one?
+- What do you prefer to wear?
+Q: Do you spend a long time choosing clothes?
++ Why does it take you so long?
+- How do you choose so quickly?
+Q: Did you enjoy travelling by car as a child?
++ Where did you usually go?
+- Did you prefer another type of transport?
+Q: What type of cars do you like?
+= Would you like to own one?
+Q: Do you prefer being a driver or a passenger?
+= Do you think you will always feel that way?
+Q: What do you do in a traffic jam?
+= Are traffic jams a big problem where you live?
+Q: Did you enjoy going to parks as a child?
++ What did you like doing there?
+- What did you prefer to do instead?
+Q: Do you still visit parks?
++ What do you usually do there?
+- Why don't you go any more?
+Q: Should cities have more parks?
++ Where should they build them?
+- What should cities spend money on instead?
+Q: Do you like science?
++ When did you become interested in it?
+- Was it difficult for you at school?
+Q: Which area of science interests you most?
+= How do you learn more about it?
+Q: Do you watch science programmes?
++ Which one do you remember best?
+- What kind of programmes do you prefer?
+Q: Have you learned about space before?
++ Where did you learn about it?
+- Would you like to learn about it?
+Q: Would you like to learn more about it?
++ What would you most like to know?
+- What would you rather learn about?
+Q: Do you enjoy science-fiction films?
++ Which one is your favourite?
+- What kind of films do you prefer?
+Q: Would you like to travel into space?
++ What would you most like to see?
+- What would worry you most about it?
+Q: Do you like history?
++ Which period interests you most?
+- Was it a boring subject at school?
+Q: Did you like history at school?
++ Do you remember anything you studied?
+- How could it have been more interesting?
+Q: Have you visited a historical museum?
++ What did you see there?
+- Would you like to visit one?
+Q: When did you last read about history?
+= What was it about?
+Q: Are there old buildings in your city?
++ Which one do you like the most?
+- Would you like your city to have some?
+Q: Should old buildings be protected?
++ Who should pay for that?
+- What should happen to them instead?
+Q: Would you prefer an old or a modern home?
+= What would be the disadvantages of that kind of home?
+Q: Is there an old building you'd like to visit?
++ What do you know about it?
+- Do you prefer modern architecture, then?
+Q: Do you often feel bored?
++ When do you usually feel bored?
+- How do you keep yourself busy?
+Q: What kinds of things bore you?
+= Did the same things bore you as a child?
+Q: What do you do when you're bored?
+= Do you think being bored is ever useful?
+Q: Did you find school boring?
++ Which lessons were the most boring?
+- What did you enjoy most at school?
+Q: Do you often look in the mirror?
++ When do you look in it most?
+- Why don't you look in it often?
+Q: Have you ever bought a mirror?
++ Where did you put it?
+- Would you like to buy one?
+Q: Do you carry a mirror?
++ When do you use it?
+- Do you use your phone camera instead?
+Q: Would you decorate a room with mirrors?
++ Which room would you choose?
+- How would you decorate a room instead?
+Q: Are you good at telling jokes?
++ Do you remember a joke that worked really well?
+- Do you know someone who is good at it?
+Q: Do your friends like telling jokes?
++ Which friend is the funniest?
+- What do you usually talk about, then?
+Q: Do you like watching comedy?
++ Do you have a favourite comedy show?
+- What do you prefer to watch?
+Q: Are comedy shows popular in your country?
+= Why do you think that is?
+Q: What was your childhood dream?
+= What made you dream about that?
+Q: Has your dream changed?
++ What changed it?
+- Are you still working towards it?
+Q: What is your dream job?
+= What do you need to do to get it?
+Q: Are you ambitious?
++ What is your biggest ambition?
+- Do you think ambition is important?
+Q: What do you do immediately after waking up?
+= Have you always done that?
+Q: Is breakfast important to you?
++ What do you usually have?
+- Do you often skip it?
+Q: Do you like getting up early?
++ What do you do with the extra time?
+- What time would you like to get up?
+Q: Has your morning routine changed?
++ What caused the change?
+- Would you like to change it?
+Q: Do you prefer mornings or evenings?
+= What is the best thing about that time of day?
+Q: What do you usually do in the evening?
+= Is that the same at the weekend?
+Q: Are your evenings different from when you were a child?
++ What has changed the most?
+- What has stayed the same?
+Q: Are your weekend evenings different?
++ What do you usually do on Saturday evenings?
+- Would you like them to be different?
+Q: Do you like watching sports programmes?
++ Which sport do you watch most?
+- What do you prefer to watch?
+Q: Do you prefer watching live sport?
++ What was the best match you have seen?
+- Why do you prefer watching it on TV?
+Q: Who do you normally watch sport with?
+= Why do you like watching with them?
+Q: Have you watched a match in a stadium?
++ What was the atmosphere like?
+- Would you like to?
+Q: What types of films do you like?
+= Is there a film you have watched many times?
+Q: How often do you watch films?
+= When do you usually watch them?
+Q: Do you prefer watching films at home or at the cinema?
+= What are the disadvantages of watching them that way?
+Q: Do you go to the cinema with friends?
++ How do you choose which film to see?
+- Who do you usually go with?
+Q: Do you collect anything?
++ How did you start collecting it?
+- Did you collect anything as a child?
+Q: Have you kept anything from childhood?
++ Why is it special to you?
+- Do you regret not keeping anything?
+Q: Why do people collect things?
+= Would you like to start a collection?
+Q: What can young people learn from older generations?
+= Do you think older people can also learn from the young?
+Q: Are old people respected enough in your country?
+= Has this changed in recent years?
+Q: Why do some young people ignore advice from the elderly?
+= How could older people give advice more effectively?
+Q: Is it better to learn from a teacher or from a family member?
+= Does it depend on what you are learning?
+Q: What skills should every child learn before leaving school?
+= Who should teach those skills, schools or parents?
+Q: Is it harder to learn new skills as an adult?
+= What can adults do to learn more effectively?
+Q: Does money make people happy?
+= What else is important for happiness?
+Q: Are people today happier than in the past?
+= Do you think people will be happier in the future?
+Q: Can people learn to be happier?
+= How could schools help with this?
+Q: Are handmade products better than factory-made ones?
+= Why are handmade products often more expensive?
+Q: Should schools teach practical skills such as woodwork or sewing?
+= Would students enjoy these lessons?
+Q: Will traditional crafts disappear in the future?
+= What could be done to protect them?
+Q: What qualities make a person popular?
+= Are these qualities the same in every culture?
+Q: Is being popular important for teenagers?
+= How does social media affect this?
+Q: Do popular people always make good leaders?
+= What makes someone a good leader?
+Q: How can parents help children to be organised?
+= At what age should children start?
+Q: Does technology make people more or less organised?
+= Which apps or tools are most helpful?
+Q: Is being organised more important at work or at home?
+= Do you think it's a skill people are born with?
+Q: Why do many people find it hard to keep fit?
+= What could employers do to help?
+Q: Should governments do more to promote healthy lifestyles?
+= What would be the most effective measure?
+Q: Are gyms necessary for staying fit?
+= Why do so many people pay for a gym and rarely go?
+Q: Why should children study history at school?
+= Should they learn more local or world history?
+Q: Are museums the best way to learn about the past?
+= How could museums attract more young people?
+Q: Can films teach history accurately?
+= Is it a problem if they change some facts?
+Q: Why do people take so many photos nowadays?
+= Do people look at their old photos?
+Q: Are printed photos better than digital ones?
+= Will people still print photos in the future?
+Q: Do people spend too much time photographing instead of enjoying the moment?
+= Should some places ban photography?
+Q: Should top athletes be paid such high salaries?
+= Who should earn more, athletes or doctors?
+Q: What makes a successful athlete, talent or hard work?
+= Can the same be said about other careers?
+Q: Do international sports events bring countries together?
+= Are they worth the huge cost?
+Q: Is it easy to keep childhood friendships as an adult?
+= What helps friendships last?
+Q: How do children make friends differently from adults?
+= Why is it harder to make friends as an adult?
+Q: Has social media changed friendship?
+= Can you have a real friendship only online?
+Q: Is failure important for success?
+= How should parents react when their children fail?
+Q: Do successful people have a duty to help others?
+= How could they help?
+Q: How do people in your country define success?
+= Has this changed compared to your parents' generation?
+Q: Is it better to work for yourself or for a company?
+= What kind of person is suited to running a business?
+Q: What difficulties do small businesses face?
+= How could governments support them?
+Q: Should schools teach children about business?
+= At what age should they start?
+Q: Why do some people learn languages faster than others?
+= Is motivation more important than talent?
+Q: Will translation apps make language learning unnecessary?
+= What can a person do that an app can't?
+Q: What is the best age to start a foreign language?
+= Is it ever too late to learn one?
+Q: Why is gardening popular among older people?
+= Should more young people try it?
+Q: Should cities have more community gardens?
+= Who should look after them?
+Q: Is it important for children to learn how food is grown?
+= How could schools teach this?
+Q: Why is medicine a respected profession?
+= Are other professions undervalued in comparison?
+Q: Should doctors be paid more than other professionals?
+= What about nurses?
+Q: Will AI replace doctors in the future?
+= Would you trust a diagnosis from a computer?
+Q: Who should pay for public buildings such as libraries?
+= Should people pay to use them?
+Q: Are libraries still needed in the digital age?
+= How could libraries change to stay useful?
+Q: How important is the design of public buildings?
+= Should cities spend more money on design?
+Q: Why do people in cities need access to nature?
+= What can people do if there is no park nearby?
+Q: Are young people losing contact with nature?
+= How could schools change this?
+Q: Should governments protect more land as national parks?
+= What if this land is needed for housing?
+Q: Why do some people enjoy crowds while others avoid them?
+= Which group do you belong to?
+Q: How can cities manage large crowds safely?
+= Who is responsible when something goes wrong?
+Q: Are crowded cities good places to live?
+= What would make them better?
+Q: Is noise a serious problem in cities?
+= What effect can noise have on health?
+Q: Should there be laws against noise at night?
+= How could such laws be enforced?
+Q: Why do some people need silence to work?
+= Can people learn to work with noise?
+Q: How could public transport in your city be improved?
+= Should public transport be free?
+Q: Will remote work reduce commuting in the future?
+= What are the downsides of working from home?
+Q: Why do people still prefer cars to public transport?
+= What would persuade them to change?
+Q: Is tourism always good for local people?
+= How could the negative effects be reduced?
+Q: Do people prefer holidays abroad or in their own country?
+= Has this changed in recent years?
+Q: How has travel changed in recent years?
+= How do you think it will change in the future?
+Q: Why do people get bored more easily nowadays?
+= Is technology to blame?
+Q: Is boredom good for creativity?
+= Should children be allowed to be bored sometimes?
+Q: How can teachers make lessons less boring?
+= Is it the teacher's responsibility or the student's?
+Q: Do people prefer houses or apartments in your country?
+= Is that different in the countryside?
+Q: How will homes change in the future?
+= Will homes become smaller?
+Q: Is it better to rent or to buy a home?
+= Why is buying a home so difficult for young people?
+Q: Why do cities build skyscrapers?
+= Are there any disadvantages to them?
+Q: Would you like to live in a high-rise building?
+= Which floor would you choose?
+Q: Should old buildings be replaced by modern ones?
+= Who should make these decisions?
+Q: Why do people have such different tastes in films?
+= Do our tastes change as we get older?
+Q: Are cinemas still popular in your country?
+= What could cinemas do to attract more people?
+Q: Do film reviews influence what people watch?
+= Do you trust online ratings?
+Q: Why are celebrations important for families?
+= Are they as important for young people?
+Q: Do people spend too much money on parties?
+= Why do they feel they have to?
+Q: How have celebrations changed in your country?
+= Do you think these changes are positive?
+Q: How do young people usually spend evenings in your country?
+= Is this different from your parents' generation?
+Q: Is it better to go out or to stay at home with friends?
+= Does it depend on the age of the people?
+Q: Do adults have enough time for friends?
+= How could they make more time?
+Q: What makes a good speaker?
+= Can anyone learn to speak well in public?
+Q: Why do people find it hard to concentrate for long?
+= What helps you concentrate?
+Q: Is it rude to use a phone while someone is talking?
+= Are there situations when it's acceptable?
+Q: Are people less willing to help strangers than in the past?
+= Why might that be?
+Q: Should children be taught to help others?
+= Who should teach them, parents or schools?
+Q: Why do some people find it hard to ask for help?
+= Is it different for men and women?
+Q: What is good customer service?
+= Can you give me an example?
+Q: Is service better in small shops or large stores?
+= Why might that be?
+Q: Will machines replace shop assistants?
+= Would that be a good thing?
+Q: Should children learn to save money?
+= At what age should they start?
+Q: Why do some people find it hard to save?
+= What advice would you give them?
+Q: Is it better to save or to spend while you are young?
+= What should young people spend money on?
+Q: Why are some people unwilling to change their minds?
+= Is it easier to change your mind when you're young?
+Q: Does social media make people more or less open-minded?
+= What could social media companies do about it?
+Q: Is it a sign of weakness to change your opinion?
+= Can you think of a politician who changed their opinion?
+Q: Is it better to plan everything or to be spontaneous?
+= Which are you, a planner or a spontaneous person?
+Q: How do people usually react to unexpected changes?
+= How can people become more flexible?
+Q: Are young people good at planning?
+= Who taught you to plan?
+Q: Are there benefits to getting up early?
+= Are there any disadvantages?
+Q: Why do teenagers find it hard to wake up early?
+= What could parents do to help?
+Q: Should schools start later in the morning?
+= What problems might that cause?
+Q: Why do people enjoy watching sport live?
+= Are tickets too expensive nowadays?
+Q: Is it better to play sport or to watch it?
+= Should schools make sport compulsory?
+Q: Do sports stars have too much influence on young people?
+= Should they be good role models?
+Q: What makes a good team member?
+= Is it easy to work with people you don't like?
+Q: Is group work more effective than working alone?
+= Should students be assessed on group work?
+Q: What should a team leader do when members disagree?
+= Is disagreement ever useful?
+Q: Why do people expect instant replies today?
+= Is that a problem for people at work?
+Q: Is email becoming old-fashioned?
+= What will replace it?
+Q: Is it better to discuss important matters face to face?
+= Why do some people avoid it?
+Q: Should young people make important decisions alone?
+= How much should parents be involved?
+Q: Do people make better decisions quickly or slowly?
+= Can you give me an example?
+Q: What decisions are hardest for young adults?
+= How could schools prepare them?
+Q: Are people too dependent on technology?
+= What would happen if the internet stopped for a week?
+Q: Why do older people often struggle with new devices?
+= Who should help them?
+Q: Should companies make products easier to repair?
+= Should there be a law about it?
+Q: Do people read less than in the past?
+= Does it matter if people read online rather than in books?
+Q: Are e-books better than paper books?
+= Will paper books disappear?
+Q: How can parents encourage children to read?
+= Should schools allow children to choose what they read?
+Q: Why are people interested in the lives of celebrities?
+= Is this interest harmful in any way?
+Q: Do famous people have a right to privacy?
+= What about politicians?
+Q: Are journalists always honest in interviews?
+= How can people tell if information is reliable?
+Q: How do people waste time nowadays?
+= Is it always bad to waste time?
+Q: Is it important to manage time well?
+= How did you learn to manage your time?
+Q: Do smartphones save time or waste it?
+= Should people take breaks from their phones?
+Q: Are laws or education more effective in protecting the environment?
+= Can you give me an example?
+Q: Should individuals or companies take more responsibility?
+= What could ordinary people do?
+Q: Why do some people ignore environmental rules?
+= How could they be persuaded to follow them?
+Q: Why do children's stories often have animal characters?
+= Do these stories teach children anything useful?
+Q: Should children have pets?
+= What can children learn from looking after a pet?
+Q: Is it right to keep animals in zoos?
+= Could zoos be improved in any way?
+Q: Why is food so important in celebrations?
+= Which dish is the most important in your culture?
+Q: Are traditional dishes disappearing?
+= How could they be preserved?
+Q: Do young people cook less than their parents did?
+= Should schools teach cooking?
+Q: Why do companies use celebrities in advertising?
+= Does it really work?
+Q: Should advertising to children be restricted?
+= What kind of products should not be advertised to them?
+Q: Do advertisements influence what you buy?
+= Can you think of an example?
+Q: Are ambitious people happier?
+= Can ambition be harmful?
+Q: Do parents put too much pressure on children to succeed?
+= How can parents support children without pressure?
+Q: How do ambitions change as people get older?
+= Is it ever too late to follow an ambition?
+Q: Why are short videos so popular?
+= Do they affect people's attention span?
+Q: Can people learn real skills from online videos?
+= Which skills are hard to learn that way?
+Q: Should children's screen time be limited?
+= Who should decide the limit?
+Q: Do people care more about local or international news?
+= Why might that be?
+Q: Can we trust news on social media?
+= How can people check if news is true?
+Q: Will newspapers disappear?
+= Would that be a loss?

@@ -539,9 +539,9 @@ def main():
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n<meta name=\"color-scheme\" content=\"light\">\n"
         + head + "</head>\n<body>\n" + body.replace("{{AUDIONOTE}}", "") + "</body>\n</html>\n")
     open(os.path.join(site, ".nojekyll"), "w").close()
-    os.makedirs(os.path.join(site, "audio", "sp"), exist_ok=True)
-    for f in glob.glob(os.path.join(ROOT, "audio", "*.mp3")) + glob.glob(os.path.join(ROOT, "audio", "sp", "*.mp3")):
+    for f in glob.glob(os.path.join(ROOT, "audio", "*.mp3")) + glob.glob(os.path.join(ROOT, "audio", "sp", "*", "*.mp3")):
         dst = os.path.join(site, "audio", os.path.relpath(f, os.path.join(ROOT, "audio")))
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
         if not os.path.exists(dst) or os.path.getsize(dst) != os.path.getsize(f):
             shutil.copyfile(f, dst)
     print(f"reading passages: {nr}, reading questions: {nq}, listening: {nl}")
