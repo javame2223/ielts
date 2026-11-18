@@ -182,7 +182,7 @@ def build_grammar(errors):
                 prac.append(unit(f"{k}-p{pi}", f"Практика {pi}. {b['title']}", "", [g]))
         if not tparts:
             errors.append(f"{name}: no topic test")
-        plan = "".join(f"<li>{inline(x.lstrip('0123456789. '))}</li>" for x in sec.get("PLAN", []))
+        plan = "".join(f"<li>{inline(re.sub(r'Практика 1–\d+', f'Практика 1–{pi}', x.lstrip('0123456789. ')))}</li>" for x in sec.get("PLAN", []))
         theory = theory_html(sec.get("THEORY", []))
         use = theory_html(sec.get("USE", [])) if sec.get("USE") else ""
         testu = renumber(unit(f"{k}-t", f"Тест по теме: {title}", f"{nt} вопросов. Тема освоена, если результат 85% и выше.", tparts, True))

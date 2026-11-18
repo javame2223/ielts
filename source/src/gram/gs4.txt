@@ -1,0 +1,106 @@
+# S4 | Итоговый тест этапа 4 | 4
+@INTRO 100 вопросов по темам 21–27: смешанные условные, инверсия, cleft-предложения, модальные с have, причастные обороты, subjunctive, продвинутые структуры предложения. Это самый сложный тест курса: здесь проверяется уровень Band 8–9. Половина вопросов — на построение конструкций (перефразирование). Около 70 минут, без подсказок. Цель — 85+. Результат 85+ во всех четырёх итоговых тестах означает, что грамматика курса освоена полностью.
+@TEST MCQ Часть A. Выбери правильный вариант (35)
+If I had taken that job, I ____ in London now. | A would live | B would be living | C would have lived | B
+If he weren't so impatient, he ____ the instructions properly yesterday. | A would read | B would have read | C had read | B
+____ I known about the traffic, I would have left earlier. | A If | B Had | C Should | B
+____ it not for the internet, remote work would be impossible. | A Had | B Were | C Should | B
+But ____ your help, I would never have finished. | A without | B for | C with | B
+Never ____ such a crowded city. | A I have seen | B have I seen | C I had seen | B
+Not only ____ the exam, but she also got the highest mark. | A she passed | B did she pass | C passed she | B
+No sooner had we sat down ____ the fire alarm went off. | A when | B than | C that | B
+Only after the investigation ____ the cause of the accident. | A they discovered | B did they discover | C they did discover | B
+Little ____ that the company was about to go bankrupt. | A we knew | B did we know | C we did know | B
+So popular ____ that extra performances were added. | A the show was | B was the show | C did the show | B
+It was in 1945 ____ the war ended. | A when | B that | C which | B
+____ I find most difficult is listening. | A That | B What | C Which | B
+The reason why he resigned ____ he disagreed with the board. | A is because | B was that | C was because of | B
+It wasn't until she moved abroad ____ she appreciated her family. | A that | B when | C than | A
+The lights are off. They ____ gone to bed. | A must have | B should have | C can have | A
+He ____ the email — he wasn't at work that day. | A can't have sent | B mustn't have sent | C needn't have sent | A
+I ____ so much food — nobody was hungry. | A didn't need to cook | B needn't have cooked | C mustn't have cooked | B
+The accident ____ if the driver had been more careful. | A could have avoided | B could have been avoided | C could avoid | B
+With interest rates rising, house prices are ____ fall. | A bound to | B supposed to | C about to be | A
+____ in 1850, the building is now a hotel. | A Building | B Built | C Having built | B
+____ the report, she sent it to her manager. | A Having finished | B Finished | C Being finished | A
+Which sentence is correct? | A Walking into the room, the lights went out. | B Walking into the room, I noticed the lights go out. | B
+Sales grew steadily, ____ a record high in December. | A reached | B reaching | C to have reached | B
+The goods ____ in this factory are sold worldwide. | A producing | B produced | C have produced | B
+The doctor recommended that he ____ salt. | A avoids | B avoid | C avoided | B
+It is essential that every child ____ access to clean water. | A has | B have | C had | B
+I wish I ____ harder at school. | A studied | B had studied | C would study | B
+It's high time the government ____ action. | A takes | B took | C take | B
+She talks as if she ____ everything. | A knows | B knew | C had known | B
+____ the high cost, the project was approved. | A Although | B Despite | C However | B
+____ the north of the country is mountainous, the south is flat. | A Whereas | B Despite | C However | A
+The city introduced a congestion charge, ____ reducing traffic by 30%. | A whereby | B thereby | C therefore | B
+____ hard she tried, she couldn't open the jar. | A Although | B However | C Despite | B
+The rapid ____ of tourism has transformed the island. | A grow | B growth | C growing up | B
+@TEST TR Часть B. Перепиши, сохранив смысл (35)
+I didn't learn to swim as a child, so I can't swim now. → If I had learned to swim as a child, I ____ now. | could swim/would be able to swim
+She isn't patient, so she didn't wait for us. → If she were more patient, she ____ for us. | would have waited
+If you need anything, please let me know. → Should ____ anything, please let me know. | you need
+If I were in your position, I would refuse. → Were ____ in your position, I would refuse. | I
+If it hadn't been for the map, we would have got lost. → Had it not ____ the map, we would have got lost. | been for
+I have never been so frightened. → Never ____ so frightened. | have I been
+He not only lost his job but also his house. → Not only ____ his job, but he also lost his house. | did he lose
+As soon as I closed my eyes, the phone rang. → No sooner ____ my eyes than the phone rang. | had I closed
+I realised my mistake only later. → Only later ____ my mistake. | did I realise/did I realize
+You must not open this door under any circumstances. → Under no circumstances ____ this door. | must you open/should you open
+The noise was so loud that we couldn't sleep. → So loud ____ that we couldn't sleep. | was the noise
+My grandmother taught me to cook. (выдели my grandmother) → It was ____ taught me to cook. | my grandmother who/my grandmother that
+We need more investment. → What ____ more investment. | we need is
+The bridge opened only in 2010. → It was not until 2010 ____. | that the bridge opened/that the bridge was opened
+I'm sure she forgot. → She must ____. | have forgotten
+It's impossible that he saw us. → He can't ____ us. | have seen
+It was wrong of you not to tell me. → You should ____ me. | have told
+I bought a lot of bread, but it wasn't necessary. → I needn't ____ so much bread. | have bought
+It is possible that the fire was caused by a candle. → The fire might ____ by a candle. | have been caused
+After she had read the letter, she cried. → Having ____, she cried. | read the letter
+Because I didn't know the way, I used a map. → Not ____ the way, I used a map. | knowing
+The money which was raised by the charity helped many families. → The money ____ by the charity helped many families. | raised
+Prices rose and reached a peak in 2008. → Prices rose, ____ a peak in 2008. | reaching
+"You should take a break," the doctor said to her. → The doctor suggested that she ____ a break. | take/should take
+I regret not travelling more when I was young. → I wish I ____ more when I was young. | had travelled/had traveled
+It's a pity I can't drive. → I wish I ____. | could drive
+The government should act — it's overdue. → It's high time the government ____. | acted/took action
+I'd prefer you not to tell anyone. → I'd rather you ____ anyone. | didn't tell/did not tell
+Although it was raining, we went out. → Despite ____, we went out. | the rain/the fact that it was raining/it raining
+Although he is rich, he is unhappy. (adj + as) → Rich ____, he is unhappy. | as he is/though he is
+Although I admire her a lot, I disagree with her. → Much ____, I disagree with her. | as I admire her
+The government cut taxes, and so it boosted spending. → The government cut taxes, thereby ____ spending. | boosting
+The population grew rapidly. → There was a rapid ____ the population. | growth in/increase in/rise in
+They introduced a new law. This reduced crime. → The ____ of a new law reduced crime. | introduction
+Some cities have banned diesel cars, and others will soon ban them. → …, and others will soon ____. | do so
+@TEST ERR Часть C. Найди ошибку (20)
+(A) If I (B) had saved more, (C) I would have bought (D) a bigger house now. | C | # прошлое условие → сейчас: I could buy / I would be able to buy a bigger house now
+(A) Hadn't (B) she (C) warned us, (D) we would have been in trouble. | A | # Had she not warned us
+(A) Never (B) I have (C) seen (D) such talent. | B | # have I
+(A) Hardly (B) had I (C) arrived (D) than it started to rain. | D | # when it started
+(A) Only (B) by (C) working together (D) we can succeed. | D | # can we succeed
+(A) It is (B) the parents (C) which (D) must set an example. | C | # who/that
+(A) What (B) worries me (C) are (D) the cost. | C | # is
+(A) The reason (B) is (C) because (D) the price is too high. | C | # is that
+(A) She (B) must (C) have (D) went home. | D | # gone
+(A) He (B) mustn't (C) have heard (D) the news — he looked so calm. | B | # can't have heard
+(A) The meeting (B) should (C) have (D) cancelled. | D | # been cancelled
+(A) Having (B) finished (C) the work, (D) the office was closed. | D | # висящее причастие: …, we closed the office
+(A) Exhausting (B) by the long journey, (C) she (D) fell asleep. | A | # Exhausted
+(A) The committee (B) insisted (C) that he (D) apologises. | D | # apologise
+(A) I wish (B) I (C) didn't say (D) that yesterday. | C | # hadn't said
+(A) It's (B) high time (C) you (D) start looking for a job. | D | # started
+(A) Despite (B) the weather was bad, (C) the flight (D) took off. | B | # Despite the bad weather / Although the weather was bad
+(A) Although (B) the job is hard, (C) but (D) it is rewarding. | C | # без but
+(A) The plan aims (B) to cut costs, (C) improve services and (D) creating jobs. | D | # create jobs
+(A) However (B) the risks, (C) the company (D) went ahead. | A | # Despite the risks
+@TEST CI Часть D. Правильно (C) или с ошибкой (I)? (10)
+Were the government to raise taxes, people would protest. | C
+Not until the 1960s did most homes have a television. | C
+It was my father who taught me to swim. | C
+She can't have been at home — I saw her in town. | C
+Having been told the news, she called her mother. | C
+It is vital that he is informed immediately. (формальный subjunctive) | I | # he be informed
+If only I knew the answer! | C
+Whereas sales rose in Europe, they fell in Asia. | C
+Little I knew about the danger. | I | # Little did I know
+The city, having been rebuilt after the war, is now a popular destination. | C

@@ -1,0 +1,129 @@
+# 27 | Advanced Sentence Structures | 4 | Номинализация, сложные именные группы, параллелизм, уступка (despite / whereas / much as / however + adj), приложение, эмфатическое do, эллипсис, whereby / thereby
+@GOAL Собрать всё вместе: писать плотные академические предложения уровня Band 8–9 (*The rapid growth of online shopping has led to the closure of many high-street stores*), без ошибок в связках уступки и противопоставления и с параллельными конструкциями.
+@PLAN
+1. Номинализация: из глагола — существительное (grow → growth).
+2. Сложные именные группы: определения до и после существительного.
+3. Связки уступки и контраста: although, despite, in spite of, whereas, while, however, nevertheless, much as, adj + as/though.
+4. Причина и результат внутри предложения: due to, owing to, as a result of, thereby, whereby, which means that.
+5. Параллелизм.
+6. Приложение (apposition) и вводные.
+7. Эмфатическое do, fronting, эллипсис и замена (do so, one, so / not).
+8. Как сочетать всё в одном абзаце.
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Номинализация
+Академический английский «упаковывает» действия в существительные:
+| Глагольный стиль | Номинализация |
+| Prices **rose rapidly**, and this **worried** consumers. | The **rapid rise** in prices **caused concern** among consumers. |
+| If we **invest** more in schools, students **will achieve** more. | Greater **investment** in schools **will lead to** higher student **achievement**. |
+| People **are using** cars more, so the air **is getting** dirtier. | The **increased use** of cars **has resulted in** a **deterioration** in air quality. |
+Пары: *grow → growth, decide → decision, fail → failure, develop → development, reduce → reduction, introduce → introduction, consume → consumption, able → ability, available → availability, long → length, high → height*.
+### 2. Именная группа
+**определитель + наречие + прилагательное + существительное-определитель + ГЛАВНОЕ СУЩ. + предлог/причастие/придаточное**
+> *the **rapidly growing** **online** **shopping** market **in Asia***
+> *a **significant** **decrease** **in** the **number** **of** people **living alone***
+✗ the increase of the population's growing → ✓ the increase in population growth / population growth
+### 3. Уступка и контраст — что после связки?
+| + предложение (подлежащее + глагол) | + существительное / -ing | Отдельное предложение / наречие |
+| **although, though, even though, while, whereas** | **despite, in spite of** (+ the fact that + предложение) | **However,** … / **Nevertheless,** … / **Even so,** … / …, **though**. |
+> ***Although** the city is expensive, many people move there.*
+> ***Despite** the high cost / **Despite being** expensive, the city attracts many people.*
+> *The city is expensive. **However**, many people move there.*
+> ***Whereas** sales rose in Asia, they fell in Europe.* (сравнение двух фактов)
+> ***Much as** I admire his work, I disagree with him.* (= хотя очень)
+> ***Expensive as / though** it is, the city attracts many people.* (= хотя дорогой — эмфатично)
+> ***However hard** they tried, they couldn't win.* (как бы ни)
+✗ Despite it is expensive, … → ✓ Although it is expensive, … / Despite being expensive, …
+✗ Although the price was high, but people bought it. → ✓ Although the price was high, people bought it.
+✗ However the price was high, people bought it. → ✓ However, the price was high… / Although the price was high, …
+### 4. Причина и результат
+- **because of / due to / owing to / as a result of** + существительное: *Flights were cancelled **due to** bad weather.*
+- **thereby + -ing** (тем самым): *The city banned cars, **thereby reducing** pollution.*
+- **whereby** (посредством которого — формальное *by which*): *a system **whereby** students can borrow laptops*.
+- **…, which means that** / **…, resulting in** / **…, leading to**.
+### 5. Параллелизм
+Однородные части — одной грамматической формы:
+✗ The government should build schools, hospitals and improving roads. → ✓ …build schools and hospitals and improve roads.
+✗ She likes swimming, to read and cooking. → ✓ She likes swimming, reading and cooking.
+✗ The plan is cheap, efficient and it saves time. → ✓ The plan is cheap, efficient and time-saving.
+С парными союзами: ***not only** X **but also** Y, **both** X **and** Y, **either** X **or** Y, **neither** X **nor** Y* — X и Y одного типа: ✗ *not only in Asia but also Europe* → ✓ *not only in Asia but also in Europe*.
+### 6. Приложение и вводные
+- *Tashkent, **the capital of Uzbekistan**, has a population of over three million.*
+- *The proposal, **in my view**, is unrealistic.*
+- *Coal — **once the main source of energy** — now accounts for only 10%.*
+### 7. Эмфаза и экономия
+- **Эмфатическое do**: *I **do** understand your concerns. Technology **does** have some drawbacks.* (усиливает уступку)
+- **Fronting** (вынос вперёд): ***Particularly worrying is** the rise in youth unemployment. **More important than** money **is** health.*
+- **Эллипсис / замена**: *Some countries have introduced the tax, and others will **do so** soon. "Will prices rise?" — "I think **so** / I hope **not**." The old system was slower than the new **one**.*
+@USE
+### Task 1 и Task 2 — один абзац «до» и «после»
+До (Band 6): *Many people use cars. So there is a lot of pollution. The government should do something. It should build more bus lanes and it should make tickets cheaper.*
+После (Band 8–9): ***The widespread use of private cars** has led to **a serious deterioration** in air quality. **Although** some measures have been introduced, **it is essential that** governments **go further**, **not only** expanding bus lanes **but also** making public transport more affordable, **thereby reducing** the number of vehicles on the roads.*
+### Как тренировать
+Возьми свой старый абзац и примени к нему три приёма: одну номинализацию, одну уступку (although / despite / whereas) и одно предложение с *thereby / which means that*. Не больше: перегруженный текст читается хуже.
+@EX MCQ Связки уступки и контраста
+____ the heavy rain, the match continued. | A Although | B Despite | C However | B
+____ it was raining heavily, the match continued. | A Although | B Despite | C In spite of | A
+The plan is expensive. ____, it is worth it. | A Although | B Despite | C Nevertheless | C
+____ sales rose in Asia, they fell in Europe. | A Whereas | B Despite | C However | A
+____ being the youngest, she won the competition. | A Although | B Despite | C Whereas | B
+Tired ____ he was, he kept working. | A as | B so | C despite | A
+____ hard I try, I can't remember his name. | A However | B Although | C Despite | A
+____ I respect his opinion, I can't agree with him. | A Much as | B Despite | C However | A
+In spite ____ the fact that he was ill, he went to work. | A that | B of | C to | B
+She is very talented; she is not very hard-working, ____. | A though | B although | C despite | A
+@EX TR Номинализация: перепиши, используя существительное
+The population grew rapidly. → There was a rapid ____ the population. | growth in/increase in
+The government decided to raise taxes. This surprised everyone. → The government's ____ taxes surprised everyone. | decision to raise
+Prices fell sharply in 2020. → There was a sharp ____ prices in 2020. | fall in/drop in/decrease in/decline in
+People consume more meat now. → Meat ____ has increased. | consumption
+They introduced a new law, and this reduced crime. → The ____ of a new law reduced crime. | introduction
+Water is available, but it varies by region. → The ____ of water varies by region. | availability
+@EX MCQ Причина, результат, whereby, thereby
+Flights were cancelled ____ the storm. | A because | B due to | C although | B
+The city banned cars from the centre, ____ reducing air pollution. | A thereby | B whereby | C whereas | A
+The company introduced a scheme ____ employees can work from home. | A thereby | B whereby | C therefore | B
+____ the rising cost of living, many families are struggling. | A Owing to | B Because | C Since | A
+Unemployment rose, ____ that fewer people could afford holidays. | A which meant | B what meant | C it meant | A
+Many shops closed ____ the increase in online shopping. | A as a result of | B as a result | C resulting | A
+@EX CI Параллелизм: правильно (C) или с ошибкой (I)?
+The scheme aims to reduce costs, improve quality and increasing sales. | I | # increase sales
+She enjoys hiking, swimming and reading. | C
+The new system is not only cheaper but also more efficient. | C
+The new law is not only unfair but also it is expensive. | I | # not only unfair but also expensive
+Either you apologise or you leave. | C
+The report was clear, concise and it was well researched. | I | # clear, concise and well researched
+@EX ERR Найди ошибку
+(A) Despite (B) it was cold, (C) we went (D) to the beach. | B | # Although it was cold / Despite the cold
+(A) Although (B) he studied hard, (C) but he (D) failed the exam. | C | # he failed (без but)
+(A) The increase (B) of (C) population (D) has put pressure on housing. | B | # increase in
+(A) However (B) the plan was risky, (C) the board (D) approved it. | A | # Although
+(A) The museum, (B) one of the oldest in Europe, (C) attract (D) millions of visitors. | C | # attracts
+(A) The government should (B) raise taxes, (C) cut spending and (D) reducing debt. | D | # reduce debt
+@EX TR Собери продвинутое предложение
+Some countries have banned plastic bags. Others plan to ban them. (do so) → Some countries have banned plastic bags, and others plan ____. | to do so
+I really agree that technology has benefits. (эмфатическое do) → I ____ that technology has benefits. | do agree
+Health is more important than money. (fronting) → More important than money ____. | is health
+Although it is expensive, it is popular. (adj + as) → Expensive ____, it is popular. | as it is/though it is
+@TEST MCQ Тест
+____ its small size, the country has a strong economy. | A Although | B Despite | B
+____ the north is wet, the south is very dry. | A Whereas | B Despite | A
+The policy was introduced in 2010, ____ cutting emissions by 20%. | A thereby | B whereby | A
+Students can borrow laptops under a scheme ____ they pay a small deposit. | A thereby | B whereby | B
+The project was delayed ____ a lack of funding. | A due to | B because | A
+____ much he earns, he never seems happy. | A However | B Although | A
+The plan is risky. ____, it is our best option. | A Even so | B Even though | A
+Not only ____ cheaper, but it is also faster. | A the train is | B is the train | B
+The ____ of the new airport will create jobs. | A construct | B construction | B
+"Will the price go up?" — "I'm afraid ____." | A so | B it | A
+@TEST TR Тест: перепиши
+Even though he was tired, he finished the work. → Despite ____, he finished the work. | being tired/his tiredness/the fact that he was tired
+The number of tourists increased dramatically. → There was a dramatic ____ the number of tourists. | increase in/rise in
+The council closed the road and so reduced traffic. → The council closed the road, thereby ____ traffic. | reducing
+Although I like him a lot, I can't lend him money. → Much as ____, I can't lend him money. | I like him
+@TEST ERR Тест: найди ошибку
+(A) In spite of (B) the government (C) promised (D) to help, nothing changed. | B | # In spite of the government's promise / Although the government promised
+(A) Whereas (B) the north, (C) the south (D) is dry. | B | # Whereas the north is wet, …
+(A) The aim is (B) to educate, (C) inform (D) and entertaining the public. | D | # entertain
+(A) The rapid (B) develop (C) of technology (D) has changed our lives. | B | # development
+(A) Although (B) the evidence, (C) many people (D) still smoke. | A | # Despite the evidence

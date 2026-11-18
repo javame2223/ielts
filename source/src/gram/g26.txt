@@ -1,0 +1,124 @@
+# 26 | Subjunctive | 4 | Сослагательное наклонение: suggest / insist / it is essential that he be; I wish / If only; were; It's time we…; as if; would rather you…; устойчивые выражения
+@GOAL Правильно использовать сослагательные формы, которые делают письменную речь формальной и точной: *It is essential that every child **have** access…, The committee recommended that the law **be** changed, I wish I **had** started earlier.*
+@PLAN
+1. Что такое subjunctive в английском: «голая» форма глагола и were.
+2. Mandative subjunctive: suggest, recommend, insist, demand, require that + V (без -s).
+3. It is essential / vital / important / necessary that + V.
+4. Британская альтернатива: should + V.
+5. Wish и If only: настоящее, прошлое, would.
+6. Were-subjunctive: if I were, as if / as though.
+7. It's (high) time + Past Simple; would rather + Past Simple.
+8. Устойчивые выражения: be that as it may, come what may, so be it, God save…
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Mandative subjunctive (требование, предложение)
+После глаголов **suggest, recommend, propose, insist, demand, request, require, urge, ask (formal), advise** + **that** — глагол в **базовой форме** для всех лиц: без *-s*, без прошедшего времени, *be* вместо *is/are/was*.
+> The doctor **recommended that** he **stop** smoking. (не *stops*)
+> They **insisted that** the meeting **be** postponed. (не *is / was*)
+> I **suggest that** she **apply** for the scholarship.
+> The law **requires that** every driver **have** insurance.
+Отрицание — *not* перед глаголом: *We **suggest that** he **not** travel alone.*
+✗ The teacher suggested that he studies harder. → ✓ The teacher suggested that he study harder. (или *should study*)
+✗ They demanded that the manager was fired. → ✓ They demanded that the manager be fired.
+### 2. It is + прилагательное + that
+**essential, vital, crucial, important, necessary, imperative, desirable, advisable** + that + базовая форма:
+> **It is essential that** every child **have** access to education.
+> **It is vital that** the government **act** now.
+> **It is important that** students **be** given feedback.
+### 3. Британский вариант с should
+В BrE часто: *The doctor recommended that he **should stop** smoking. It is essential that every child **should have**…* Оба варианта правильны на экзамене; «чистый» subjunctive звучит формальнее.
+### 4. Wish и If only
+| Время сожаления | Форма | Пример |
+| о настоящем | wish + **Past Simple / were** | *I **wish** I **had** more free time. I **wish** I **were** taller.* |
+| о прошлом | wish + **Past Perfect** | *I **wish** I **had studied** harder.* |
+| раздражение / желание перемен (действие других) | wish + **would** | *I **wish** the neighbours **would** stop making noise.* |
+| способность | wish + **could** | *I **wish** I **could** speak Chinese.* |
+**If only** — то же, но эмоциональнее: ***If only** I **had listened** to you!*
+✗ I wish I have a car. → ✓ I wish I had a car.
+✗ I wish I would be rich. → ✓ I wish I were rich. (*would* не используется о себе и о состояниях)
+✗ I wish I didn't go to the party. (о прошлом) → ✓ I wish I hadn't gone to the party.
+### 5. Were-subjunctive
+- *If I **were** you…, If she **were** here…* (тема 16)
+- **as if / as though** (нереально): *He talks **as if** he **were** an expert* (но он не эксперт). *She looked **as though** she **had seen** a ghost.*
+- Если сравнение возможно/реально, — обычное время: *It looks **as if** it **is** going to rain.*
+### 6. It's time и would rather
+- **It's (about / high) time + подлежащее + Past Simple** — давно пора: ***It's high time** the government **took** action.* (≠ *It's time to take action* — тоже верно, но без «упрёка»)
+- **would rather + подлежащее + Past Simple** — предпочитаю, чтобы кто-то: *I'**d rather** you **didn't** tell anyone.* (для прошлого — Past Perfect: *I'd rather you **hadn't told** her.*)
+### 7. Устойчивые формулы
+***Be that as it may*** (как бы то ни было) — полезно в эссе; ***Come what may*** (что бы ни случилось); ***So be it*** (пусть так); ***God save the King***; ***Long live…***; ***Suffice it to say*** (достаточно сказать); ***If need be*** (если понадобится).
+@USE
+### Task 2
+Subjunctive — элегантный способ формулировать рекомендации:
+> ***It is essential that** governments **invest** in public transport.*
+> ***I would suggest that** every school **provide** free meals.*
+> ***It is high time** authorities **took** air pollution seriously.*
+> ***Be that as it may**, I still believe that…*
+### Letters (GT)
+*I **request that** my deposit **be** returned. I would **suggest that** the meeting **be** moved to Friday.*
+### Speaking
+Part 3 о сожалениях и желаниях: *I **wish** schools **taught** more practical skills. **If only** I **had started** learning English earlier!*
+@EX MCQ Mandative subjunctive
+The doctor recommended that she ____ more exercise. | A takes | B take | C took | B
+They insisted that the decision ____ reviewed. | A is | B was | C be | C
+It is essential that every student ____ a laptop. | A has | B have | C had | B
+I suggest that he ____ a lawyer. | A consult | B consults | C consulted | A
+The law requires that drivers ____ insured. | A are | B be | C were | B
+It is vital that the government ____ immediately. | A acts | B act | C acted | B
+We propose that the meeting ____ until Friday. | A is postponed | B be postponed | C postpones | B
+They demanded that he ____ his job. | A resign | B resigns | C resigned | A
+It is important that children ____ not left alone. | A be | B are | C were | A
+She asked that her name ____ mentioned. | A not be | B is not | C wasn't | A
+@EX MCQ Wish / If only
+I wish I ____ a car. It's hard to get to work. | A have | B had | C would have | B
+I wish I ____ so much yesterday. | A didn't eat | B hadn't eaten | C wouldn't eat | B
+I wish you ____ stop interrupting me! | A would | B will | C had | A
+If only I ____ the answer! | A know | B knew | C would know | B
+She wishes she ____ taller. | A is | B were | C would be | B
+I wish I ____ play the piano. | A can | B could | C would | B
+If only we ____ the bus — now we're late. | A didn't miss | B hadn't missed | C wouldn't miss | B
+I wish it ____ raining. I want to go out. | A stops | B would stop | C stopped | B
+@EX GAP Раскрой скобки
+I wish I ____ (know) her phone number. (сейчас не знаю) | knew
+I wish I ____ (not / say) that to her. (вчера сказал) | had not said/hadn't said
+It's high time you ____ (find) a job. | found
+I'd rather you ____ (not / smoke) in here. | did not smoke/didn't smoke
+He talks as if he ____ (be) the boss. (он не босс) | were/was
+The committee recommended that the plan ____ (be) rejected. | be
+It is essential that she ____ (arrive) on time. | arrive
+If only I ____ (listen) to my parents! (в прошлом) | had listened
+@EX TR Перепиши
+I'm sorry I didn't go to university. → I wish I ____ to university. | had gone
+It's a pity I can't speak French. → I wish I ____ French. | could speak
+"You should see a specialist," the doctor told him. → The doctor suggested that he ____ a specialist. | see/should see
+The government should act now — it's overdue. → It's high time the government ____. | acted/took action
+Please don't tell anyone. → I'd rather you ____ anyone. | didn't tell/did not tell
+Every citizen must vote — this is essential. → It is essential that every citizen ____. | vote/should vote
+@EX ERR Найди ошибку
+(A) The manager (B) insisted (C) that he (D) attends the meeting. | D | # attend / should attend
+(A) I (B) wish (C) I (D) have more money. | D | # had
+(A) I wish (B) I (C) didn't (D) shout at him yesterday. | C | # hadn't shouted
+(A) It's (B) high time (C) we (D) go home. | D | # went
+(A) It is (B) vital (C) that he (D) is informed. | D | # be informed
+(A) I wish (B) I (C) would (D) be younger. | C | # were younger
+@TEST MCQ Тест
+It is crucial that the report ____ finished by Monday. | A is | B be | B
+The judge ordered that the prisoner ____ released. | A be | B was | A
+I wish I ____ more attention in class last year. | A paid | B had paid | B
+If only you ____ here now! | A are | B were | B
+I wish my phone ____ ringing — it's so annoying. | A stops | B would stop | B
+It's about time you ____ responsibility for your actions. | A take | B took | B
+She behaves as though she ____ the owner. | A were | B is being | A
+They recommended that the factory ____ closed. | A be | B is | A
+I'd rather you ____ me the truth yesterday. | A told | B had told | B
+____ as it may, I still disagree. | A Be that | B Being that | A
+@TEST TR Тест: перепиши
+I regret not saving money when I was young. → I wish I ____ money when I was young. | had saved
+"You should rest," she said to him. → She suggested that he ____. | rest/should rest
+It's a pity he isn't here. → If only he ____ here. | were/was
+The public must be informed. It's essential. → It is essential that the public ____ informed. | be/should be
+@TEST ERR Тест: найди ошибку
+(A) The committee (B) recommended (C) that the law (D) is changed. | D | # be changed
+(A) I (B) wish I (C) didn't lose (D) my wallet last week. | C | # hadn't lost
+(A) It's (B) time (C) the government (D) does something. | D | # did something
+(A) It is (B) necessary (C) that everyone (D) wears a mask. | D | # wear
+(A) If only (B) I (C) can (D) fly! | C | # could

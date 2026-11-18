@@ -1,0 +1,118 @@
+# 21 | Mixed Conditionals | 4 | Прошлое условие → результат сейчас и наоборот; инверсия в условиях (Had I known…); but for, if it weren't for, otherwise, without
+@GOAL Свободно смешивать времена в условных предложениях, когда условие и результат относятся к разному времени, и использовать формальные варианты (*Had I known…, Were it not for…, But for…*) — признак Band 8–9.
+@PLAN
+1. Повторение: Second и Third conditional.
+2. Тип A: прошлое условие → результат в настоящем.
+3. Тип B: настоящее (постоянное) условие → результат в прошлом.
+4. Как выбрать тип: «ось времени».
+5. Инверсия вместо if: Had…, Were…, Should…
+6. If it weren't / hadn't been for…, but for, without, otherwise.
+7. Как это использовать в Task 2 и Speaking.
+8. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Два «кирпичика»
+- Нереальное **настоящее**: **if + Past Simple** / **would + V** (Second).
+- Нереальное **прошлое**: **if + Past Perfect** / **would have + V3** (Third).
+Mixed conditional берёт **if-часть из одного** типа и **главную часть из другого**.
+### 2. Тип A: прошлое → настоящее (самый частый)
+**If + Past Perfect, … would (could, might) + V (now)**
+> If I **had taken** the job in London, I **would be** rich **now**.
+> If she **hadn't missed** the flight, she **would be** in Paris **today**.
+> If the government **had invested** in renewable energy twenty years ago, we **wouldn't depend** on oil **now**.
+Смысл: в прошлом было иначе → поэтому сейчас ситуация такая.
+### 3. Тип B: настоящее (постоянное) → прошлое
+**If + Past Simple (общее, постоянное), … would have + V3**
+> If I **were** more organised (вообще), I **wouldn't have forgotten** the meeting (вчера).
+> If he **spoke** English (он не говорит), he **would have got** the job (не получил).
+> If she **weren't** so shy, she **would have spoken** to him at the party.
+Смысл: постоянная черта / ситуация → поэтому в прошлом случилось так.
+### 4. Как выбрать: ось времени
+1) Когда происходит условие? Прошлое → Past Perfect; сейчас / всегда → Past Simple.
+2) Когда результат? Сейчас → would + V; в прошлом → would have + V3.
+| Условие | Результат | Формула |
+| прошлое | сейчас | If + had V3, would V |
+| сейчас / всегда | прошлое | If + V2/were, would have V3 |
+| прошлое | прошлое | Third |
+| сейчас | сейчас | Second |
+Маркеры: *now, today, still, these days* → результат сейчас; *yesterday, last year, in 2010* → прошлое.
+### 5. Инверсия вместо if (формальный стиль)
+- ***Had** I **known** about the problem, I would have helped.* (= If I had known)
+- ***Were** I in your position, I would accept.* (= If I were)
+- ***Were** the government **to raise** taxes, many businesses would close.* (= If the government raised)
+- ***Should** you **need** any help, please contact us.* (= If you need) — типично для писем.
+- Отрицание: ***Had** he **not** helped us…* (не *Hadn't he helped*).
+### 6. Без if
+- **If it weren't for / Were it not for** + сущ. (сейчас): ***If it weren't for** the internet, many people **couldn't work** from home.*
+- **If it hadn't been for / Had it not been for** + сущ. (прошлое): ***Had it not been for** the doctor's quick action, he **would have died**.*
+- **But for** + сущ. (формально): ***But for** your help, we **would have failed**.*
+- **Without** + сущ.: ***Without** international aid, the country **could not have recovered**.*
+- **Otherwise** = иначе: *I missed the bus; **otherwise** I **would have been** on time.*
+- **Supposing / Imagine** + Past Perfect: ***Supposing** you **had failed**, what would you have done?*
+@USE
+### Task 2
+Mixed conditionals позволяют показать последствия прошлых решений: *If governments **had acted** on climate change in the 1990s, we **would not be facing** such extreme weather today.* Инверсия делает стиль академичным: ***Were** cities **to ban** private cars, air quality **would improve** dramatically.* Одного-двух таких предложений на эссе достаточно.
+### Speaking Part 3
+*If I **hadn't learned** English at school, I **wouldn't be able** to study abroad now.* — естественная демонстрация сложной грамматики при ответе о прошлом опыте.
+@EX MCQ Выбери форму (тип A: прошлое → сейчас)
+If I had studied medicine, I ____ a doctor now. | A would be | B would have been | A
+If she hadn't moved to Canada, she ____ her husband. Now they're married. | A wouldn't meet | B wouldn't have met | B
+If we had booked earlier, we ____ in a better hotel now. | A would stay | B would be staying | B
+If he had saved money when he was young, he ____ so poor today. | A wouldn't be | B wouldn't have been | A
+If I hadn't eaten so much, I ____ sick now. | A wouldn't feel | B wouldn't have felt | A
+If the factory hadn't closed, many people in the town ____ jobs today. | A would still have | B would have had | A
+@EX MCQ Выбери форму (тип B: сейчас → прошлое)
+If I ____ afraid of flying, I would have visited you in Australia. | A weren't | B wouldn't be | A
+If she were more careful, she ____ that mistake yesterday. | A wouldn't make | B wouldn't have made | B
+If he spoke French, he ____ the job in Paris last month. | A would get | B would have got | B
+If I ____ so busy these days, I would have come to your party. | A weren't | B hadn't been | A
+If they ____ rich, they wouldn't have sold their house last year. | A were | B would be | A | # Они (вообще) не богаты → поэтому продали дом. (had been тоже возможно, если речь только о том времени)
+@EX GAP Раскрой скобки (определи тип по смыслу)
+If I ____ (accept) that job offer last year, I would be living in Tokyo now. | had accepted
+If she ____ (be) taller, she would have become a model. (она невысокая) | were/was/had been
+If you had listened to the forecast, you ____ (not / be) wet now. | would not be/wouldn't be
+If they ____ (not / lose) the map, they would have arrived on time. | had not lost/hadn't lost
+If I knew how to cook, I ____ (make) dinner for the guests yesterday. | would have made
+If the government had built more houses, prices ____ (not / be) so high today. | would not be/wouldn't be
+@EX TR Инверсия: перепиши без if
+If I had known about the delay, I would have taken a taxi. → Had ____ about the delay, I would have taken a taxi. | I known
+If I were you, I would apologise. → Were ____, I would apologise. | I you
+If you need further information, please contact us. → Should ____ further information, please contact us. | you need
+If the company were to close, 500 people would lose their jobs. → Were the company ____, 500 people would lose their jobs. | to close
+If he had not warned us, we would have been in danger. → Had ____ us, we would have been in danger. | he not warned
+If prices rise, demand will fall. (formal: should) → Should ____, demand will fall. | prices rise
+@EX TR But for, without, if it weren't for
+If it weren't for my parents, I couldn't study abroad. → Were ____ my parents, I couldn't study abroad. | it not for
+If it hadn't been for the rain, we would have had a picnic. → Had it ____ the rain, we would have had a picnic. | not been for
+We would have lost the match without our goalkeeper. → But ____ our goalkeeper, we would have lost the match. | for
+If we didn't have the internet, communication would be much slower. → Without ____, communication would be much slower. | the internet
+I wrote down the address; otherwise I would have forgotten it. → If I ____ down the address, I would have forgotten it. | hadn't written/had not written
+@EX ERR Найди ошибку
+(A) If I had (B) gone to bed earlier, (C) I wouldn't have been (D) tired now. | C | # I wouldn't be tired now
+(A) If she (B) wasn't so lazy, (C) she would pass (D) the exam last week. | C | # would have passed
+(A) Hadn't (B) he (C) helped us, (D) we would have failed. | A | # Had he not helped us
+(A) Were (B) I (C) to know, (D) I would have told you. | A | # Had I known (прошлое)
+(A) If it (B) wasn't for (C) your help, (D) I would have failed. (прошлое) | B | # hadn't been for
+(A) Should (B) you will need (C) help, (D) call me. | B | # Should you need
+@TEST MCQ Тест
+If I had learnt to drive, I ____ to work by car now. | A would go | B would have gone | A
+If he weren't so stubborn, he ____ the advice yesterday. | A would accept | B would have accepted | B
+____ I known, I would have come earlier. | A If | B Had | C Were | B
+____ you require assistance, please ask at reception. | A Should | B Had | C Were | A
+____ it not for the scholarship, she couldn't afford university. | A Had | B Were | C Should | B
+But ____ the firefighters, the whole building would have burned down. | A without | B for | C if | B
+If they hadn't invested in tourism, the island ____ so wealthy today. | A wouldn't be | B wouldn't have been | A
+If I ____ allergic to cats, I would have adopted one last year. | A weren't | B wouldn't be | A
+We left early; ____ we would have missed the train. | A unless | B otherwise | B
+If you had taken the medicine, you ____ better now. | A would feel | B would have felt | A
+@TEST TR Тест: перепиши
+She didn't take the job, so she isn't rich now. → If she ____ the job, she would be rich now. | had taken
+He isn't a good swimmer, so he didn't enter the race. → If he were a good swimmer, he ____ the race. | would have entered
+If I had known her number, I would have called her. → Had ____ her number, I would have called her. | I known
+Without your advice, I would have made a big mistake. → Had it ____ your advice, I would have made a big mistake. | not been for
+@TEST ERR Тест: найди ошибку
+(A) If I (B) had saved money, (C) I would have bought (D) a house now. | C | # I could/would buy a house now
+(A) Were (B) the government (C) raise (D) taxes, people would protest. | C | # to raise
+(A) If she (B) was born (C) in Spain, (D) she would speak Spanish now. | B | # had been born — прошлое условие → результат сейчас
+(A) Had (B) not he (C) called, (D) I would have waited. | B | # Had he not called
+(A) If it (B) had not been (C) for you, (D) I will be lost. | D | # I would have been lost
+(A) If I (B) were you, (C) I would have bought (D) it now. | C | # I would buy it now

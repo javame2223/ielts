@@ -1,0 +1,120 @@
+# 25 | Participle Clauses | 4 | Причастные обороты: -ing, -ed, having + V3; сокращённые придаточные времени, причины, условия и определительные; висящее причастие — главная ошибка
+@GOAL Сжимать придаточные в причастные обороты (*Having finished the report, she left. Built in 1890, the museum…*) — так пишут на Band 8–9. Главное — не допускать «висящих причастий», когда подлежащее оборота не совпадает с подлежащим предложения.
+@PLAN
+1. Три формы: Present (-ing), Past (-ed/V3), Perfect (having + V3).
+2. Главное правило: одно подлежащее у оборота и главной части.
+3. Вместо придаточных времени: When/After/Before/While + -ing.
+4. Вместо придаточных причины: Being…, Having…, Not knowing…
+5. Пассивные обороты: Built in…, Having been told…
+6. Сокращённые определительные: people living in cities, the money spent on…
+7. Обороты с with и абсолютные конструкции (Weather permitting).
+8. Обороты-результаты в Task 1: …, reaching a peak of…
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Три формы
+| Форма | Смысл | Пример |
+| **V-ing** (active, одновременно) | делая, когда делал | ***Walking** home, I met an old friend.* |
+| **V3 / -ed** (passive) | будучи сделанным | ***Built** in 1890, the bridge is still used.* |
+| **having + V3** (active, раньше) | сделав | ***Having finished** the report, she went home.* |
+| **having been + V3** (passive, раньше) | после того как его… | ***Having been warned** about the storm, they stayed inside.* |
+| **not** + причастие | не делая | ***Not knowing** what to do, I called my father.* |
+### 2. Главное правило: одно подлежащее
+Подлежащее оборота = подлежащее главного предложения. Иначе получается «висящее причастие» (dangling participle), которое экзаменатор считает ошибкой.
+✗ Walking down the street, the rain started. (дождь шёл по улице?) → ✓ Walking down the street, I noticed that it had started to rain.
+✗ Having finished the exam, the papers were collected. → ✓ Having finished the exam, the students handed in their papers.
+✗ Built in 1890, tourists love the bridge. → ✓ Built in 1890, the bridge is loved by tourists.
+### 3. Время
+- *When I was walking…* → ***Walking** home, I…* или ***While walking** home, I…*
+- *After she had finished…* → ***Having finished** / **After finishing**, she…*
+- *Before you leave…* → ***Before leaving**, (you) check…*
+- *Since moving to London, I have…* (*since* + -ing)
+- Союзы *when, while, after, before, since, once, until* можно сохранить перед -ing для ясности.
+### 4. Причина
+- *Because I felt tired, I went to bed.* → ***Feeling tired**, I went to bed.*
+- *As he was a doctor, he knew what to do.* → ***Being a doctor**, he knew what to do.*
+- *Because she had lived in Japan, she spoke Japanese.* → ***Having lived** in Japan, she spoke Japanese.*
+### 5. Сокращённые определительные (reduced relative clauses)
+- Active: *people **who live** in cities* → *people **living** in cities*; *the man **who is sitting** there* → *the man **sitting** there*.
+- Passive: *the money **which was spent** on the project* → *the money **spent** on the project*; *products **that are made** in China* → *products **made** in China*.
+- Не сокращаем, если действие однократное и законченное в активе: ✗ *the man **breaking** the window yesterday* → ✓ *the man **who broke** the window yesterday*.
+### 6. With + объект + причастие и абсолютные обороты
+- ***With prices rising**, many families are struggling.* (у оборота своё подлежащее — так можно с *with*)
+- ***With** more people **working** from home, city centres have become quieter.*
+- Устойчивые: ***Generally speaking**, …; **Considering** the cost, …; **Judging by** the figures, …; **Weather permitting**, the event will take place outside.*
+### 7. Результат: -ing после запятой (Task 1!)
+*Sales rose steadily, **reaching** a peak of 500 in 2015.* *Prices fell sharply, **causing** a drop in profits.* *The figure doubled, **making** it the largest category.*
+@USE
+### Task 1
+- ***Reaching** a peak of…, **falling** to…, **accounting for**…, **making** it the most popular…* — самые частые обороты Band 8–9.
+- Процессы: ***Having been** cleaned, the bottles **are** sorted by colour. Once **dried**, the bricks are fired.*
+- Карты: ***Located** in the north, the new school…*
+### Task 2
+- ***Faced with** rising costs, many universities have increased fees.*
+- ***Having considered** both sides, I believe that…* — хорошее начало вывода.
+- ***Given** the evidence, …* (= учитывая)
+- *Children **growing up** in cities…, The money **spent** on defence…*
+@EX MCQ Выбери форму причастия
+____ the letter, she burst into tears. | A Reading | B Having been read | C Read | A
+____ in 1889, the Eiffel Tower is the symbol of Paris. | A Building | B Built | C Having built | B
+____ all the money, he couldn't pay the rent. | A Spending | B Having spent | C Spent | B
+____ what to say, I stayed silent. | A Not knowing | B Knowing not | C Not known | A
+The man ____ next to me was very talkative. | A sat | B sitting | C who sitting | B
+Most of the goods ____ in this factory are exported. | A producing | B produced | C having produced | B
+____ by the noise, the baby started crying. | A Frightening | B Frightened | B
+Sales increased, ____ a record of $5 million. | A reached | B reaching | C to reach | B
+____ been told the news, she called her family. | A Having | B Being | C Had | A
+With unemployment ____, the government is under pressure. | A rising | B risen | C rises | A
+@EX MCQ Висящее причастие: какое предложение правильное?
+Which is correct? | A Arriving at the station, the train had already left. | B Arriving at the station, we found that the train had already left. | B
+Which is correct? | A Having eaten lunch, we went for a walk. | B Having eaten lunch, the walk was pleasant. | A
+Which is correct? | A Written in simple English, the book is easy to read. | B Written in simple English, I found the book easy. | A
+Which is correct? | A Feeling ill, the doctor examined me. | B Feeling ill, I went to the doctor. | B
+Which is correct? | A Looking out of the window, the mountains were beautiful. | B Looking out of the window, I saw the beautiful mountains. | B
+Which is correct? | A Damaged in the storm, the roof had to be replaced. | B Damaged in the storm, they replaced the roof. | A
+@EX TR Сократи придаточное до причастного оборота
+After she had finished her degree, she moved abroad. → Having ____, she moved abroad. | finished her degree
+Because I didn't have a car, I took the bus. → Not ____, I took the bus. | having a car
+The museum, which was opened in 1900, is free. → The museum, ____ in 1900, is free. | opened
+People who live in cities often feel stressed. → People ____ in cities often feel stressed. | living
+As he was a lawyer, he understood the contract. → Being ____, he understood the contract. | a lawyer
+The products that are sold online are cheaper. → The products ____ online are cheaper. | sold
+When I was walking in the park, I lost my keys. → While ____ in the park, I lost my keys. | walking
+Prices rose and reached a peak in 2010. → Prices rose, ____ a peak in 2010. | reaching
+@EX GAP Впиши форму глагола в скобках
+____ (see) the film before, I didn't want to watch it again. | Having seen
+The money ____ (raise) by the charity will help children. | raised
+____ (not / want) to be late, we took a taxi. | Not wanting
+Children ____ (grow) up in poverty often leave school early. | growing
+____ (be) the youngest, she was spoiled by everyone. | Being
+The figure fell to 10%, ____ (make) it the lowest in the period. | making
+____ (ask) to speak, he stood up nervously. | Asked
+With more people ____ (shop) online, many stores have closed. | shopping
+@EX ERR Найди ошибку
+(A) Having finished (B) the report, (C) the computer (D) was switched off. | C | # висящее причастие: Having finished the report, I switched off the computer
+(A) Builded (B) in 1900, (C) the house (D) is very old. | A | # Built
+(A) The woman (B) sat (C) next to me (D) was a doctor. | B | # sitting / who was sitting
+(A) Not (B) knowing (C) the answer, (D) the question was skipped. | D | # I skipped the question
+(A) Sales (B) rose (C) steadily, (D) reached a peak in 2018. | D | # reaching
+(A) Having (B) been (C) arrived (D) late, she missed the start. | B | # Having arrived
+@TEST MCQ Тест
+____ the instructions, he assembled the furniture easily. | A Following | B Followed | A
+____ in 1990, the company now employs 5,000 people. | A Founding | B Founded | B
+____ his homework, he went out to play. | A Having done | B Being done | A
+The figure rose, ____ the highest level in the decade. | A hitting | B hit | A
+Products ____ in Europe must meet strict standards. | A selling | B sold | B
+____ by the results, the scientists repeated the experiment. | A Surprising | B Surprised | B
+____ the cost, the trip was excellent value. | A Considering | B Considered | A
+____ no money, they couldn't buy food. | A Having | B Had | A
+Which is correct? | A Opening the door, a cat ran in. | B Opening the door, I saw a cat run in. | B
+With prices ____, many families are cutting back. | A increasing | B increased | A
+@TEST TR Тест: перепиши с причастным оборотом
+Because she felt nervous, she couldn't speak. → Feeling ____, she couldn't speak. | nervous
+After he had been told the truth, he apologised. → Having ____ the truth, he apologised. | been told
+The cars that are made here are exported. → The cars ____ here are exported. | made
+Unemployment fell, and this made the government popular. → Unemployment fell, ____ the government popular. | making
+@TEST ERR Тест: найди ошибку
+(A) Walking (B) to work, (C) a car (D) nearly hit me. | C | # Walking to work, I was nearly hit by a car
+(A) Having (B) lived (C) in France, (D) her French is excellent. | D | # she speaks excellent French
+(A) The people (B) attended (C) the meeting (D) were angry. | B | # attending / who attended
+(A) Exhausting (B) after the journey, (C) we (D) went to bed. | A | # Exhausted
+(A) The figure (B) dropped, (C) fell (D) to 5% in 2020. | C | # falling

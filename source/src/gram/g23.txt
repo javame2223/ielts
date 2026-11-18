@@ -1,0 +1,114 @@
+# 23 | Cleft Sentences | 4 | It is … that / who; What … is …; All … is; The thing / reason / place … is; It was not until … that — выделение главного
+@GOAL Выделять ключевую информацию с помощью «расщеплённых» предложений (*It is education that…, What worries me is…, The reason why… is that…*). Это одновременно грамматический «range» и инструмент логического акцента в Task 2 и Speaking.
+@PLAN
+1. Зачем нужен cleft: выделить одну часть предложения.
+2. It-cleft: It is / was + X + that / who…
+3. Wh-cleft: What + подлежащее + глагол + is / was…
+4. Обратный wh-cleft: X is what…
+5. All / The only thing / The thing / The reason / The place / The person … is…
+6. It was not until … that…
+7. Согласование и типичные ошибки.
+8. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Идея
+Обычное предложение: *Governments should invest in public transport.* Чтобы подчеркнуть **что именно** важно, «расщепляем» его:
+> **It is** public transport **that** governments should invest in. (а не дороги)
+> **What** governments should do **is** invest in public transport.
+### 2. It-cleft: It + be + X + that/who + остаток
+| Выделяем | Пример |
+| подлежащее | ***It was** my sister **who** told me the news.* |
+| дополнение | ***It is** education **that** we need most.* |
+| обстоятельство | ***It was** in 2008 **that** the crisis began. **It is** because of pollution **that** many fish have died.* |
+- Для людей — *who* или *that*; для всего остального — *that* (не *which*).
+- Время *be* по смыслу: *It **is**…* (сейчас, вообще) / *It **was**…* (прошлое).
+- Отрицание и вопросы: ***It isn't** money **that** makes people happy. **Was it** you **who** called?*
+✗ It is the government which should act. → ✓ It is the government that/who should act.
+### 3. Wh-cleft: What … is / was …
+**What + подлежащее + глагол + be + выделяемая часть**:
+> *I need a holiday.* → ***What I need is** a holiday.*
+> *The cost worries me.* → ***What worries me is** the cost.*
+> *We should reduce waste.* → ***What we should do is** (to) reduce waste.* (после *do* — инфинитив с to или без)
+> *He lost his job, and then…* → ***What happened was (that)** he lost his job.*
+- Глагол *be* — обычно в ед. ч.: ***What we need is** more teachers* (иногда *are* в разговорной речи — на экзамене лучше *is*).
+### 4. Обратный порядок
+*A holiday **is what** I need. Hard work **is what** made him successful. This **is why** I believe…, That **is where** I disagree.*
+### 5. Другие «рамки»
+- ***All** I want **is** some peace and quiet.* (всё, что…)
+- ***The only thing** that matters **is**…*
+- ***The reason (why)** people move to cities **is that** they want better jobs.* (не *is because*)
+- ***The place where** I feel happiest **is**…, **The person who** influenced me most **was**…, **The first thing** you should do **is**…*
+✗ The reason why prices rose is because demand increased. → ✓ The reason why prices rose is that demand increased.
+### 6. It was not until … that…
+***It was not until** 1990 **that** the law was changed.* = *The law was not changed until 1990.* ***It wasn't until** I moved abroad **that** I appreciated my family.*
+Сравни с инверсией: *Not until 1990 **was** the law changed.*
+@USE
+### Task 2
+Cleft-предложения делают позицию и логику ярче:
+> ***What** many people fail to realise **is that**…*
+> ***It is** governments, not individuals, **that** have the power to…*
+> ***The main reason why** young people leave rural areas **is that**…*
+> ***The real problem is not** X **but** Y.*
+Одно-два на эссе, чаще всего в начале основного абзаца или в выводе.
+### Speaking
+Part 2: ***What I liked most about** the trip **was**… **The thing that** surprised me **was**…* Part 3: ***It's** the older generation **who**…*. Эти рамки дают время подумать и звучат естественно.
+@EX MCQ Выбери правильный вариант
+It was my brother ____ broke the window. | A who | B which | C what | A
+It is in summer ____ the city is busiest. | A when | B that | C which | B
+____ I need is a cup of coffee. | A That | B What | C Which | B
+What surprised me ____ the price. | A were | B was | C did | B
+The reason why he left ____ he was unhappy. | A is because | B is that | B
+All I want ____ some sleep. | A is | B are | C be | A
+It wasn't until midnight ____ we finished. | A when | B that | C which | B
+What we should do ____ invest in renewable energy. | A is | B are | C it is | A
+It is the teachers ____ deserve the credit. | A which | B who | C what | B
+Money is not ____ makes people happy. | A that | B what | C which | B
+@EX TR It-cleft: выдели подчёркнутую часть
+Tom called you. (выдели Tom) → It was ____ called you. | Tom who/Tom that
+I met her in Paris. (выдели in Paris) → It was ____ I met her. | in Paris that
+We need more nurses. (выдели more nurses) → It is ____ we need. | more nurses that
+The crisis started in 2008. (выдели in 2008) → It was ____ the crisis started. | in 2008 that
+Pollution is killing the fish. (выдели pollution) → It is ____ is killing the fish. | pollution that
+I didn't understand until I read the book. → It wasn't until ____ I understood. | I read the book that
+@EX TR Wh-cleft: начни с What
+I love the atmosphere. → What ____ the atmosphere. | I love is
+The noise annoys me. → What ____ the noise. | annoys me is
+We need more time. → What ____ more time. | we need is
+You should talk to her. → What you should do ____ to her. | is talk/is to talk
+He forgot his passport. → What happened was that ____. | he forgot his passport/he had forgotten his passport
+Governments must reduce taxes. → What governments must do ____ taxes. | is reduce/is to reduce
+@EX GAP Дополни рамку одним-двумя словами
+The reason why many students work part-time ____ that university is expensive. | is
+____ I want for my birthday is a new bike. | All/What
+The place ____ I feel most relaxed is the beach. | where
+The person ____ influenced me most was my grandmother. | who/that
+The only thing ____ matters is your health. | that/which
+It was ____ until she retired that she started painting. | not
+@EX ERR Найди ошибку
+(A) It was (B) my teacher (C) which (D) encouraged me. | C | # who
+(A) What (B) I need (C) are (D) a long holiday. | C | # is
+(A) The reason (B) why I came (C) is because (D) I wanted to help. | C | # is that
+(A) It (B) wasn't until 2010 (C) when (D) the bridge was finished. | C | # that
+(A) What (B) we should (C) do is (D) reducing waste. | D | # reduce / to reduce
+(A) It is (B) in big cities (C) where (D) the problem is worst. | C | # that
+@TEST MCQ Тест
+It was Alexander Fleming ____ discovered penicillin. | A which | B who | B
+____ really matters is your attitude. | A That | B What | B
+The reason prices rose ____ demand increased. | A is because | B is that | B
+It wasn't until I left home ____ I learned to cook. | A that | B when | A
+All you have to do ____ press the button. | A is | B are | A
+It is the lack of affordable housing ____ forces young people to leave. | A what | B that | B
+What I liked most about the film ____ the music. | A was | B were | A
+It ____ in 1969 that humans first walked on the Moon. | A is | B was | B
+Hard work is ____ made her successful. | A what | B that | A
+The first thing you should do ____ check the instructions. | A is | B it is | A
+@TEST TR Тест: перепиши
+Climate change is the biggest threat. (It is…) → It is ____ the biggest threat. | climate change that is
+I don't understand his attitude. → What ____ his attitude. | I don't understand is/I do not understand is
+The law changed only in 2015. → It was not until 2015 ____. | that the law changed/that the law was changed
+People move to cities because they want jobs. → The reason why people move to cities ____ they want jobs. | is that
+@TEST ERR Тест: найди ошибку
+(A) It is (B) the government (C) which (D) must take action. | C | # that/who
+(A) What (B) annoys me (C) are (D) the queues. | C | # is
+(A) It was (B) not until (C) midnight (D) when they arrived. | D | # that they arrived
+(A) The reason (B) for this (C) is because (D) people are busy. | C | # is that
+(A) All (B) I (C) need (D) are a quiet room. | D | # is

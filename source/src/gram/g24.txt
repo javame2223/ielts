@@ -1,0 +1,125 @@
+# 24 | Advanced Modal Structures | 4 | must / might / can't have done; should have done; needn't have vs didn't need to; could have; be bound / likely / supposed to; would rather; may as well; модальные с continuous и passive
+@GOAL Делать выводы и оценки о прошлом (*He must have forgotten*), выражать сожаление и критику (*They should have acted earlier*), различать тонкие пары (*needn't have / didn't need to*) и использовать полу-модальные конструкции (*is bound to, is likely to*) в аргументации Task 2.
+@PLAN
+1. Модальный + have + V3: общая схема.
+2. Выводы о прошлом: must have / can't have / might have / could have.
+3. Критика и сожаление: should have / shouldn't have / ought to have.
+4. Упущенная возможность: could have / might have.
+5. needn't have done vs didn't need to do.
+6. Модальные с continuous и passive: must have been doing, should have been told.
+7. Полу-модальные: be bound to, be likely to, be supposed to, be due to, be about to, be set to.
+8. would rather / would sooner / had better / may as well / might as well.
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Схема
+**Модальный + have + V3** переносит значение модального в прошлое.
+| Модальный | Значение | Пример |
+| **must have** | почти уверен, что было | *The streets are wet. It **must have rained**.* |
+| **can't / couldn't have** | уверен, что НЕ было | *She **can't have seen** me — she didn't say hello.* |
+| **might / may / could have** | возможно, было | *He's late. He **might have missed** the bus.* |
+| **should / ought to have** | надо было (но не сделали) | *You **should have told** me.* |
+| **shouldn't have** | не надо было (но сделали) | *I **shouldn't have eaten** so much.* |
+| **could have** | мог бы (но не сделал) / чуть не | *You **could have called** me! He **could have been** killed.* |
+| **would have** | сделал бы (условие, тема 16, 21) | *I **would have helped** you.* |
+| **needn't have** | сделал, но это было не нужно | *I **needn't have bought** milk — we had plenty.* |
+✗ He must have went home. → ✓ He must have gone home.
+✗ She mustn't have seen me. (о выводе) → ✓ She can't have seen me.
+✗ You should told me. → ✓ You should have told me.
+### 2. could have vs could
+- *I **could swim** when I was five.* — умел вообще.
+- *I **could have won**, but I fell.* — была возможность, не использовал.
+- *It **could have been** worse.* — могло быть хуже.
+### 3. needn't have vs didn't need to
+| needn't have done | didn't need to do |
+| **сделал**, хотя не нужно было | не нужно было (обычно и **не делал**) |
+| *I **needn't have taken** an umbrella — it didn't rain.* (взял) | *I **didn't need to take** an umbrella, so I left it at home.* |
+### 4. Continuous и passive
+- **must have been + V-ing**: *Your phone was busy. You **must have been talking** to someone.*
+- **should have been + V3**: *The public **should have been informed** earlier.*
+- **might be + V-ing** (сейчас): *Don't call — she **might be sleeping**.*
+- **could have been avoided**: *The accident **could have been avoided**.* — очень полезно в Task 2.
+### 5. Полу-модальные
+| Конструкция | Значение | Пример |
+| **be bound to** | обязательно, неизбежно | *Prices **are bound to rise**.* |
+| **be likely / unlikely to** | вероятно / маловероятно | *The policy **is likely to** fail.* |
+| **be supposed to** | должен по правилам/ожиданиям | *You **were supposed to** call me!* |
+| **be due to** | по расписанию | *The train **is due to** arrive at 6.* |
+| **be about to** | вот-вот | *I **was about to** leave when you called.* |
+| **be set to** | (в новостях) ожидается | *Unemployment **is set to** fall.* |
+| **be to** (формально) | официальный план / приказ | *The President **is to** visit Japan.* |
+### 6. Предпочтения и совет
+- **would rather + V** / **would rather + подлежащее + Past Simple**: *I'**d rather stay** home. I'**d rather you didn't smoke** here.*
+- **would rather have + V3** — сожаление о прошлом выборе: *I'**d rather have studied** law.*
+- **had better + V** — лучше (иначе плохо): *You'**d better hurry**.*
+- **may / might as well + V** — можно и… (раз нет лучшего): *The bus has gone — we **might as well** walk.*
+@USE
+### Task 2 — оценка прошлых решений и осторожные прогнозы
+> *Many of these problems **could have been avoided** if governments **had invested** earlier.*
+> *Authorities **should have consulted** local residents before building the airport.*
+> *Without regulation, prices **are bound to** rise further.* / *This policy **is unlikely to** succeed.*
+### Speaking
+Part 2 о прошлом событии: *I **should have prepared** more. It **must have been** about midnight when we arrived.* Part 3 предположения: *People **might have been** happier in the past because…*
+@EX MCQ Вывод о прошлом
+The ground is wet. It ____ last night. | A must rain | B must have rained | C should have rained | B
+She ____ the email — she replied to it! | A can't have read | B must have read | B
+He ____ at home yesterday. I saw him at the cinema. | A can't have been | B mustn't have been | A
+I'm not sure where Tom is. He ____ gone to the gym. | A might have | B must have | A
+They're very late. They ____ lost. | A may have got | B can't have got | A
+You ____ been very tired after such a long flight. | A must have | B should have | A
+@EX MCQ Критика, сожаление, упущенная возможность
+You ____ me you were coming! I would have cooked dinner. | A should have told | B must have told | A
+I ____ so much coffee. Now I can't sleep. | A shouldn't drink | B shouldn't have drunk | B
+We ____ the match, but our goalkeeper made a mistake. | A could have won | B could win | A
+Be careful! You ____ yourself! | A could have hurt | B must have hurt | A
+The government ____ action much earlier. | A should take | B ought to have taken | B
+She ____ the job, but she decided to stay at home with the kids. | A could have got | B must have got | A
+@EX MCQ needn't have / didn't need to
+I ____ a taxi — my friend gave me a lift, so I saved money. | A needn't have taken | B didn't need to take | B
+I ____ so much food — half of it was left over. | A needn't have cooked | B didn't need to cook | A
+We ____ queue because we had VIP tickets. | A needn't have queued | B didn't need to queue | B
+You ____ brought a gift, but thank you — it's lovely! | A needn't have | B didn't need to | A
+@EX GAP Впиши модальную конструкцию с have (глагол в скобках)
+The window is broken. Someone ____ (must / break) it. | must have broken
+He ____ (can't / steal) the money — he was with me all evening. | can't have stolen/cannot have stolen/couldn't have stolen
+I ____ (should / study) harder. Now I've failed. | should have studied
+The accident ____ (could / avoid) if the driver had been careful. (passive) | could have been avoided
+Her phone was engaged for an hour. She ____ (must / talk) to someone. (continuous) | must have been talking
+The residents ____ (should / inform) about the plans. (passive) | should have been informed
+@EX MCQ Полу-модальные и предпочтения
+House prices are ____ rise if interest rates fall. | A bound to | B supposed to | A
+You ____ wear a seatbelt — it's the law. | A are supposed to | B are about to | A
+The flight is ____ land at 9.15. | A due to | B bound to | A
+I was ____ go to bed when the phone rang. | A about to | B due to | A
+I'd rather ____ at home tonight. | A stay | B to stay | C staying | A
+I'd rather you ____ smoke in the house. | A don't | B didn't | B
+The last bus has gone. We ____ walk. | A might as well | B had rather | A
+You ____ leave now, or you'll miss your flight. | A had better | B would rather | A
+@EX ERR Найди ошибку
+(A) She (B) must (C) have (D) forgot my number. | D | # forgotten
+(A) He (B) mustn't (C) have (D) heard me — he didn't turn round. | B | # can't have heard
+(A) You (B) should (C) told (D) me earlier. | C | # should have told
+(A) I (B) needn't have (C) bought (D) bread, so I didn't. | B | # didn't need to buy
+(A) The disaster (B) could (C) have (D) prevented. | D | # been prevented
+(A) I'd rather (B) you (C) don't (D) tell anyone. | C | # didn't
+@TEST MCQ Тест
+They ____ the news — everyone is talking about it. | A must have heard | B should have heard | A
+She ____ the exam — she didn't study at all. | A can't have passed | B mustn't have passed | A
+I ____ in that shop — the prices were much better online. | A shouldn't have bought it | B mustn't buy it | A
+You ____ waited for me. I was only five minutes late. | A needn't have | B mustn't have | A
+The fire ____ by a cigarette. | A might have been caused | B might have caused | A
+The meeting is ____ start at 10, but the boss is always late. | A supposed to | B bound to | A
+I would rather ____ abroad when I was younger. | A study | B have studied | B
+If you keep driving like that, you're ____ have an accident. | A bound to | B due to | A
+He ____ working — his light was on all night. | A must have been | B should have been | A
+You ____ tell her the truth — she'll find out anyway. | A might as well | B would rather | A
+@TEST TR Тест: перепиши
+I'm sure he forgot about the meeting. → He must ____ about the meeting. | have forgotten
+It was a mistake not to book a table. → We should ____ a table. | have booked
+It's impossible that she said that. → She can't ____ that. | have said
+I bought a ticket, but it wasn't necessary. → I needn't ____ a ticket. | have bought
+@TEST ERR Тест: найди ошибку
+(A) They (B) might (C) have (D) took the wrong train. | D | # taken
+(A) The problem (B) should (C) have (D) solved years ago. | D | # been solved
+(A) You (B) were supposed (C) call (D) me yesterday. | C | # to call
+(A) He (B) must (C) be (D) at home last night — his car was outside. | C | # must have been (вывод о прошлом)
+(A) She (B) can't (C) be (D) at work yesterday. | C | # can't have been

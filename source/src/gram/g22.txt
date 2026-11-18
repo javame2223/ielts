@@ -1,0 +1,125 @@
+# 22 | Inversion | 4 | Обратный порядок слов после отрицательных и ограничительных наречий: Never have I…, Not only…but also, Hardly…when, No sooner…than, Only then, Little did I know, So…that
+@GOAL Использовать инверсию для эмфазы и академичного стиля (1–2 раза в эссе или в Speaking Part 3), строя её без ошибок: вспомогательный глагол перед подлежащим, правильные пары *hardly…when, no sooner…than*.
+@PLAN
+1. Что такое инверсия: «вопросительный» порядок в утверждении.
+2. Отрицательные наречия: never, rarely, seldom, at no time, under no circumstances, in no way.
+3. Not only … but also.
+4. Hardly / Scarcely / Barely … when; No sooner … than.
+5. Only + время/условие: Only then, Only after, Only when, Only if, Only by.
+6. Little, not until, nowhere, on no account.
+7. So / Such … that; Neither / Nor / So + auxiliary.
+8. Инверсия в условиях (повторение темы 21) и после места (Here comes…).
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Формула
+**Ограничительное слово + вспомогательный глагол + подлежащее + основной глагол.** Порядок как в вопросе: если в предложении нет вспомогательного глагола, добавляем **do / does / did**.
+> I have **never** seen such chaos. → **Never have I seen** such chaos.
+> She **rarely** speaks in public. → **Rarely does she speak** in public.
+> I **didn't realise** the danger **until** later. → **Not until later did I realise** the danger.
+✗ Never I have seen… → ✓ Never have I seen…
+✗ Rarely she speaks… → ✓ Rarely does she speak…
+✗ Not only he is smart, but… → ✓ Not only is he smart, but…
+### 2. Отрицательные и ограничительные наречия
+| Слово | Пример |
+| **Never (before)** | *Never before **has** technology **changed** so quickly.* |
+| **Rarely / Seldom** | *Seldom **do** we **see** such talent.* |
+| **At no time** | *At no time **was** the public **informed**.* |
+| **Under no circumstances / On no account** | *Under no circumstances **should** you **open** this door.* |
+| **In no way** | *In no way **does** this **justify** violence.* |
+| **Nowhere** | *Nowhere **is** the problem more visible than in big cities.* |
+| **Little** (= совсем не) | *Little **did** they **know** that the company would collapse.* |
+### 3. Not only … but (also)
+Инверсия только в первой части: ***Not only does** tourism **create** jobs, **but** it **also** **helps** preserve local culture.* ***Not only was** the food cold, **but** the service was **also** slow.*
+### 4. Сразу как только
+- **Hardly / Scarcely / Barely + had + подлежащее + V3 … when + Past Simple**: ***Hardly had** I **sat** down **when** the phone rang.*
+- **No sooner + had + подлежащее + V3 … than + Past Simple**: ***No sooner had** we **arrived than** it started to rain.*
+✗ No sooner had we arrived when… → ✓ No sooner had we arrived than…
+✗ Hardly had I sat down than… → ✓ Hardly had I sat down when…
+### 5. Only…
+Инверсия в **главной** части (после придаточного или обстоятельства):
+- ***Only then did** I **understand** the problem.*
+- ***Only after** the war **did** the economy **recover**.* (после *after the war* — инверсия)
+- ***Only when** you lose your health **do** you **appreciate** it.*
+- ***Only if** governments act together **can** climate change **be** stopped.*
+- ***Only by** working together **can** we **succeed**.*
+- ***Not until** 1990 **did** women **get** the vote.*
+### 6. So / Such … that и краткие ответы
+- ***So** severe **was** the storm **that** schools were closed.*
+- ***Such was** the demand **that** tickets sold out in minutes.*
+- *She can't swim, and **neither / nor can** I. — "I love jazz." — "**So do** I."*
+### 7. Другие случаи
+- Условия (тема 21): ***Had** I known…, **Were** I you…, **Should** you need…*
+- После наречий места (литературно): ***Here comes** the bus. **On the hill stood** an old castle.* (без do; с местоимением — нет инверсии: *Here it comes*).
+@USE
+### Task 2
+Инверсия — сильный сигнал «Band 8+», но **1–2 раза на эссе**, обычно во вступлении или выводе:
+> ***Not only does** fast food **contribute** to obesity, **but** it **also** **damages** local food culture.*
+> ***Only by** investing in education **can** governments **reduce** inequality in the long term.*
+> ***Never before have** people **had** such easy access to information.*
+### Speaking Part 3
+Звучит естественно в эмоциональном акценте: ***Rarely do** you **see** young people reading newspapers these days.*
+@EX MCQ Выбери правильный вариант
+Never ____ such a beautiful sunset. | A I have seen | B have I seen | C I saw | B
+Rarely ____ in public. | A she speaks | B does she speak | C she does speak | B
+Not only ____ late, but he also forgot his notes. | A he was | B was he | C did he | B
+Hardly had we started ____ the lights went out. | A than | B when | C then | B
+No sooner had I left ____ it started to rain. | A when | B than | C that | B
+Only after the meeting ____ the truth. | A did I learn | B I learned | C I did learn | A
+Little ____ that he was being watched. | A he knew | B did he know | C he did know | B
+Under no circumstances ____ the door. | A you should open | B should you open | C open you should | B
+So difficult ____ that nobody passed. | A the exam was | B was the exam | C did the exam | B
+Not until I got home ____ I had lost my wallet. | A I realised | B did I realise | C I did realise | B
+@EX TR Перепиши с инверсией, начиная с данных слов
+I have never been so embarrassed. → Never ____ so embarrassed. | have I been
+She seldom eats meat. → Seldom ____ meat. | does she eat
+He not only won the race but also broke the record. → Not only ____ the race, but he also broke the record. | did he win
+I had just closed my eyes when the alarm rang. → Hardly ____ my eyes when the alarm rang. | had I closed
+As soon as we sat down, the film started. → No sooner ____ than the film started. | had we sat down
+I understood the problem only later. → Only later ____ the problem. | did I understand
+They didn't realise how serious it was. → Little ____ how serious it was. | did they realise/did they realize
+You must not tell anyone under any circumstances. → Under no circumstances ____ anyone. | must you tell/should you tell
+@EX TR Only… / Not until… / So…that
+We can solve this problem only by working together. → Only by working together ____ this problem. | can we solve
+Women did not get the vote until 1918. → Not until 1918 ____ the vote. | did women get
+You appreciate your health only when you lose it. → Only when you lose your health ____ it. | do you appreciate
+The storm was so strong that the bridge collapsed. → So strong ____ that the bridge collapsed. | was the storm
+The economy recovered only after the reforms. → Only after the reforms ____. | did the economy recover
+The demand was so great that tickets sold out. → Such ____ that tickets sold out. | was the demand
+@EX ERR Найди ошибку
+(A) Never (B) I have (C) felt (D) so happy. | B | # have I
+(A) Not only (B) she speaks (C) French, but she (D) also speaks Arabic. | B | # does she speak
+(A) No sooner (B) had he arrived (C) when (D) he left again. | C | # than
+(A) Hardly (B) had she (C) finished (D) than the bell rang. | D | # when the bell rang
+(A) Only (B) then (C) I realised (D) my mistake. | C | # did I realise
+(A) Seldom (B) does (C) he (D) goes out at night. | D | # go
+(A) Little (B) they knew (C) about (D) the danger. | B | # did they know
+@EX CI Правильно (C) или с ошибкой (I)?
+Not only is the city beautiful, but it is also cheap. | C
+Rarely we have seen such enthusiasm. | I | # Rarely have we seen
+Only if you practise every day will you improve. | C
+Hardly had the plane landed when the passengers stood up. | C
+No sooner did I arrive when he left. | I | # No sooner had I arrived than he left
+Under no circumstances should children be left alone. | C
+@TEST MCQ Тест
+Never before ____ so many people lived in cities. | A have | B had | C did | A
+Not only ____ the environment, but it also saves money. | A recycling protects | B does recycling protect | B
+Scarcely ____ asleep when the baby started crying. | A I had fallen | B had I fallen | B
+No sooner had the match begun ____ it started to snow. | A than | B when | A
+Only by reducing emissions ____ climate change. | A we can slow | B can we slow | B
+At no time ____ that the product was dangerous. | A were customers told | B customers were told | A
+Little ____ that this decision would change her life. | A she knew | B did she know | B
+So expensive ____ that few people could afford it. | A the ticket was | B was the ticket | B
+Not until the 20th century ____ women allowed to vote in many countries. | A were | B did | A
+"I can't stand loud music." — "Neither ____ I." | A can | B do | A
+@TEST TR Тест: перепиши с инверсией
+Tourism creates jobs and it also protects traditions. → Not only ____ jobs, but it also protects traditions. | does tourism create
+We had just started dinner when the guests arrived. → No sooner ____ dinner than the guests arrived. | had we started
+I have rarely heard such a brilliant speech. → Rarely ____ such a brilliant speech. | have I heard
+You will succeed only if you work hard. → Only if you work hard ____. | will you succeed
+@TEST ERR Тест: найди ошибку
+(A) Only (B) after (C) he left (D) I realised how much I missed him. | D | # did I realise
+(A) Hardly (B) I had (C) opened the door (D) when the dog ran out. | B | # had I
+(A) Not until (B) I read the report (C) I understood (D) the risks. | C | # did I understand
+(A) Under no circumstances (B) you should (C) give (D) your password to anyone. | B | # should you
+(A) Such (B) the noise was (C) that (D) nobody could sleep. | B | # Such was the noise
+(A) Rarely (B) do (C) young people (D) reads newspapers nowadays. | D | # read (после do — инфинитив)
