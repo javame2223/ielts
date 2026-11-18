@@ -1,0 +1,49 @@
+## Упражнение 7. Определи тип вопроса Task 2 | t2type
+@INTRO От типа вопроса зависит шаблон эссе. Выбери тип для каждого вопроса.
+@Q MCQ
+Some people think that zoos should be closed. To what extent do you agree or disagree? | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | A
+Some people believe that children should start school at the age of four, while others think they should start at seven. Discuss both views and give your own opinion. | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | B
+More and more people work from home. Do the advantages of this outweigh the disadvantages? | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | C
+Many cities suffer from traffic congestion. What are the causes? What measures could be taken to reduce it? | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | D
+Nowadays many people choose to do their shopping online. Is this a positive or negative development? | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | C
+Obesity among children is increasing in many countries. Why is this happening? How can the problem be solved? | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | D
+Public libraries are no longer necessary because all information is available online. Do you agree or disagree? | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | A
+Some say university education should be free for everyone, while others think students should pay. Discuss both views and give your opinion. | A Opinion (agree / disagree) | B Discuss both views + opinion | C Advantages / disadvantages (positive / negative) | D Causes / problems + solutions | B
+
+## Упражнение 8. Вступление и вывод по Simon | t2intro
+@INTRO Выбери лучший вариант. Помни правило Simon: вступление — 2 предложения (тема своими словами + твой ответ), вывод — 1 предложение.
+@Q MCQ
+Question: Zoos should be closed. Agree or disagree? Which introduction is best? | A Zoos are a very interesting topic, and people have many different opinions about them, which I will discuss in this essay. | B It is true that some people want zoos to be closed. I completely disagree with this view, because I believe that zoos play an important role in protecting endangered species. | C In this essay I will first write about the advantages of zoos, then about the disadvantages, and at the end I will give my opinion. | D Zoos should be closed. Animals suffer. People should not go there. | B
+Question: Do the advantages of working from home outweigh the disadvantages? Which introduction is best? | A It is true that more people are now working from home. While I accept that this has some drawbacks, I believe that the advantages are more significant. | B Working from home has advantages and disadvantages. | C Since the beginning of time, humans have worked in many different places, and today technology is changing everything in our modern world. | D I think working from home is good and bad at the same time. | A
+Question: Traffic congestion — causes and solutions. Which introduction is best? | A Traffic is bad. There are a lot of cars. | B I strongly agree that traffic congestion is a problem. | C It is true that many cities are affected by heavy traffic. There are several reasons for this problem, but governments could take a number of steps to reduce it. | D In my opinion, the advantages of traffic outweigh the disadvantages. | C
+In an agree / disagree essay, what is wrong with a paragraph that starts "Some people believe… Other people believe…"? | A It turns the essay into a 'discuss both views' essay and hides your own opinion. | B It is too short. | C It uses informal language. | D Nothing is wrong with it. | A
+What should a conclusion be, according to Simon? | A One sentence that repeats your answer to the question. | B A long paragraph with new ideas. | C A list of all the examples you used. | D It is not necessary. | A
+Which sentence is the best topic sentence for a paragraph about the drawbacks of online courses? | A For example, my friend did an online course last year. | B The main drawback of online university courses is that there is less direct interaction. | C There are many things to say about this. | D Online courses, which are becoming more and more popular all over the world in every country, have some problems and also some good points. | B
+
+## Упражнение 9. Фразы-шаблоны Simon | t2phrases
+@INTRO Впиши пропущенное слово из шаблонных фраз Simon.
+@Q GAP
+However, I would argue that these benefits are ____ by the drawbacks. | outweighed
+There are various reasons ____ people prefer to live alone. | why
+A simple ____ would be to increase the tax on fuel. | solution
+People have different ____ about the role of museums. | views
+On the one hand, I ____ that money is necessary to meet our basic needs. | accept
+____ the negatives mentioned above, I believe that online courses are a positive development. | Despite
+In conclusion, it ____ to me that the dangers are more significant than the benefits. | seems
+More people are living alone nowadays. There could be several ____ for this. | reasons
+Some people believe that zoos should be closed. I completely ____ with this view. | disagree/agree
+In other ____, an ageing population will mean a greater tax burden for working adults. | words
+
+## Упражнение 10. Правила Simon для Task 2 | t2rules
+@INTRO Верно или неверно?
+@Q TF
+When the question asks for your opinion, you can use "I believe" and "in my opinion". | T
+In an agree / disagree essay, you should write one paragraph about what other people think. | F
+If you partly agree, you can write one paragraph about each side, but from your own point of view. | T
+The introduction can be just two sentences: the topic in your own words and your answer. | T
+To get band 7 or higher, you need passives and conditionals in every paragraph. | F
+The conclusion is a good place to introduce a new important argument. | F
+If you need more words, you can expand one of the examples in a main paragraph. | T
+Each main paragraph should begin with a short topic sentence. | T
+In a "discuss both views and give your opinion" essay, it is enough to give your opinion only in the conclusion. | F
+If you write about ten words per line, you can quickly estimate how many words you have written. | T

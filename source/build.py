@@ -371,10 +371,10 @@ def load_models(errors):
     return models
 
 
-def build_wex(errors):
-    """Interactive Task 1 language exercises (src/wex.txt), keyed by id."""
+def build_wex(errors, fname="wex.txt"):
+    """Interactive Writing exercises (src/wex*.txt), keyed by id."""
     out = {}
-    for block in parse_blocks(open(os.path.join(SRC, "wex.txt"), encoding="utf-8").read()):
+    for block in parse_blocks(open(os.path.join(SRC, fname), encoding="utf-8").read()):
         title, sec, groups = parse_block(block)
         name, _, key = [x.strip() for x in title.partition("|")]
         qhtml, nq = render_questions(groups, 0, errors, f"Exercise {key}")
@@ -421,6 +421,38 @@ def build_task1(errors):
     return re.sub(r"<h3>Practice(?: Task 1\.\d+)? — ", num, page)
 
 
+def vocab_items(line):
+    out = []
+    for x in line.split(";"):
+        a, _, c = x.strip().partition("=")
+        if a.strip():
+            mean, _, use = c.strip().partition(" — ")
+            out.append((a.strip(), mean.strip(), use.strip()))
+    return out
+
+
+def highlight(paras, items, key, warn):
+    """Wrap the first occurrence of each vocabulary phrase in the essay in <mark class=kw>."""
+    text = "\n".join(paras)
+    spans = []
+    for phrase, _, _ in sorted(items, key=lambda x: -len(x[0])):
+        core = re.sub(r"\s*\(.*?\)", "", phrase).strip()
+        pat = r"(?<![A-Za-z])" + r".{1,40}?".join(re.escape(x.strip()) for x in core.split("…")) + r"(?![A-Za-z])"
+        for m in re.finditer(pat, text, flags=re.I):
+            if all(m.end() <= a or m.start() >= b for a, b in spans):
+                spans.append((m.start(), m.end()))
+                break
+        else:
+            warn.append(f"{key}: phrase not in text: {core}")
+    spans.sort()
+    html, pos = [], 0
+    for a, b in spans:
+        html.append(E(text[pos:a]) + "<mark class='kw'>" + E(text[a:b]) + "</mark>")
+        pos = b
+    html.append(E(text[pos:]))
+    return ["<p>" + p + "</p>" for p in "".join(html).split("\n")]
+
+
 def build_writing(errors):
     page = open(os.path.join(SRC, "writing.html"), encoding="utf-8").read()
     page = page.replace("{{TASK1}}", build_task1(errors))
@@ -440,14 +472,26 @@ def build_writing(errors):
         lo, hi = (150, 230) if (letter or key.startswith("t")) else (250, 340)
         if not lo <= words <= hi:
             errors.append(f"Writing {key}: {words} words")
-        paras = "".join(f"<p>{E(p)}</p>" for p in body)
+        items = vocab_items(md["V"])
+        if len(items) < 10:
+            errors.append(f"Writing {key}: only {len(items)} vocabulary items")
+        paras = "".join(highlight(body, items, key, errors))
+        rows = "".join(f"<tr><td>{E(a)}</td><td>{E(m)}" + (f"<span class='u'>{E(u)}</span>" if u else "") + "</td></tr>" for a, m, u in items)
         return (f"<button class='done' data-k='w-{key}'>Отметить как сделано</button>"
-                f"<details class='model'><summary>Образец (Band {9 if key.startswith('t') else 8}), {words} слов — план, лексика, разбор</summary>"
+                f"<details class='model'><summary>Образец (Band {8 if letter else 9}), {words} слов — план, лексика, разбор</summary>"
                 f"<div class='note'><b>План:</b> {E(md['P'])}</div><div class='essay'>{paras}</div>"
-                f"<div class='note'><b>Лексика:</b> {vocab_html(md['V'])}</div>"
-                f"<div class='note'><b>Разбор:</b> {E(re.sub(r'^\d+ слов[а]?\. ', '', md['N']))}</div></details>")
+                f"<div class='note'><b>Полезная лексика из образца</b> (выделена в тексте)<table class='vt'>{rows}</table></div>"
+                f"<div class='note'><b>Разбор:</b> {E(re.sub(r'^\d+ слов\w*\. ', '', md['N']))}</div></details>")
 
     page = re.sub(r"\{\{E:([A-Za-z0-9]+)\}\}", render, page)
+    wex2 = build_wex(errors, "wex2.txt")
+    def sub2(m):
+        if m.group(1) not in wex2:
+            errors.append(f"Writing: missing exercise {m.group(1)}"); return ""
+        return wex2.pop(m.group(1))
+    page = re.sub(r"\{\{WEX2:(\w+)\}\}", sub2, page)
+    for k in wex2:
+        errors.append(f"Writing: unused exercise {k}")
     for k in models:
         if k not in used:
             errors.append(f"Writing model {k} is not used on the page")
