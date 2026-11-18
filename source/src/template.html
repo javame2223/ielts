@@ -64,6 +64,30 @@ main{padding-bottom:56px}
 .hgrid>.cont{grid-column:span 7}.hgrid>.stats{grid-column:span 5}.hgrid>.skill{grid-column:span 3}.hgrid>.recent{grid-column:span 7}.hgrid>.cal{grid-column:span 5}.hgrid>.full{grid-column:1/-1}
 .hgrid>.recent,.hgrid>.cal{align-self:start}
 .hgrid>.skills{grid-column:1/-1;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+/* live speaking */
+.lvmodes{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:10px 0}
+.lvmodes button{display:flex;flex-direction:column;align-items:flex-start;gap:4px;text-align:left;padding:12px 14px;border-radius:12px;border:1.5px solid var(--line);background:var(--card)}
+.lvmodes button span{font-size:13px;color:var(--mute);font-weight:400}
+.lvmodes button[aria-pressed="true"]{border-color:var(--acc);background:color-mix(in srgb,var(--acc) 8%,var(--card))}
+.lvopts{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;margin:6px 0 4px;font-size:14.5px}
+.lvopts select{max-width:320px}
+.lvstage{display:grid;grid-template-columns:72px 1fr auto;gap:16px;align-items:center}
+.lvav{width:64px;height:64px;border-radius:50%;display:grid;place-items:center;background:var(--acc);color:var(--on-acc);font:800 26px var(--ui);transition:box-shadow .2s}
+.lvav.talk{animation:lvpulse 1.1s ease-in-out infinite}
+@keyframes lvpulse{0%,100%{box-shadow:0 0 0 0 color-mix(in srgb,var(--acc) 45%,transparent)}50%{box-shadow:0 0 0 12px color-mix(in srgb,var(--acc) 0%,transparent)}}
+.lvq{font:600 19px/1.45 var(--ui);margin:4px 0 0;min-height:1.4em}
+.lvtime{font:700 22px var(--ui);font-variant-numeric:tabular-nums;color:var(--acc)}
+.lvcard h3{margin:4px 0 6px}.lvcard ul{margin:4px 0 10px}
+.lvcard textarea,.lvtyped textarea{width:100%;font:15px var(--ui);padding:8px 10px;border:1px solid var(--line);border-radius:8px}
+.lvmehd{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.lvmeter{width:140px;height:8px;border-radius:4px;background:var(--soft);overflow:hidden}.lvmeter i{display:block;height:100%;width:0;background:var(--ok);transition:width .08s}
+.lvlive{min-height:3.2em;font:16.5px/1.6 var(--read);margin:8px 0;color:var(--ink)}.lvlive .int{color:var(--mute)}
+.lvme button:disabled{opacity:.45;cursor:default}
+.lvsum{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:10px 0}
+.lvsum div{background:var(--soft);border-radius:10px;padding:10px 12px}.lvsum b{display:block;font:800 22px var(--ui)}.lvsum span{font-size:13px;color:var(--mute)}
+.lvturn{border-top:1px solid var(--line);padding:10px 0}.lvturn .qq{font-weight:600}.lvturn .aa{font:16px/1.55 var(--read);margin:4px 0}.lvturn .mm{font-size:13px;color:var(--mute)}
+.lvflag{display:inline-block;margin-left:6px;padding:1px 7px;border-radius:6px;font-size:12px;background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+@media(max-width:560px){.lvstage{grid-template-columns:52px 1fr}.lvav{width:48px;height:48px;font-size:20px}.lvtime{grid-column:1/-1}}
 /* grammar */
 .gtopic .ghead{margin:6px 0 14px}.gtopic .ghead h1{margin:6px 0}
 .gnav{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
@@ -267,7 +291,7 @@ ol.ql li,ul.ql li{margin:6px 0}
 <!--BODY-->
 <header class="top" id="top"><div class="wrap">
 <a class="brand" href="#home"><i>IELTS</i>Skills Pack</a>
-<nav class="tabs" aria-label="Разделы"><a href="#home" data-tab="home">Главная</a><a href="#reading" data-tab="reading">Reading</a><a href="#listening" data-tab="listening">Listening</a><a href="#writing" data-tab="writing">Writing</a><a href="#speaking" data-tab="speaking">Speaking</a><a href="#grammar" data-tab="grammar">Grammar</a></nav>
+<nav class="tabs" aria-label="Разделы"><a href="#home" data-tab="home">Главная</a><a href="#reading" data-tab="reading">Reading</a><a href="#listening" data-tab="listening">Listening</a><a href="#writing" data-tab="writing">Writing</a><a href="#speaking" data-tab="speaking">Speaking</a><a href="#live" data-tab="live">Live Speaking</a><a href="#grammar" data-tab="grammar">Grammar</a></nav>
 <div class="search"><input id="q" type="search" placeholder="Поиск по словам, темам, вопросам" autocomplete="off" aria-label="Поиск по всем материалам"></div>
 <div class="ov" title="Общий прогресс"><span class="bar"><i id="ovBar"></i></span><span id="ovPct">0%</span></div>
 </div></header>
@@ -351,6 +375,55 @@ ol.ql li,ul.ql li{margin:6px 0}
 {{SPEAKING}}
 </div></div>
 </section>
+
+<section class="view wrap" id="v-live" hidden>
+<div class="lhead"><div><h1>Live Speaking</h1><p class="lead">Экзамен по Speaking с виртуальным экзаменатором Emma. Она говорит голосом, ты отвечаешь в микрофон, а сайт сам понимает, когда ты закончил, и задаёт следующий вопрос. Порядок как на настоящем IELTS: знакомство, Part 1, карточка Part 2 с минутой на подготовку, Part 3.</p></div></div>
+<div id="lvSetup">
+ <div class="card">
+  <h3>Что тренируем</h3>
+  <div class="lvmodes" id="lvModes">
+   <button type="button" data-m="full" aria-pressed="true"><b>Полный тест</b><span>11–14 минут · Part 1 + 2 + 3</span></button>
+   <button type="button" data-m="p1" aria-pressed="false"><b>Part 1</b><span>4–5 минут · вопросы о себе</span></button>
+   <button type="button" data-m="p2" aria-pressed="false"><b>Part 2</b><span>3–4 минуты · карточка</span></button>
+   <button type="button" data-m="p23" aria-pressed="false"><b>Part 2 + 3</b><span>8–9 минут · карточка и обсуждение</span></button>
+  </div>
+  <div class="lvopts">
+   <label>Карточка Part 2: <select id="lvCardSel"><option value="">случайная</option></select></label>
+   <label><input type="checkbox" id="lvSubs" checked> Показывать текст вопросов</label>
+   <label><input type="checkbox" id="lvType"> Отвечать текстом (без микрофона)</label>
+  </div>
+  <div class="acts"><button type="button" class="btn pri" id="lvStart">Начать экзамен</button></div>
+  <p class="src" id="lvSupport"></p>
+ </div>
+ <details class="card"><summary><b>Как это работает и как получить максимум</b></summary><ul class="ql">
+  <li><b>Наушники.</b> Лучше надеть их, чтобы микрофон не слышал голос экзаменатора.</li>
+  <li><b>Браузер.</b> Распознавание речи работает в Chrome и Edge (на компьютере и Android) и в Safari на iPhone. В других браузерах тест идёт без расшифровки, но запись голоса сохраняется.</li>
+  <li><b>Конец ответа.</b> Когда ты замолчал на 2–3 секунды (в Part 2 — дольше), экзаменатор продолжает. Можно нажать «Я закончил ответ».</li>
+  <li><b>Как на экзамене:</b> Emma не обсуждает твои ответы, она работает по сценарию, как настоящий экзаменатор. Если ответ слишком короткий, она спросит «Why?», как на экзамене.</li>
+  <li><b>После теста</b> будет запись всего экзамена, расшифровка, темп речи, слова-паразиты и короткие ответы, а также ссылки на образцы ответов на эти же вопросы.</li>
+ </ul></details>
+</div>
+<div id="lvRoom" hidden>
+ <div class="card lvstage">
+  <div class="lvav" id="lvAv" aria-hidden="true">E</div>
+  <div class="lvwho"><p class="eyebrow" id="lvPart">Introduction</p><p class="lvq" id="lvQ"></p></div>
+  <div class="lvtime" id="lvTime"></div>
+ </div>
+ <div class="card lvcard" id="lvCard" hidden>
+  <p class="eyebrow">Part 2 · карточка</p><h3 id="lvCardT"></h3><p>You should say:</p><ul id="lvCardP"></ul>
+  <div id="lvPrep"><label class="src" for="lvNotes">Заметки (минута на подготовку):</label><textarea id="lvNotes" rows="4"></textarea>
+  <div class="acts"><button type="button" class="btn" id="lvPrepDone">Я готов, начать раньше</button></div></div>
+ </div>
+ <div class="card lvme">
+  <div class="lvmehd"><p class="eyebrow" id="lvState">Слушай вопрос</p><div class="lvmeter"><i id="lvLevel"></i></div></div>
+  <div class="lvlive" id="lvLive"></div>
+  <div class="lvtyped" id="lvTypedBox" hidden><textarea id="lvTyped" rows="3" placeholder="Напиши ответ по-английски и нажми Enter"></textarea></div>
+  <div class="acts"><button type="button" class="btn pri" id="lvDone" disabled>Я закончил ответ</button><button type="button" class="btn" id="lvRep">Повторить вопрос</button><button type="button" class="btn" id="lvQuit">Завершить тест</button></div>
+ </div>
+</div>
+<div id="lvResult" hidden></div>
+</section>
+<script type="application/json" id="ldata">{{LDATA}}</script>
 
 <section class="view wrap" id="v-grammar" hidden>
 <div class="lhead"><div><h1>Grammar</h1><p class="lead">{{NG}} тем в 4 этапах: план урока, теория с типичными ошибками, практика с автопроверкой и пояснениями, тест по каждой теме и итоговый тест на 100 вопросов после каждого этапа. Тема считается освоенной, когда тест сдан на 85% и выше.</p></div><div class="stats-mini" id="gMini"></div></div>
@@ -461,7 +534,7 @@ const GD=JSON.parse($('#gdata').textContent);
 const GT=GD.topics.map(x=>x.k+'-t'),GS=GD.tests.map(x=>x.k);
 const gTitle=k=>{const m=/^(g\d+)(?:-(p\d+|t))?$/.exec(k);if(m){const x=GD.topics.find(y=>y.k===m[1]);if(x)return 'Grammar '+x.n+'. '+x.title+(m[2]==='t'?' — тест':m[2]?' — практика '+m[2].slice(1):'');}
   const s=GD.tests.find(y=>y.k===k);return s?'Grammar: '+s.title:null;};
-const label=k=>{const g=gTitle(k);if(g)return g;const u=byK[k];return u?(k[0]==='r'?'Reading ':'Listening ')+u.dataset.n+'. '+u.dataset.title:k;};
+const label=k=>{if(k==='live')return 'Live Speaking';const g=gTitle(k);if(g)return g;const u=byK[k];return u?(k[0]==='r'?'Reading ':'Listening ')+u.dataset.n+'. '+u.dataset.title:k;};
 
 const ctrls=u=>$$('.q',u).map(q=>q.querySelector('input,select'));
 const pct=st=>st&&st.t?Math.round(100*st.s/st.t):0;
@@ -549,7 +622,7 @@ tBtn.addEventListener('click',()=>{if(tLeft===0){tReset();return;}tRun=!tRun;cle
   if(tRun)tInt=setInterval(()=>{tLeft--;if(tLeft<=0){tLeft=0;clearInterval(tInt);tRun=false;toast('20 минут прошло');}tDraw();},1000);tDraw();});
 
 /* ---------- views ---------- */
-const views={grammar:$('#v-grammar'),gram:$('#v-gram'),home:$('#v-home'),reading:$('#v-reading'),listening:$('#v-listening'),writing:$('#v-writing'),speaking:$('#v-speaking'),search:$('#v-search'),unit:$('#v-unit')};
+const views={live:$('#v-live'),grammar:$('#v-grammar'),gram:$('#v-gram'),home:$('#v-home'),reading:$('#v-reading'),listening:$('#v-listening'),writing:$('#v-writing'),speaking:$('#v-speaking'),search:$('#v-search'),unit:$('#v-unit')};
 let curView=null,curUnit=null,pendingEl=null;
 const scrollMem={};
 function route(){
@@ -561,7 +634,7 @@ function route(){
 }
 function show(v,k){
   if(curView&&curView!=='unit')scrollMem[curView]=window.scrollY;
-  stopMedia();
+  stopMedia();if(v!=='live'&&typeof lvAbort==='function')lvAbort();
   Object.entries(views).forEach(([n,el])=>{el.hidden=n!==v;});
   const tab=v==='unit'?(k[0]==='r'?'reading':'listening'):v==='gram'?'grammar':v;
   $$('.tabs a').forEach(a=>a.classList.toggle('on',a.dataset.tab===tab));
@@ -602,6 +675,224 @@ function openUnit(k){
   refreshBar();
 }
 
+/* ---------- live speaking ---------- */
+const LD=JSON.parse($('#ldata').textContent);
+const SRec=window.SpeechRecognition||window.webkitSpeechRecognition;
+let lvMode='full',LV=null,lvInit=false;
+const lvAudio=new Audio();lvAudio.preload='auto';
+const lvPick=a=>a[Math.floor(Math.random()*a.length)];
+const lvShuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
+const lvClock=s=>String(Math.floor(s/60))+':'+String(s%60).padStart(2,'0');
+function lvAbort(){if(!LV||LV.abort)return;LV.abort=true;try{lvAudio.pause();}catch(e){}if(window.speechSynthesis)speechSynthesis.cancel();if(LV.wake)LV.wake();}
+function lvChk(){if(!LV||LV.abort)throw new Error('abort');}
+function renderLive(){
+  if(lvInit)return;lvInit=true;
+  $('#lvCardSel').insertAdjacentHTML('beforeend',LD.cards.map(c=>`<option value="${c.n}">${c.n}. ${esc(c.t.replace(/^Describe /,'').replace(/\.$/,''))}</option>`).join(''));
+  $('#lvSupport').textContent=SRec?'В этом браузере есть распознавание речи: после теста будет расшифровка твоих ответов.'
+    :'В этом браузере нет распознавания речи: экзамен пройдёт с записью голоса, но без расшифровки. Для расшифровки открой сайт в Chrome или Edge.';
+}
+$('#lvModes').addEventListener('click',e=>{const b=e.target.closest('button[data-m]');if(!b)return;lvMode=b.dataset.m;$$('#lvModes button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));});
+
+function lvSay(line,part){
+  lvChk();
+  if(part)$('#lvPart').textContent=part;
+  $('#lvQ').textContent=$('#lvSubs').checked?line[0]:'🔊';
+  $('#lvState').textContent='Слушай экзаменатора';$('#lvDone').disabled=true;$('#lvLive').innerHTML='';
+  $('#lvAv').classList.add('talk');LV.last=line;
+  return new Promise(res=>{
+    let over=false,fell=false;
+    const fin=()=>{if(over)return;over=true;$('#lvAv').classList.remove('talk');lvAudio.onended=lvAudio.onerror=null;LV.wake=null;res();};
+    const tts=()=>{if(fell||over)return;fell=true;
+      if(!('speechSynthesis' in window)){setTimeout(fin,1200);return;}
+      const u=new SpeechSynthesisUtterance(line[0]);u.lang='en-GB';const v=speechSynthesis.getVoices().find(x=>/en[-_]GB/i.test(x.lang));if(v)u.voice=v;u.rate=.95;
+      u.onend=u.onerror=fin;speechSynthesis.speak(u);};
+    LV.wake=fin;lvAudio.onended=fin;lvAudio.onerror=tts;lvAudio.src='audio/'+line[1];
+    const pr=lvAudio.play();if(pr&&pr.catch)pr.catch(tts);
+  }).then(()=>{lvChk();return new Promise(r=>setTimeout(r,250));});
+}
+
+async function lvMic(){
+  if(LV.typed)return false;
+  try{
+    const st=await navigator.mediaDevices.getUserMedia({audio:{echoCancellation:true,noiseSuppression:true}});
+    LV.stream=st;const AC=window.AudioContext||window.webkitAudioContext;
+    if(AC){const ac=new AC();LV.ac=ac;const an=ac.createAnalyser();an.fftSize=1024;ac.createMediaStreamSource(st).connect(an);LV.an=an;LV.buf=new Float32Array(an.fftSize);}
+    if(window.MediaRecorder){try{const mr=new MediaRecorder(st);LV.chunks=[];mr.ondataavailable=e=>{if(e.data&&e.data.size)LV.chunks.push(e.data);};mr.start(1000);LV.mr=mr;}catch(e){}}
+    return true;
+  }catch(e){toast('Нет доступа к микрофону — отвечай текстом');return false;}
+}
+function lvLevel(){LV.an.getFloatTimeDomainData(LV.buf);let s=0;for(let i=0;i<LV.buf.length;i++)s+=LV.buf[i]*LV.buf[i];return Math.sqrt(s/LV.buf.length);}
+
+function lvListen(o){
+  lvChk();
+  return new Promise(resolve=>{
+    const t0=now();let fin='',inter='',spoke=false,last=now(),done=false,rec=null,floor=1,timer=null;
+    $('#lvState').textContent=LV.typed?'Напиши ответ и нажми Enter':'Говори — я слушаю';$('#lvDone').disabled=false;$('#lvLive').innerHTML='';
+    const draw=()=>{$('#lvLive').innerHTML=esc(fin)+(inter?' <span class="int">'+esc(inter)+'</span>':'');};
+    const finish=why=>{if(done)return;done=true;clearInterval(timer);LV.wake=null;LV.finish=null;LV.onTyped=null;
+      if(rec){rec.onend=null;try{rec.stop();}catch(e){}}
+      $('#lvDone').disabled=true;$('#lvLevel').style.width='0';$('#lvTime').textContent='';$('#lvTypedBox').hidden=true;
+      resolve({text:(fin+' '+inter).replace(/\s+/g,' ').trim(),ms:now()-t0,why,heard:spoke||!!fin});};
+    LV.wake=()=>finish('abort');LV.finish=finish;
+    if(LV.typed){$('#lvTypedBox').hidden=false;const ta=$('#lvTyped');ta.value='';ta.focus();LV.onTyped=v=>{fin=v;finish('typed');};}
+    else if(SRec){
+      rec=new SRec();rec.lang='en-GB';rec.continuous=true;rec.interimResults=true;
+      rec.onresult=e=>{inter='';for(let i=e.resultIndex;i<e.results.length;i++){const r=e.results[i];if(r.isFinal)fin+=(fin?' ':'')+r[0].transcript.trim();else inter+=r[0].transcript;}spoke=true;last=now();draw();};
+      rec.onerror=e=>{if(e.error==='not-allowed'||e.error==='service-not-allowed')rec=null;};
+      rec.onend=()=>{if(!done&&rec){try{rec.start();}catch(e){}}};
+      try{rec.start();}catch(e){}
+    }
+    timer=setInterval(()=>{
+      const t=now()-t0;
+      if(LV.an&&!LV.typed){const l=lvLevel();if(t<900)floor=Math.min(floor,l);
+        const thr=Math.max(.012,floor*3);$('#lvLevel').style.width=Math.min(100,l*600)+'%';
+        if(t>=900&&l>thr){spoke=true;last=now();}}
+      if(o.show&&o.max)$('#lvTime').textContent=lvClock(Math.max(0,Math.ceil((o.max-t)/1000)));
+      if(LV.typed)return;
+      if(o.max&&t>=o.max)return finish('time');
+      if(spoke&&now()-last>o.silence&&t>(o.min||0))return finish('silence');
+      if(!spoke&&t>(o.idle||12000))return finish('idle');
+    },100);
+  });
+}
+$('#lvDone').addEventListener('click',()=>{if(!LV||!LV.finish)return;if(LV.typed){const v=$('#lvTyped').value.trim();if(v&&LV.onTyped)LV.onTyped(v);else LV.finish('button');}else LV.finish('button');});
+$('#lvTyped').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();const v=e.target.value.trim();if(v&&LV&&LV.onTyped)LV.onTyped(v);}});
+$('#lvRep').addEventListener('click',()=>{if(LV&&LV.finish)LV.finish('repeat');});
+$('#lvQuit').addEventListener('click',()=>{if(LV){LV.quit=true;lvAbort();}});
+$('#lvPrepDone').addEventListener('click',()=>{if(LV&&LV.prepDone)LV.prepDone();});
+
+async function lvAsk(part,line,o,fu){
+  let r;
+  do{await lvSay(line,part);r=await lvListen(o);lvChk();}while(r.why==='repeat');
+  const turn={part,q:line[0],a:r.text,ms:r.ms,heard:r.heard,src:o.src};LV.turns.push(turn);
+  const w=r.text?r.text.split(/\s+/).length:0;
+  if(fu&&w>0&&w<fu.min){const f=LD.ph[lvPick(fu.ph)];await lvSay(f,part);const r2=await lvListen(o);lvChk();
+    turn.fu=f[0];turn.a=(turn.a+' … '+r2.text).trim();turn.ms+=r2.ms;}
+  return turn;
+}
+function lvCountdown(ms){
+  return new Promise(res=>{const t0=now();let i=null;
+    const end=()=>{clearInterval(i);LV.prepDone=null;LV.wake=null;$('#lvTime').textContent='';res();};
+    LV.prepDone=end;LV.wake=end;
+    i=setInterval(()=>{const left=ms-(now()-t0);$('#lvTime').textContent=lvClock(Math.max(0,Math.ceil(left/1000)));if(left<=0)end();},200);
+  }).then(()=>lvChk());
+}
+async function lvRun(){
+  const P1={max:45000,silence:2600,idle:10000},P3={max:80000,silence:3200,idle:12000};
+  const sel=$('#lvCardSel').value;const card=sel?LD.cards[+sel-1]:lvPick(LD.cards);LV.card=card;
+  if(lvMode==='full'){
+    const h=new Date().getHours();
+    await lvAsk('Introduction',LD.ph[h<12?'hi_morning':h<18?'hi_afternoon':'hi_evening'],{max:15000,silence:1800,idle:9000});
+    await lvAsk('Introduction',LD.ph.call,{max:12000,silence:1800,idle:8000});
+    await lvAsk('Introduction',LD.ph.from,{max:20000,silence:2200,idle:9000});
+  }
+  if(lvMode==='full'||lvMode==='p1'){
+    await lvSay(LD.ph[lvMode==='full'?'p1intro':'p1intro_short'],'Part 1');
+    const core=lvPick(LD.p1.filter(t=>t.core)),others=lvShuffle(LD.p1.filter(t=>!t.core)).slice(0,2);
+    for(const tp of [core,...others]){
+      LV.topics.push(tp);await lvSay(tp.intro,'Part 1 · '+tp.t);
+      for(const q of tp.qs.slice(0,tp===core?4:3))await lvAsk('Part 1 · '+tp.t,q,{...P1,src:'p'+tp.n},{min:7,ph:['why','more']});
+    }
+  }
+  if(lvMode!=='p1'){
+    await lvSay(LD.ph.p2intro,'Part 2');
+    $('#lvCardT').textContent=card.t;$('#lvCardP').innerHTML=card.pts.map(p=>`<li>${esc(p)}</li>`).join('');
+    $('#lvNotes').value='';$('#lvPrep').hidden=false;$('#lvCard').hidden=false;
+    await lvSay(card.ask,'Part 2');
+    $('#lvState').textContent='Минута на подготовку: подумай и запиши ключевые слова';
+    await lvCountdown(60000);$('#lvPrep').hidden=true;
+    await lvSay(LD.ph.p2start,'Part 2');
+    const r=await lvListen({max:120000,silence:7000,idle:15000,show:true});lvChk();
+    const turn={part:'Part 2',q:card.t,a:r.text,ms:r.ms,heard:r.heard,src:'c'+card.n,p2:true};LV.turns.push(turn);
+    let timeUp=r.why==='time';
+    if(!timeUp&&r.ms<60000){await lvSay(LD.ph.p2add,'Part 2');const r2=await lvListen({max:120000-r.ms,silence:5000,idle:8000,show:true});lvChk();
+      turn.a=(turn.a+' '+r2.text).trim();turn.ms+=r2.ms;timeUp=r2.why==='time';}
+    await lvSay(LD.ph[timeUp?'stop':'thanks'],'Part 2');$('#lvCard').hidden=true;
+  }
+  if(lvMode==='full'||lvMode==='p23'){
+    await lvSay(LD.ph.p3intro,'Part 3 · '+card.t.replace(/^Describe /,''));
+    for(const q of card.p3)await lvAsk('Part 3',q,{...P3,src:'c'+card.n},{min:20,ph:['why2','example']});
+  }
+  await lvSay(LD.ph.end,'Конец теста');
+}
+$('#lvStart').addEventListener('click',async()=>{
+  // unlock audio playback inside the click (needed on iPhone)
+  lvAudio.muted=true;lvAudio.src='audio/'+LD.ph.thanks[1];const u=lvAudio.play();if(u&&u.then)u.then(()=>{lvAudio.pause();lvAudio.muted=false;}).catch(()=>{lvAudio.muted=false;});else lvAudio.muted=false;
+  LV={abort:false,turns:[],topics:[],typed:$('#lvType').checked,start:now(),mode:lvMode};
+  $('#lvSetup').hidden=true;$('#lvResult').hidden=true;$('#lvRoom').hidden=false;$('#lvCard').hidden=true;$('#lvTypedBox').hidden=true;$('#lvQ').textContent='';
+  const mic=await lvMic();if(!mic)LV.typed=true;lvAudio.muted=false;
+  try{await lvRun();}catch(e){}
+  lvFinish();
+});
+
+const LV_STOP=new Set('the a an and or but so to of in on at for with is are was were be been it this that i you he she we they my your our their me him her us them do did does have has had not no yes very really just as if then than there here what which who when where why how about from by can could would will should all some any more most also because like well'.split(' '));
+function lvFinish(){
+  const L=LV;if(!L||L.ended)return;L.ended=true;L.abort=true;
+  const done=()=>{
+    if(L.stream)L.stream.getTracks().forEach(t=>t.stop());if(L.ac)try{L.ac.close();}catch(e){}
+    $('#lvRoom').hidden=true;
+    if(!L.turns.length){$('#lvSetup').hidden=false;return;}
+    const blob=L.chunks&&L.chunks.length?new Blob(L.chunks,{type:(L.mr&&L.mr.mimeType)||'audio/webm'}):null;
+    lvResults(L,blob);
+  };
+  if(L.mr&&L.mr.state!=='inactive'){L.mr.onstop=done;try{L.mr.stop();}catch(e){done();}}else done();
+  pushHist({k:'live',at:now()});changed();
+}
+function lvResults(L,blob){
+  const T=L.turns.filter(t=>!/^Introduction/.test(t.part));
+  const words=s=>(s.toLowerCase().match(/[a-z']+/g)||[]);
+  const all=T.flatMap(t=>words(t.a));const speakMs=T.reduce((a,t)=>a+t.ms,0);
+  const voiced=T.filter(t=>words(t.a).length>3);const wpm=!L.typed&&voiced.length?Math.round(voiced.reduce((a,t)=>a+words(t.a).length,0)/(voiced.reduce((a,t)=>a+t.ms,0)/60000)):null;
+  const fill=(T.map(t=>t.a).join(' ').toLowerCase().match(/\b(um+|uh+|erm|er|you know|i mean|basically|sort of|kind of)\b/g)||[]).length;
+  const content=all.filter(w=>w.length>2&&!LV_STOP.has(w));const uniq=new Set(content).size;
+  const cnt={};content.forEach(w=>{cnt[w]=(cnt[w]||0)+1;});const rep=Object.entries(cnt).filter(([,n])=>n>=4).sort((a,b)=>b[1]-a[1]).slice(0,6);
+  const p2=T.find(t=>t.p2);const hasText=all.length>0;
+  const shortT=t=>{const n=words(t.a).length;return t.p2?((!L.typed&&t.ms<75000)||(hasText&&n<120)):/^Part 3/.test(t.part)?(hasText&&n<30):(hasText&&n<12);};
+  const tips=[];
+  if(hasText){
+    if(wpm!=null&&wpm<100)tips.push('Темп ниже 100 слов в минуту — это заметные паузы. Тренируй ответы по схеме «ответ + причина + пример», чтобы речь шла без остановок.');
+    if(wpm!=null&&wpm>190)tips.push('Темп очень высокий (больше 190 слов в минуту) — экзаменатору может быть трудно следить. Делай паузы между мыслями.');
+    const sh=T.filter(shortT).length;if(sh)tips.push(`Короткие ответы: ${sh}. В Part 1 отвечай 2–3 предложениями, в Part 3 — 4–6 предложениями с причиной и примером.`);
+    if(fill>5)tips.push(`Слов-паразитов (um, uh, you know, kind of…): ${fill}. Замени их естественными связками: Well, … / Let me think… / That's an interesting question.`);
+    if(rep.length)tips.push('Часто повторяются слова: '+rep.map(([w,n])=>w+' ×'+n).join(', ')+'. Подбери синонимы — это влияет на Lexical Resource.');
+  }
+  if(p2&&!L.typed&&p2.ms<90000)tips.push(`Part 2 длилась ${lvClock(Math.round(p2.ms/1000))}. Старайся говорить до конца двух минут: пройди все пункты карточки и добавь, что ты чувствуешь и почему.`);
+  if(!tips.length&&hasText)tips.push('Хорошая работа: длина ответов и темп в норме. Теперь сравни свои ответы с образцами и выпиши 5 выражений, которые можно использовать.');
+  const links=[...new Map(T.filter(t=>t.src).map(t=>[t.src,t])).values()].map(t=>{const isC=t.src[0]==='c';const name=isC?'Part 2–3: '+(L.card?L.card.t:''):'Part 1: '+t.part.replace(/^Part 1 · /,'');
+    return `<li><a href="#${t.src}">${esc(name)}</a></li>`;}).join('');
+  const turns=L.turns.map(t=>{const n=words(t.a).length;const fl=shortT(t)&&!/^Introduction/.test(t.part);
+    return `<div class="lvturn"><div class="mm">${esc(t.part)}</div><div class="qq">${esc(t.q)}</div>${t.fu?`<div class="mm">Уточнение экзаменатора: ${esc(t.fu)}</div>`:''}
+    <div class="aa">${t.a?esc(t.a):'<i>(расшифровки нет)</i>'}</div><div class="mm">${lvClock(Math.round(t.ms/1000))} · ${n} слов${fl?'<span class="lvflag">коротко</span>':''}</div></div>`;}).join('');
+  $('#lvResult').innerHTML=`<div class="card"><p class="eyebrow">Результат</p><h2>Экзамен завершён</h2>
+   <div class="lvsum"><div><b>${L.typed?'—':lvClock(Math.round(speakMs/1000))}</b><span>ты говорил</span></div><div><b>${hasText?all.length:'—'}</b><span>слов</span></div>
+   <div><b>${wpm??'—'}</b><span>слов в минуту (норма 120–170)</span></div><div><b>${hasText?fill:'—'}</b><span>слов-паразитов</span></div>
+   <div><b>${hasText&&content.length?Math.round(100*uniq/content.length)+'%':'—'}</b><span>разнообразие лексики</span></div><div><b>${p2?lvClock(Math.round(p2.ms/1000)):'—'}</b><span>Part 2 (цель 1:40–2:00)</span></div></div>
+   ${blob?`<p><b>Запись экзамена:</b></p><audio controls src="${URL.createObjectURL(blob)}" style="width:100%"></audio><p><a class="btn" download="ielts-speaking.${/mp4/.test(blob.type)?'m4a':'webm'}" href="${URL.createObjectURL(blob)}">Скачать запись</a></p>`:''}
+   <h3>Что улучшить</h3><ul class="ql">${tips.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
+   ${links?`<h3>Образцы ответов на эти же вопросы</h3><ul class="ql">${links}</ul>`:''}
+   <div id="lvAi"></div>
+   <div class="acts"><button type="button" class="btn pri" id="lvAgain">Пройти ещё раз</button></div>
+   <p class="src">Расшифровка автоматическая: распознавание может ошибаться и обычно не записывает «um» и «uh». Произношение по тексту не оценить, поэтому послушай запись и сравни с образцами.</p></div>
+   <div class="card"><h3>Расшифровка</h3>${turns}</div>`;
+  $('#lvResult').hidden=false;window.scrollTo(0,0);
+  $('#lvAgain').addEventListener('click',()=>{$('#lvResult').hidden=true;$('#lvSetup').hidden=false;window.scrollTo(0,0);});
+  if(hasText)lvAi(L);
+}
+async function lvAi(L){
+  try{
+    if(!window.claude||typeof window.claude.use!=='function')return;
+    const sample=await window.claude.use('sample');if(!sample)return;
+    const box=$('#lvAi');box.innerHTML='<div class="note"><b>Оценка ИИ</b><p>ИИ-экзаменатор может оценить твои ответы по критериям IELTS.</p><button type="button" class="btn pri" id="lvAiGo">Получить оценку</button></div>';
+    $('#lvAiGo').addEventListener('click',async()=>{
+      const out=document.createElement('div');out.className='lvlive';out.textContent='Оцениваю…';box.querySelector('.note').appendChild(out);$('#lvAiGo').disabled=true;
+      const tr=L.turns.map(t=>`${t.part}\nExaminer: ${t.q}\nCandidate (${Math.round(t.ms/1000)} s): ${t.a||'(no transcript)'}`).join('\n\n');
+      const prompt='You are an experienced IELTS Speaking examiner. Below is an automatic speech-to-text transcript of a practice test (fillers like um/uh are usually not transcribed, punctuation is automatic). Estimate bands for Fluency and Coherence, Lexical Resource, and Grammatical Range and Accuracy (say that Pronunciation cannot be judged from text). Give an overall band range, 3 strengths, 3 priorities, and rewrite 3 of the candidate\'s weakest sentences at band 7-8 level. Write the feedback in Russian, keep examples in English, under 350 words, plain text without markdown tables.\n\n'+tr;
+      try{const r=await sample(prompt,{onText:({text})=>{out.textContent=text;}});out.textContent=r.text;}
+      catch(e){out.textContent=e&&e.code==='rate_limited'?'Слишком много запросов, попробуй через минуту.':'Оценка сейчас недоступна.';$('#lvAiGo').disabled=false;}
+    });
+  }catch(e){}
+}
+
 function openGram(k){
   $$('#v-gram .gtopic').forEach(a=>{a.hidden=a.id!==k;});
   const a=document.getElementById(k);const nav=$('.gnav',a);
@@ -640,7 +931,7 @@ function refresh(){
   docProgress();
 }
 function render(v){
-  if(v==='grammar')renderGrammar();else if(v==='home')renderHome();else if(v==='reading')renderReading();else if(v==='listening')renderListening();else if(v==='search')renderSearch();
+  if(v==='live')renderLive();else if(v==='grammar')renderGrammar();else if(v==='home')renderHome();else if(v==='reading')renderReading();else if(v==='listening')renderListening();else if(v==='search')renderSearch();
 }
 const firstOpen=list=>list.find(u=>status(u.dataset.k)!=='done');
 const day=t=>{const d=new Date(t);return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();};

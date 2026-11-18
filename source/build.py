@@ -2,6 +2,7 @@
 """Builds ielts/IELTS_4_Skills.html from the source files in ielts/src."""
 import glob, html, json, os, re, shutil
 from gram_build import build_grammar, STAGES
+from live_build import script as live_script
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, "src")
@@ -511,7 +512,8 @@ def main():
              "tests": [{k: x[k] for k in ("k", "st", "n", "title")} for x in gs]}
     page = page.replace("{{GRAMMAR}}", "\n".join(x["html"] for x in gt + gs)).replace(
         "{{GDATA}}", json.dumps(gdata, ensure_ascii=False).replace("</", "<\\/")).replace(
-        "{{NG}}", str(len(gt)))
+        "{{NG}}", str(len(gt))).replace(
+        "{{LDATA}}", json.dumps(live_script(), ensure_ascii=False).replace("</", "<\\/"))
     for k, v in {
         "{{READING}}": reading, "{{RTOC}}": rtoc, "{{NR}}": str(nr), "{{NQ}}": str(nq),
         "{{LISTENING}}": listening, "{{LTOC}}": ltoc, "{{NL}}": str(nl),
@@ -537,8 +539,9 @@ def main():
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n<meta name=\"color-scheme\" content=\"light\">\n"
         + head + "</head>\n<body>\n" + body.replace("{{AUDIONOTE}}", "") + "</body>\n</html>\n")
     open(os.path.join(site, ".nojekyll"), "w").close()
-    for f in glob.glob(os.path.join(ROOT, "audio", "*.mp3")):
-        dst = os.path.join(site, "audio", os.path.basename(f))
+    os.makedirs(os.path.join(site, "audio", "sp"), exist_ok=True)
+    for f in glob.glob(os.path.join(ROOT, "audio", "*.mp3")) + glob.glob(os.path.join(ROOT, "audio", "sp", "*.mp3")):
+        dst = os.path.join(site, "audio", os.path.relpath(f, os.path.join(ROOT, "audio")))
         if not os.path.exists(dst) or os.path.getsize(dst) != os.path.getsize(f):
             shutil.copyfile(f, dst)
     print(f"reading passages: {nr}, reading questions: {nq}, listening: {nl}")
