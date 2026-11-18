@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Builds ielts/IELTS_4_Skills.html from the source files in ielts/src."""
-import glob, html, os, re, shutil
+import glob, html, json, os, re, shutil
+from gram_build import build_grammar, STAGES
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, "src")
@@ -505,6 +506,12 @@ def main():
     nl, ltoc, listening = build_listening(errors)
     rd = lambda n: open(os.path.join(SRC, n), encoding="utf-8").read()
     page = rd("template.html")
+    gt, gs = build_grammar(errors)
+    gdata = {"stages": STAGES, "topics": [{k: x[k] for k in ("k", "n", "st", "title", "desc", "np", "nt", "pi")} for x in gt],
+             "tests": [{k: x[k] for k in ("k", "st", "n", "title")} for x in gs]}
+    page = page.replace("{{GRAMMAR}}", "\n".join(x["html"] for x in gt + gs)).replace(
+        "{{GDATA}}", json.dumps(gdata, ensure_ascii=False).replace("</", "<\\/")).replace(
+        "{{NG}}", str(len(gt)))
     for k, v in {
         "{{READING}}": reading, "{{RTOC}}": rtoc, "{{NR}}": str(nr), "{{NQ}}": str(nq),
         "{{LISTENING}}": listening, "{{LTOC}}": ltoc, "{{NL}}": str(nl),

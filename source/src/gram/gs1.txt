@@ -1,0 +1,106 @@
+# S1 | Итоговый тест этапа 1 | 1
+@INTRO 100 вопросов по темам 1–7: порядок слов, части речи, местоимения, артикли, существительные, прилагательные и наречия, предлоги. Вопросы сложнее, чем в тестах по темам: многие проверяют сразу два правила. Делай без подсказок, за один подход (около 50 минут). Цель — 85 из 100 и выше. Если меньше, открой темы, где больше всего ошибок, и пройди их практику ещё раз.
+@TEST MCQ Часть A. Выбери правильный вариант (40)
+____ is no point in complaining now. | A It | B There | C This | B
+____ is said that the city was founded in the 12th century. | A There | B It | C That | B
+Which sentence is correct? | A She speaks fluently three languages. | B She speaks three languages fluently. | C She fluently three languages speaks. | B
+Which sentence is correct? | A We never have visited Rome. | B We have visited never Rome. | C We have never visited Rome. | C
+Which sentence is correct? | A Although it rained, we went out. | B Although it rained, but we went out. | C It rained, although, we went out. | A
+The ____ of the new airport will create thousands of jobs. | A construct | B construction | C constructive | B
+Many people find it difficult to stay ____ during exams. | A calm | B calmly | C calmness | A
+The government's decision was ____ criticised. | A wide | B widely | C width | B
+A hybrid car is more ____ than a petrol car. | A economic | B economical | C economy | B
+There has been a ____ improvement in air quality. | A noticeable | B noticeably | C notice | A
+Neither of my parents ____ English. | A speak | B speaks | C speaking | B
+My sister and ____ are planning a trip. | A me | B I | C myself | B
+The two leaders shook hands and congratulated ____. | A themselves | B each other | C them | B
+If anyone calls, tell ____ I'll be back at five. | A it | B them | C they | B | # anyone, someone → them (форма без указания пола).
+This is not my umbrella. Mine is the black ____. | A it | B one | C ones | B
+Prices rose by 50% in a year. ____ forced many families to change their spending habits. | A It's | B These | C This | C | # This указывает на всю предыдущую мысль.
+____ elderly often feel isolated in big cities. | A — | B The | C An | B
+____ Thames flows through the centre of London. | A — | B The | C A | B
+I'd like to study ____ history of ____ Roman Empire. | A the / the | B — / the | C the / — | A
+She has ____ MSc in economics. | A a | B an | C the | B
+Most people in ____ UK live in towns. | A — | B a | C the | C
+How ____ research has been done on this subject? | A many | B much | C a few | B
+Only ____ people came, so the hall looked empty. | A a few | B few | C little | B
+The criteria for selection ____ very strict. | A is | B are | C has | B
+The number of people living alone ____ risen. | A have | B has | C are | B
+I bought two new pieces of ____. | A furnitures | B furniture | C furniture's | B
+There is ____ traffic in the city today than yesterday. | A fewer | B less | C little | B
+The children were ____ by the magic show. | A amazed | B amazing | C amazement | A
+The figure remained ____ throughout the period. | A constantly | B constant | C constance | B
+It was ____ that everyone stayed until the end. | A so interesting film | B such an interesting film | C a so interesting film | B
+The bag was ____ heavy for me to carry. | A enough | B too | C so | B
+I could ____ understand him because he spoke so quickly. | A hard | B hardly | C harder | B
+She is ____ qualified for the job. | A high | B highly | C height | B
+I have been waiting here ____ two o'clock. | A for | B since | C from | B
+The new law will come into force ____ 1 January. | A in | B at | C on | C
+Applications must be submitted ____ 30 June at the latest. | A until | B by | C on | B
+The proportion of students living at home rose ____ 30% ____ 45%. | A by / to | B from / to | C from / by | B
+Our success will depend ____ how well we work together. | A of | B on | C from | B
+I'm not used to ____ up so early. | A get | B getting | C got | B
+The rise ____ house prices has made it hard for young people to buy a home. | A of | B in | C on | B
+@TEST GAP Часть B. Впиши одно слово или нужную форму (25)
+____ is essential to wear a helmet when cycling. | It
+____ were not enough chairs for everyone. | There
+The ____ of fast food has led to health problems. (POPULAR) | popularity
+Many young people are ____ about the future. (OPTIMISM) | optimistic
+The museum is ____ located in the city centre. (CONVENIENCE) | conveniently
+Students should take ____ for their own learning. (RESPONSIBLE) | responsibility
+This decision will ____ affect thousands of workers. (DIRECT) | directly
+The two ____ (crisis) of the 1970s changed the economy. | crises
+____ (child) under five travel free. | Children
+She gave me a good piece of ____. (ADVISE) | advice
+The company has reduced ____ prices. (it) | its
+They looked at ____ in the mirror. (they) | themselves
+She was ____ (bore) because there was nothing to do. | bored
+He works very ____ (hard) and rarely takes a holiday. | hard
+Have you heard from Tom ____ (late)? | lately
+The singer is famous ____ her powerful voice. | for
+Many animals are in danger ____ extinction. | of
+The decision was based ____ the results of a survey. | on
+The town has changed a lot ____ the last decade. | over/in/during
+He has been working here ____ he left university. | since
+The plane landed ____ Heathrow at 6 am. | at
+She went ____ the room and closed the door. | into
+This rule doesn't apply ____ children under 12. | to
+He apologised ____ being late. | for
+Coffee is grown mainly in ____ tropics. | the
+@TEST ERR Часть C. Найди ошибку (20)
+(A) Nowadays (B) has become (C) common to (D) work from home. | B | # it has become common
+(A) Exercise (B) is good for (C) the health, (D) and it reduces stress. | C | # for health (вообще)
+(A) Many people (B) moved abroad, (C) they (D) wanted higher salaries. | B | # comma splice: …abroad because they wanted…
+(A) The informations (B) on this website (C) are (D) out of date. | A | # The information … is
+(A) Unemployment (B) fell (C) dramatical (D) after 2012. | C | # dramatically
+(A) Each (B) of the students (C) have (D) a locker. | C | # has
+(A) I (B) haven't seen (C) nobody (D) today. | C | # anybody
+(A) She is (B) the most (C) intelligent person (D) than I know. | D | # that I know / I know
+(A) The team (B) is playing (C) very good (D) this season. | C | # very well
+(A) He (B) has lived (C) in Canada (D) since ten years. | D | # for ten years
+(A) The amount of (B) cars (C) in the city (D) has doubled. | A | # The number of cars
+(A) She (B) explained (C) us (D) the rules. | C | # explained the rules to us
+(A) The film was (B) so (C) bored that (D) I left early. | C | # so boring
+(A) We need (B) a solution (C) of (D) this problem. | C | # a solution to
+(A) I (B) am agree (C) with (D) your opinion. | B | # I agree
+(A) Fewer (B) money (C) is spent (D) on research now. | A | # Less money
+(A) The Mount Everest (B) is (C) the highest mountain (D) in the world. | A | # Mount Everest
+(A) The children (B) were (C) very excited (D) of the trip. | D | # excited about the trip
+(A) The government (B) should invest (C) more money (D) to education. | D | # invest in education
+(A) He (B) gave (C) me (D) an useful tip. | D | # a useful tip
+@TEST CI Часть D. Правильно (C) или с ошибкой (I)? (15)
+There are many reasons why people move to cities. | C
+It has many problems in big cities. | I | # There are many problems…
+The number of tourists has increased steadily. | C
+She is very interesting in art. | I | # interested in art
+I look forward to meeting you. | C
+Life in the countryside is quieter. | C
+The life in the countryside is quieter. | I | # Life (вообще)
+Everybody were happy with the result. | I | # Everybody was
+We had a lovely time at the beach. | C
+He drives too fast to be safe. | C
+The police is investigating the crime. | I | # The police are
+The figure for Brazil was slightly higher. | C
+I feel myself much better today. | I | # I feel much better
+She has made a lot of progresses. | I | # a lot of progress
+Smoking is banned in all public places. | C

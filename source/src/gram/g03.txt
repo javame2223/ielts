@@ -1,0 +1,102 @@
+# 3 | Pronouns | 1 | Личные, притяжательные, возвратные и неопределённые местоимения; it, they, one, each other
+@GOAL Без ошибок выбирать форму местоимения и следить, чтобы каждое местоимение ясно указывало, к чему относится. Неясные it/they/this снижают оценку за Coherence and Cohesion.
+@PLAN
+1. Субъектные и объектные формы: I / me, they / them.
+2. Притяжательные: my / mine, their / theirs.
+3. Возвратные: myself, themselves — и когда они НЕ нужны.
+4. Неопределённые: some-, any-, no-, every- + body/thing/where.
+5. One / ones, each other, it vs this, «общие» you / they.
+6. Практика 1–4 и тест по теме.
+@THEORY
+### 1. Основная таблица
+| Подлежащее | Дополнение | Притяж. + сущ. | Притяж. без сущ. | Возвратное |
+| I | me | my book | mine | myself |
+| you | you | your | yours | yourself / yourselves |
+| he | him | his | his | himself |
+| she | her | her | hers | herself |
+| it | it | its | — | itself |
+| we | us | our | ours | ourselves |
+| they | them | their | theirs | themselves |
+- После предлога — объектная форма: *between you and **me***, *for **them***.
+- **its** (его/её — о предмете) без апострофа; **it's** = it is / it has.
+- В английском **нет слова «свой»**: выбирай по лицу. *They love **their** children. She sold **her** car.*
+✗ My friend and me went to the cinema. → ✓ My friend and I went to the cinema.
+✗ The company changed it's logo. → ✓ The company changed its logo.
+✗ Every student must bring his own book. (если пол неизвестен) → ✓ Every student must bring their own book.
+### 2. Возвратные местоимения
+Нужны, когда подлежащее и дополнение — одно лицо: *She hurt **herself**. Enjoy **yourselves**!* Также для усиления: *The president **himself** opened the bridge.* *By myself* = один, без помощи.
+С глаголами **feel, relax, concentrate, meet, wash, dress, shave** возвратное обычно **не** нужно (в отличие от русского «-ся»).
+✗ I feel myself tired. → ✓ I feel tired.
+✗ We met ourselves at the station. → ✓ We met at the station.
+✗ They help themselves each other. → ✓ They help each other.
+### 3. Неопределённые местоимения
+| | some- | any- | no- | every- |
+| -body / -one | somebody | anybody | nobody | everybody |
+| -thing | something | anything | nothing | everything |
+| -where | somewhere | anywhere | nowhere | everywhere |
+- **some-** — утверждения и предложения/просьбы: *Would you like **something** to drink?*
+- **any-** — вопросы и отрицания; в утверждении = «любой»: *You can call me **any** time.*
+- **no-** — уже содержит отрицание: ✗ *I don't know nobody* → ✓ *I don't know **anybody*** / ✓ *I know **nobody***.
+- Глагол после everybody, nobody, everything — **в единственном числе**: *Everybody **knows** this.*
+### 4. One / ones, each other, it / this
+- **one / ones** заменяют исчисляемое существительное: *I don't like the red shirt; I prefer the blue **one**.*
+- **each other / one another** — «друг друга»: *They love **each other**.*
+- **it** указывает на конкретный предмет; **this** — на целую мысль из предыдущего предложения: *Prices rose sharply. **This** led to protests.*
+- Обобщённое «люди»: **people**, **you** (разговорное), **we** (мы, общество), **one** (очень формально). В эссе лучше *people* или *we*.
+IELTS: в Writing каждое **it / they / this** должно однозначно указывать назад. Если в предыдущем предложении два существительных, лучше повтори одно из них или используй *this + существительное*: *This trend…, This problem…, These changes…* — это прямой путь к высокой оценке за Cohesion.
+@EX MCQ Выбери местоимение
+My brother and ____ share a flat. | A me | B I | C myself | B
+This decision is between you and ____. | A I | B me | C myself | B
+The company has increased ____ profits. | A it's | B its | C their's | B
+Is this bag yours or ____? | A her | B hers | C her's | B
+They built the house ____, without any help. | A them | B themselves | C theirselves | B
+Every child should have ____ own bed. | A their | B its | C them | A
+Tom and Anna have known ____ since school. | A themselves | B each other | C them | B
+I don't need a new phone; my old ____ works well. | A one | B ones | C it | A
+Can I ask you ____? It's about tomorrow's meeting. | A anything | B something | C nothing | B
+She didn't say ____ at the meeting. | A something | B nothing | C anything | C
+Nobody ____ the answer. | A know | B knows | C are knowing | B
+Prices doubled in one year. ____ caused a lot of anger. | A This | B It's | C These | A
+@EX GAP Возвратное местоимение или ничего? (впиши местоимение или «-», если оно не нужно)
+Be careful with the knife — you might cut ____. | yourself
+After work I like to relax ____ in the garden. | -/—/–/0/none/нет
+The children enjoyed ____ at the party. | themselves
+Do you feel ____ better today? | -/—/–/0/none/нет
+We built this website ____. | ourselves
+He taught ____ to play the guitar. | himself
+I can't concentrate ____ when it's noisy. | -/—/–/0/none/нет
+The machine switches ____ off automatically. | itself
+@EX GAP Some-, any-, no-, every-
+I'm hungry. Is there ____ to eat? | anything
+____ was at home, so I left a note. | Nobody/No one
+I've looked ____ for my keys, but I can't find them. | everywhere
+Would you like ____ to drink? | something
+I didn't go ____ last weekend; I stayed at home. | anywhere
+____ needs friends — it is part of human nature. | Everybody/Everyone
+There is ____ we can do about the weather. | nothing
+You can sit ____ you like. | anywhere
+@EX ERR Найди ошибку
+(A) Me and (B) my sister (C) went (D) to London. | A | # My sister and I…
+(A) Everyone (B) have (C) the right (D) to education. | B | # Everyone has
+(A) The city is famous (B) for it's (C) beautiful (D) parks. | B | # its
+(A) I (B) don't (C) know (D) nothing about it. | D | # anything
+(A) When I am tired, (B) I (C) feel myself (D) sad. | C | # I feel sad
+(A) My parents (B) and their friends (C) helped (D) themselves to move. | D | # helped us/me to move или helped each other
+(A) The government (B) promised that (C) it would cut taxes, (D) but they didn't did it. | D | # but it didn't do it
+@TEST MCQ Тест
+They invited my wife and ____ to dinner. | A I | B me | C myself | B
+Each of the students has ____ own laptop. | A their | B its | C them | A
+This phone is not mine; it's ____. | A your | B yours | C yours' | B
+The two countries help ____ in times of crisis. | A themselves | B each other | C them | B
+I looked for my glasses but couldn't find ____ anywhere. | A it | B them | C ones | B
+Did you go ____ interesting on holiday? | A somewhere | B anywhere | C nowhere | B
+____ in the room was silent. | A Everyone | B Anyone | C Each other | A
+Unemployment rose to 12%. ____ was the highest level for 20 years. | A This | B These | C Those | A
+The cat hurt ____ when it jumped off the roof. | A it | B itself | C its | B
+I didn't buy the large shoes; I bought the small ____. | A one | B ones | C them | B
+@TEST ERR Тест: найди ошибку
+(A) Between you and (B) I, (C) the plan (D) won't work. | B | # between you and me
+(A) Nobody (B) in my family (C) like (D) fish. | C | # likes
+(A) We (B) must protect (C) the environment for (D) ourselves children. | D | # our children
+(A) The museum (B) changed (C) it's opening hours (D) last year. | C | # its
+(A) I (B) prefer to relax (C) myself (D) at home. | C | # relax at home

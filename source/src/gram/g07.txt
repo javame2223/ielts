@@ -1,0 +1,112 @@
+# 7 | Prepositions | 1 | Время, место, движение, зависимые предлоги и предлоги графиков Task 1 (rise by / to, an increase in)
+@GOAL Точно использовать предлоги времени и места, знать самые частые сочетания «глагол / прилагательное / существительное + предлог» и не путать *by* и *to* в описании изменений на графиках.
+@PLAN
+1. Время: at / on / in; for / since / during; by / until.
+2. Место: at / on / in; движение: to / into / towards.
+3. Зависимые предлоги после глаголов, прилагательных и существительных.
+4. Предлоги в Task 1: rise to / by / from … to, an increase in / of.
+5. Предлог + -ing.
+6. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Время
+| at | on | in |
+| точное время, праздники, «точки»: **at** 6 pm, **at** night, **at** the weekend (BrE), **at** Christmas, **at** the end of | дни и даты: **on** Monday, **on** 5 May, **on** my birthday, **on** Monday morning | месяцы, годы, века, части дня, периоды: **in** May, **in** 2020, **in** the 1990s, **in** the morning, **in** summer |
+- **for** + отрезок (сколько): *for three years*; **since** + начало (с какого момента): *since 2015*.
+- **during** + существительное (во время чего): *during the war*; **while** + предложение: *while I was studying*.
+- **by** = не позже: *by 2030, by Friday*; **until** = вплоть до (действие длится): *wait until 5 pm*.
+- **in** time = вовремя (с запасом), **on** time = точно по расписанию.
+- Без предлога: *last year, next week, this morning, every day*.
+✗ in Monday → ✓ on Monday ✗ during three years → ✓ for three years ✗ since three years → ✓ for three years
+### 2. Место и движение
+- **at** — точка: *at the station, at home, at work, at the bus stop*.
+- **on** — поверхность, линия: *on the wall, on the third floor, on the coast, on the river* (город на реке).
+- **in** — внутри, территории: *in the room, in London, in Asia, in the north of the country*.
+- Движение: **to** (куда), **into** (внутрь), **out of**, **towards** (по направлению), **through**, **across**, **along**.
+- *arrive **at*** (здание, место) / *arrive **in*** (город, страна); *get **to***; но **go home** (без to).
+### 3. Зависимые предлоги (выучить как слова)
+| Глагол + предлог | Прилагательное + предлог | Существительное + предлог |
+| depend **on**, rely **on**, focus **on**, spend money **on** | interested **in**, good **at**, responsible **for**, aware **of** | an increase **in**, a decrease **in**, a rise **in** |
+| apply **for**, pay **for**, account **for** | afraid **of**, proud **of**, capable **of** | a solution **to**, the answer **to**, access **to** |
+| belong **to**, contribute **to**, lead **to** | similar **to**, related **to**, addicted **to** | the reason **for**, the demand **for**, a need **for** |
+| suffer **from**, benefit **from**, protect **from** | different **from**, famous **for** | an impact **on**, an effect **on**, an influence **on** |
+| consist **of**, approve **of**, take care **of** | keen **on**, dependent **on** | a cause **of**, a lack **of**, an advantage **of** |
+✗ It depends of the weather. → ✓ It depends on the weather.
+✗ We discussed about the problem. → ✓ We discussed the problem.
+✗ The solution of this problem… → ✓ The solution to this problem…
+✗ Technology has a big influence to children. → ✓ Technology has a big influence on children.
+### 4. Предлоги графиков (Task 1)
+- **rose to** 50% — до какого уровня; **rose by** 10% — на сколько; **rose from** 40% **to** 50%.
+- **an increase / a rise / a fall in** sales — в чём; **an increase of** 10% — величина.
+- **at** its peak, **at** 20% (*stood at 20%*), **with** 20% (*Japan came second, with 20%*).
+- **between** 2000 **and** 2010, **from** 2000 **to** 2010, **over** the period, **in** the first year.
+- **the figure for** France, **the proportion of** women.
+✗ Sales increased with 20%. → ✓ Sales increased by 20%.
+✗ There was a rise of unemployment. → ✓ There was a rise in unemployment.
+### 5. Предлог + -ing
+После предлога глагол стоит в форме **-ing**: *interested **in learning**, good **at solving**, instead **of driving**, **before leaving**, **by using***. И *look forward **to** + -ing*: *I look forward **to hearing** from you.*
+IELTS: в письмах GT финальная фраза *I look forward to hearing from you* (не *to hear*). В Task 1 путаница *by / to* меняет смысл цифр и снижает оценку за Task Achievement.
+@EX MCQ At / on / in (время)
+The shop opens ____ 9 am. | A in | B on | C at | C
+I was born ____ 2004. | A in | B on | C at | A
+We have a meeting ____ Friday. | A in | B on | C at | B
+It is cold here ____ winter. | A in | B on | C at | A
+I usually read ____ night. | A in | B on | C at | C
+The museum was built ____ the 19th century. | A in | B on | C at | A
+She left ____ the morning of 3 June. | A in | B on | C at | B
+Prices always rise ____ Christmas. | A in | B on | C at | C
+@EX MCQ For / since / during / by / until
+I have lived here ____ ten years. | A since | B for | C during | B
+She has worked at the bank ____ 2019. | A since | B for | C during | A
+He fell asleep ____ the lecture. | A for | B during | C while | B
+The report must be finished ____ Monday. | A until | B by | B | # by = не позже
+We waited ____ midnight, but nobody came. | A by | B until | B
+The population is expected to reach 10 million ____ 2050. | A until | B by | B
+I met her ____ I was living in Paris. | A during | B while | B
+They have been married ____ a long time. | A since | B for | B
+@EX GAP Зависимые предлоги
+Our success depends ____ hard work. | on
+She is very good ____ maths. | at
+Smoking can lead ____ serious diseases. | to
+Many cities suffer ____ air pollution. | from
+Who is responsible ____ this mess? | for
+I'm not interested ____ politics. | in
+Tourism has a huge impact ____ the environment. | on
+There is no simple solution ____ this problem. | to
+Women account ____ half of the workforce. | for
+This book is very similar ____ the one I read last year. | to
+The team consists ____ eleven players. | of
+There is a growing demand ____ electric cars. | for
+@EX MCQ Предлоги графиков
+Sales rose ____ 20% — from 100 to 120 units. | A to | B by | C with | B
+Sales rose from 100 units ____ 120 units. | A by | B to | C on | B
+There was a sharp increase ____ unemployment. | A of | B in | C on | B
+There was an increase ____ 5% in the number of students. | A in | B of | C by | B
+Unemployment stood ____ 7% in 2010. | A at | B on | C in | A
+Japan came second, ____ 25% of the total. | A by | B at | C with | C
+The figure ____ Germany was much lower. | A for | B of | C on | A
+The number fell ____ its lowest point in 2005. | A to | B by | C at | A
+@EX ERR Найди ошибку
+(A) We (B) discussed (C) about (D) the new plan. | C | # discussed the plan
+(A) I look forward (B) to (C) hear (D) from you. | C | # to hearing
+(A) It (B) depends (C) of (D) the situation. | C | # depends on
+(A) The number of tourists (B) increased (C) with (D) 15%. | C | # increased by 15%
+(A) She (B) arrived (C) to (D) London yesterday. | C | # arrived in London
+(A) I have studied (B) English (C) since (D) five years. | C | # for five years
+(A) Instead of (B) take (C) the bus, (D) he walked. | B | # instead of taking
+@TEST MCQ Тест
+The conference starts ____ 10 May. | A in | B on | C at | B
+The company was founded ____ 1998. | A on | B at | C in | C
+He has been unemployed ____ six months. | A since | B for | C during | B
+The project should be finished ____ the end of the year. | A by | B until | C since | A
+We stayed indoors ____ the storm. | A while | B during | C for | B
+She is afraid ____ spiders. | A from | B of | C about | B
+Exercise has a positive effect ____ mental health. | A to | B on | C for | B
+Profits increased ____ 15% to 25%. | A by | B of | C from | C
+There was a slight decrease ____ the number of births. | A of | B in | C on | B
+They are very proud ____ their son. | A on | B of | C for | B
+@TEST ERR Тест: найди ошибку
+(A) The price of oil (B) rose (C) by (D) its highest level in 2008. | C | # rose to its highest level
+(A) Children (B) are addicted (C) on (D) their phones. | C | # addicted to
+(A) I will wait (B) here (C) by (D) you come back. | C | # until you come back
+(A) She is (B) responsible (C) of (D) the marketing team. | C | # responsible for
+(A) There was (B) a (C) rise of (D) unemployment. | C | # a rise in unemployment

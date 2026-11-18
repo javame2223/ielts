@@ -1,0 +1,100 @@
+# 1 | Sentence Structure | 1 | Порядок слов, подлежащее it/there, простые, сложносочинённые и сложноподчинённые предложения
+@GOAL Строить грамматически полные английские предложения с правильным порядком слов и соединять их без ошибок пунктуации, которые на IELTS снижают оценку за Grammatical Range and Accuracy.
+@PLAN
+1. Базовый порядок слов: подлежащее → сказуемое → дополнение (SVO).
+2. Подлежащее обязательно: «пустые» it и there.
+3. Где стоят наречия частоты, места и времени.
+4. Три типа предложений: simple, compound, complex.
+5. Ошибки границ предложения: fragment, run-on, comma splice.
+6. Практика 1–4 и тест по теме.
+@THEORY
+### 1. Порядок слов SVO
+В русском порядок слов свободный («Книгу купил брат» = «Брат купил книгу»). В английском **смысл держится на порядке**: подлежащее (S) → сказуемое (V) → дополнение (O) → обстоятельства (место, время).
+| S | V | O | Место | Время |
+| My brother | bought | a new laptop | in London | last week. |
+| The government | has introduced | a new law | — | this year. |
+> The number of tourists rose sharply in 2020. (не *Sharply rose the number…*)
+### 2. Подлежащее есть всегда: it и there
+В русском можно сказать «Холодно», «Важно учиться», «В городе много парков». В английском без подлежащего нельзя: ставим формальное **it** или **there**.
+- **It** — погода, время, расстояние, оценка: *It is cold. It is 5 km to the station. It is important to sleep well.*
+- **There is / there are** — «есть, имеется, находится»: *There are many parks in the city. There was a sharp rise in prices.*
+✗ Is important to protect the environment. → ✓ It is important to protect the environment.
+✗ In my city have many problems. → ✓ There are many problems in my city.
+✗ It has many parks in my city. → ✓ There are many parks in my city.
+### 3. Место наречий
+- **Наречия частоты** (always, usually, often, never) — перед смысловым глаголом, но после be: *She **often** works late. She is **often** late.*
+- **Место → время** в конце предложения: *I met him **at the station yesterday**.*
+- Наречие **не ставится между глаголом и дополнением**.
+✗ I like very much football. → ✓ I like football very much.
+✗ He speaks very well English. → ✓ He speaks English very well.
+### 4. Три типа предложений
+| Тип | Как устроено | Пример |
+| Simple | одно подлежащее + одно сказуемое | Prices rose. |
+| Compound | два простых + **and, but, or, so, yet** (с запятой перед союзом) | Prices rose, but sales remained stable. |
+| Complex | главное + придаточное с **because, although, when, if, while, which, who, that** | Although prices rose, sales remained stable. |
+Если придаточное стоит **первым**, после него ставится запятая: *When the factory closed, many people lost their jobs.* Если вторым — запятая обычно не нужна: *Many people lost their jobs when the factory closed.*
+### 5. Ошибки границ предложения
+- **Fragment** — кусок без главного предложения: ✗ *Because it is cheap.* — это не предложение.
+- **Comma splice** — два предложения через запятую: ✗ *Prices rose, people bought less.*
+- **Run-on** — два предложения вообще без знака.
+Исправить можно точкой, союзом, точкой с запятой или придаточным.
+✗ Many people moved to cities, they wanted better jobs. → ✓ Many people moved to cities because they wanted better jobs.
+✗ Because public transport is cheap. → ✓ Many people use public transport because it is cheap.
+IELTS: экзаменатор оценивает **range** (разнообразие) и **accuracy** (точность). Для Band 7 нужно «a variety of complex structures» и частые безошибочные предложения. Смешивай простые, сложносочинённые и сложноподчинённые предложения, но не ценой ошибок: comma splice — одна из самых частых ошибок, которая не даёт подняться выше 6.0.
+@EX MCQ Порядок слов
+Choose the correct sentence. | A Sharply rose the price of oil. | B The price of oil rose sharply. | C The price sharply of oil rose. | B
+Choose the correct sentence. | A I like very much reading. | B I very much like reading books. | C I like reading very much. | C | # Наречие не ставится между глаголом и дополнением.
+Choose the correct sentence. | A She is always on time. | B She always is on time. | C Always she is on time. | A | # С глаголом be наречие частоты стоит после него.
+Choose the correct sentence. | A They play often tennis. | B They often play tennis. | C They play tennis often always. | B
+Choose the correct sentence. | A I met yesterday my friend at the cinema. | B I met my friend yesterday at the cinema. | C I met my friend at the cinema yesterday. | C | # Сначала место, потом время.
+Choose the correct sentence. | A He speaks English fluently. | B He speaks fluently English. | C Fluently he English speaks. | A
+Choose the correct sentence. | A Last year visited the museum two million people. | B Two million people visited the museum last year. | C Two million people last year the museum visited. | B
+Choose the correct sentence. | A We have never been to Japan. | B We never have been to Japan. | C We have been never to Japan. | A | # Наречие частоты — между вспомогательным и смысловым глаголом.
+Choose the correct sentence. | A The government should strictly control advertising. | B The government should control strictly advertising. | C Strictly the government should control advertising. | A
+Choose the correct sentence. | A I get up usually at seven. | B I usually get up at seven. | C I get usually up at seven. | B | # Наречие частоты стоит перед смысловым глаголом.
+@EX GAP It или there?
+____ is important to get enough sleep. | It
+____ are three main reasons for this problem. | There
+____ was a sharp fall in sales in 2010. | There
+____ takes about two hours to get to the airport. | It
+____ is no doubt that technology has changed our lives. | There
+____ is often said that money cannot buy happiness. | It
+____ were fewer tourists in 2020 than in 2019. | There
+____ is difficult to find a cheap flat in London. | It
+____ has been a significant increase in online shopping. | There
+____ is a pity that the museum is closed. | It
+@EX ERR Найди ошибку
+(A) Is very important (B) for children (C) to read (D) every day. | A | # Нет подлежащего: It is very important…
+(A) In my country (B) have (C) many beautiful (D) old towns. | B | # There are many beautiful old towns in my country.
+(A) Prices increased (B) dramatically, (C) people (D) bought less food. | B | # Comma splice: нужна точка или so/and: …dramatically, so people bought less food.
+(A) Many students (B) work part-time. (C) Because (D) university is expensive. | C | # Fragment: …part-time because university is expensive.
+(A) My father (B) speaks (C) very well (D) French. | C | # …speaks French very well.
+(A) Although (B) the city is crowded, (C) but (D) it is exciting. | C | # Although и but вместе не используются.
+(A) It (B) has (C) a lot of parks (D) in our city. | B | # There are a lot of parks in our city.
+(A) When I arrived, (B) the meeting (C) had already (D) start. | D | # После had нужна третья форма: had already started.
+@EX MCQ Соедини предложения
+People live longer. Health care has improved. → Best combination: | A People live longer, health care has improved. | B People live longer because health care has improved. | C Because health care has improved. People live longer. | B
+The flat is small. It is very comfortable. → | A The flat is small, it is very comfortable. | B Although the flat is small, but it is comfortable. | C The flat is small, but it is very comfortable. | C
+It was raining. We stayed at home. → | A It was raining, so we stayed at home. | B It was raining, we stayed at home. | C It was raining so, we stayed at home. | A
+The museum opened in 1990. It attracts many visitors. → | A The museum, which opened in 1990, attracts many visitors. | B The museum which opened in 1990, attracts many visitors. | C The museum, it opened in 1990, attracts many visitors. | A
+Sales fell. Profits rose. → | A Sales fell, profits rose. | B While sales fell, profits rose. | C While sales fell profits, rose. | B
+You can take the bus. You can walk. → | A You can take the bus, or you can walk. | B You can take the bus, you can walk. | C You can take the bus or, you can walk. | A
+He studied hard. He failed the exam. → | A He studied hard, he failed the exam. | B He studied hard, yet he failed the exam. | C Despite he studied hard, he failed the exam. | B | # Despite + существительное/-ing, а не + предложение.
+Children watch too much TV. They do not exercise enough. → | A Children watch too much TV, and they do not exercise enough. | B Children watch too much TV and, they do not exercise enough. | C Children watch too much TV, they do not exercise enough. | A
+@TEST MCQ Тест: выбери правильный вариант
+Choose the correct sentence. | A It is necessary to reduce pollution. | B Is necessary to reduce pollution. | C It necessary to reduce pollution. | A
+Choose the correct sentence. | A There are many advantages to living in a city. | B It has many advantages to live in a city. | C Have many advantages living in a city. | A
+Choose the correct sentence. | A The number of cars increased steadily. | B Increased steadily the number of cars. | C The number of cars steadily increased steadily. | A
+Choose the correct sentence. | A She can speak well three languages. | B She can speak three languages well. | C She well can speak three languages. | B
+Choose the correct sentence. | A Because the rent was high, we moved. | B Because the rent was high. We moved. | C Because the rent was high, so we moved. | A
+Choose the correct sentence. | A Although he is rich, he is unhappy. | B Although he is rich, but he is unhappy. | C He is rich, although, he is unhappy. | A
+Choose the correct sentence. | A We often go swimming in summer. | B We go often swimming in summer. | C Often we go swimming often in summer. | A
+Choose the correct sentence. | A There was a dramatic increase in sales. | B It was a dramatic increase in sales in 2015 there. | C Was a dramatic increase in sales. | A
+Choose the correct sentence. | A The factory closed, many workers lost their jobs. | B The factory closed, and many workers lost their jobs. | C The factory closed and, many workers lost their jobs. | B
+Choose the correct sentence. | A I have lived here since 2010. | B I have since 2010 lived here. | C Here I have lived since 2010 here. | A
+@TEST ERR Тест: найди ошибку
+(A) Nowadays (B) is common (C) for people (D) to work from home. | B | # it is common
+(A) Tourism brings money, (B) it also (C) damages (D) the environment. | A | # comma splice → Tourism brings money, but it also…
+(A) The teacher (B) explained (C) very clearly (D) the rules. | C | # explained the rules very clearly
+(A) There (B) is (C) many reasons (D) for this. | B | # There are many reasons
+(A) Many people (B) prefer cars. (C) Because they are (D) more comfortable. | C | # fragment → …cars because they are…

@@ -1,0 +1,101 @@
+# 5 | Nouns & Plurals | 1 | Исчисляемые и неисчисляемые, неправильные множественные формы, much/many, согласование с глаголом
+@GOAL Не путать исчисляемые и неисчисляемые существительные (advice, information, research), правильно образовывать множественное число и согласовывать подлежащее со сказуемым — включая коварные *the number of* и *a number of*.
+@PLAN
+1. Правила множественного числа и неправильные формы.
+2. Неисчисляемые существительные, которые в русском исчисляемые.
+3. Как «посчитать» неисчисляемое: a piece of, an item of.
+4. Much / many, few / little, a lot of, a number of / an amount of.
+5. Согласование: the number of, everyone, news, people, police.
+6. Практика 1–4 и тест по теме.
+@THEORY
+### 1. Множественное число
+| Правило | Пример |
+| + s | trend → trends |
+| -s, -sh, -ch, -x, -o → + es | bus → buses, potato → potatoes (но photos, pianos) |
+| согласная + y → ies | city → cities (но day → days) |
+| -f / -fe → ves | life → lives, half → halves (но roofs, beliefs) |
+| неправильные | man → men, woman → women, child → children, person → people, foot → feet, tooth → teeth, mouse → mice |
+| не меняются | sheep, fish, species, series, means, aircraft |
+| латинские и греческие (академические) | phenomenon → phenomena, criterion → criteria, analysis → analyses, crisis → crises, datum → **data**, medium → **media** |
+### 2. Неисчисляемые — без a/an и без -s
+Самые частые ловушки для русскоязычных: **advice, information, research, knowledge, evidence, equipment, furniture, luggage, baggage, traffic, accommodation, homework, news, progress, work** (работа), **travel** (путешествия вообще), **money, damage, pollution, transport, software, feedback, scenery**.
+✗ She gave me a good advice. → ✓ She gave me some good advice / a piece of advice.
+✗ We need more informations. → ✓ We need more information.
+✗ Scientists have done many researches. → ✓ Scientists have done a lot of research / many studies.
+✗ The news are bad. → ✓ The news is bad.
+### 3. Как посчитать
+*a piece of advice / information / furniture / evidence, an item of news / clothing, a sheet of paper, a bar of chocolate, a loaf of bread, a means of transport*.
+Некоторые слова меняют смысл: *a paper* (газета, статья) — *paper* (бумага); *a glass* (стакан) — *glass* (стекло); *a work of art* — *work*; *an experience* (случай) — *experience* (опыт).
+### 4. Слова количества
+| С исчисляемыми (мн. ч.) | С неисчисляемыми | С обоими |
+| many, few, a few, a number of, several | much, little, a little, an amount of, a great deal of | a lot of, lots of, some, any, plenty of, more, most |
+- **few / little** = мало (негативно); **a few / a little** = несколько, немного (позитивно).
+- **fewer** (исчисляемые) / **less** (неисчисляемые): *fewer cars, less traffic*.
+- **the number of** + мн. ч. → глагол **в ед. ч.**: *The number of students **has** increased.*
+- **a number of** (= несколько) + мн. ч. → глагол **во мн. ч.**: *A number of students **have** complained.*
+### 5. Согласование с глаголом
+- **people, police, cattle** — всегда мн. ч.: *People **are**…, The police **have** arrested…*
+- **news, mathematics, economics, physics** — ед. ч.: *Economics **is** difficult.*
+- **everyone, everybody, each, every** + ед. ч.: *Every student **has**…*
+- **data**: в академическом стиле часто мн. ч. (*the data show*), в современном — ед. ч. (*the data shows*); на экзамене подходят оба.
+- Подлежащее стоит до *of*: ***The quality** of the products **has** improved.*
+IELTS: в Task 1 — *the number of* (исчисляемые: people, cars) vs *the amount of* (неисчисляемые: water, money, energy). ✗ *the amount of tourists* → ✓ *the number of tourists*. В Task 2 особенно часто ошибаются в *research, advice, knowledge, equipment, evidence*.
+@EX GAP Множественное число
+Many ____ (child) in poor countries cannot go to school. | children
+The study looked at three different ____ (phenomenon). | phenomena
+Some ____ (species) of birds are in danger. | species
+Many ____ (city) are suffering from pollution. | cities
+The two ____ (crisis) had a huge effect on the economy. | crises
+____ (woman) now make up half of the workforce. | Women
+The selection ____ (criterion) are very strict. | criteria
+Wolves usually hunt sheep and other small ____ (animal). | animals
+Doctors have saved millions of ____ (life). | lives
+The new ____ (analysis) show different results. | analyses
+@EX MCQ Исчисляемое или нет?
+Can you give me some ____? | A advices | B advice | C an advice | B
+We need more ____ about the course. | A information | B informations | C an information | A
+There is too much ____ in the city centre. | A traffic | B traffics | C a traffic | A
+Scientists have carried out a lot of ____ on this topic. | A researches | B research | C a research | B
+I bought ____ new furniture for my flat. | A a | B some | C many | B
+She has made great ____ in English. | A progress | B progresses | C a progress | A
+Our hotel offered very comfortable ____. | A accommodations | B accommodation | C an accommodation | B
+How ____ luggage do you have? | A many | B much | C a few | B
+There isn't ____ evidence to support this idea. | A many | B much | C a | B
+He gave me ____ useful piece of information. | A a | B an | C some | A
+@EX MCQ Слова количества и согласование
+The number of students ____ increased. | A have | B has | B
+A number of students ____ complained about the food. | A have | B has | A
+There are ____ cars on the roads today than ten years ago. | A less | B fewer | B
+We should use ____ plastic. | A less | B fewer | A
+The ____ of water used in farming is huge. | A number | B amount | B
+The ____ of tourists fell in 2020. | A number | B amount | A
+The news ____ surprising. | A was | B were | A
+The police ____ looking for the driver. | A is | B are | B
+Economics ____ my favourite subject. | A is | B are | A
+Only ____ people came to the meeting, so it was cancelled. | A a few | B few | B | # few = мало (недостаточно) — поэтому отменили.
+@EX ERR Найди ошибку
+(A) Teachers (B) should give (C) students (D) more feedbacks. | D | # feedback
+(A) The number of (B) cars on the road (C) have (D) doubled. | C | # has
+(A) Every (B) students (C) needs (D) a laptop. | B | # every student
+(A) There (B) is (C) a lot of (D) evidences. | D | # evidence
+(A) People (B) is (C) worried (D) about prices. | B | # are
+(A) The amount (B) of (C) visitors (D) rose. | A | # the number of visitors
+(A) The quality of (B) the products (C) have (D) improved. | C | # has improved
+(A) She (B) has many (C) knowledges (D) about history. | C | # a lot of knowledge
+@TEST MCQ Тест
+I need ____ advice about my studies. | A an | B some | C many | B
+The ____ show that prices are rising. | A datas | B data | C datum | B
+There ____ some interesting news today. | A is | B are | A
+We have ____ time, so let's hurry. | A little | B few | C a few | A
+The number of unemployed people ____ falling. | A is | B are | A
+How ____ homework did you get? | A many | B much | B
+Two ____ were injured in the accident. | A persons | B peoples | C people | C
+Many ____ live in the forest. | A deer | B deers | A
+There were ____ accidents this year than last year. | A less | B fewer | B
+She bought two ____ of bread. | A loafs | B loaves | C loaf | B
+@TEST ERR Тест: найди ошибку
+(A) He gave me (B) some useful (C) informations (D) about the course. | C | # information
+(A) A number of (B) people (C) has (D) moved abroad. | C | # have
+(A) We need (B) new equipments (C) for (D) the lab. | B | # new equipment
+(A) There are (B) less (C) jobs (D) in the countryside. | B | # fewer jobs
+(A) Mathematics (B) are (C) taught (D) in every school. | B | # is

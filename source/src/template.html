@@ -67,6 +67,30 @@ main{padding-bottom:56px}
 .hgrid{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:16px;margin-top:14px}
 .hgrid>.cont{grid-column:span 7}.hgrid>.stats{grid-column:span 5}.hgrid>.skill{grid-column:span 3}.hgrid>.recent{grid-column:span 7}.hgrid>.cal{grid-column:span 5}.hgrid>.full{grid-column:1/-1}
 .hgrid>.recent,.hgrid>.cal{align-self:start}
+.hgrid>.skills{grid-column:1/-1;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+/* grammar */
+.gtopic .ghead{margin:6px 0 14px}.gtopic .ghead h1{margin:6px 0}
+.gnav{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.gth h4{margin:18px 0 6px;font-size:17px}.gth p{margin:8px 0;line-height:1.6}
+.gex{font:16.5px/1.55 var(--read);margin:6px 0;padding:6px 12px;border-left:3px solid var(--acc);background:var(--soft);border-radius:0 8px 8px 0}
+.gerr{margin:6px 0;font-size:15px;line-height:1.5}.gerr .no{color:var(--bad);text-decoration:line-through;text-decoration-thickness:1px;margin-right:8px}.gerr .yes{color:var(--ok);font-weight:600}
+.gtip{margin:12px 0;padding:10px 14px;border-radius:10px;background:color-mix(in srgb,var(--acc) 10%,transparent);border:1px solid color-mix(in srgb,var(--acc) 30%,transparent);font-size:15px;line-height:1.55}
+.gtip .lab{display:inline-block;font-weight:700;margin-right:6px;padding:1px 7px;border-radius:6px;background:var(--acc);color:var(--on-acc);font-size:12px}
+.unit.gx{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin:18px 0}
+.unit.gx h3{margin:0 0 4px;font-size:18px}.unit.gx h4{margin:18px 0 4px}
+.unit.gx.gtest{border:2px solid var(--acc)}
+.unit.gx .q{line-height:1.7}
+.unit.gx input.wide{width:min(420px,100%)}
+sup.el{font:700 11px var(--ui);color:var(--acc);margin:0 2px 0 4px}
+.gx-e{display:none;color:var(--mute);font-size:14px}.q.show .gx-e,.q.bad .gx-e{display:inline}
+.gstage{margin:22px 0 8px}.gstage h2{margin:0 0 4px}
+.grow{display:grid;grid-template-columns:42px 1fr auto auto;gap:12px;align-items:center;padding:12px 16px;border:1px solid var(--line);border-radius:12px;background:var(--card);margin:8px 0;color:inherit;text-decoration:none}
+.grow:hover{border-color:var(--acc)}.grow .num{font:800 18px var(--ui);color:var(--acc)}
+.grow .ti b{display:block}.grow .ti span{font-size:13.5px;color:var(--mute)}
+.grow .pr{font-size:13px;color:var(--mute);white-space:nowrap}
+.grow.test{border:2px solid var(--acc)}
+.chip.master{background:color-mix(in srgb,var(--ok) 20%,transparent);color:var(--ok)}
+@media(max-width:560px){.grow{grid-template-columns:34px 1fr;}.grow .pr,.grow .chip{grid-column:2}}
 @media(max-width:1060px){.hgrid>.cont,.hgrid>.stats,.hgrid>.recent,.hgrid>.cal{grid-column:1/-1}.hgrid>.skill{grid-column:span 6}}
 @media(max-width:560px){.hgrid>.skill{grid-column:1/-1}}
 .eyebrow{font:700 12px var(--ui);text-transform:uppercase;letter-spacing:.08em;color:var(--mute);margin:0 0 6px}
@@ -247,7 +271,7 @@ ol.ql li,ul.ql li{margin:6px 0}
 <!--BODY-->
 <header class="top" id="top"><div class="wrap">
 <a class="brand" href="#home"><i>IELTS</i>Skills Pack</a>
-<nav class="tabs" aria-label="Разделы"><a href="#home" data-tab="home">Главная</a><a href="#reading" data-tab="reading">Reading</a><a href="#listening" data-tab="listening">Listening</a><a href="#writing" data-tab="writing">Writing</a><a href="#speaking" data-tab="speaking">Speaking</a></nav>
+<nav class="tabs" aria-label="Разделы"><a href="#home" data-tab="home">Главная</a><a href="#reading" data-tab="reading">Reading</a><a href="#listening" data-tab="listening">Listening</a><a href="#writing" data-tab="writing">Writing</a><a href="#speaking" data-tab="speaking">Speaking</a><a href="#grammar" data-tab="grammar">Grammar</a></nav>
 <div class="search"><input id="q" type="search" placeholder="Поиск по словам, темам, вопросам" autocomplete="off" aria-label="Поиск по всем материалам"></div>
 <div class="ov" title="Общий прогресс"><span class="bar"><i id="ovBar"></i></span><span id="ovPct">0%</span></div>
 </div></header>
@@ -259,10 +283,11 @@ ol.ql li,ul.ql li{margin:6px 0}
 <div class="hgrid">
  <div class="card cont" id="hCont"></div>
  <div class="card stats" id="hStats"></div>
- <div class="card skill" id="hs-reading"></div>
+ <div class="skills"><div class="card skill" id="hs-reading"></div>
  <div class="card skill" id="hs-listening"></div>
  <div class="card skill" id="hs-writing"></div>
  <div class="card skill" id="hs-speaking"></div>
+ <div class="card skill" id="hs-grammar"></div></div>
  <div class="card recent"><p class="eyebrow">Последние результаты</p><ul class="rlist" id="hRecent"></ul></div>
  <div class="card cal"><p class="eyebrow">Занятия за 4 недели</p><div id="hCal"></div></div>
  <details class="card full"><summary><b>Как пользоваться сайтом</b></summary>
@@ -331,6 +356,16 @@ ol.ql li,ul.ql li{margin:6px 0}
 </div></div>
 </section>
 
+<section class="view wrap" id="v-grammar" hidden>
+<div class="lhead"><div><h1>Grammar</h1><p class="lead">{{NG}} тем в 4 этапах: план урока, теория с типичными ошибками, практика с автопроверкой и пояснениями, тест по каждой теме и итоговый тест на 100 вопросов после каждого этапа. Тема считается освоенной, когда тест сдан на 85% и выше.</p></div><div class="stats-mini" id="gMini"></div></div>
+<div id="gList"></div>
+</section>
+
+<section class="view wrap" id="v-gram" hidden>
+{{GRAMMAR}}
+</section>
+<script type="application/json" id="gdata">{{GDATA}}</script>
+
 <section class="view wrap" id="v-search" hidden>
 <h1>Поиск</h1>
 <p class="lead" id="sInfo">Введи слово или тему в поле поиска сверху: например, <i>volcano</i>, <i>drought</i>, <i>museum</i>, <i>describe a person</i>.</p>
@@ -355,7 +390,8 @@ ol.ql li,ul.ql li{margin:6px 0}
 'use strict';
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const norm=s=>s.toLowerCase().replace(/[.,;:!?'"’%$£€]/g,'').replace(/\s+/g,' ').trim();
+const CONTR=[[/\bwon't\b/g,'will not'],[/\bcan't\b/g,'cannot'],[/\bshan't\b/g,'shall not'],[/n't\b/g,' not'],[/'re\b/g,' are'],[/'ve\b/g,' have'],[/'ll\b/g,' will'],[/\bi'm\b/g,'i am'],[/\b(he|she|it|that|there|what|who)'s\b/g,'$1 is']];
+const norm=s=>{s=s.toLowerCase().replace(/[’‘`]/g,"'");CONTR.forEach(([a,b])=>{s=s.replace(a,b);});return s.replace(/\bcan not\b/g,'cannot').replace(/[.,;:!?'"%$£€]/g,'').replace(/\s+/g,' ').trim();};
 const now=()=>Date.now();
 
 /* ---------- progress state ---------- */
@@ -425,7 +461,11 @@ const byK={};units.forEach(u=>{byK[u.dataset.k]=u;});
 const doneBtns=$$('button.done');
 const W=[...new Set(doneBtns.filter(b=>b.dataset.k.startsWith('w-')).map(b=>b.dataset.k))];
 const SP=[...new Set(doneBtns.filter(b=>/^[cp]\d+$/.test(b.dataset.k)).map(b=>b.dataset.k))];
-const label=k=>{const u=byK[k];return u?(k[0]==='r'?'Reading ':'Listening ')+u.dataset.n+'. '+u.dataset.title:k;};
+const GD=JSON.parse($('#gdata').textContent);
+const GT=GD.topics.map(x=>x.k+'-t'),GS=GD.tests.map(x=>x.k);
+const gTitle=k=>{const m=/^(g\d+)(?:-(p\d+|t))?$/.exec(k);if(m){const x=GD.topics.find(y=>y.k===m[1]);if(x)return 'Grammar '+x.n+'. '+x.title+(m[2]==='t'?' — тест':m[2]?' — практика '+m[2].slice(1):'');}
+  const s=GD.tests.find(y=>y.k===k);return s?'Grammar: '+s.title:null;};
+const label=k=>{const g=gTitle(k);if(g)return g;const u=byK[k];return u?(k[0]==='r'?'Reading ':'Listening ')+u.dataset.n+'. '+u.dataset.title:k;};
 
 const ctrls=u=>$$('.q',u).map(q=>q.querySelector('input,select'));
 const pct=st=>st&&st.t?Math.round(100*st.s/st.t):0;
@@ -513,12 +553,13 @@ tBtn.addEventListener('click',()=>{if(tLeft===0){tReset();return;}tRun=!tRun;cle
   if(tRun)tInt=setInterval(()=>{tLeft--;if(tLeft<=0){tLeft=0;clearInterval(tInt);tRun=false;toast('20 минут прошло');}tDraw();},1000);tDraw();});
 
 /* ---------- views ---------- */
-const views={home:$('#v-home'),reading:$('#v-reading'),listening:$('#v-listening'),writing:$('#v-writing'),speaking:$('#v-speaking'),search:$('#v-search'),unit:$('#v-unit')};
+const views={grammar:$('#v-grammar'),gram:$('#v-gram'),home:$('#v-home'),reading:$('#v-reading'),listening:$('#v-listening'),writing:$('#v-writing'),speaking:$('#v-speaking'),search:$('#v-search'),unit:$('#v-unit')};
 let curView=null,curUnit=null,pendingEl=null;
 const scrollMem={};
 function route(){
   const h=decodeURIComponent((location.hash||'').slice(1))||'home';
   if(/^[rl]\d+$/.test(h)&&byK[h])show('unit',h);
+  else if(/^gs?\d+$/.test(h)&&document.getElementById(h)&&document.getElementById(h).closest('#v-gram'))show('gram',h);
   else if(views[h])show(h,null);
   else{const el=document.getElementById(h);const host=el&&el.closest('#v-writing,#v-speaking');if(host){pendingEl=el;show(host.id.slice(2),null);}else show('home',null);}
 }
@@ -526,10 +567,10 @@ function show(v,k){
   if(curView&&curView!=='unit')scrollMem[curView]=window.scrollY;
   stopMedia();
   Object.entries(views).forEach(([n,el])=>{el.hidden=n!==v;});
-  const tab=v==='unit'?(k[0]==='r'?'reading':'listening'):v;
+  const tab=v==='unit'?(k[0]==='r'?'reading':'listening'):v==='gram'?'grammar':v;
   $$('.tabs a').forEach(a=>a.classList.toggle('on',a.dataset.tab===tab));
   curView=v;curUnit=k;
-  if(v==='unit')openUnit(k);else render(v);
+  if(v==='unit')openUnit(k);else if(v==='gram')openGram(k);else render(v);
   measure();
   const y=(v!=='unit'&&!pendingEl&&scrollMem[v])||0;
   window.scrollTo(0,y);
@@ -565,12 +606,33 @@ function openUnit(k){
   refreshBar();
 }
 
+function openGram(k){
+  $$('#v-gram .gtopic').forEach(a=>{a.hidden=a.id!==k;});
+  const a=document.getElementById(k);const nav=$('.gnav',a);
+  if(nav){const i=GD.topics.findIndex(x=>x.k===k);const pv=GD.topics[i-1],nx=GD.topics[i+1];const st=GD.topics[i].st;
+    const last=!nx||nx.st!==st;
+    nav.innerHTML=(pv?`<a class="btn" href="#${pv.k}">← ${pv.n}. ${esc(pv.title)}</a>`:'')+(last&&GS.includes('gs'+st)?`<a class="btn pri" href="#gs${st}">Итоговый тест этапа ${st} →</a>`:'')+(nx?`<a class="btn" href="#${nx.k}">${nx.n}. ${esc(nx.title)} →</a>`:'');}
+}
+const gStat=k=>{const st=S.units[k];return st&&st.s!=null?pct(st):null;};
+function gChip(k){const st=S.units[k];if(!st||st.s==null)return '<span class="chip new">тест не сдан</span>';const p=pct(st);
+  return p>=85?`<span class="chip master">✓ освоено · ${p}%</span>`:`<span class="chip ${p>=60?'mid':'low'}">${st.s} / ${st.t} · ${p}%</span>`;}
+function renderGrammar(){
+  const mastered=GD.topics.filter(x=>(gStat(x.k+'-t')||0)>=85).length;
+  $('#gMini').innerHTML=`<div><b>${mastered}</b><span>из ${GD.topics.length} тем освоено</span></div>`;
+  $('#gList').innerHTML=[1,2,3,4].map(st=>{const ts=GD.topics.filter(x=>x.st===st);if(!ts.length)return '';const sx=GD.tests.find(y=>y.st===st);
+    const rows=ts.map(x=>{const pd=Array.from({length:x.pi},(_,i)=>x.k+'-p'+(i+1)).filter(k=>gStat(k)!=null).length;
+      return `<a class="grow" href="#${x.k}"><span class="num">${x.n}</span><span class="ti"><b>${esc(x.title)}</b><span>${esc(x.desc)}</span></span><span class="pr">практика ${pd}/${x.pi}</span>${gChip(x.k+'-t')}</a>`;}).join('');
+    const tr=sx?`<a class="grow test" href="#${sx.k}"><span class="num">★</span><span class="ti"><b>${esc(sx.title)}</b><span>100 вопросов по всем темам этапа</span></span><span class="pr"></span>${gChip(sx.k)}</a>`:'';
+    return `<div class="gstage"><h2>${esc(GD.stages[st])}</h2></div>${rows}${tr}`;}).join('');
+}
+
 /* ---------- rendering ---------- */
 function counts(){
   const rd=R.filter(u=>status(u.dataset.k)==='done').length,ld=L.filter(u=>status(u.dataset.k)==='done').length;
   const wd=W.filter(isDone).length,sd=SP.filter(isDone).length;
   const acc=list=>{let s=0,t=0;list.forEach(u=>{const st=S.units[u.dataset.k];if(st&&st.s!=null){s+=st.s;t+=st.t;}});return t?Math.round(100*s/t):null;};
-  return {rd,ld,wd,sd,ra:acc(R),la:acc(L),total:R.length+L.length+W.length+SP.length,done:rd+ld+wd+sd};
+  const gd=GT.filter(k=>(gStat(k)||0)>=85).length+GS.filter(k=>(gStat(k)||0)>=85).length;
+  return {rd,ld,wd,sd,gd,ra:acc(R),la:acc(L),total:R.length+L.length+W.length+SP.length+GT.length+GS.length,done:rd+ld+wd+sd+gd};
 }
 function refreshBar(){const c=counts();const p=c.total?Math.round(100*c.done/c.total):0;$('#ovBar').style.width=p+'%';$('#ovPct').textContent=p+'%';}
 function refresh(){
@@ -582,7 +644,7 @@ function refresh(){
   docProgress();
 }
 function render(v){
-  if(v==='home')renderHome();else if(v==='reading')renderReading();else if(v==='listening')renderListening();else if(v==='search')renderSearch();
+  if(v==='grammar')renderGrammar();else if(v==='home')renderHome();else if(v==='reading')renderReading();else if(v==='listening')renderListening();else if(v==='search')renderSearch();
 }
 const firstOpen=list=>list.find(u=>status(u.dataset.k)!=='done');
 const day=t=>{const d=new Date(t);return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();};
@@ -616,6 +678,8 @@ function renderHome(){
      (nextL?`<a class="btn pri" href="#${nextL.dataset.k}">Запись ${nextL.dataset.n}</a>`:'')+'<a class="btn" href="#listening">Все записи</a>');
   sk('writing','Writing',c.wd,W.length,'Отмечай задание, когда написал ответ и сравнил с образцом.','<a class="btn pri" href="#writing">Открыть</a>');
   sk('speaking','Speaking',c.sd,SP.length,'Part 1 — 32 темы, Part 2 и 3 — 50 карточек.','<a class="btn pri" href="#speaking">Открыть</a>');
+  {const nx=GD.topics.find(x=>(gStat(x.k+'-t')||0)<85);
+   sk('grammar','Grammar',c.gd,Math.max(1,GT.length+GS.length),'Тема или этап засчитывается, когда тест сдан на 85%+.',(nx?`<a class="btn pri" href="#${nx.k}">Тема ${nx.n}</a>`:'')+'<a class="btn" href="#grammar">Все темы</a>');}
   const rec=checks.slice(-6).reverse();
   $('#hRecent').innerHTML=rec.length?rec.map(x=>{const p=x.t?Math.round(100*x.s/x.t):0;return `<li><a href="#${x.k}"><span>${esc(label(x.k))}</span><span class="when">${when(x.at)}</span><span class="chip ${p>=80?'good':p>=60?'mid':'low'}">${x.s} / ${x.t}</span></a></li>`;}).join(''):'<li class="empty">Здесь появятся результаты после первой проверки ответов.</li>';
   const per={};S.hist.forEach(x=>{const d=day(x.at);per[d]=(per[d]||0)+1;});
@@ -694,6 +758,8 @@ function buildIndex(){
     let q;if(host.tagName==='LI'){const c=host.cloneNode(true);c.querySelectorAll('button,details').forEach(n=>n.remove());q=c.textContent;}
     else q=($('h3',host)?txt($('h3',host)):'')+': '+($('.task',host)?txt($('.task',host)):'');
     const t=q.replace(/\s+/g,' ').trim();ix.push({g:'Writing',t:t.slice(0,160)+(t.length>160?'…':''),s:'Writing',h:fold(t+' '+txt(host)),el:host,v:'writing',w:fold(t)});});
+  $$('#v-gram .gtopic').forEach(a=>{const g=GD.topics.find(x=>x.k===a.id)||GD.tests.find(x=>x.k===a.id);if(!g)return;const ti=g.n&&!a.id.startsWith('gs')?g.n+'. '+g.title:g.title;
+    ix.push({g:'Grammar',t:ti,s:g.desc||'Grammar',h:fold(ti+' '+$$('.gth',a).map(txt).join(' ')),go:'#'+a.id,w:fold(ti)});});
   $$('#sDoc .cue').forEach(c=>{ix.push({g:'Speaking',t:c.dataset.title,s:'Part 2 · карточка '+c.id.slice(1),h:fold(txt(c)),el:c,v:'speaking',w:fold(c.dataset.title)});});
   $$('#sDoc details.p1').forEach(d=>{ix.push({g:'Speaking',t:d.dataset.title,s:'Part 1',h:fold(txt(d)),el:d,v:'speaking',w:fold(d.dataset.title)});});
   return ix;
@@ -823,7 +889,7 @@ const redrawCharts=()=>charts.forEach(([t,cv])=>{cv.getContext('2d').setTransfor
 try{matchMedia('(prefers-color-scheme: dark)').addEventListener('change',redrawCharts);}catch(e){}
 new MutationObserver(redrawCharts).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
 function restoreWex(){
-  $$('.unit.wex').forEach(u=>{const st=S.units[u.dataset.k];if(!st)return;const cs=ctrls(u);
+  $$('.unit.wex,.unit.gx').forEach(u=>{const st=S.units[u.dataset.k];if(!st)return;const cs=ctrls(u);
     cs.forEach((c,j)=>{c.value=(Array.isArray(st.a)&&st.a[j])||'';});
     const sc=$('.score',u);if(st.s!=null){if(st.ck&&st.ck>=st.at){mark(u);sc.textContent=st.s+' / '+st.t;}else sc.textContent='Последний результат: '+st.s+' / '+st.t;}});
 }

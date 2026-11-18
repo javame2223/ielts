@@ -1,0 +1,100 @@
+# 2 | Parts of Speech | 1 | Части речи и словообразование: как из economy получить economic, economical и economically
+@GOAL Узнавать части речи в предложении и уверенно выбирать нужную форму слова (word form). Ошибки в форме слова — одни из самых частых в Writing и в заданиях на заполнение пропусков в Reading и Listening.
+@PLAN
+1. Восемь частей речи и их роль в предложении.
+2. Как по месту в предложении понять, какая часть речи нужна.
+3. Суффиксы существительных, прилагательных, глаголов и наречий.
+4. Слова-«ловушки»: economic / economical, sensible / sensitive и т.д.
+5. Практика 1–4 и тест по теме.
+@THEORY
+### 1. Восемь частей речи
+| Часть речи | Что делает | Пример |
+| Noun (существительное) | предмет, человек, понятие | *pollution, government, growth* |
+| Verb (глагол) | действие или состояние | *increase, depend, seem* |
+| Adjective (прилагательное) | описывает существительное | *rapid growth, a serious problem* |
+| Adverb (наречие) | описывает глагол, прилагательное, всё предложение | *grew rapidly, extremely serious* |
+| Pronoun (местоимение) | заменяет существительное | *it, they, which* |
+| Preposition (предлог) | связывает слова | *in, on, by, of* |
+| Conjunction (союз) | связывает части предложения | *and, but, because, although* |
+| Determiner (определитель) | стоит перед существительным | *a, the, this, some, many* |
+### 2. Место подскажет часть речи
+- После **артикля / определителя / прилагательного** — существительное: *the ___ of the city* → *the **development***.
+- Перед существительным — прилагательное: *a ___ change* → *a **significant** change*.
+- После **be, seem, become, look** — прилагательное: *It seems **important***.
+- Рядом с глаголом, описывая **как** — наречие: *rose **significantly***.
+- Перед прилагательным — наречие: ***extremely** expensive*.
+- После подлежащего (и модального глагола) — глагол: *We must **reduce** costs*.
+### 3. Суффиксы
+| Существительное | Прилагательное | Глагол | Наречие |
+| -tion, -ment, -ness, -ity, -ance/-ence, -er/-or, -ism | -al, -ful, -less, -ous, -ive, -able/-ible, -ic | -ise/-ize, -en, -ify, -ate | -ly |
+| *pollution, development, happiness, reality, importance* | *environmental, harmful, useless, dangerous, effective, reliable, economic* | *modernise, widen, simplify, motivate* | *rapidly, effectively* |
+### 4. Пары-ловушки
+- **economic** (экономический: *economic growth*) — **economical** (экономный: *an economical car*).
+- **historic** (исторически важный: *a historic moment*) — **historical** (относящийся к истории: *historical documents*).
+- **sensible** (разумный) — **sensitive** (чувствительный).
+- **effective** (эффективный, даёт результат) — **efficient** (экономит время и ресурсы).
+- **childish** (ребяческий, негатив) — **childlike** (детский, непосредственный, позитив).
+✗ The economical situation is getting worse. → ✓ The economic situation is getting worse.
+✗ There was a significant rise of the population growing. → ✓ There was a significant rise in population growth.
+✗ This is a very danger situation. → ✓ This is a very dangerous situation.
+✗ The number of tourists increased dramatical. → ✓ The number of tourists increased dramatically.
+IELTS: в Task 1 удобно чередовать глагол + наречие и прилагательное + существительное: *Sales **rose sharply*** = *There was a **sharp rise** in sales*. Это и есть «range» без сложной грамматики. В Listening и Reading форма слова в пропуске должна грамматически подходить к предложению: если перед пропуском стоит *a*, ответ — существительное в единственном числе.
+@EX MCQ Какая часть речи нужна?
+The government must take ____ action. (пропуск перед существительным) | A immediate | B immediately | C immediacy | A
+Prices rose ____ in 2008. | A dramatic | B dramatically | C drama | B
+There has been a steady ____ in house prices. | A increase | B increasing | C increased | A
+Air pollution is extremely ____ to health. | A harm | B harmful | C harmfully | B
+Children need ____ from their parents. | A encourage | B encouraging | C encouragement | C
+The new system is more ____ than the old one. | A efficient | B efficiency | C efficiently | A
+We must ____ the amount of waste we produce. | A reduction | B reduce | C reductive | B
+She answered the question ____. | A confident | B confidence | C confidently | C
+The ____ of the new bridge took three years. | A construct | B construction | C constructive | B
+It is ____ important to save money. | A extreme | B extremely | C extremity | B
+@EX GAP Образуй нужную форму слова
+The ____ of the city has caused traffic problems. (EXPAND) | expansion
+Many people are ____ about losing their jobs. (WORRY) | worried
+Tourism plays an important role in the local ____. (ECONOMIC) | economy
+The plan was ____ successful. (SURPRISE) | surprisingly
+Regular exercise improves mental ____. (HEALTHY) | health
+Smoking is a major cause of heart ____. (DISEASED) | disease
+The government plans to ____ the road. (WIDE) | widen
+There is a strong ____ between diet and health. (RELATE) | relationship/relation
+Public transport should be ____ for everyone. (AFFORD) | affordable
+Cars have become more ____ over the years. (RELY) | reliable
+We need to ____ the rules so that everyone understands them. (SIMPLE) | simplify
+The ____ of the museum attracted thousands of visitors. (OPEN) | opening
+@EX MCQ Пары-ловушки
+Unemployment is the country's biggest ____ problem. | A economic | B economical | A
+A small car is more ____ than a large one. | A economic | B economical | B
+The signing of the peace treaty was a ____ event. | A historic | B historical | A
+The museum keeps many ____ documents. | A historic | B historical | B
+It would be ____ to save some money for the future. | A sensible | B sensitive | A
+My skin is very ____ to the sun. | A sensible | B sensitive | B
+This medicine is very ____: it cures most patients. | A effective | B efficient | A
+An ____ engine uses less fuel. | A effective | B efficient | B
+@EX ERR Найди ошибку в форме слова
+(A) There was (B) a sharp (C) decrease in (D) unemploy. | D | # unemployment
+(A) The economical (B) crisis (C) affected (D) many families. | A | # economic crisis
+(A) Students should (B) be (C) responsibility (D) for their own learning. | C | # responsible
+(A) The temperature (B) rose (C) gradual (D) during the day. | C | # gradually
+(A) The soup (B) my mother made (C) tastes (D) deliciously. | D | # После tastes, looks, feels, sounds нужно прилагательное: tastes delicious.
+(A) Technology (B) has made our lives (C) more (D) convenience. | D | # more convenient
+(A) It is (B) necessary to (C) protection (D) endangered animals. | C | # to protect
+(A) The film was (B) extreme (C) popular (D) with teenagers. | B | # extremely popular
+@TEST GAP Тест: форма слова
+The ____ of the population is a serious problem. (GROW) | growth
+Fast food is often very ____. (HEALTH) | unhealthy
+The number of cars increased ____ between 2000 and 2010. (STEADY) | steadily
+Children should be taught to be ____. (INDEPEND) | independent
+There are many ____ of living in a big city. (ADVANTAGEOUS) | advantages
+New technology has ____ changed the way we work. (COMPLETE) | completely
+The ____ of the project was a surprise to everyone. (SUCCEED) | success
+Governments should ____ people to use public transport. (COURAGE) | encourage
+@TEST MCQ Тест: выбери вариант
+There was a ____ fall in sales in May. | A slight | B slightly | C slightness | A
+Recycling is ____ for the environment. | A benefit | B beneficial | C beneficially | B
+The country's ____ growth has slowed. | A economic | B economical | C economy | A
+The plan worked very ____. | A effective | B effectively | C effectiveness | B
+Online learning is becoming ____ popular. | A increase | B increasing | C increasingly | C
+The ____ of new medicines takes many years. | A develop | B developing | C development | C
+Parents have a strong ____ on their children. | A influence | B influential | C influentially | A

@@ -1,0 +1,107 @@
+# 4 | Articles | 1 | a / an / the / без артикля: правила, исключения и типичные «артиклевые» места в IELTS
+@GOAL Ставить артикли автоматически в типичных ситуациях: первое и повторное упоминание, обобщения, уникальные предметы, названия, устойчивые выражения и язык графиков Task 1.
+@PLAN
+1. Зачем артикль: «какой-то» (a/an) или «тот самый» (the).
+2. A или an — по звуку, а не по букве.
+3. The: известное, единственное, превосходная степень, «the … of».
+4. Нулевой артикль: обобщения во множественном числе и с неисчисляемыми.
+5. Названия: страны, реки, горы, организации.
+6. Устойчивые выражения: go to school, in hospital, by car.
+7. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Главная логика
+- **a / an** — один из многих, «какой-то», впервые: *I saw **a** film last night.*
+- **the** — конкретный, понятно какой: ***The** film was about climate change.*
+- **без артикля** — вообще, в целом (мн. число или неисчисляемое): ***Films** can educate people. **Music** helps us relax.*
+### 2. A или an
+Решает **звук**: *an hour, an MBA, an honest man* (h не читается, M читается «эм»); *a university, a European country, a one-way ticket* (звучит «ю», «й», «у»).
+### 3. Когда нужен the
+- Уже упоминалось или понятно из ситуации: *Close **the** door, please.*
+- Единственное в своём роде: ***the** sun, **the** internet, **the** environment, **the** government, **the** world*.
+- Превосходная степень и порядковые: ***the** highest figure, **the** first year, **the** same, **the** only*.
+- С of-уточнением: ***the** number of students, **the** proportion of women, **the** development of technology*.
+- Инструменты и группы людей: *play **the** piano; **the** elderly, **the** rich, **the** unemployed*.
+- Десятилетия и периоды: *in **the** 1990s*.
+### 4. Нулевой артикль
+- Обобщение во множественном числе: ***Children** need love.* (не *The children need love*, если о детях вообще).
+- Неисчисляемые в общем смысле: ***Education** is important. **Pollution** is a serious problem.*
+- Приёмы пищи, языки, предметы, виды спорта: *have **lunch**, speak **French**, study **maths**, play **football***.
+- Годы, месяцы, дни: *in **2020**, on **Monday***.
+✗ The education is the key to the success. → ✓ Education is the key to success.
+✗ The technology has changed our lives. (вообще) → ✓ Technology has changed our lives.
+✗ Number of tourists increased. → ✓ The number of tourists increased.
+✗ It is a most important problem. → ✓ It is the most important problem.
+### 5. Названия
+| С the | Без артикля |
+| страны-«союзы» и мн. ч.: **the** UK, **the** USA, **the** Netherlands, **the** Philippines | большинство стран: Japan, France, Uzbekistan |
+| реки, моря, океаны, пустыни, горные цепи: **the** Thames, **the** Pacific, **the** Sahara, **the** Alps | отдельные горы и озёра: Everest, Lake Baikal |
+| музеи, отели, театры, газеты: **the** British Museum, **the** Guardian | улицы, парки, аэропорты, университеты «Name + University»: Oxford Street, Hyde Park, Heathrow, Oxford University |
+| **the** University of Oxford (с of) | континенты, города: Asia, Tashkent |
+### 6. Устойчивые выражения
+- Без артикля, когда речь о назначении места: *go to **school / university / bed / work / prison / hospital** (как пациент), at **home**, by **car / bus**, on **foot***.
+- Но *the school* — о здании: *My mother went to **the school** to speak to the teacher.*
+- *in **the** morning / afternoon / evening*, но *at **night***; *in **the** future*, *at **the** moment*, *on **the** other hand*, *in **the** end*.
+IELTS: в Task 1 почти всегда ***the** number of / **the** proportion of / **the** percentage of / **the** figure for / **the** highest / **the** USA / **the** UK*, а в Task 2 обобщения идут без артикля: ***Governments** should invest in **education**.*
+@EX MCQ A / an / the / —
+I waited for ____ hour. | A a | B an | C the | B
+She studies at ____ university in Canada. | A a | B an | C — | A
+____ number of cars has doubled. | A A | B The | C — | B
+____ health is more important than money. | A The | B A | C — | C
+It was ____ best film I have ever seen. | A a | B the | C — | B
+He wants to become ____ engineer. | A a | B an | C the | B
+We need to protect ____ environment. | A an | B the | C — | B
+____ children learn languages faster than adults. | A The | B — | C A | B
+My uncle lives in ____ USA. | A — | B the | C a | B
+They travelled across ____ Sahara. | A — | B the | C a | B
+I usually go to work by ____ bus. | A — | B the | C a | A
+____ unemployed often need help to find work. | A — | B The | C An | B
+@EX GAP Впиши a, an, the или «-» (без артикля)
+____ proportion of women in work rose in the 1990s. | The
+In 2010, ____ unemployment was high in many countries. | -/—/0
+She plays ____ violin in an orchestra. | the
+I had ____ eggs for breakfast. (вообще, какие-то) | -/—/0
+Can you pass me ____ salt, please? | the
+He is ____ honest man. | an
+We had ____ lunch at a small café. | -/—/0
+____ Japan is an island country. | -/—/0
+I'll see you in ____ morning. | the
+She was taken to ____ hospital after the accident. | -/—/0
+____ Netherlands is famous for cycling. | The
+This is ____ only way to solve the problem. | the
+@EX ERR Найди ошибку
+(A) The pollution (B) is a serious problem (C) in (D) many cities. | A | # Pollution (вообще)
+(A) In 2015, (B) number of (C) visitors (D) fell. | B | # the number of
+(A) She is (B) a best student (C) in (D) the class. | B | # the best
+(A) My brother (B) is (C) an university (D) student. | C | # a university
+(A) People should (B) eat (C) the vegetables (D) every day. | C | # vegetables (вообще)
+(A) He went (B) to the bed (C) early (D) last night. | B | # went to bed
+(A) The tourists (B) visit (C) London (D) every year. | A | # Tourists (вообще) — или Many tourists
+(A) I live in (B) the Tashkent, (C) the capital of (D) Uzbekistan. | B | # in Tashkent
+(A) The figure (B) for (C) USA (D) was 20%. | C | # the USA
+(A) A (B) technology (C) has changed (D) our lives. | A | # Technology (без артикля)
+@EX CI Правильно или с ошибкой?
+The government should invest more in education. | C
+The life is too short to worry. | I | # Life is too short…
+She speaks the French fluently. | I | # speaks French
+There was a sharp rise in the price of oil. | C
+I have a dog. The dog is very friendly. | C
+Elderly need more medical care. | I | # The elderly
+The Alps are popular with skiers. | C
+He is the best at the maths. | I | # at maths
+@TEST MCQ Тест
+____ internet has changed the way we communicate. | A — | B The | C An | B
+In many countries, ____ women live longer than men. | A the | B — | C a | B
+It took ____ hour to get there. | A a | B an | C the | B
+____ proportion of older people is rising. | A The | B A | C — | A
+She is studying ____ biology. | A the | B a | C — | C
+He is ____ European citizen. | A a | B an | C the | A
+They live near ____ Pacific Ocean. | A — | B the | C a | B
+After the accident he spent two weeks in ____ hospital. | A — | B a | C an | A
+This was ____ highest figure in the period. | A a | B — | C the | C
+____ rich should pay more taxes. | A The | B — | C A | A
+@TEST ERR Тест: найди ошибку
+(A) The education (B) gives people (C) better (D) opportunities. | A | # Education
+(A) The figure for (B) the UK (C) was higher than (D) figure for France. | D | # the figure for France
+(A) He (B) is (C) a only child (D) in his family. | C | # an only child
+(A) We (B) usually have (C) the dinner (D) at eight. | C | # have dinner
+(A) She wants (B) to work (C) as (D) doctor. | D | # as a doctor

@@ -1,0 +1,102 @@
+# 6 | Adjectives & Adverbs | 1 | Прилагательное или наречие, -ed/-ing, порядок прилагательных, so/such, too/enough, hard/hardly
+@GOAL Правильно выбирать между прилагательным и наречием, различать bored и boring, ставить несколько прилагательных в правильном порядке и точно описывать степень (very, extremely, slightly) — это основа языка Task 1.
+@PLAN
+1. Прилагательное описывает существительное, наречие — глагол, прилагательное, предложение.
+2. Глаголы-связки: look, seem, feel, sound, become + прилагательное.
+3. -ed (что чувствую) и -ing (что вызывает чувство).
+4. Образование наречий и исключения: fast, hard, late, well.
+5. Порядок прилагательных; so / such; too / enough.
+6. Слова степени для Task 1: slightly, significantly, dramatically.
+7. Практика 1–4 и тест по теме.
+@THEORY
+### 1. Кого описываем?
+| Прилагательное | Наречие |
+| a **rapid** increase | increased **rapidly** |
+| a **careful** driver | drives **carefully** |
+| The test was **easy**. | She passed **easily**. |
+| — | **extremely** important (наречие перед прилагательным) |
+| — | **Unfortunately**, the plan failed. (всё предложение) |
+### 2. Глаголы-связки + прилагательное
+После **be, become, get, seem, appear, look, sound, feel, taste, smell, remain, stay** описываем подлежащее, поэтому нужно **прилагательное**:
+✗ You look tiredly. → ✓ You look tired.
+✗ The figure remained stably. → ✓ The figure remained stable.
+✗ It sounds greatly. → ✓ It sounds great.
+### 3. -ed и -ing
+- **-ed** — что человек чувствует: *I am **bored / interested / surprised / confused***.
+- **-ing** — что вызывает чувство: *The lecture was **boring / interesting / surprising / confusing***.
+✗ I am very interesting in history. → ✓ I am very interested in history.
+✗ The results were disappointed. → ✓ The results were disappointing.
+### 4. Наречия: образование и исключения
+- обычно + **-ly**: *slow → slowly*; *-y → -ily*: *easy → easily*; *-le → -ly*: *gentle → gently*; *-ic → -ically*: *dramatic → dramatically* (но *public → publicly*).
+- **good → well**: *She speaks English **well**.* (*well* = здоров — прилагательное: *I feel well*).
+- Одинаковые формы: **fast, hard, late, early, high, low, straight**: *He works **hard**. The train arrived **late**.*
+- Ловушки: **hardly** = едва, почти не (*I could **hardly** hear*); **lately** = в последнее время; **highly** = очень (*highly unlikely*); **nearly** = почти.
+- Прилагательные на **-ly** (friendly, lovely, lonely, likely, costly) — наречия от них нет: *in a friendly way*.
+### 5. Порядок нескольких прилагательных
+**мнение → размер → возраст → форма → цвет → происхождение → материал → назначение + существительное**: *a **beautiful old Italian** car; a **small round wooden** table*.
+### 6. so / such, too / enough
+- **so** + прилагательное / наречие: *It was **so** cold.* — **such (a)** + (прил.) + существительное: *It was **such a** cold day. They are **such** nice people.*
+- **too** + прил. = слишком (плохо): *It's **too** expensive **to** buy.*
+- прил. + **enough**: *He isn't old **enough** to drive.* — **enough** + существительное: ***enough** money*.
+### 7. Слова степени для Task 1
+| Небольшое изменение | Заметное | Очень сильное |
+| slightly, marginally, a little | significantly, considerably, substantially, noticeably | dramatically, sharply, rapidly, steeply |
+Сравни: *a **slight** fall* = *fell **slightly***; *a **dramatic** rise* = *rose **dramatically***.
+IELTS: чередуй «прилагательное + существительное» и «глагол + наречие» и не повторяй одно и то же слово степени больше двух раз за ответ. Модели *remain + прилагательное* (remained stable / unchanged / constant) — одни из самых частых в Task 1.
+@EX MCQ Прилагательное или наречие?
+The number of visitors rose ____. | A steady | B steadily | B
+There was a ____ rise in prices. | A sharp | B sharply | A
+She looked ____ when she heard the news. | A happy | B happily | A
+The figure remained ____ at 20%. | A stable | B stably | A
+He drives very ____. | A careful | B carefully | B
+The food smells ____. | A wonderful | B wonderfully | A
+The situation is ____ serious. | A extreme | B extremely | B
+She sings ____. | A good | B well | B
+I felt ____ after the long journey. | A tired | B tiredly | A
+____, the museum was closed. | A Unfortunate | B Unfortunately | B
+@EX MCQ -ed или -ing?
+I was really ____ by the ending of the film. | A surprised | B surprising | A
+The instructions were very ____. | A confused | B confusing | B
+Students get ____ if lessons are too long. | A bored | B boring | A
+It is ____ that so many people still smoke. | A shocked | B shocking | B
+I'm ____ in learning Japanese. | A interested | B interesting | A
+The results of the test were ____. | A disappointed | B disappointing | B
+She felt ____ after the presentation. | A relieved | B relieving | A
+Working twelve hours a day is ____. | A exhausted | B exhausting | B
+@EX GAP Впиши нужную форму слова
+He worked ____ (hard) and passed all his exams. | hard
+I can ____ (hard) believe it — it's amazing! | hardly
+Have you seen any good films ____ (late)? | lately
+The train arrived ____ (late) because of the snow. | late
+It is ____ (high) unlikely that prices will fall. | highly
+The plan was ____ (dramatic) different from the original. | dramatically
+The teacher spoke ____ (clear) so everyone understood. | clearly
+She answered the questions ____ (easy). | easily
+He doesn't feel ____ (good) today; he has a cold. | well
+The volunteers greeted us in a ____ (friend) way. | friendly
+@EX MCQ So / such, too / enough, порядок слов
+It was ____ hot day that we stayed inside. | A so | B such a | C such | B
+The exam was ____ difficult that many students failed. | A so | B such | C such a | A
+He is not tall ____ to play basketball. | A too | B enough | C so | B
+This coffee is ____ hot to drink. | A too | B enough | C such | A
+We don't have ____ to buy a house. | A money enough | B enough money | C too much money | B
+Which is correct? | A a wooden old big table | B a big old wooden table | C an old wooden big table | B
+Which is correct? | A a lovely small black cat | B a black lovely small cat | C a small black lovely cat | A
+They are ____ friendly people. | A so | B such | C such a | B
+@TEST MCQ Тест
+Sales increased ____ in the second half of the year. | A significant | B significantly | B
+The weather became ____ in the afternoon. | A cold | B coldly | A
+I was ____ by his rude behaviour. | A annoying | B annoyed | B
+The film was so ____ that I fell asleep. | A boring | B bored | A
+She speaks French very ____. | A good | B well | B
+There was ____ a long queue that we went home. | A so | B such | B
+He's ____ young to vote. | A too | B enough | A
+The figure rose ____ from 10% to 11%. | A dramatically | B slightly | B
+I ____ ever eat meat; maybe once a month. | A hard | B hardly | B
+They live in a ____ house. | A beautiful old stone | B stone old beautiful | A
+@TEST ERR Тест: найди ошибку
+(A) The number of (B) cars (C) increased (D) gradual. | D | # gradually
+(A) I am (B) very (C) exciting (D) about the trip. | C | # excited
+(A) The soup (B) tastes (C) strangely (D) today. | C | # tastes strange
+(A) It was (B) a such (C) good film (D) that I watched it twice. | B | # such a good film
+(A) She (B) is not (C) enough old (D) to drive. | C | # old enough
