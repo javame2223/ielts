@@ -1,0 +1,106 @@
+# S2 | Итоговый тест этапа 2 | 2
+@INTRO 100 вопросов по темам 8–13: настоящие, прошедшие и будущие времена, вопросы и отрицания, модальные глаголы, сравнения. Много заданий на противопоставление похожих форм (had to / must, will / going to, Past Simple / Past Perfect). Около 50 минут, без подсказок. Цель — 85+.
+@TEST MCQ Часть A. Выбери правильный вариант (45)
+Nowadays more and more people ____ online. | A shop | B are shopping | B
+The Earth ____ around the Sun. | A goes | B is going | A
+I ____ to understand what you're saying. | A am not able | B can't to | A
+She ____ the piano since she was six. | A plays | B has played | C is playing | B
+I ____ a lot of books recently. | A read | B have been reading | B
+"Why are your hands dirty?" — "I ____ in the garden." | A have worked | B have been working | B
+This coat ____ to my brother. | A belongs | B is belonging | A
+The company ____ in 1995. | A was founded | B has been founded | A
+When I got home, my family ____ dinner, so I ate alone. | A already had | B had already had | B
+While she ____ to music, she fell asleep. | A listened | B was listening | B
+I ____ him at a conference in 2018. | A met | B have met | A
+There ____ a big tree in front of our house, but it was cut down. | A would be | B used to be | B
+"The printer isn't working." — "Don't worry, I ____ look at it." | A 'll | B 'm going to | A
+Look at that car! It ____ crash! | A will | B is going to | B
+The film ____ at 8 pm, so let's meet at 7.30. | A starts | B will be starting | A
+I'll give her the message as soon as she ____. | A will arrive | B arrives | B
+By the time we get there, the concert ____. | A will have started | B will start | A
+In 2050, the global population ____ to reach 9.7 billion. | A is projected | B projects | A
+Where ____ on holiday last year? | A you went | B did you go | B
+Who ____ this beautiful picture? | A painted | B did paint | A
+Can you tell me where ____? | A the toilets are | B are the toilets | A
+She hasn't called yet, ____? | A has she | B hasn't she | A
+"I don't like horror films." — "____ do I." | A So | B Neither | B
+You ____ wear a suit — the dress code is casual. | A mustn't | B don't have to | B
+You ____ cross the road here — it's dangerous. | A mustn't | B needn't | A
+He ____ be at home — I saw him at the gym a minute ago. | A mustn't | B can't | B
+She's been studying all night. She ____ be exhausted. | A must | B should | A
+I ____ go to the bank yesterday. | A must | B had to | B
+After the earthquake, rescuers ____ save 20 people. | A could | B were able to | B
+It ____ be a good idea to book in advance. | A might | B must to | A
+Students ____ to submit their essays by Friday. | A must | B have | B
+Governments ____ invest more in renewable energy. | A should | B should to | A
+Petrol is much ____ than it was in 2000. | A expensive | B more expensive | B
+Spain received twice ____ tourists as Portugal. | A as many | B more | A
+The weather today is ____ than yesterday. | A slightly warmer | B very warmer | A
+It's the ____ decision I've ever made. | A best | B better | A
+This laptop isn't ____ as the one I had before. | A as fast | B so faster | A
+The ____ you train, the stronger you become. | A more | B most | A
+Lisbon is one of the ____ cities in Europe. | A sunniest | B sunnier | A
+By 2010, the number of internet users ____ dramatically. | A increased | B had increased | B
+The price of houses ____ steadily since 2015. | A rose | B has risen | B
+What ____ you ____ at 9 o'clock last night? | A did / do | B were / doing | B
+I ____ English for six years when I took the exam. | A had been studying | B have been studying | A
+Do you know if ____ tomorrow? | A it will rain | B will it rain | A
+This time next month, I ____ in my new job. | A will work | B will be working | B
+@TEST GAP Часть B. Впиши нужную форму (25)
+She usually ____ (walk) to work, but today she's taking the bus. | walks
+Prices ____ (rise) at the moment because of inflation. | are rising
+I ____ (know) him for ten years. | have known
+Sales ____ (fall) sharply in 2009. | fell
+The plane ____ (already / take off) when we reached the airport. | had already taken off
+I ____ (wait) for the bus when I saw the accident. | was waiting
+Every evening my grandfather ____ (tell) us stories. (повторяющееся действие в прошлом) | would tell/used to tell/told
+Don't call me between 6 and 7 — I ____ (drive) home. | will be driving
+By 2030, the city ____ (build) a new airport. | will have built
+If it ____ (snow) tomorrow, the school will close. | snows
+____ (you / ever / be) to India? | Have you ever been
+How long ____ (you / live) here? | have you lived/have you been living
+Excuse me, could you tell me what time ____ (the bank / open)? | the bank opens
+I wonder whether ____ (she / get) the job. (past) | she got
+"I can't drive." — "Neither ____ I." | can
+You've seen this film, ____? | haven't you
+She ____ (can) speak French when she was eight. | could
+You ____ (not / need) to bring a towel; the hotel provides them. | don't need/do not need/needn't
+It's the ____ (expensive) hotel I've ever stayed in. | most expensive
+Today was ____ (bad) day of the week. | the worst
+Unemployment was three times ____ (high) in 2010 as in 2000. | as high
+Her English is getting ____ (good) every month. (удвоенное сравнение) | better and better
+The ____ (long) you wait, the harder it will be. | longer
+This exam was ____ (easy) than I thought. | easier
+Who ____ (invent) the telephone? | invented
+@TEST ERR Часть C. Найди ошибку (20)
+(A) I (B) am (C) living here (D) since 2010. | B | # have lived / have been living
+(A) The chart (B) is illustrating (C) the number of (D) students. | B | # illustrates
+(A) He (B) didn't (C) knew (D) the answer. | C | # know
+(A) When (B) I was young, (C) I would (D) be very shy. | C | # used to be
+(A) I'll call you (B) as soon as (C) I will finish (D) work. | C | # I finish
+(A) It is expected (B) that the population (C) grows (D) by 5% next year. | C | # will grow
+(A) Where (B) you (C) did (D) buy that? | B | # Where did you buy
+(A) Could you tell me (B) how much (C) does it (D) cost? | C | # how much it costs
+(A) You (B) mustn't (C) pay — (D) it's free. | B | # don't have to
+(A) She (B) must (C) to wear (D) a uniform. | C | # must wear
+(A) He (B) must (C) be at work; (D) it's Sunday and the office is closed. | B | # can't
+(A) The new model (B) is (C) more faster (D) than the old one. | C | # faster
+(A) Rents here (B) are (C) very higher (D) than in my town. | C | # much higher
+(A) This is (B) the more (C) interesting (D) book I've read. | B | # the most
+(A) The number of (B) visitors (C) has doubled (D) in 2015. | C | # doubled
+(A) While (B) we (C) watched TV, (D) the power went off. | C | # were watching
+(A) She (B) has finished (C) her homework (D) an hour ago. | B | # finished
+(A) Nobody (B) knows (C) the answer, (D) don't they? | D | # do they?
+(A) The population of China (B) is (C) larger (D) than India. | D | # than that of India
+(A) I (B) haven't (C) seen her (D) since three weeks. | D | # for three weeks
+@TEST CI Часть D. Правильно (C) или с ошибкой (I)? (10)
+I have been to London three times. | C
+When did you arrive? | C
+What did happen yesterday? | I | # What happened
+We needn't hurry — there's plenty of time. | C
+You don't have to smoke in the building. (= запрещено) | I | # mustn't
+By 2025, prices had risen by 20%. (сейчас 2026) | C
+I am agreeing with you. | I | # I agree
+The more I learn, the more I want to know. | C
+He's the most tall person in the class. | I | # the tallest
+She asked me where I lived. | C

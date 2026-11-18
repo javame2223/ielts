@@ -1,0 +1,104 @@
+# 8 | Present Tenses | 2 | Present Simple, Present Continuous, глаголы состояния; Present Perfect и Perfect Continuous — основы
+@GOAL Выбирать настоящее время по смыслу: постоянное или временное, факт или процесс, результат к настоящему моменту. Это нужно и для Speaking Part 1 (о себе), и для Task 1 без дат.
+@PLAN
+1. Present Simple: факты, привычки, расписания; окончание -s.
+2. Present Continuous: сейчас, временно, тенденции (is increasing).
+3. Глаголы состояния, которые не ставят в -ing.
+4. Present Perfect: опыт, результат, незаконченный период (основы; подробно в теме 14).
+5. Present Perfect Continuous: как долго длится процесс.
+6. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Present Simple
+Форма: *I/you/we/they **work**; he/she/it **works***. Вопрос и отрицание — с **do / does**: *Does she work? She doesn't work.*
+- Факты и общие истины: *Water **boils** at 100°C. The table **shows** the number of…*
+- Привычки и регулярность (always, usually, every day): *I **usually walk** to work.*
+- Расписания: *The train **leaves** at 7.*
+- Окончание **-s** в 3-м лице: *-es* после s, sh, ch, x, o (*goes, watches*); согласная + y → *-ies* (*studies*).
+✗ She work in a bank. → ✓ She works in a bank.
+✗ Does he likes coffee? → ✓ Does he like coffee?
+### 2. Present Continuous
+Форма: **am / is / are + V-ing**.
+- Происходит сейчас: *I'**m reading** right now.*
+- Временная ситуация: *She **is living** with her parents this year.*
+- Изменения и тенденции: *The climate **is getting** warmer. More people **are working** from home.*
+- Раздражающая привычка с always: *He'**s always losing** his keys!*
+- Планы на будущее (подробно в теме 10): *I'**m meeting** him tomorrow.*
+| Present Simple | Present Continuous |
+| I **live** in Tashkent. (постоянно) | I'**m living** in a hostel this month. (временно) |
+| She **teaches** maths. (профессия) | She'**s teaching** a class now. (сейчас) |
+| The population **grows** every year. (факт) | The population **is growing** fast. (тенденция сейчас) |
+### 3. Глаголы состояния (stative verbs)
+Обычно не используются в Continuous: **know, believe, understand, mean, want, need, prefer, like, love, hate, own, belong, seem, consist, contain, depend, matter, cost**.
+✗ I am knowing the answer. → ✓ I know the answer.
+✗ This bag is belonging to me. → ✓ This bag belongs to me.
+Некоторые меняют смысл: *I **think** it's a good idea* (мнение) — *I'**m thinking** about it* (процесс). *She **has** a car* (владеет) — *She'**s having** lunch* (действие). *The soup **tastes** good* — *The chef **is tasting** the soup*.
+### 4. Present Perfect — основы
+Форма: **have / has + V3**. Связывает прошлое с настоящим:
+- опыт (ever, never): *I'**ve** never **been** to Japan.*
+- результат сейчас: *I'**ve lost** my keys* (и их нет).
+- незаконченный период (for, since, this year): *She'**s lived** here **since** 2015.*
+- новости (just, already, yet): *They'**ve** just **opened** a new metro line.*
+### 5. Present Perfect Continuous
+Форма: **have / has been + V-ing**. Процесс, который длится до сих пор или только что закончился: *I'**ve been studying** English for three years. You look tired — **have** you **been running**?*
+Сравни: *I'**ve read** three books this month* (результат, сколько) — *I'**ve been reading** all afternoon* (процесс, как долго).
+IELTS: в Speaking Part 1 о себе — Present Simple (*I work as…, I usually…*); о текущих изменениях — Present Continuous (*These days I'm trying to…*); об опыте — Present Perfect (*I've always been interested in…*). В Task 1 без дат и в процессах — только Present Simple.
+@EX MCQ Simple или Continuous?
+Water ____ at 0°C. | A freezes | B is freezing | A
+Look! It ____. | A snows | B is snowing | B
+My brother ____ in London; he moved there five years ago. | A lives | B is living | A
+I ____ with friends until I find a flat. | A stay | B am staying | B
+The number of electric cars ____ rapidly these days. | A increases | B is increasing | B
+The bar chart ____ the sales of three companies. | A shows | B is showing | A
+She usually ____ to work by bus. | A goes | B is going | A
+Be quiet — the baby ____. | A sleeps | B is sleeping | B
+He ____ always ____ my pens! It's so annoying. | A is / taking | B — / takes | A
+What ____ you usually ____ at the weekend? | A are / doing | B do / do | B
+@EX MCQ Глаголы состояния
+I ____ what you mean. | A understand | B am understanding | A
+This book ____ to my sister. | A belongs | B is belonging | A
+We ____ dinner at the moment. | A have | B are having | B
+I ____ he is right. | A think | B am thinking | A
+I ____ about changing my job. | A think | B am thinking | B
+This box ____ old letters. | A contains | B is containing | A
+The soup ____ delicious. | A tastes | B is tasting | A
+She ____ a new car — it's red. | A has | B is having | A
+@EX GAP Впиши глагол в нужной форме (Present Simple / Continuous)
+She ____ (speak) four languages. | speaks
+Why ____ (you / laugh)? What's so funny? | are you laughing
+The sun ____ (rise) in the east. | rises
+Prices ____ (go) up at the moment. | are going
+He ____ (not / like) spicy food. | does not like/doesn't like
+More and more young people ____ (choose) to study abroad nowadays. | are choosing
+____ (your father / work) at weekends? | Does your father work
+I ____ (need) some help with this. | need
+@EX GAP Present Perfect или Perfect Continuous
+I ____ (live) here since 2018. | have lived/have been living
+She ____ (write) three books so far. | has written
+They ____ (wait) for two hours — they're angry. | have been waiting
+I ____ (never / see) such a beautiful place. | have never seen
+You're out of breath. ____ (you / run)? | Have you been running
+The company ____ (just / announce) record profits. | has just announced
+@EX ERR Найди ошибку
+(A) My father (B) work (C) in a hospital (D) as a nurse. | B | # works
+(A) I (B) am believing (C) that (D) education is important. | B | # believe
+(A) Does (B) she (C) speaks (D) English? | C | # speak
+(A) Listen! (B) Someone (C) knocks (D) at the door. | C | # is knocking
+(A) The table (B) is showing (C) the number of (D) students in five countries. | B | # shows
+(A) I (B) have (C) studied here (D) since three years. | D | # for three years
+@TEST MCQ Тест
+Most people ____ that climate change is a serious threat. | A agree | B are agreeing | A
+The world's population ____ older. | A gets | B is getting | B
+She ____ in a café this summer to earn some money. | A works | B is working | B
+How often ____ you ____ to the gym? | A are / going | B do / go | B
+I ____ this film three times. | A see | B have seen | B
+They ____ for this company for ten years. | A work | B have worked | B
+The diagram ____ how cement is made. | A shows | B is showing | A
+I ____ to music while I study. — It's my habit. | A always listen | B am always listening | A
+This word ____ "happy" in Spanish. | A is meaning | B means | B
+How long ____ you ____ English? | A are / learning | B have / been learning | B
+@TEST ERR Тест: найди ошибку
+(A) People (B) are needing (C) more time (D) to relax. | B | # need
+(A) He (B) don't (C) eat (D) meat. | B | # doesn't
+(A) At the moment (B) I (C) read (D) a great book. | C | # am reading
+(A) She (B) has (C) worked here (D) since five months. | D | # for five months
+(A) The cost of living (B) rises (C) quickly (D) at the moment. | B | # is rising

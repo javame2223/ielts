@@ -1,0 +1,102 @@
+# 12 | Modal Verbs | 2 | can, could, may, might, must, have to, should, ought to, need: возможность, обязанность, совет, вероятность и осторожные формулировки
+@GOAL Точно выражать обязанность, совет, возможность и степень уверенности. Модальные глаголы — главный инструмент «hedging» (осторожных утверждений) в Task 2: *This could lead to… / Governments should…*
+@PLAN
+1. Грамматика модальных: без -s, без to, без do.
+2. Способность: can, could, be able to.
+3. Обязанность и необходимость: must, have to, need to; отсутствие необходимости: don't have to, needn't.
+4. Запрет: mustn't, can't.
+5. Совет: should, ought to, had better.
+6. Вероятность: must, may, might, could, can't.
+7. Hedging в Task 2.
+8. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Грамматика
+Модальный глагол + **инфинитив без to**; нет окончания -s; вопросы и отрицания без do: *She **can** swim. **Can** she swim? She **can't** swim.* Исключения со *to*: **have to, need to, ought to, be able to**.
+✗ She cans drive. → ✓ She can drive.
+✗ You should to study. → ✓ You should study.
+✗ Do you can help me? → ✓ Can you help me?
+### 2. Способность
+- **can / can't** — сейчас; **could / couldn't** — вообще в прошлом: *I **could** read when I was four.*
+- **was able to / managed to** — смог в конкретной ситуации в прошлом: *The fire spread quickly, but everyone **was able to** escape.* (не *could escape*)
+- Будущее и после других глаголов — **be able to**: *I **will be able to** help you tomorrow. I'd like **to be able to** speak Chinese.*
+### 3. Обязанность и необходимость
+| | Значение | Пример |
+| **must** | обязанность по мнению говорящего, правила на письме | *I **must** call my mother. Passengers **must** wear seat belts.* |
+| **have to** | обязанность из-за внешних обстоятельств; все времена | *I **have to** wear a uniform at work. We **had to** wait.* |
+| **need to** | необходимость | *You **need to** renew your visa.* |
+| **don't have to / don't need to / needn't** | нет необходимости (можно, но не обязательно) | *You **don't have to** come if you're busy.* |
+| **mustn't** | запрет | *You **mustn't** smoke here.* |
+**mustn't ≠ don't have to**: *You **mustn't** tell anyone* (нельзя) — *You **don't have to** tell anyone* (не обязательно).
+В прошлом *must* → **had to**: ✗ *I must go yesterday* → ✓ *I had to go yesterday*.
+### 4. Совет и рекомендация
+- **should / ought to** — совет, мнение: *Governments **should** invest in public transport.*
+- **had better (not)** — совет с предупреждением: *You'**d better** leave now, or you'll miss the train.*
+- **shouldn't have + V3** — сожаление о прошлом (см. тему 24): *I **shouldn't have** eaten so much.*
+### 5. Вероятность и логические выводы
+| Уверенность | Модальный | Пример |
+| ≈ 100% «наверняка» | **must** | *He's been working all day — he **must** be tired.* |
+| 50% «может быть» | **may / might / could** | *It **may** rain later. This **could** be the reason.* |
+| ≈ 0% «не может быть» | **can't / couldn't** | *That **can't** be true!* (не *mustn't be*) |
+О прошлом: **must have / might have / can't have + V3** (подробно в теме 24).
+### 6. Hedging — осторожные утверждения в Task 2
+Категоричные утверждения (*Video games make children violent*) легко опровергнуть. Band 7–9 звучит взвешенно:
+> Video games **may** contribute to aggressive behaviour in some children.
+> This policy **could** lead to higher unemployment.
+> Stricter laws **might** help to reduce crime.
+> Governments **should** consider…
+Сочетания: *may well* (вполне вероятно), *could potentially*, *is likely to*, *tend to*.
+IELTS: не перебарщивай — если каждое предложение с *may*, эссе звучит неуверенно. Свою позицию формулируй уверенно (*I believe that… should…*), а прогнозы и причины — осторожно (*This may lead to…*).
+@EX MCQ Обязанность, отсутствие необходимости, запрет
+You ____ park here. It's a hospital entrance. | A mustn't | B don't have to | A
+It's Sunday, so I ____ get up early. | A mustn't | B don't have to | B
+In the UK, drivers ____ drive on the left. | A have to | B can | A
+Yesterday I ____ stay at work until 9 pm. | A must | B had to | B
+You ____ bring food — lunch is provided. | A needn't | B mustn't | A
+Students ____ use phones during the exam. It's forbidden. | A mustn't | B needn't | A
+Do we ____ wear a tie? | A must | B have to | B
+I ____ remember to buy milk. | A must | B mustn't | A
+@EX MCQ Способность
+When she was five, she ____ already read. | A could | B can | A
+After hours of searching, they ____ find the missing child. | A could | B were able to | B
+I'm sorry, I ____ come to your party next week. | A can't | B couldn't | A
+One day I'd like to ____ play the piano. | A can | B be able to | B
+He ____ swim until he was twelve. | A couldn't | B can't | A
+Will you ____ finish the report by Friday? | A can | B be able to | B
+@EX MCQ Вероятность
+She's not answering. She ____ be in a meeting. | A must | B may | B
+You've just eaten a huge lunch. You ____ be hungry! | A can't | B mustn't | A
+The lights are on, so they ____ be at home. | A must | B can't | A
+Take an umbrella — it ____ rain later. | A might | B must | A
+This ____ be the right address. There's no house number 40 on this street. | A can't | B mustn't | A
+He ____ be German — his English has a slight German accent. | A could | B can't | A
+@EX GAP Впиши подходящий модальный глагол (must, mustn't, should, can't, don't have to, had better)
+You ____ see a doctor about that cough. (совет) | should/ought to
+You ____ go if you don't want to. (не обязательно) | don't have to/do not have to/needn't/don't need to
+That ____ be Tom — he's in Paris this week. (невозможно) | can't/cannot/couldn't
+You ____ touch that wire — it's dangerous! (запрет) | mustn't/must not
+We ____ hurry, or we'll miss the start of the film. (предупреждение) | had better/'d better
+He's been driving for ten hours. He ____ be exhausted. (уверенный вывод) | must
+@EX ERR Найди ошибку
+(A) Children (B) should (C) to spend (D) more time outdoors. | C | # should spend
+(A) She (B) cans (C) speak (D) three languages. | B | # can
+(A) I (B) must (C) finish the report (D) yesterday. | B | # had to
+(A) He has a big house and three cars. (B) He (C) mustn't (D) be poor. | C | # can't be poor
+(A) The fire was huge, (B) but all the guests (C) could (D) escape. | C | # were able to escape
+(A) Do (B) we (C) must (D) pay now? | C | # Do we have to pay
+@TEST MCQ Тест
+You ____ show your passport at the border. It's the law. | A have to | B needn't | A
+You ____ water the plants — it rained this morning. | A mustn't | B don't need to | B
+Visitors ____ feed the animals. | A mustn't | B don't have to | A
+That ____ be Anna's car — she sold it last year. | A can't | B mustn't | A
+Governments ____ do more to protect the environment. | A should | B ought | A
+The bus is late. It ____ be stuck in traffic. | A might | B must not | A
+I'm sorry, I ____ hear you — the music was too loud. | A can't | B couldn't | B
+We ____ leave now if we want to get there on time. | A had better | B had better to | A
+This new policy ____ lead to higher prices. | A could | B cans | A
+When I lived in Japan, I ____ speak a little Japanese. | A could | B can | A
+@TEST ERR Тест: найди ошибку
+(A) Young people (B) ought (C) learn (D) to cook. | B | # ought to learn
+(A) I'm not sure. (B) It (C) must (D) be true, or it might not. | C | # may/might be true
+(A) We (B) didn't must (C) wear (D) a uniform. | B | # didn't have to
+(A) You (B) needn't (C) to bring (D) anything. | C | # needn't bring
+(A) She (B) will (C) can (D) drive next year. | C | # will be able to

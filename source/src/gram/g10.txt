@@ -1,0 +1,88 @@
+# 10 | Future Forms | 2 | will, be going to, Present Continuous и Simple для будущего, прогнозы в Task 1, Future Continuous и Perfect
+@GOAL Выбирать форму будущего по смыслу (решение, план, договорённость, прогноз) и уверенно писать прогнозы в Task 1: *is expected to, is predicted to, is likely to, will have reached*.
+@PLAN
+1. Will: решения в момент речи, обещания, предсказания-мнения.
+2. Be going to: планы и прогнозы по признакам.
+3. Present Continuous и Present Simple для будущего.
+4. Будущее после when, if, as soon as — без will.
+5. Future Continuous и Future Perfect.
+6. Язык прогнозов для Task 1.
+7. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Основные формы
+| Форма | Когда | Пример |
+| **will** | решение прямо сейчас; обещание, предложение; мнение о будущем (think, probably) | *I'**ll** help you. I think prices **will** rise.* |
+| **be going to** | план, принятый заранее; прогноз по видимым признакам | *I'**m going to** study medicine. Look at the clouds — it'**s going to** rain.* |
+| **Present Continuous** | договорённость с конкретным временем | *I'**m meeting** the director at 10 tomorrow.* |
+| **Present Simple** | расписание, программа | *The conference **starts** on Monday.* |
+### 2. Время и условие — без will
+После **when, if, as soon as, before, after, until, unless, by the time** про будущее используем **Present Simple** (или Present Perfect):
+✗ I'll call you when I will arrive. → ✓ I'll call you when I arrive.
+✗ If it will rain, we will stay at home. → ✓ If it rains, we will stay at home.
+### 3. Future Continuous и Future Perfect
+- **will be + V-ing** — процесс в момент будущего: *This time tomorrow I'**ll be flying** to London.*
+- **will have + V3** — завершится к моменту в будущем: *By 2030, the city **will have built** three new metro lines.*
+- **will have been + V-ing** — как долго к моменту: *By June I'**ll have been working** here for five years.*
+### 4. Прогнозы в Task 1
+| Активная конструкция | Безличная / пассивная |
+| The number **will** rise to 10 million. | The number **is expected / predicted / projected / forecast to** rise to 10 million. |
+| Japan **will probably** overtake Germany. | **It is predicted that** Japan **will** overtake Germany. |
+| The figure **is likely to** stabilise. | The figure **is set to** fall. |
+| By 2050, the figure **will have doubled**. | — |
+Прошлое на том же графике — Past Simple, прогноз — эти конструкции. Не пиши *will* в каждом предложении: чередуй.
+IELTS: в Task 2 *will* помогает показать последствия (*This will lead to…*), а модальные *may, might, could* делают утверждения осторожными (*This could result in…*) — экзаменатор ценит такую «hedging»-лексику (подробно в теме 12).
+@EX MCQ Will или be going to?
+"The phone's ringing." — "OK, I ____ answer it." | A 'll | B 'm going to | A
+I've decided — I ____ apply to university in Canada. | A will | B am going to | B
+Watch out! That glass ____ fall. | A will | B is going to | B
+I think robots ____ do most jobs in the future. | A will | B are going to | A
+"I don't have any money." — "Don't worry, I ____ lend you some." | A 'll | B 'm going to | A
+We ____ get married next summer. We've already booked the hall. | A will | B are going to | B
+I promise I ____ be late again. | A won't | B am not going to | A
+She's bought paint — she ____ paint her room. | A will | B is going to | B
+@EX MCQ Расписание, договорённость, план
+The train ____ at 6.45 tomorrow morning. | A leaves | B is leaving | A
+I ____ my dentist on Thursday at 3. | A see | B am seeing | B
+What time ____ the film start? | A does | B is | A
+We ____ dinner with the Smiths tonight — it's arranged. | A have | B are having | B
+The new term ____ on 1 September. | A begins | B will be beginning | A
+@EX GAP Будущее после when / if / until (впиши форму глагола)
+I'll phone you as soon as I ____ (get) home. | get
+If the government ____ (raise) taxes, people will protest. | raises
+We won't start until everyone ____ (arrive). | arrives/has arrived
+When she ____ (finish) school, she will travel. | finishes/has finished
+Unless you ____ (hurry), you'll miss the bus. | hurry
+I'll wait here until you ____ (come) back. | come
+@EX MCQ Future Continuous / Future Perfect / прогнозы
+At 9 tomorrow I ____ an exam, so I can't talk. | A will take | B will be taking | B
+By 2030, scientists ____ a cure for this disease. | A will find | B will have found | B
+Don't call at 8 — we ____ dinner. | A will have | B will be having | B
+By the time you arrive, I ____ cooking. | A will finish | B will have finished | B
+The population ____ to reach 12 million by 2040. | A is expected | B expects | A
+It ____ that sales will fall next year. | A predicts | B is predicted | B
+The figure ____ to rise to 40% in 2050. | A is projected | B will project | A
+Energy prices ____ rise further this winter. | A are likely to | B are likely | A
+@EX ERR Найди ошибку
+(A) I (B) will tell her (C) when (D) she will come. | D | # when she comes
+(A) Look at those clouds! (B) It (C) will rain (D) soon. | C | # is going to rain
+(A) The number of cars (B) is predicted (C) rising (D) to 2 billion. | C | # to rise
+(A) By the time (B) we get there, (C) the shop (D) will close. | D | # will have closed — к моменту в будущем уже закроется
+(A) If prices (B) will rise, (C) people (D) will buy less. | B | # rise
+(A) I (B) am meeting (C) John (D) at tomorrow evening. | D | # tomorrow evening (без at)
+@TEST MCQ Тест
+"It's cold in here." — "I ____ close the window." | A 'll | B 'm going to | A
+They ____ build a new hospital — the plans were approved last month. | A will | B are going to | B
+The plane ____ at 14.30, so we must be at the airport by noon. | A lands | B is landing | A
+I'll text you when I ____ the results. | A will get | B get | B
+By next June, she ____ her degree. | A will complete | B will have completed | B
+This time next week, we ____ on a beach in Spain. | A will lie | B will be lying | B
+The proportion of elderly people ____ to grow in the coming decades. | A is set | B sets | A
+I'm sure you ____ the exam. You've worked so hard. | A will pass | B are passing | A
+____ you be using the car tonight? I need it. | A Will | B Are | A
+Sales ____ to have doubled by 2030. | A expect | B are expected | B
+@TEST ERR Тест: найди ошибку
+(A) Before you (B) will leave, (C) please (D) turn off the lights. | B | # Before you leave
+(A) It is (B) expected (C) that the figure (D) rises to 20% in 2040. | D | # will rise
+(A) I (B) am going (C) visit my grandparents (D) this weekend. | B | # am going to visit / am visiting
+(A) By 2025, (B) we (C) will have been (D) lived here for ten years. | D | # will have been living / will have lived
+(A) Don't worry, (B) I (C) am helping (D) you with your homework. | C | # I'll help (предложение помощи)

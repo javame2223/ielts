@@ -1,0 +1,98 @@
+# 9 | Past Tenses | 2 | Past Simple, неправильные глаголы, Past Continuous, Past Perfect, used to и would
+@GOAL Рассказывать о прошлом последовательно и точно: что произошло, что в это время происходило, что случилось ещё раньше. Это основа Task 1 с прошлыми датами и рассказов в Speaking Part 2.
+@PLAN
+1. Past Simple: правильные и неправильные глаголы, did в вопросах.
+2. Past Continuous: фон и прерванное действие (when / while).
+3. Past Perfect: «предпрошедшее» (by 2010, before, after).
+4. Used to и would для прошлых привычек.
+5. Past в Task 1: последовательность и время.
+6. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Past Simple
+Законченное действие в прошлом, часто с указанием времени: *yesterday, in 2010, two years ago, last month*.
+- Правильные: **-ed** (*worked, studied, stopped*); неправильные надо выучить: *go → went, rise → rose, fall → fell, grow → grew, begin → began, buy → bought, think → thought, teach → taught, spend → spent, lead → led*.
+- Вопрос и отрицание с **did** + инфинитив: *Did prices rise? Prices didn't rise.*
+✗ Did you went there? → ✓ Did you go there?
+✗ The number of visitors raised. → ✓ The number of visitors rose. (*raise* — поднимать что-то, нужен объект)
+### 2. Past Continuous
+**was / were + V-ing** — процесс в определённый момент прошлого, фон истории.
+- *At 8 pm yesterday I **was watching** TV.*
+- Длинное действие прерывается коротким: *I **was walking** home **when** it **started** to rain.*
+- Два параллельных процесса: ***While** I **was cooking**, my brother **was studying**.*
+| when + короткое действие (Past Simple) | while + длительное действие (Past Continuous) |
+| I was having a shower **when** the phone rang. | **While** I was having a shower, the phone rang. |
+### 3. Past Perfect
+**had + V3** — действие произошло **раньше** другого прошлого действия или к моменту в прошлом.
+- *When I arrived, the film **had** already **started**.* (сначала начался фильм)
+- *By 2010, the population **had doubled**.* (к 2010 году)
+- После *after, before, by the time, already, never … before*.
+Сравни: *When I arrived, the film **started*** (начался при мне) — *When I arrived, the film **had started*** (уже шёл).
+### 4. Used to и would
+- **used to + инфинитив** — прошлые привычки и состояния, которых больше нет: *I **used to live** in a village. There **used to be** a cinema here.*
+- **would** — только повторяющиеся действия (не состояния): *Every summer we **would go** to the seaside.*
+- Вопрос/отрицание: *Did you **use to**…? I **didn't use to**…*
+- Не путать с **be/get used to + -ing** (привыкнуть): *I'**m used to getting** up early.*
+✗ I would live in Samarkand as a child. → ✓ I used to live in Samarkand as a child.
+### 5. Прошлое в Task 1
+Все годы в прошлом → Past Simple. Чтобы показать итог к дате — Past Perfect: *By 2020, the figure **had risen** to 45%.* Перед этим не нужно Present Perfect: ✗ *In 2010 the number has increased* → ✓ *In 2010 the number increased*.
+IELTS: в Speaking Part 2 история «Describe a time when…» звучит естественно, если смешивать времена: фон — Past Continuous (*I was travelling with friends…*), события — Past Simple (*we missed the bus*), предыстория — Past Perfect (*we had never been there before*). Это и есть «range» для Band 7.
+@EX GAP Неправильные глаголы: впиши Past Simple
+Unemployment ____ (fall) to 5% in 2019. | fell
+Sales ____ (rise) steadily over the decade. | rose
+The company ____ (spend) $2 million on advertising. | spent
+She ____ (teach) English in Japan for two years. | taught
+The war ____ (lead) to a sharp drop in trade. | led
+The city ____ (grow) rapidly in the 1960s. | grew
+I ____ (think) the exam was easy. | thought
+They ____ (build) a new bridge in 2005. | built
+The film ____ (begin) at eight. | began
+We ____ (buy) our first car last year. | bought
+Prices ____ (stay) the same in 2015. | stayed
+The figure ____ (hit) a peak in 2012. | hit
+@EX MCQ Past Simple или Past Continuous?
+I ____ TV when you called. | A watched | B was watching | B
+She ____ her leg while she was skiing. | A broke | B was breaking | A
+While I ____ dinner, the lights went out. | A cooked | B was cooking | B
+They ____ the house in 1995. | A bought | B were buying | A
+At 10 o'clock last night I ____ for the exam. | A studied | B was studying | B
+He ____ the door, ____ in and sat down. | A opened / walked | B was opening / was walking | A
+It ____ heavily when we left the house, so we took a taxi. | A rained | B was raining | B | # Фон в момент действия — Past Continuous.
+What ____ you ____ at this time yesterday? | A did / do | B were / doing | B
+@EX MCQ Past Simple или Past Perfect?
+When we got to the station, the train ____. It was gone. | A left | B had left | B
+When the teacher came in, everyone ____ quiet. | A became | B had become | A | # Реакция сразу после действия — Past Simple.
+By 2000, the number of internet users ____ to 400 million. | A rose | B had risen | B
+I ____ him before I moved to London. | A never met | B had never met | B
+After she ____ her homework, she went out. | A had finished | B has finished | A
+He ____ the email and then called me. | A read | B had read | A
+@EX MCQ Used to, would, be used to
+I ____ smoke, but I stopped five years ago. | A used to | B use to | C am used to | A
+There ____ a cinema in our street. | A would be | B used to be | B
+When I was a child, my grandmother ____ tell me stories every night. | A would | B was used to | A
+Did you ____ play football at school? | A used to | B use to | B
+I find it hard to ____ the cold weather here. | A get used to | B used to | A
+She is used to ____ long hours. | A work | B working | B
+@EX ERR Найди ошибку
+(A) In 2010, (B) the number of (C) cars (D) has increased. | D | # increased
+(A) Prices (B) raised (C) sharply (D) in 2008. | B | # rose
+(A) I (B) didn't (C) went (D) to school yesterday. | C | # go
+(A) When I arrived, (B) the lesson (C) already (D) started. | C | # had already started
+(A) I (B) would (C) have (D) long hair when I was a student. | B | # used to have (состояние)
+(A) While I (B) walked (C) home, (D) I met an old friend. | B | # was walking
+@TEST MCQ Тест
+The number of births ____ dramatically in the 1960s. | A has fallen | B fell | B
+I ____ the bus every morning when I lived in Paris. | A was taking | B took | B | # Повторяющееся действие в прошлом — Past Simple (или used to).
+She ____ in the garden when she heard a noise. | A worked | B was working | B
+We ____ to the cinema every Friday when we were students. | A would go | B were going | A
+By the end of the year, the company ____ 500 new staff. | A employed | B had employed | B
+When I got home, I realised I ____ my keys at the office. | A left | B had left | B | # Ключи оставил раньше, чем понял.
+____ you see the match last night? | A Did | B Were | A
+There ____ fewer cars on the roads in the past. | A used to be | B would be | A
+After the figure ____ a peak in 2015, it began to fall. | A had reached | B was reaching | A
+I ____ asleep when the alarm went off. | A was | B had | A
+@TEST ERR Тест: найди ошибку
+(A) The population (B) growed (C) slowly (D) after 1990. | B | # grew
+(A) Did (B) you (C) enjoyed (D) the party? | C | # enjoy
+(A) I (B) was knowing (C) her (D) for years. | B | # had known
+(A) When I (B) was a child, (C) I would (D) have a dog. | C | # used to have
+(A) By 2015, (B) sales (C) have (D) doubled. | C | # had doubled

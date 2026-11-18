@@ -1,0 +1,104 @@
+# 11 | Questions & Negatives | 2 | Вопросы во всех временах, вопросы к подлежащему, косвенные вопросы, tag questions, отрицания
+@GOAL Задавать любые вопросы без ошибок порядка слов, использовать вежливые косвенные вопросы (в письмах GT и в Speaking) и правильно строить отрицания.
+@PLAN
+1. Порядок слов в вопросе: вспомогательный глагол + подлежащее + глагол.
+2. Вопросы к подлежащему: Who called? — без do.
+3. Вопросы с предлогом в конце: What are you looking at?
+4. Косвенные вопросы: Could you tell me where the station is?
+5. Tag questions: isn't it? didn't you?
+6. Отрицания: not, no, never, neither / nor, одно отрицание на предложение.
+7. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Схема вопроса
+**(Вопросительное слово) + вспомогательный глагол + подлежащее + основной глагол**
+| Время | Вспомогательный | Пример |
+| Present Simple | do / does | *Where **does** she **work**?* |
+| Past Simple | did | *When **did** the prices **rise**?* |
+| be | am / is / are / was / were | ***Are** you ready? Why **was** he late?* |
+| Continuous | be | *What **are** you **doing**?* |
+| Perfect | have / has / had | ***Have** you ever **been** to Spain?* |
+| Modal | can / will / should… | *How **can** we **solve** this problem?* |
+✗ Where you live? → ✓ Where do you live?
+✗ Why she is crying? → ✓ Why is she crying?
+✗ What did you said? → ✓ What did you say?
+### 2. Вопросы к подлежащему
+Если вопросительное слово (**who, what, which, how many**) само является подлежащим, **do/does/did не нужно**, порядок прямой:
+- ***Who** called you?* (кто-то позвонил) — сравни ***Who did** you call?* (ты позвонил кому-то)
+- ***What happened**?* (не *What did happen?*)
+- ***How many** people **came**?*
+### 3. Предлог в конце
+В разговорном и нейтральном английском предлог остаётся в конце: *What are you talking **about**? Who did you go **with**? Where do you come **from**?* Формально: *With whom did you go?*
+### 4. Косвенные вопросы
+После вежливого начала порядок слов становится **прямым**, do/does/did исчезают:
+| Прямой вопрос | Косвенный |
+| Where is the station? | Could you tell me **where the station is**? |
+| What time does the museum open? | Do you know **what time the museum opens**? |
+| Did he pass the exam? | I wonder **if / whether he passed** the exam. |
+✗ Could you tell me where is the bank? → ✓ Could you tell me where the bank is?
+✗ I'd like to know when does the course start. → ✓ I'd like to know when the course starts.
+### 5. Tag questions (…, не так ли?)
+Утверждение → отрицательный «хвост», отрицание → положительный. Вспомогательный глагол берём из предложения: *It's cold, **isn't it**? You live here, **don't you**? She didn't call, **did she**? You've finished, **haven't you**?* Особые: *I'm right, **aren't I**? Let's go, **shall we**? Nobody came, **did they**?*
+### 6. Отрицания
+- **not** с вспомогательным: *don't, didn't, haven't, won't, can't*.
+- **no** + существительное = not any: *There is **no** time* = *There isn't **any** time*.
+- **Одно** отрицание в предложении: ✗ *I didn't see nobody* → ✓ *I didn't see anybody / I saw nobody*.
+- **neither / nor / either**: *I don't like it, and **neither does** my sister. — "I can't swim." — "**Nor can I** / I can't **either**."*
+- Отрицание с think, believe, expect обычно ставится в главную часть: *I **don't think** it's true* (а не *I think it isn't true* — тоже возможно, но звучит резче).
+- Отрицательные вопросы — удивление: ***Don't** you know him?*
+IELTS: в письмах GT используй косвенные вопросы: *I would be grateful if you could tell me **whether the price includes** breakfast.* В Speaking уточняющие вопросы экзаменатору тоже косвенные: *Could you explain what you mean by…?*
+@EX MCQ Порядок слов в вопросе
+Where ____? | A your parents live | B do your parents live | C your parents do live | B
+What ____ at the moment? | A are you reading | B you are reading | C do you reading | A
+How long ____ English? | A have you studied | B you have studied | C did you studied | A
+Why ____ late yesterday? | A you were | B were you | C did you be | B
+What time ____ the museum ____? | A does / open | B is / open | C does / opens | A
+____ you ever ____ to Australia? | A Did / go | B Have / been | C Are / been | B
+Which bus ____ to the airport? | A goes | B does go | C go | A
+Who ____ the light bulb? | A did invent | B invented | C does invent | B
+@EX MCQ Вопрос к подлежащему или к дополнению?
+Who ____ you this book? (Кто дал тебе книгу?) | A gave | B did give | A
+Who ____ at the party? (Кого ты видел?) | A saw you | B did you see | B
+What ____ to your car? (Что случилось?) | A happened | B did happen | A
+How many students ____ the exam? | A passed | B did pass | A
+What ____ you ____ for lunch? | A did / have | B — / had | A
+Which country ____ the most tourists? | A attracts | B does attract | A
+@EX GAP Косвенные вопросы: дополни предложение (порядок слов!)
+Where is the post office? → Could you tell me where ____? | the post office is
+What time does the train leave? → Do you know what time ____? | the train leaves
+Did she accept the offer? → I wonder ____ the offer. | if she accepted/whether she accepted
+How much does the course cost? → I'd like to know how much ____. | the course costs
+Why did they cancel the flight? → Can you explain why ____ the flight? | they cancelled/they canceled
+Is breakfast included? → Please let me know ____ included. | if breakfast is/whether breakfast is
+@EX GAP Tag questions
+It's a beautiful day, ____? | isn't it
+You've met my sister, ____? | haven't you
+She didn't come, ____? | did she
+They live in Paris, ____? | don't they
+I'm late, ____? | aren't I
+Let's start, ____? | shall we
+He can swim, ____? | can't he
+Nobody phoned, ____? | did they
+@EX ERR Найди ошибку
+(A) What (B) did (C) she (D) told you? | D | # tell
+(A) Could you tell me (B) when (C) does the shop (D) close? | C | # when the shop closes
+(A) Who (B) did (C) break (D) the window? | B | # Who broke the window?
+(A) I (B) don't (C) know (D) nothing about it. | D | # anything
+(A) I (B) can't speak French, (C) and my brother can't (D) neither. | D | # either / and neither can my brother
+(A) Where (B) you (C) bought (D) that coat? | B | # Where did you buy…
+@TEST MCQ Тест
+What ____ when you heard the news? | A did you do | B you did | C did you did | A
+Who ____ the most goals last season? | A did score | B scored | C scores did | B
+Do you know where ____? | A is the library | B the library is | C does the library | B
+I'd like to know whether ____ evening classes. | A you offer | B do you offer | C offer you | A
+____ she ____ her homework yet? | A Did / finish | B Has / finished | C Is / finished | B
+You don't eat meat, ____? | A do you | B don't you | C are you | A
+"I've never been to Rome." — "____." | A Neither have I | B So have I | C Neither I have | A
+What are you thinking ____? | A — | B about | C of about | B
+There ____ left in the fridge. | A is nothing | B isn't nothing | C is anything | A
+How many people ____ the concert? | A did attend | B attended | C attending | B
+@TEST ERR Тест: найди ошибку
+(A) Can you (B) tell me (C) what time (D) does the lesson start? | D | # what time the lesson starts
+(A) Why (B) she (C) is (D) so upset? | B | # Why is she…
+(A) Who (B) did (C) win (D) the competition? | B | # Who won
+(A) She (B) has finished, (C) hasn't (D) it? | D | # hasn't she?
+(A) We (B) didn't (C) see (D) no one. | D | # anyone

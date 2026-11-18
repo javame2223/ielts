@@ -1,0 +1,104 @@
+# 13 | Comparatives & Superlatives | 2 | Сравнительная и превосходная степень, as…as, twice as many as, the more…the more, much/far/slightly + comparative
+@GOAL Сравнивать точно и разнообразно — главный навык Task 1 («make comparisons where relevant») и полезный приём в Task 2. Знать формы, усилители и конструкции с кратностью.
+@PLAN
+1. Образование: -er/-est и more/most; неправильные формы.
+2. Сравнение двух: than; равенство: as … as, not as … as.
+3. Усилители и смягчители: much, far, considerably, slightly, a little.
+4. Кратность: twice as high as, three times more than, half as many as.
+5. The more…, the more…; comparative and comparative.
+6. Превосходная: the … of / in, one of the + мн. ч., the second largest.
+7. Практика 1–5 и тест по теме.
+@THEORY
+### 1. Формы
+| Прилагательное | Сравнительная | Превосходная |
+| 1 слог: cheap, high | cheap**er**, high**er** | the cheap**est**, the high**est** |
+| -e: large | larg**er** | the larg**est** |
+| гласная + согласная: big, hot | bi**gger**, ho**tter** | the bi**ggest** |
+| -y: easy, busy | eas**ier**, bus**ier** | the eas**iest** |
+| 2+ слога: modern, expensive | **more** modern, **more** expensive | the **most** expensive |
+| неправильные | good → **better**, bad → **worse**, far → **further/farther**, many/much → **more**, little → **less** | **the best, the worst, the furthest, the most, the least** |
+Наречия: *quickly → more quickly; fast → faster; well → better; badly → worse*.
+✗ more cheaper → ✓ cheaper ✗ the most biggest → ✓ the biggest ✗ more good → ✓ better
+### 2. Than и as … as
+- *Rents in London are higher **than** in Manchester.*
+- Равенство: *The figure for 2010 was **as high as** in 2000.*
+- Неравенство: *Trains are **not as** fast **as** planes.* (= planes are faster)
+- После than / as — объектное местоимение или полное предложение: *She is taller **than me** / **than I am***.
+- Сравни правильные вещи: ✗ *The population of Tokyo is larger than Paris* → ✓ *…larger than **that of** Paris* / *…than Paris's*.
+### 3. Степень разницы
+| Большая разница | Небольшая разница |
+| **much / far / considerably / significantly / substantially** higher | **slightly / a little / marginally / a bit** higher |
+✗ very higher → ✓ much higher ✗ more higher → ✓ much higher
+### 4. Кратность (Task 1!)
+- ***twice as** many tourists **as***, ***three times as** high **as***, ***half as** much **as***
+- ***twice / three times** the number of*: *Japan had **twice the number of** visitors that Spain had.*
+- *The figure **doubled / tripled / halved**.*
+- *X was **three times higher than** Y* — разговорно допустимо, но *three times as high as* точнее.
+### 5. Двойное сравнение и рост
+- ***The more** you practise, **the better** you become.* ***The higher** the price, **the fewer** people buy it.*
+- Постепенное изменение: *It's getting **colder and colder**. Life is becoming **more and more** expensive.*
+### 6. Превосходная степень
+- ***the** highest **in** the world / **in** the group*, ***the** most popular **of** the five activities*.
+- ***one of the** most important **problems*** (мн. ч.!).
+- ***the second** largest, **the third** most popular*.
+- ***the least** popular* = самый непопулярный.
+- С Present Perfect: *the best film I **have ever seen***.
+IELTS: в Task 1 сравнение не «украшение», а требование. Чередуй: *higher than*, *the highest*, *twice as many as*, *slightly lower*, *the second most popular*, *by contrast*, *while*. Ошибка *more higher* или *the most biggest* сразу показывает уровень ниже 6.
+@EX GAP Образуй нужную форму
+London is ____ (expensive) than Manchester. | more expensive
+This is ____ (good) restaurant in town. | the best
+Today is ____ (hot) than yesterday. | hotter
+Which is ____ (large) city in Canada? | the largest
+The situation is getting ____ (bad). | worse
+This exercise is ____ (easy) than the last one. | easier
+She is ____ (old) of the three sisters. | the oldest/the eldest
+He drives ____ (carefully) than his brother. | more carefully
+Walking is ____ (healthy) than driving. | healthier
+That was ____ (bad) film I've ever seen. | the worst
+@EX MCQ Than, as…as, усилители
+The new phone is ____ more powerful than the old one. | A very | B much | C more | B
+Rents in the city are ____ higher than in the countryside. | A far | B very | C too | A
+This year's sales were ____ last year's. | A as good as | B as good than | C so good as | A
+Buses are not ____ trains. | A as fast as | B as faster as | C faster as | A
+The figure for 2020 was ____ higher than in 2019, only by 1%. | A considerably | B slightly | C much | B
+She is a little ____ than her brother. | A tall | B taller | C tallest | B
+My brother earns more than ____. | A I | B me | C my | B
+The climate of Spain is warmer than ____ of Britain. | A it | B that | C this | B
+@EX MCQ Кратность и двойное сравнение
+Japan had ____ visitors as Spain. | A twice as many | B twice more many | C two times many | A
+The price of oil was ____ in 2008 as in 2000. | A three times as high | B three times higher as | C as three times high | A
+The ____ you sleep, the more tired you feel. | A less | B fewer | C least | A
+The more you read, ____ your vocabulary becomes. | A the richest | B the richer | C richer | B
+Prices are getting ____. | A higher and higher | B more and more high | C high and higher | A
+Women earned ____ as men in 1970. | A half as much | B half as many | C as half much | A
+@EX MCQ Превосходная степень
+Tokyo is one of the most crowded ____ in the world. | A city | B cities | B
+Football is the ____ popular sport in Brazil. | A more | B most | B
+Reading was the ____ popular activity, chosen by only 5%. | A least | B less | A
+France has the ____ largest economy in the EU, after Germany. | A second | B two | A
+This is the most interesting book I ____ read. | A ever | B have ever | B
+Mount Everest is the highest mountain ____ the world. | A of | B in | B
+@EX ERR Найди ошибку
+(A) The population (B) of India (C) is more bigger (D) than that of Brazil. | C | # bigger
+(A) This is (B) one of (C) the best (D) restaurant in the city. | D | # restaurants
+(A) Cars are (B) very (C) more expensive (D) than they were ten years ago. | B | # much / far
+(A) He is (B) as (C) tall (D) than his father. | D | # as tall as
+(A) The weather (B) is getting (C) more and more (D) hot. | C | # hotter and hotter
+(A) The salary of (B) a doctor (C) is higher (D) than a teacher. | D | # than that of a teacher
+@TEST MCQ Тест
+Coal was ____ source of energy in 1990. | A the most important | B the more important | A
+Solar power is ____ than it was ten years ago. | A much cheaper | B more cheaper | A
+The number of cyclists was ____ as in the previous year. | A twice as high | B twice higher | A
+Spending on food was ____ lower than spending on housing. | A significantly | B very | A
+Of the four countries, Italy had ____ unemployment rate. | A the lowest | B the lower | A
+The film was ____ than I expected. | A worse | B more bad | A
+The earlier you start, ____ you will finish. | A the sooner | B the soonest | A
+Life in the city is not ____ peaceful as life in the village. | A as | B so as | A
+This was the ____ figure of the whole period. | A highest | B higher | A
+Brazil had the ____ largest number of visitors, after Spain. | A second | B two | A
+@TEST ERR Тест: найди ошибку
+(A) The number of (B) tourists in France (C) was higher (D) as in Italy. | D | # than in Italy
+(A) It was (B) the most (C) worst (D) day of my life. | C | # the worst
+(A) Japan had (B) three times (C) more many (D) cars than Mexico. | C | # three times as many cars as / three times more cars than
+(A) Tokyo (B) is one of (C) the largest city (D) in the world. | C | # the largest cities
+(A) The cost of living (B) in London (C) is higher (D) than Rome. | D | # than in Rome / than that of Rome
