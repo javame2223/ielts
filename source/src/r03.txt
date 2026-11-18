@@ -1,0 +1,288 @@
+## Artificial Intelligence in the Clinic | Technology
+In hospitals around the world, computer programs are beginning to do work that was once reserved for highly trained specialists. The most striking progress has been in reading medical images. Software trained on hundreds of thousands of X-rays and scans can now detect signs of lung disease, breast cancer and eye conditions with an accuracy that, in several studies, matches that of experienced doctors.
+
+These systems do not follow rules written by programmers. Instead they learn from examples. Shown a vast number of images that doctors have already labelled, the program gradually works out which patterns are associated with illness. This means that its quality depends heavily on its training data. A system taught mainly with images from one group of patients may perform poorly on others, a weakness that has already been observed with skin-cancer tools trained largely on photographs of light skin.
+
+Supporters argue that the technology will not replace doctors but will free them from routine tasks. A program never gets tired, and it can check thousands of scans overnight, flagging the urgent ones for a human to examine first. In regions with few specialists it could bring expert diagnosis to patients who would otherwise wait months.
+
+There are concerns as well. It is often impossible to explain exactly why a program reached a particular conclusion, which makes errors hard to detect. If a mistake harms a patient, it is unclear who is responsible: the hospital, the doctor or the company that built the software. For now, most health authorities insist that a qualified person must make the final decision.
+@V
+striking = поразительный, заметный
+detect = обнаруживать
+accuracy = точность
+label = помечать, маркировать
+routine = рутинный
+flag = помечать, выделять
+diagnosis = диагноз
+conclusion = вывод, заключение
+@Q YNNG
+Medical AI programs work by following instructions written out by programmers. | N
+The quality of an AI system is closely linked to the data it learns from. | Y
+AI will make most doctors unemployed within ten years. | NG
+It is easy to understand how an AI system arrives at its decisions. | N
+@Q GAP
+Some skin-cancer tools were trained mostly on photographs of ____ . | light skin
+A program can mark the most ____ scans so that a person looks at them first. | urgent
+@Q MCQ
+According to supporters, the main benefit of AI for doctors is that it | A reduces their salaries. | B takes over repetitive work. | C makes training unnecessary. | D removes legal responsibility. | B
+What do most health authorities currently require? | A that AI is not used at all | B that patients pay extra for AI | C that a human makes the last decision | D that companies explain their software | C
+
+## The Return of the Electric Car | Technology
+Electric cars feel like a recent invention, but they are older than cars that burn petrol. In 1900 about a third of the vehicles on American roads were electric. They were quiet, clean and easy to start, and they were especially popular in cities. Petrol cars, by contrast, were noisy and had to be started by turning a heavy handle at the front.
+
+Two developments ended that early success. The discovery of large oil fields in Texas made petrol cheap, and in 1912 the electric starter removed the need for the handle. Meanwhile Henry Ford's assembly line cut the price of his Model T to less than half that of an electric car. Since batteries allowed only short journeys and there were few places to recharge them outside towns, electric vehicles had almost disappeared by the 1930s.
+
+Their revival began a century later, driven by concern about air pollution and climate change and made possible by the lithium-ion battery, which stores far more energy for its weight than older types. The cost of these batteries fell by roughly ninety per cent between 2010 and 2020. Many governments now offer buyers financial incentives, and several have announced dates after which new petrol and diesel cars may not be sold.
+
+Obstacles remain. Charging still takes longer than filling a tank, and charging points are unevenly distributed. Mining the lithium and cobalt needed for batteries can damage the environment. Moreover, an electric car is only as clean as the electricity it uses: if that comes from coal-fired power stations, the benefit to the climate is much reduced.
+@V
+vehicle = транспортное средство
+handle = рукоятка
+assembly line = конвейер, сборочная линия
+recharge = перезаряжать
+revival = возрождение
+incentive = стимул, льгота
+obstacle = препятствие
+distribute = распределять
+@Q TFNG
+Electric cars were invented after petrol cars. | F
+In 1900, most American vehicles were powered by electricity. | F
+The Model T cost less than half as much as an electric car. | T
+Henry Ford's wife drove an electric car. | NG
+@Q MATCH
+problems that electric cars still face | D
+the factors behind the modern comeback of electric cars | C
+a comparison of early petrol and electric cars | A
+@Q GAP
+Between 2010 and 2020, the cost of lithium-ion batteries dropped by about ____ per cent. | ninety/90
+
+## Printing in Three Dimensions | Technology
+Traditional manufacturing usually works by removing material: a block of metal or wood is cut, drilled and polished until the desired shape remains. Three-dimensional printing does the opposite. Guided by a digital design, a printer builds an object layer by layer, each one a fraction of a millimetre thick, from plastic, metal powder or other substances. For this reason engineers call the technique additive manufacturing.
+
+The idea dates back to the 1980s, when it was used to make prototypes quickly. A company designing a new product could print a model overnight rather than waiting weeks for one to be made by hand. As the machines became cheaper and more precise, they began to produce finished goods as well.
+
+The advantages are clearest where objects are complex or needed in small numbers. Aircraft manufacturers print lightweight engine parts with internal shapes that could not be made in any other way. In medicine the technology has been used for dental crowns, hearing aids and implants matched exactly to a patient's body. Because the printer uses only the material it needs, very little is wasted. Spare parts can be produced where they are required, even on the International Space Station, instead of being stored in warehouses and shipped around the world.
+
+Three-dimensional printing is unlikely to replace factories, however. It remains slow compared with conventional methods, and for making millions of identical items, mass production is far cheaper. There are also worries about misuse, since designs for dangerous objects such as weapons can be shared online and printed at home.
+@V
+manufacturing = производство
+polish = полировать
+layer = слой
+prototype = прототип, опытный образец
+precise = точный
+implant = имплант
+spare part = запасная часть
+warehouse = склад
+@Q TFNG
+3D printing creates objects by cutting material away. | F
+The technology was first used for making prototypes. | T
+3D printers have been used in space. | T
+Most hospitals now own a 3D printer. | NG
+@Q MCQ
+3D printing is most suitable for products that are | A simple and cheap. | B needed in huge quantities. | C complicated or made in small numbers. | D made only of plastic. | C
+What is one concern about the technology? | A It wastes large amounts of material. | B It could be used to make weapons privately. | C It requires large warehouses. | D It is too expensive for aircraft makers. | B
+@Q GAP
+Engineers refer to 3D printing as ____ manufacturing. | additive
+For producing millions of identical items, ____ is much cheaper. | mass production
+
+## The Origins of the Internet | Technology
+The internet grew out of a research project funded by the United States Department of Defense in the 1960s. Its aim was to let scientists at different universities share expensive computers. The key idea was packet switching: instead of sending a message along one fixed line, as a telephone call was, the network broke it into small packets that travelled separately and were put back together at their destination. If one route failed, the packets simply took another.
+
+The first link of the network, called ARPANET, was made in October 1969 between two universities in California. The operators tried to send the word 'login', but the system crashed after two letters, so the first message ever sent was 'lo'. By 1971 the network connected about twenty sites, and in the same year the engineer Ray Tomlinson sent the first email, choosing the @ sign to separate the user's name from the name of the computer.
+
+During the 1970s other networks appeared, and they could not communicate with each other. Vinton Cerf and Robert Kahn solved the problem by designing a common set of rules, known as TCP/IP, which ARPANET adopted on 1 January 1983. Many regard that date as the true birthday of the internet.
+
+For ordinary people the turning point came later. In 1989 Tim Berners-Lee, a British scientist working at the CERN laboratory in Switzerland, proposed a system of linked pages that he named the World Wide Web. Crucially, CERN made the technology free for anyone to use. Within a decade the web had hundreds of millions of users, and the internet had moved from laboratories into homes.
+@V
+fund = финансировать
+packet = пакет (данных)
+destination = пункт назначения
+crash = давать сбой, «падать»
+adopt = принимать, внедрять
+turning point = переломный момент
+propose = предлагать
+crucially = что крайне важно
+@Q TFNG
+The internet was originally created for military communication between soldiers. | F
+The first message sent over ARPANET was shorter than intended. | T
+Ray Tomlinson invented the @ symbol. | F
+Tim Berners-Lee became rich from the World Wide Web. | NG
+@Q SUM
+In packet switching, a message is divided into small ____ that travel separately. | packets
+Different networks became able to communicate thanks to rules called ____ . | TCP/IP
+The Web spread fast because CERN allowed everyone to use it for ____ . | free
+@Q MCQ
+Why is 1 January 1983 significant? | A The first email was sent. | B ARPANET switched to the common rules. | C The Web was invented. | D The first two computers were linked. | B
+
+## Drones at Work | Technology
+A drone is an aircraft without a pilot on board, flown either by remote control or by its own computer. Drones were developed for military purposes, but small, cheap models with four or more propellers and a camera have found a remarkable range of peaceful uses since about 2010.
+
+Farmers were among the first to benefit. A drone flying over a field can photograph crops in different kinds of light, revealing areas that need water or are affected by disease long before the damage is visible from the ground. Fertiliser can then be applied only where it is required, saving money and reducing pollution. In Japan, unmanned helicopters have sprayed rice fields for decades.
+
+Drones are also valuable where work is dangerous or access is difficult. They inspect bridges, power lines and wind turbines, jobs that used to require people to climb to great heights. After earthquakes and floods they search for survivors and map the damage. In Rwanda, a delivery service launched in 2016 flies blood and medicines to remote clinics, cutting journeys that took hours by road to about thirty minutes.
+
+The rapid spread of drones has raised problems. They can be flown over private gardens with a camera, and their noise disturbs both people and wildlife. More seriously, drones near airports have forced flights to be suspended. Most countries now require operators to register larger models, keep them within sight and stay away from crowds and runways. Whether city skies will ever be filled with drones delivering parcels, as some companies predict, depends as much on such rules as on technology.
+@V
+remote control = дистанционное управление
+propeller = пропеллер
+reveal = выявлять, показывать
+fertiliser = удобрение
+spray = опрыскивать
+inspect = осматривать, проверять
+suspend = приостанавливать
+runway = взлётно-посадочная полоса
+@Q TFNG
+Drones were first designed for use by armies. | T
+Drones can detect crop disease before a farmer on foot would notice it. | T
+Japan started using unmanned helicopters on farms only after 2010. | F
+The Rwandan delivery service is run by the government. | NG
+@Q SHORT
+What does the Rwandan service deliver besides medicines? | blood
+Near what kind of place have drones caused flights to be stopped? | airports
+@Q MCQ
+What is the writer's view on parcel delivery by drone in cities? | A It is certain to happen soon. | B It will never happen. | C Its future depends partly on regulations. | D It is already common. | C
+Which requirement for drone operators is NOT mentioned? | A registering larger drones | B keeping the drone in view | C passing a written examination | D avoiding crowds | C
+
+## How GPS Knows Where You Are | Technology
+Most smartphone users take it for granted that a blue dot on a map will show their position to within a few metres. Behind that dot is the Global Positioning System, a network of about thirty satellites orbiting roughly 20,000 kilometres above the Earth. The system was built by the United States military and became fully operational in 1995.
+
+The principle is surprisingly simple. Each satellite continuously broadcasts a signal stating its position and the exact time. A receiver on the ground notes how long each signal took to arrive and, since radio waves travel at the speed of light, converts that delay into a distance. One satellite places the receiver somewhere on a huge sphere; with signals from four satellites, only a single point fits all the measurements.
+
+Everything depends on timing. An error of one millionth of a second would put the position out by about 300 metres, so every satellite carries atomic clocks. Even Einstein's theory of relativity must be taken into account: because the satellites move fast and experience weaker gravity, their clocks run faster than clocks on the ground by about 38 millionths of a second per day. Without correction, the system would drift by around ten kilometres daily.
+
+Originally the best signal was reserved for the military, and civilian receivers were deliberately made less accurate. That restriction ended in 2000, and accuracy improved overnight from about 100 metres to about ten. Today GPS and similar systems run by Europe, Russia and China guide aircraft, ships and tractors, and the precise time signals are used to coordinate mobile phone networks and banking transactions.
+@V
+take it for granted = принимать как должное
+orbit = вращаться по орбите
+broadcast = передавать (сигнал)
+receiver = приёмник
+convert = преобразовывать
+drift = смещаться, отклоняться
+civilian = гражданский
+deliberately = намеренно
+@Q TFNG
+GPS was created by a private company. | F
+A receiver needs signals from four satellites to fix its exact position. | T
+Clocks on GPS satellites run more slowly than clocks on Earth. | F
+The European system is more accurate than GPS. | NG
+@Q GAP
+Each satellite is equipped with ____ to keep extremely precise time. | atomic clocks
+Before 2000, civilian receivers were accurate to about ____ metres. | 100
+@Q MCQ
+How does a receiver calculate its distance from a satellite? | A by measuring the strength of the signal | B by measuring how long the signal takes to arrive | C by photographing the satellite | D by comparing two maps | B
+Which use of GPS time signals is mentioned? | A forecasting the weather | B coordinating phone networks | C controlling street lighting | D measuring earthquakes | B
+
+## Power from the Sun | Technology
+Every hour, the Earth receives more energy from the Sun than humanity uses in a year. Capturing even a small part of it has long been a dream of engineers. The photovoltaic effect, in which light striking certain materials produces an electric current, was first observed by the French physicist Edmond Becquerel in 1839, but the first practical silicon solar cell was not made until 1954, at Bell Laboratories in the United States.
+
+That early cell converted only about six per cent of the light into electricity and was extremely expensive. Its first important customers were space agencies, which needed a lightweight source of power for satellites and were not worried about cost. On Earth, solar panels were for decades limited to small devices such as calculators and to remote places far from power lines.
+
+The picture has changed dramatically. Typical panels today have an efficiency of around twenty per cent, and mass production, much of it in China, has reduced their price by about ninety per cent since 2010. In many sunny countries solar farms are now the cheapest way of generating new electricity. Panels have no moving parts, make no noise and can last for twenty-five years or more.
+
+The obvious drawback is that the Sun does not always shine. Output falls on cloudy days and stops at night, often just when demand rises in the evening. The solution lies in storage. Large batteries are being installed beside solar farms, and some power stations pump water uphill during the day and release it through turbines after dark. Until storage becomes cheaper, most countries will continue to need other sources alongside solar.
+@V
+capture = улавливать, захватывать
+current = ток
+cell = элемент, ячейка
+efficiency = эффективность, КПД
+generate = вырабатывать
+output = выработка, объём производства
+demand = спрос
+install = устанавливать
+@Q TFNG
+The photovoltaic effect was discovered in the nineteenth century. | T
+The first silicon solar cell turned about twenty per cent of light into electricity. | F
+Space agencies were among the earliest users of solar cells. | T
+China uses more solar power than any other country. | NG
+@Q HEAD i. A long wait for a working device; ii. The problem of darkness and cloud; iii. Why solar became affordable; iv. Solar power in the home; v. An expensive niche product; vi. The dangers of silicon
+Paragraph A | i
+Paragraph B | v
+Paragraph C | iii
+Paragraph D | ii
+
+## Robots on the Factory Floor | Technology
+The word 'robot' comes from a Czech play of 1920, in which artificial workers rebel against their human masters. Real robots arrived forty years later and were far less dramatic. In 1961 a machine called Unimate, essentially a mechanical arm, began lifting hot pieces of metal at a General Motors car plant in New Jersey, a job that was unpleasant and dangerous for people.
+
+Industrial robots spread through car factories in the 1970s and 1980s, particularly in Japan. They were ideal for tasks such as welding and painting, which had to be repeated thousands of times in exactly the same way. A robot does not get bored, take breaks or lose concentration. On the other hand, the early machines were blind and inflexible. They had to be fenced off in cages, because they could not sense a person standing in their path.
+
+A newer generation, known as collaborative robots or 'cobots', is designed to work beside people. Equipped with cameras and sensors, they stop immediately when they touch something unexpected, and they can be taught a new task simply by guiding the arm through the movements. Because they are relatively cheap, even small firms can afford them.
+
+Whether robots destroy jobs is a matter of debate. Studies in several countries have found that each new industrial robot replaces a number of factory workers. Yet countries with the highest numbers of robots, such as South Korea and Germany, do not have unusually high unemployment. Economists point out that automation also creates work, in programming, maintenance and new industries, although those jobs demand different skills, and workers who lose routine jobs often find it hard to move into them.
+@V
+rebel = восставать
+plant = завод
+welding = сварка
+inflexible = негибкий
+fenced off (fence off) = огораживать
+collaborative = совместный
+sensor = датчик
+maintenance = техническое обслуживание
+@Q TFNG
+The word 'robot' was first used in a work for the theatre. | T
+Unimate was designed to look like a human being. | F
+Early industrial robots could detect people who came near them. | F
+Cobots are too expensive for small companies to buy. | F
+@Q MCQ
+Why were robots well suited to welding and painting? | A These tasks require creativity. | B These tasks are repeated identically many times. | C These tasks were badly paid. | D These tasks are done outdoors. | B
+What point is made about South Korea and Germany? | A They have banned cobots. | B They have many robots but not especially high unemployment. | C They have lost most of their factories. | D They produce the cheapest robots. | B
+@Q GAP
+A cobot can learn a job when someone guides its ____ through the movements. | arm
+Jobs created by automation require different ____ . | skills
+
+## The Attention Economy | Technology
+The average smartphone owner now checks the device dozens of times a day, often without any particular purpose. This is not an accident. Many of the most popular apps are free to use, and the companies behind them earn money by selling advertising. The longer people stay on the screen, the more advertisements they see. Human attention has become the product being sold.
+
+Designers have a range of techniques for holding that attention. One is the endless feed: because there is no natural stopping point, such as the end of a page, users keep scrolling. Another is the notification, a sound or red symbol that creates a small sense of urgency. A third is the unpredictable reward. Psychologists have known since the 1950s that animals repeat an action most persistently when it is rewarded only some of the time. Refreshing a social media page works in a similar way: usually there is nothing new, but occasionally there is a message or a 'like'.
+
+The consequences are disputed. Some researchers link heavy use of social media to anxiety and poor sleep among teenagers, while others argue that the evidence is weak and that the effects are small. What is less controversial is the cost to concentration. In one experiment, students performed worse on a test when their phone was simply lying on the desk, even though it was switched off.
+
+In response, phone makers have introduced tools that show how much time is spent on each app and allow users to set limits. Critics note the irony of relying on the device itself to solve the problem, and suggest a simpler remedy: leaving it in another room.
+@V
+purpose = цель
+feed = лента (новостей)
+scroll = прокручивать
+notification = уведомление
+urgency = срочность
+persistently = настойчиво, упорно
+controversial = спорный
+remedy = средство, решение
+@Q YNNG
+Free apps make their money mainly from advertising. | Y
+Notifications were designed to help users manage their time. | N
+All researchers agree that social media causes anxiety in teenagers. | N
+Schools should ban smartphones in classrooms. | NG
+@Q GAP
+An endless feed has no natural ____ . | stopping point
+In one study, students did worse in a test when a phone was on the ____ . | desk
+@Q MCQ
+Why is refreshing a social media page compared to animal experiments? | A Both involve punishment. | B Both involve rewards that come unpredictably. | C Both were invented in the 1950s. | D Both require special training. | B
+What simple solution do critics propose? | A deleting all apps | B buying an older phone | C keeping the phone in a different room | D setting a time limit | C
+
+## What Happens to Our Plastic? | Technology
+Plastic is one of the most useful materials ever invented: light, strong, waterproof and cheap. These same qualities make it a problem once it is thrown away. Since large-scale production began in the 1950s, more than eight billion tonnes have been manufactured, and it is estimated that less than ten per cent of all plastic waste has ever been recycled. The rest has been burned, buried or left in the environment.
+
+One reason is that 'plastic' is not a single substance. There are many types, and they cannot be melted down together. A drinks bottle is made of one kind, its cap of another, and the label of a third. Waste must therefore be sorted, which is costly, and food remains can spoil a whole batch. Even when recycling succeeds, the quality of the material declines each time, so a bottle is more likely to become carpet fibre than another bottle.
+
+For years many rich countries dealt with the difficulty by shipping their plastic waste abroad, chiefly to China. In 2018 China banned most of these imports, and waste began to pile up in the exporting countries or was diverted to nations with weaker controls.
+
+Several solutions are being explored. Chemical recycling breaks plastic down into its original building blocks, which can be made into new material of full quality, though the process uses a great deal of energy. Deposit schemes, in which customers get money back for returning bottles, achieve return rates above ninety per cent in countries such as Germany and Norway. Most experts stress, however, that the priority must be to use less plastic in the first place.
+@V
+waterproof = водонепроницаемый
+estimate = оценивать
+substance = вещество
+sort = сортировать
+batch = партия
+decline = снижаться
+divert = перенаправлять
+deposit = залог
+@Q TFNG
+Most of the plastic ever produced has been recycled. | F
+Different types of plastic can be melted together without difficulty. | F
+Recycled bottles are usually turned into new bottles of the same quality. | F
+China's ban was introduced because of protests by its citizens. | NG
+@Q SUM
+Chemical recycling returns plastic to its original ____ . | building blocks
+A disadvantage of this method is that it needs a lot of ____ . | energy
+In Germany and Norway, ____ encourage more than ninety per cent of bottles to be returned. | deposit schemes
+@Q MCQ
+What do most experts consider most important? | A exporting waste to more countries | B burning more plastic | C reducing the amount of plastic used | D inventing new types of plastic | C

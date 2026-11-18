@@ -1,0 +1,200 @@
+## Exercise as Medicine
+@INSERT 3
+A common belief is that exercise is mainly a way of burning calories. Research among the Hadza people of Tanzania, who still live by hunting and gathering, has complicated this view. Hadza men walk about eleven kilometres a day and women about six, yet when the anthropologist Herman Pontzer measured the energy they used, the daily totals were scarcely higher than those of office workers in Europe and America, once body size was allowed for. The body, it seems, adjusts to greater activity by spending less energy on other processes. This is why exercise alone seldom leads to much loss of weight, though it remains essential for almost every other aspect of health.
+
+For people who claim they have no time, there is encouraging news. Researchers in Canada compared two groups of inactive men over twelve weeks. One group cycled at a steady pace for forty-five minutes three times a week. The other did sessions lasting only ten minutes, which included three bursts of all-out effort of twenty seconds each. At the end, the fitness of both groups had improved by almost the same amount.
+
+Nor is it necessary to exercise every day. A large British study that followed more than 60,000 adults found that so-called weekend warriors, who packed all their activity into one or two days a week, had a risk of early death almost as low as that of people who spread the same amount over the week. What counts, apparently, is the total.
+@V
+anthropologist = антрополог
+scarcely = едва, почти не
+session = занятие, сеанс
+burst = рывок, короткий всплеск
+@Q TFNG
+The Hadza use far more energy each day than Western office workers. | F
+Short sessions with intense bursts improved fitness almost as much as longer steady exercise. | T
+People who exercise only at weekends gain little benefit. | F
+@Q GAP
+Hadza men walk about ____ kilometres a day. | eleven/11
+Each burst of all-out effort lasted ____ seconds. | twenty/20
+
+## Sweet and Dangerous
+@INSERT 2
+One reason why the amount is hard to judge is that sugar appears on labels under more than fifty different names, among them dextrose, maltose, glucose syrup and fruit juice concentrate. Since ingredients are listed in order of weight, a manufacturer that uses three or four kinds can keep each of them lower down the list. Phrases such as 'no added sugar' can also mislead: a fruit smoothie may contain no sugar from a packet and yet deliver as much as a fizzy drink.
+
+Why should sugar in juice matter if sugar in fruit does not? The answer lies in fibre. In a whole orange, the sugar is locked inside cells whose walls take time to digest, so it reaches the blood slowly. When the fruit is squeezed, the fibre is left behind and the sugar is absorbed almost at once. A sudden rise in blood sugar is followed by a surge of the hormone insulin and then a rapid fall, which leaves people tired and hungry again. It is also far easier to drink the juice of four oranges than to eat four oranges.
+
+Artificial sweeteners, which provide the taste without the calories, seem an obvious solution. The first, saccharin, was discovered by accident in 1879 by a chemist who noticed a sweet taste on his fingers at dinner after a day in the laboratory. More than a century later, their value remains uncertain. Reviewing the evidence in 2023, the World Health Organization concluded that sweeteners do not help people to control their weight in the long term and advised against relying on them.
+@V
+ingredient = ингредиент
+digest = переваривать
+surge = резкий подъём
+sweetener = подсластитель
+@Q TFNG
+Sugar is always listed under the same name on food labels. | F
+The sugar in a whole orange enters the blood more slowly than the sugar in orange juice. | T
+Saccharin was the result of a deliberate search for a substitute for sugar. | F
+@Q GAP
+A sudden rise in blood sugar is followed by a surge of the hormone ____ . | insulin
+The World Health Organization reviewed the evidence on sweeteners in ____ . | 2023
+
+## The First Vaccine
+@INSERT 4
+The victory owed as much to strategy as to the vaccine. At first the plan was to vaccinate entire populations, a task that proved impossible in crowded and remote regions. In 1966 an American doctor working in Nigeria, William Foege, found himself with too little vaccine and tried a different approach. His team searched for every case of the disease and vaccinated only the people living around each patient, forming a protective ring that the virus could not cross. The method worked so well that it was adopted everywhere. Two inventions helped: a freeze-dried vaccine that survived for weeks in tropical heat, and a simple two-pronged needle that volunteers could learn to use in minutes.
+
+The virus has not entirely vanished. Samples are officially kept in two high-security laboratories, one in the United States and one in Russia, and whether they should be destroyed has been argued over for decades. Those in favour of keeping them say they may be needed to develop new medicines; opponents point to the danger of an accident. The fear is not imaginary. In 1978, a year after the last natural case, a medical photographer in the English city of Birmingham died after the virus escaped from a research laboratory in the building where she worked.
+
+The campaign's success inspired others. A global effort against polio, begun in 1988, has reduced the number of cases by more than ninety-nine per cent, although the disease has proved stubborn in a few areas affected by conflict.
+@V
+freeze-dried = сублимированный
+needle = игла
+imaginary = воображаемый
+stubborn = упорный, трудноустранимый
+@Q TFNG
+Foege's method involved vaccinating everyone in a country. | F
+Samples of the smallpox virus still exist. | T
+The woman who died in Birmingham in 1978 caught the disease abroad. | F
+@Q GAP
+Foege's team vaccinated the people around each patient to form a protective ____ . | ring
+A global campaign against ____ began in 1988. | polio
+
+## The End of the Antibiotic Age?
+@INSERT 1
+Fleming himself was unable to extract the active substance in a stable form, and for ten years his discovery remained a laboratory curiosity. The work was taken up in 1939 by a team at Oxford University led by Howard Florey and Ernst Chain. Their first human patient, in February 1941, was a policeman dying of an infection that had begun with a scratch. After a few injections he improved dramatically, but the supply was so small that the doctors had to recover the drug from his urine and use it again. When it finally ran out, he relapsed and died.
+
+Britain at war could not spare factories, so Florey took the project to the United States. At a government laboratory in Illinois, researchers looked for a more productive strain of the mould and asked the public to send in samples. The best one turned up on a rotting melon bought at a local market. Combined with a new method of growing the mould in deep tanks, it raised production so sharply that by June 1944 there was enough penicillin to treat every wounded soldier in the Allied armies that landed in France.
+
+Success set off a search for similar drugs, most of them produced by bacteria and fungi living in the soil. Streptomycin, discovered in 1943, was the first effective treatment for tuberculosis, and the next two decades are remembered as a golden age in which most of the main families of antibiotics were found.
+@V
+extract = извлекать, выделять
+injection = инъекция
+strain = штамм
+tuberculosis = туберкулёз
+@Q TFNG
+Fleming quickly turned penicillin into a usable medicine himself. | F
+The first patient treated with penicillin made a full recovery. | F
+The most productive mould was found on a piece of fruit. | T
+@Q GAP
+The work on penicillin was taken up by a team at ____ University. | Oxford
+Streptomycin was the first effective treatment for ____ . | tuberculosis
+
+## The Simplest Exercise
+@INSERT 4
+Human beings are built for walking. Fossil footprints preserved in volcanic ash at Laetoli in Tanzania, discovered in 1978, show that our ancestors were walking upright on two legs at least 3.6 million years ago, long before their brains grew large. The upright gait is remarkably economical: a walking human uses only about a quarter of the energy that a chimpanzee of similar weight spends in covering the same distance on all fours.
+
+The speed at which an older person walks tells doctors a surprising amount. An analysis of nine studies covering some 34,000 people over sixty-five found that walking speed predicted how long they would live almost as accurately as detailed medical information. Walking makes demands on the heart, lungs, muscles, joints and nervous system all at once, so a slowing pace can be an early sign that something is wrong. Some specialists now refer to it as an extra vital sign, to be measured like pulse and blood pressure.
+
+Yet people in rich countries walk far less than they used to. In the United States, almost half of all children walked or cycled to school in 1969; forty years later the proportion had fallen to about one in eight. Longer distances are only part of the explanation. Parents interviewed in surveys mention fear of traffic above all, a danger that grows as more of them choose to drive.
+@V
+footprint = след (ноги)
+upright = прямо, вертикально
+gait = походка
+pulse = пульс
+@Q TFNG
+Our ancestors walked upright before their brains became large. | T
+Chimpanzees use less energy than humans to cover the same distance. | F
+Most American children still walk or cycle to school. | F
+@Q GAP
+The fossil footprints at Laetoli are preserved in volcanic ____ . | ash
+For older people, walking ____ is a good predictor of how long they will live. | speed
+
+## The Science of Laughter
+@INSERT 3
+Laughter is famously infectious, a fact that television producers were quick to exploit. Recorded laughter was first added to an American comedy programme in 1950, and experiments have confirmed that audiences rate the same jokes as funnier when they hear other people laughing. The most extreme example of contagion occurred in 1962 at a girls' boarding school in what is now Tanzania. Three pupils began to laugh uncontrollably, and within weeks the fits had spread to about half the school, which had to be closed. Doctors found no physical cause and concluded that the outbreak was a reaction to stress.
+
+Tickling raises a curious question: why can nobody tickle themselves? Experiments in London using a robotic arm suggest an answer. When volunteers moved a lever that made the robot stroke their own palm at the same moment, they felt almost nothing. When the robot's response was delayed by a fifth of a second, the sensation became ticklish. The brain predicts the results of its own movements and dulls them, and tickling depends on surprise.
+
+Not all laughter is spontaneous. We also laugh politely, to keep a conversation flowing or to please a superior. Listeners are surprisingly good at telling the two kinds apart. Genuine laughter is higher in pitch, contains longer bursts and is produced by parts of the brain over which we have little control, whereas the polite variety is closer to speech. According to tests on thousands of volunteers, the ability to distinguish them goes on improving until people are nearly forty.
+@V
+infectious = заразительный
+outbreak = вспышка
+palm = ладонь
+spontaneous = непроизвольный, спонтанный
+@Q TFNG
+Jokes seem funnier when people hear others laughing. | T
+Doctors discovered a physical illness behind the 1962 outbreak. | F
+Polite laughter is produced by the same parts of the brain as genuine laughter. | F
+@Q GAP
+Tickling works only if there is an element of ____ . | surprise
+The ability to tell real laughter from polite laughter improves until people are nearly ____ . | forty/40
+
+## Meditation under the Microscope
+@INSERT 3
+Supporters often point to studies of the brain. In one much-quoted experiment at Harvard, sixteen people who completed an eight-week course were scanned before and afterwards, and small increases were reported in the density of regions concerned with memory and with the control of emotion. Research on Buddhist monks who had spent tens of thousands of hours in meditation has found unusual patterns of electrical activity. Such results are intriguing, but the groups involved were small, and it is not certain that changes in a scan correspond to any difference in everyday life.
+
+The largest test so far in schools produced a sobering result. Between 2016 and 2018, British researchers followed more than 8,000 pupils aged eleven to fourteen in eighty-five secondary schools. Half the schools gave a course of mindfulness lessons and the rest continued with their normal programme. Reporting in 2022, the team found no difference in the mental health of the two groups. Most of the pupils, it emerged, had not practised the exercises at home, and many said they found them boring.
+
+Meanwhile mindfulness has become a substantial industry. Thousands of applications for mobile phones offer guided sessions, and the most popular have been downloaded tens of millions of times. Very few have been tested in properly designed trials, and figures from the companies themselves indicate that the majority of people who install one stop using it within a few weeks.
+@V
+intriguing = любопытный, интригующий
+correspond = соответствовать
+sobering = отрезвляющий
+downloaded (download) = скачивать
+@Q TFNG
+The Harvard study involved a large number of participants. | F
+In the British trial, pupils who had mindfulness lessons showed better mental health. | F
+Most people who install a meditation app give it up within weeks. | T
+@Q GAP
+The British trial followed more than 8,000 pupils in ____ secondary schools. | eighty-five/85
+Many pupils said they found the exercises ____ . | boring
+
+## Green Spaces and Health
+@INSERT 2
+Most of this evidence shows only that nature and health go together, which leaves open the possibility that healthier or wealthier people simply choose greener neighbourhoods. A team in Philadelphia set out to test cause and effect. They selected 541 abandoned plots across the city and, at random, either cleared the rubbish and planted grass and trees, or left the plots as they were. Eighteen months later, people living near the greened plots were about forty per cent less likely to report feeling depressed, and in the poorest districts gun crime nearby had fallen by almost thirty per cent.
+
+How much contact with nature is needed? British researchers who questioned nearly 20,000 people found that those who had spent at least two hours in parks, woods or on beaches during the previous week were considerably more likely to report good health and high satisfaction with life than those who had spent none. Below two hours there was no measurable benefit. It made no difference whether the time was taken in one long visit or several short ones.
+
+A grim natural experiment points the same way. Since 2002 an Asian beetle accidentally introduced to North America has killed more than a hundred million ash trees. When scientists compared counties that had lost their trees with those the insect had not yet reached, they found higher rates of death from heart and lung disease in the affected areas, amounting to over 20,000 additional deaths.
+@V
+depressed = подавленный
+district = район
+beetle = жук
+counties (county) = округ
+@Q TFNG
+The plots in Philadelphia were chosen for greening at random. | T
+Spending less than two hours a week in nature still improved health noticeably. | F
+The beetle that killed the ash trees is native to North America. | F
+@Q GAP
+People living near greened plots were about ____ per cent less likely to feel depressed. | forty/40
+The beetle has killed more than a hundred million ____ trees. | ash
+
+## Where People Live Longest
+@INSERT 3
+How much of this is simply inheritance? Less than might be supposed. Studies of thousands of pairs of Danish twins, who share their genes but often lead different lives, indicate that only about a quarter of the variation in how long people live is explained by heredity. The rest depends on behaviour, surroundings and luck.
+
+A striking illustration comes from a small town in the American state of Pennsylvania. Roseto was settled in the 1880s by immigrants from a single village in southern Italy. In the 1960s doctors noticed that its inhabitants hardly ever died of heart disease before old age, although they smoked, worked in dangerous quarries and cooked with lard. The explanation eventually proposed was the closeness of the community: three generations lived under one roof, neighbours ate together, and nobody was left alone in trouble. The researchers predicted that the advantage would disappear if these habits changed, and by the 1970s, as younger people moved into separate houses, it had.
+
+The Californian zone shows that such results do not depend on isolation or tradition. Loma Linda is a modern town on the edge of Los Angeles, and many of its residents belong to a church that forbids smoking and alcohol, encourages a vegetarian diet and observes a strict day of rest each week. Members live several years longer than other Californians.
+@V
+inheritance = наследование
+heredity = наследственность
+immigrant = иммигрант
+lard = свиной жир
+@Q MATCH
+a prediction that turned out to be correct | E
+evidence about the influence of genes on length of life | D
+@Q TFNG
+The people of Roseto avoided smoking and fatty food. | F
+Loma Linda is an isolated rural community. | F
+@Q GAP
+Only about a ____ of the variation in lifespan is explained by heredity. | quarter
+
+## The Doctor Who Washed His Hands
+@INSERT 4
+Others were reaching similar conclusions by different routes. During the Crimean War of 1854 to 1856, the English nurse Florence Nightingale found that far more soldiers in the British military hospital were dying of infections caught there than of wounds received in battle. After the hospital's sewers were cleaned and its wards ventilated, the death rate fell sharply. Nightingale was a gifted statistician, and on her return she presented her figures to the government in the form of striking coloured diagrams, which did much to bring about the reform of hospitals.
+
+In Glasgow, the surgeon Joseph Lister had read Pasteur's work on microbes and reasoned that they might be responsible for the infections that killed almost half of his patients after amputations. From 1865 he cleaned wounds and instruments with carbolic acid, a chemical used to treat sewage. Deaths in his ward fell to about fifteen per cent.
+
+It would be pleasant to report that the lesson has been fully learned. Yet infections caught in hospital remain a serious problem, and studies in many countries have found that doctors and nurses clean their hands on fewer than half of the occasions when they should. Pressure of time is the usual reason. Gel dispensers placed beside every bed have helped, and so have simple checklists. When intensive care units in the American state of Michigan adopted a five-point checklist that began with hand washing, a common type of infection fell by about two thirds.
+@V
+ventilated (ventilate) = проветривать
+statistician = статистик
+amputation = ампутация
+checklist = контрольный список
+@Q TFNG
+In the Crimean War hospital, most deaths were caused by battle wounds. | F
+Lister's use of carbolic acid reduced deaths among his patients. | T
+Hospital staff today almost always clean their hands when they should. | F
+@Q GAP
+Nightingale presented her figures in the form of coloured ____ . | diagrams
+In Michigan, a checklist reduced a common type of infection by about two ____ . | thirds

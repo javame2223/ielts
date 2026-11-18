@@ -1,0 +1,288 @@
+## What Are Museums For? | Culture & Arts
+The word 'museum' comes from the Greek for a temple of the Muses, the goddesses of the arts, but the modern institution has a more recent origin. In sixteenth- and seventeenth-century Europe, princes and wealthy scholars assembled 'cabinets of curiosities': rooms crammed with shells, stuffed animals, ancient coins and strange objects from distant lands. These collections were private and were shown only to invited guests.
+
+The first public museums appeared in the eighteenth century. The British Museum opened in London in 1759, admitting 'all studious and curious persons' free of charge, although at first visitors had to apply for a ticket in advance. After the French Revolution the royal art collection in the Louvre was opened to the people in 1793. The idea behind these institutions was that knowledge and beauty should not belong only to the rich.
+
+For much of their history museums were quiet places where objects sat in glass cases with small labels. Since the late twentieth century many have tried to become more lively, with interactive displays, activities for children and late-night events. Science museums in particular encourage visitors to touch and experiment.
+
+Museums today also face difficult questions about their past. Many famous objects were acquired during the colonial period, sometimes by force. Greece has long asked for the return of the marble sculptures removed from the Parthenon in Athens in the early nineteenth century and now held in London, and Nigeria has requested the Benin Bronzes, taken by British soldiers in 1897. Some museums have begun to send such items back; others argue that they can be seen by more people, and in a wider context, where they are.
+@V
+institution = учреждение
+assemble = собирать
+cram = набивать битком
+admit = впускать
+studious = прилежный, любознательный
+interactive = интерактивный
+acquire = приобретать
+colonial = колониальный
+@Q TFNG
+Cabinets of curiosities were open to the general public. | F
+Entry to the British Museum was free when it opened. | T
+The Louvre became a public museum before the French Revolution. | F
+The British Museum has agreed to return the Parthenon sculptures. | NG
+@Q MCQ
+What was the principle behind the first public museums? | A Collections should make a profit. | B Knowledge and beauty should be available to everyone. | C Only scholars should study objects. | D Royal collections should be sold. | B
+What argument do some museums give for keeping disputed objects? | A They paid a fair price for them. | B The objects are too fragile to move. | C More people can see them in their current location. | D The original countries do not want them. | C
+@Q GAP
+The Benin Bronzes were taken by British soldiers in the year ____ . | 1897
+Museums of ____ especially invite visitors to touch the exhibits. | science
+
+## The Origins of Music | Culture & Arts
+Every human society that has ever been studied has music. People sing to their babies, at weddings and funerals, at work and in worship. This universality suggests that music is very old, and archaeology confirms it. Flutes made from the bones of birds and from mammoth ivory, found in caves in southern Germany, are around 40,000 years old. Since singing and clapping leave no trace, music itself must be far older.
+
+Why humans became musical is a question that has divided scientists since Charles Darwin. Darwin proposed that music began as a form of courtship, like birdsong: individuals who sang well attracted mates. Others think it grew out of the soothing sounds that mothers make to infants. Parents everywhere speak to babies in a high, melodic voice, and lullabies around the world share similar features.
+
+A third theory emphasises group bonding. When people sing, drum or dance together, they move in time with one another, and experiments show that this synchrony increases trust and willingness to cooperate. For our ancestors, who depended on the group for survival, anything that strengthened such bonds would have been valuable. Soldiers marching in step and workers singing as they pull on ropes are familiar examples.
+
+Not everyone agrees that music needs an evolutionary explanation. The psychologist Steven Pinker famously called it 'auditory cheesecake': a pleasant by-product of abilities that evolved for other purposes, such as language. Whatever its origin, music affects us deeply. Brain scans show that a favourite piece activates the same reward system as food, and familiar songs can awaken memories in people with dementia who no longer recognise their own relatives.
+@V
+funeral = похороны
+worship = богослужение, поклонение
+ivory = слоновая (мамонтовая) кость
+courtship = ухаживание
+soothing = успокаивающий
+lullaby = колыбельная
+bonding = укрепление связей
+by-product = побочный продукт
+@Q TFNG
+The oldest known musical instruments were found in Germany. | T
+Darwin believed music developed from the sounds mothers make to babies. | F
+Moving in time with others makes people more cooperative. | T
+Pinker himself plays a musical instrument. | NG
+@Q MATCH
+a view that music has no special evolutionary purpose | D
+physical evidence of ancient music | A
+the idea that music unites groups | C
+@Q GAP
+Ancient flutes were made from bird bones and mammoth ____ . | ivory
+
+## The Birth of the Cinema | Culture & Arts
+On 28 December 1895, in the basement of a Paris café, the brothers Auguste and Louis Lumière showed ten short films to a paying audience of about thirty people. Each film lasted less than a minute and showed an everyday scene: workers leaving a factory, a baby being fed, a gardener being soaked with his own hose. The event is generally regarded as the birth of the cinema.
+
+The Lumières were not the only inventors working on moving pictures. In the United States Thomas Edison's company had already produced the Kinetoscope, a box in which one person at a time could watch a film through a small window. The Lumières' machine, the Cinématographe, had two advantages. It projected the image onto a screen, so that many people could watch together, and it was light enough to be carried anywhere, serving as camera, printer and projector in one. A well-known story claims that when the brothers showed a film of a train arriving at a station, spectators ran away in terror; historians now doubt that this ever happened.
+
+Curiously, Louis Lumière is said to have believed that the cinema was 'an invention without a future'. It was others who saw its possibilities. Georges Méliès, a professional magician, discovered by accident that stopping the camera could make objects appear to vanish, and he went on to make fantasy films such as A Trip to the Moon in 1902.
+
+For three decades films had no recorded dialogue, though they were rarely silent, since a pianist or orchestra played in the cinema. The Jazz Singer of 1927 was the first feature film with synchronised speech, and within a few years silent films had disappeared.
+@V
+basement = подвал
+audience = зрители, публика
+hose = шланг
+project = проецировать
+spectator = зритель
+terror = ужас
+magician = фокусник
+synchronised = синхронизированный
+@Q TFNG
+The first Lumière films were each about ten minutes long. | F
+Edison's Kinetoscope could be watched by only one person at a time. | T
+Historians are certain that audiences fled from the film of a train. | F
+The Lumière brothers became rich from their invention. | NG
+@Q SHORT
+What was Georges Méliès's profession? | magician/professional magician
+In what year was the first feature film with synchronised speech released? | 1927
+@Q MCQ
+What was an advantage of the Cinématographe? | A It recorded sound. | B It was portable and could show films to a group. | C It produced colour images. | D It was cheaper than the Kinetoscope. | B
+Why were silent films 'rarely silent'? | A Audiences talked throughout. | B Musicians played live during the film. | C Actors spoke from behind the screen. | D Projectors were noisy. | B
+
+## Writing on the Wall | Culture & Arts
+People have always written and drawn on walls; examples survive from ancient Rome. Modern graffiti, however, began in the late 1960s in Philadelphia and New York, when teenagers started writing their nicknames, or 'tags', on walls and subway trains. The aim was fame: the more often a name appeared, and the more dangerous the location, the greater the writer's reputation. By the 1970s tags had grown into huge, colourful paintings covering whole train carriages.
+
+City authorities saw only vandalism. New York spent many millions of dollars cleaning its trains and by 1989 had removed the last painted carriage from service. Yet at the same time art galleries were beginning to take an interest. Jean-Michel Basquiat, who had started out spraying short poetic messages on walls in Manhattan, became one of the most celebrated painters of the 1980s.
+
+Since then a broader movement known as street art has developed, using stencils, posters and sculpture as well as spray paint, and usually aiming to communicate with the public rather than with other writers. Its best-known figure is the British artist Banksy, whose identity has never been officially confirmed. His images, often humorous and political, appear overnight, and they are now so valuable that walls bearing them have been cut out and sold.
+
+This success has created a paradox. An art form that began as illegal rebellion is now used by city councils to attract tourists and by property developers to make neighbourhoods fashionable. Districts once considered dangerous, such as Shoreditch in London, have become expensive partly because of their murals, and the artists who painted them can often no longer afford to live there.
+@V
+graffiti = граффити
+reputation = репутация
+carriage = вагон
+vandalism = вандализм
+celebrated = прославленный
+stencil = трафарет
+rebellion = бунт
+mural = настенная роспись
+@Q TFNG
+Graffiti writers gained status by writing their names in risky places. | T
+New York's authorities encouraged the painting of trains. | F
+Basquiat began his career by writing on walls. | T
+Banksy has publicly revealed who he is. | F
+@Q HEAD i. A hidden artist and a wider movement; ii. From rebellion to business; iii. Graffiti in ancient times; iv. Names on trains; v. Punishment and recognition; vi. The techniques of spray painting
+Paragraph A | iv
+Paragraph B | v
+Paragraph C | i
+Paragraph D | ii
+
+## Before Writing: The Storytellers | Culture & Arts
+Writing was invented only about five thousand years ago, and for most of the time since then few people could read. For the greater part of human history, therefore, everything a society knew, its history, its laws, its practical skills and its beliefs, had to be carried in memory and passed on by word of mouth.
+
+Stories were the main vehicle. A list of facts is hard to remember, but a narrative with characters and dramatic events sticks in the mind. Oral traditions also used rhythm, rhyme and repeated phrases as aids to memory. The scholars Milman Parry and Albert Lord, studying singers of epic poems in the Balkans in the 1930s, found men who could perform poems thousands of lines long. They had not learned the words by heart; instead they rebuilt the poem at each performance from a stock of ready-made phrases. Parry argued that Homer's Iliad and Odyssey had been composed in the same way.
+
+Oral knowledge can be remarkably accurate. Some Aboriginal Australian stories describe a time when the coastline lay much farther out than it does today, and geologists have matched these accounts to the rise in sea level at the end of the last ice age, around ten thousand years ago. In West Africa, professional storytellers called griots have preserved the histories of families and kingdoms for many generations.
+
+Printing and mass education reduced the importance of the storyteller, but the appetite for spoken stories has never disappeared. Radio drama, audiobooks and podcasts are its modern forms, and research suggests that listening to a story engages the brain's language and emotional regions in much the same way as reading it.
+@V
+vehicle = средство (передачи)
+narrative = повествование
+oral = устный
+rhyme = рифма
+epic = эпический
+stock = запас
+accurate = точный
+appetite = интерес, тяга
+@Q TFNG
+For most of history, the majority of people were unable to read. | T
+The Balkan singers memorised their poems word for word. | F
+Some Aboriginal stories appear to record real changes in the coastline. | T
+Griots were paid by kings for their work. | NG
+@Q SUM
+Stories are easier to remember than a ____ of facts. | list
+Oral poets rebuilt their poems using a store of ready-made ____ . | phrases
+Parry believed the works of ____ were created in a similar way. | Homer
+@Q MCQ
+What does research suggest about listening to stories? | A It is less valuable than reading. | B It activates the brain in a similar way to reading. | C It damages concentration. | D It is useful only for children. | B
+
+## The Game of Kings | Culture & Arts
+Chess is one of the oldest games still widely played. Most historians trace it to northern India around the sixth century, where a game called chaturanga represented the four divisions of an Indian army: infantry, cavalry, elephants and chariots. From India it travelled to Persia. The expression 'checkmate' comes from the Persian shah mat, usually translated as 'the king is helpless'. After the Arab conquest of Persia the game spread across the Islamic world and reached Europe by about the year 1000.
+
+The rules changed on the way. In the original game the piece beside the king was a weak adviser that could move only one square. In fifteenth-century Europe it became the queen, the most powerful piece on the board, and the bishop was given its long diagonal move. These changes made the game much faster and produced, in essence, the chess played today.
+
+Chess has long been used as a test of machine intelligence. In 1997 the IBM computer Deep Blue defeated the world champion Garry Kasparov in a six-game match, an event reported around the world. Deep Blue relied on calculating some 200 million positions per second. Twenty years later a program called AlphaZero took a different approach: given only the rules, it taught itself by playing millions of games against itself, and within hours it could beat the strongest existing programs.
+
+Far from killing the game, computers have helped it to flourish. Players use programs to train, and online platforms allow anyone to find an opponent at any hour. Interest surged in 2020, when lockdowns kept people at home and a popular television drama about a chess prodigy sent sales of chess sets soaring.
+@V
+trace = прослеживать (историю)
+infantry = пехота
+cavalry = кавалерия
+conquest = завоевание
+diagonal = диагональный
+defeat = побеждать
+flourish = процветать
+prodigy = вундеркинд
+@Q TFNG
+Chess is generally believed to have begun in Persia. | F
+The queen has always been the strongest piece. | F
+AlphaZero learned chess by studying games played by human champions. | F
+Kasparov asked for a rematch against Deep Blue. | NG
+@Q GAP
+The original Indian game was called ____ . | chaturanga
+Deep Blue could calculate about 200 ____ positions every second. | million
+@Q MCQ
+What effect have computers had on chess? | A They have made people lose interest. | B They have helped the game become more popular. | C They have made tournaments impossible. | D They have changed the rules. | B
+What caused a rise in interest in chess in 2020? | A a new world champion | B lockdowns and a television drama | C a match between two computers | D lower prices for chess sets | B
+
+## Languages in Danger | Culture & Arts
+There are roughly 7,000 languages spoken in the world today, but they are very unequally distributed. About half of the world's population speaks one of just twenty-five languages, while several thousand languages have fewer than ten thousand speakers each. Linguists estimate that at least forty per cent of all languages are endangered, and that one disappears, on average, every few weeks when its last speaker dies.
+
+Languages rarely die because their speakers do. More commonly, a community shifts to a more powerful language that offers better access to education and work. Parents stop using the old language with their children, believing they are helping them to succeed, and within two or three generations it is gone. In the past the process was often forced. In Australia, Canada and the United States, indigenous children were sent to boarding schools where they were punished for speaking their mother tongue.
+
+Why should this loss concern anyone else? Each language is a unique record of how a group of people has understood the world. Many contain detailed knowledge of local plants, animals and weather that exists nowhere else. For the speakers themselves, language is closely tied to identity and to the stories and songs of their ancestors.
+
+Decline is not always final. Hebrew, which for almost two thousand years had been used mainly for prayer and study, was revived as an everyday spoken language at the end of the nineteenth century and now has millions of native speakers. Welsh and Maori have been strengthened by schools that teach entirely in those languages. Technology is helping too: linguists record elderly speakers, and communities are creating dictionaries and learning apps.
+@V
+distribute = распределять
+endangered = находящийся под угрозой исчезновения
+shift = переходить, смещаться
+indigenous = коренной
+boarding school = школа-интернат
+mother tongue = родной язык
+identity = идентичность
+revive = возрождать
+@Q TFNG
+Half of the world's people speak one of only twenty-five languages. | T
+Languages usually die out because all their speakers are killed. | F
+Hebrew was never used for any purpose for two thousand years. | F
+Maori is now spoken by most New Zealanders. | NG
+@Q MATCH
+successful attempts to save languages | D
+reasons why losing a language matters | C
+the way a language typically disappears | B
+@Q GAP
+Indigenous children were once ____ for speaking their own language at boarding schools. | punished
+
+## Bridges: Crossing the Gap | Culture & Arts
+The earliest bridges were probably tree trunks laid across streams, and in principle the simple beam bridge has not changed: a horizontal structure resting on supports at each end. Its weakness is length. A long beam sags in the middle, so beam bridges need many supports.
+
+The Romans overcame this with the arch. In a stone arch each block presses against its neighbours, so the load is carried outwards and down into the ground. Roman arches were so well built that some, like the Pont du Gard in southern France, are still standing after two thousand years. Arches, however, require a great quantity of stone and solid foundations on both sides.
+
+The widest gaps are crossed by suspension bridges, in which the roadway hangs from cables stretched between tall towers. The idea is ancient: the Incas of South America built suspension bridges of woven grass across mountain gorges. Modern versions use steel. When the Brooklyn Bridge opened in New York in 1883, it was by far the longest in the world, and many people feared it would fall. To reassure them, a circus owner is said to have led twenty-one elephants across it the following year.
+
+Suspension bridges are light and flexible, and this can be a danger. In 1940 the Tacoma Narrows Bridge in the United States began to twist violently in a moderate wind and collapsed just four months after opening; the only victim was a dog. Since then, designs have been tested in wind tunnels. The current record holder, the 1915 Çanakkale Bridge in Turkey, opened in 2022, has a main span of just over two kilometres.
+@V
+beam = балка
+sag = провисать
+arch = арка
+load = нагрузка
+suspension = подвес, подвесной
+gorge = ущелье
+reassure = успокаивать
+span = пролёт
+@Q TFNG
+A long beam bridge tends to bend downwards in the centre. | T
+Roman arch bridges needed very little stone. | F
+The Incas built suspension bridges from steel. | F
+Several people were killed when the Tacoma Narrows Bridge collapsed. | F
+@Q GAP
+The roadway of a suspension bridge hangs from ____ . | cables
+After 1940, bridge designs began to be tested in ____ . | wind tunnels
+@Q MCQ
+Why were elephants reportedly led across the Brooklyn Bridge? | A to advertise a zoo | B to show people that it was safe | C to test a new road surface | D to celebrate its anniversary | B
+Which bridge has the longest main span, according to the passage? | A the Brooklyn Bridge | B the Pont du Gard | C the Tacoma Narrows Bridge | D the 1915 Çanakkale Bridge | D
+
+## Capturing Light | Culture & Arts
+The oldest surviving photograph was taken in 1826 or 1827 by a French inventor, Nicéphore Niépce, from an upstairs window of his country house. It shows, rather faintly, the roofs of the surrounding buildings. The exposure took at least eight hours, so that sunlight appears on both sides of the courtyard.
+
+Niépce's partner Louis Daguerre developed a far more practical process, which the French government bought and presented 'free to the world' in 1839. A daguerreotype produced a wonderfully sharp image on a silvered metal plate. Exposure times soon fell to under a minute, and portrait studios opened in cities everywhere. For the first time ordinary families could own an accurate likeness of a relative. The method had limits, though: each picture was unique and could not be copied, and sitters had to keep perfectly still, which is one reason why people in early photographs rarely smile.
+
+In England, meanwhile, William Henry Fox Talbot had invented a process that produced a negative on paper, from which any number of positive prints could be made. This principle became the basis of photography for the next 150 years.
+
+Photography remained a business for professionals until 1888, when the American George Eastman launched the Kodak camera with the slogan 'You press the button, we do the rest'. It came loaded with a roll of film for a hundred pictures; the customer posted the whole camera back to the factory for developing. Photography became a popular hobby. The latest revolution began in 1975, when an engineer at Eastman's own company built the first digital camera. Ironically, the firm was slow to develop the idea, and in 2012 it was declared bankrupt.
+@V
+faintly = слабо, едва заметно
+exposure = выдержка, экспозиция
+courtyard = внутренний двор
+likeness = изображение, портрет
+unique = единственный в своём роде
+negative = негатив
+slogan = лозунг, слоган
+ironically = по иронии судьбы
+@Q TFNG
+The first photograph needed an exposure of several hours. | T
+The French government kept Daguerre's process secret. | F
+A daguerreotype could be reproduced many times. | F
+Fox Talbot and Daguerre worked together. | NG
+@Q SHORT
+What did Fox Talbot's process produce on paper? | a negative/negative
+How many pictures could the first Kodak camera take? | a hundred/100/hundred
+@Q MCQ
+Why do people seldom smile in early photographs? | A Smiling was considered rude. | B They had to stay motionless for the exposure. | C Photographers forbade it. | D The plates could not record teeth. | B
+What is ironic about the digital camera? | A It was invented by accident. | B It was first built at the company that later failed because of digital photography. | C It was more expensive than film. | D Nobody wanted to buy it. | B
+
+## How Football Got Its Rules | Culture & Arts
+Games in which a ball is kicked have been played for thousands of years. In China a game called cuju, in which players kicked a leather ball through an opening in a net, was popular more than two thousand years ago. In medieval England, 'mob football' was played between whole villages, with hundreds of players, few rules and frequent injuries. Several kings tried to ban it, without success.
+
+The modern game was shaped in English private schools in the early nineteenth century. Each school had its own version: at some the ball could be carried, at others only kicked. This caused confusion whenever former pupils from different schools wanted to play together. On 26 October 1863 representatives of a number of clubs met at a London tavern and founded the Football Association to agree on a single set of rules. The crucial decision was to forbid carrying the ball and kicking opponents' legs. Clubs that disagreed left and later developed the separate game of rugby.
+
+Football spread quickly among industrial workers, who by then had Saturday afternoons free, and many famous clubs began as teams from factories or churches. British sailors, engineers and traders carried the game abroad, especially to South America and continental Europe. The international governing body, FIFA, was founded in Paris in 1904, and the first World Cup was held in Uruguay in 1930, when the host nation won.
+
+The game's success owes much to its simplicity. It needs only a ball and some open ground, and its basic rules can be explained in a minute. Today it is estimated that several billion people follow the World Cup, making it the most watched sporting event on Earth.
+@V
+leather = кожа (материал)
+medieval = средневековый
+injury = травма
+confusion = путаница
+representative = представитель
+tavern = таверна
+forbid = запрещать
+host nation = страна-хозяйка
+@Q TFNG
+Medieval kings in England strongly supported mob football. | F
+Different English schools played by different rules. | T
+Rugby developed from clubs that rejected the Football Association's rules. | T
+The 1863 meeting lasted for several days. | NG
+@Q SUM
+The Football Association was founded at a London ____ . | tavern
+FIFA was established in ____ in 1904. | Paris
+The first World Cup was won by ____ . | Uruguay/the host nation
+@Q MCQ
+According to the writer, why is football so successful? | A It is promoted by governments. | B It is simple and needs little equipment. | C It was spread by schools. | D It has never changed its rules. | B

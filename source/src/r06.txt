@@ -1,0 +1,290 @@
+## Exercise as Medicine | Health
+If the benefits of physical activity could be put into a pill, it would be the most widely prescribed medicine in the world. Regular exercise lowers the risk of heart disease, stroke, type 2 diabetes and several cancers. It strengthens bones, helps to control weight and improves sleep. The World Health Organization recommends that adults do at least 150 minutes of moderate activity, such as brisk walking, every week, yet about a quarter of the world's adults fail to reach this level.
+
+The scientific study of the subject began in London in the late 1940s. A doctor named Jeremy Morris noticed that the drivers of the city's double-decker buses, who sat all day, had roughly twice as many heart attacks as the conductors, who climbed around 600 stairs during each shift collecting fares. Later he found a similar difference between office clerks and postmen who delivered letters on foot.
+
+The effects on the mind are equally impressive. Exercise increases the flow of blood to the brain and stimulates the release of chemicals that improve mood. Several trials have found that for mild depression a programme of regular exercise can work about as well as medication. In older people it appears to slow the decline of memory.
+
+Importantly, the greatest gain comes from the first step. The difference in health between people who do nothing and those who do a little is much larger than the difference between moderate exercisers and athletes. Nor is a gym necessary. Gardening, dancing, cycling to work and taking the stairs all count. Researchers add a warning, however: an hour of exercise does not fully cancel out the harm of sitting still for the rest of the day.
+@V
+prescribe = прописывать (лекарство)
+stroke = инсульт
+moderate = умеренный
+brisk = быстрый, энергичный
+shift = смена (рабочая)
+stimulate = стимулировать
+trial = испытание, исследование
+medication = лекарства
+@Q TFNG
+Around a quarter of adults worldwide do not do enough exercise. | T
+Bus drivers in Morris's study had fewer heart attacks than conductors. | F
+Exercise may help older people to keep their memory. | T
+Morris himself exercised every day. | NG
+@Q MCQ
+Who benefits most from becoming more active? | A professional athletes | B people who currently do no exercise | C people who already exercise moderately | D gym members | B
+What warning do researchers give? | A Exercise can damage the heart. | B Gardening does not count as exercise. | C Exercise does not completely remove the effects of long sitting. | D Walking is too mild to help. | C
+@Q GAP
+Bus conductors climbed about ____ stairs in each shift. | 600
+Morris also compared office clerks with ____ . | postmen
+
+## Sweet and Dangerous | Health
+For most of history sugar was a rare luxury. Honey and ripe fruit were the only sweet foods available to our ancestors, and scientists believe that the human liking for sweetness evolved because it signalled a safe and valuable source of energy. Cane sugar reached Europe in quantity only after plantations were established in the Caribbean in the seventeenth century, worked by enslaved Africans. Even in 1700 the average English person ate less than two kilograms a year.
+
+Today consumption in many countries exceeds thirty kilograms per person. Much of it is hidden. Sugar is added not only to sweets and soft drinks but also to bread, sauces, breakfast cereals and yoghurts labelled as healthy. A single can of cola contains about nine teaspoons, more than the World Health Organization's suggested limit for a whole day.
+
+The consequences for health are serious. Sugar is the main cause of tooth decay. Sugary drinks are particularly harmful because liquid calories do not make people feel full, so they are consumed on top of normal meals; high consumption is strongly linked to obesity and type 2 diabetes. For several decades public attention was focused instead on fat, partly, as documents later revealed, because the sugar industry in the 1960s paid scientists to play down the risks of its product.
+
+Governments have begun to respond. More than fifty countries have introduced a tax on sugary drinks. In Britain a levy announced in 2016 led manufacturers to cut the sugar in many drinks before it even came into force. Critics object that such taxes fall most heavily on the poor, while supporters reply that the poor also suffer most from the diseases concerned.
+@V
+ancestor = предок
+plantation = плантация
+consumption = потребление
+exceed = превышать
+decay = разрушение, кариес
+obesity = ожирение
+play down = преуменьшать
+levy = сбор, налог
+@Q TFNG
+Humans probably developed a taste for sweetness because sweet foods provided energy. | T
+In 1700 the English ate about thirty kilograms of sugar a year each. | F
+Sugar is found only in foods that taste sweet. | F
+The British levy reduced sales of soft drinks by half. | NG
+@Q MATCH
+an account of how industry influenced research | C
+government action against sugar | D
+the historical rarity of sugar | A
+@Q GAP
+A can of cola contains around ____ teaspoons of sugar. | nine/9
+
+## The First Vaccine | Health
+Smallpox was one of the most feared diseases in history. It killed about three in ten of those it infected and left survivors scarred and sometimes blind. In eighteenth-century Europe it is thought to have caused 400,000 deaths every year.
+
+People had long known that those who recovered never caught the disease again. In China, India and the Ottoman Empire this knowledge was used in a risky procedure: material from a smallpox sore was scratched into the skin of a healthy person, who usually developed a mild illness and was then protected. Lady Mary Wortley Montagu, wife of the British ambassador in Constantinople, observed the practice and introduced it to England in 1721. It worked, but a small proportion of those treated died.
+
+A safer method came from the English countryside. It was commonly said that milkmaids who had caught cowpox, a mild disease of cattle, did not get smallpox. In 1796 the doctor Edward Jenner decided to test this. He took fluid from a cowpox sore on the hand of a milkmaid named Sarah Nelmes and scratched it into the arm of James Phipps, the eight-year-old son of his gardener. Six weeks later he exposed the boy to smallpox. James remained healthy. The new technique was named vaccination, from vacca, the Latin word for cow.
+
+By modern standards the experiment was highly unethical, but its results spread around the world within a few years. In 1967 the World Health Organization launched a campaign to eliminate smallpox entirely. The last natural case occurred in Somalia in 1977, and in 1980 the disease was declared eradicated, the first, and so far the only, human disease to be wiped out.
+@V
+infect = заражать
+scar = оставлять шрамы; шрам
+sore = язва, болячка
+procedure = процедура
+ambassador = посол
+unethical = неэтичный
+eliminate = устранять, ликвидировать
+eradicate = искоренять
+@Q TFNG
+Smallpox killed roughly thirty per cent of infected people. | T
+The older method of protection brought from Constantinople was completely safe. | F
+James Phipps was Jenner's own son. | F
+Jenner was paid by the government for his discovery. | NG
+@Q SUM
+Jenner tested the belief that ____ who had had cowpox were protected from smallpox. | milkmaids
+The word vaccination comes from the Latin for ____ . | cow
+The final natural case of smallpox was recorded in ____ . | Somalia
+@Q MCQ
+What is unique about smallpox? | A It is the only human disease to have been wiped out. | B It was the first disease to be discovered. | C It only affected Europe. | D It could not be prevented. | A
+
+## The End of the Antibiotic Age? | Health
+In 1928 the Scottish scientist Alexander Fleming returned from holiday to find that mould had grown on one of his laboratory dishes and that the bacteria around it had died. The substance responsible, penicillin, was turned into a usable drug during the Second World War, and it transformed medicine. Infections that had regularly killed people, from pneumonia to an infected scratch, became easily curable. Operations such as transplants, which leave patients open to infection, became possible.
+
+Fleming himself predicted the problem that now threatens these gains. In his Nobel Prize lecture of 1945 he warned that using too little penicillin, or using it carelessly, would allow bacteria to become resistant. The mechanism is natural selection. In any large population of bacteria a few may by chance be able to survive a drug. When the others are killed, these survivors multiply, and bacteria can even pass resistance to different species.
+
+Human behaviour has speeded up the process enormously. Antibiotics are frequently prescribed for colds and flu, which are caused by viruses and are unaffected by them. In some countries they can be bought without a prescription. Vast quantities are also given to healthy farm animals to make them grow faster. Resistant infections are already estimated to cause more than a million deaths a year worldwide.
+
+Meanwhile, few new antibiotics are being developed. A drug that is taken for a week and deliberately used as little as possible earns much less than one taken daily for years, so pharmaceutical companies have little incentive. Proposed solutions include public funding for research, stricter rules on farm use, and rapid tests that tell a doctor whether an infection is bacterial at all.
+@V
+mould = плесень
+infection = инфекция
+curable = излечимый
+resistant = устойчивый
+natural selection = естественный отбор
+prescription = рецепт
+pharmaceutical = фармацевтический
+incentive = стимул
+@Q TFNG
+Fleming discovered penicillin as a result of a planned experiment. | F
+Fleming was aware that bacteria might become resistant. | T
+Antibiotics are effective against colds and flu. | F
+Resistant infections kill more people in Asia than in Europe. | NG
+@Q GAP
+Farm animals are given antibiotics so that they ____ faster. | grow
+Resistant infections are thought to kill over a ____ people each year. | million
+@Q MCQ
+Why do drug companies develop few new antibiotics? | A The science is impossible. | B Such drugs are not very profitable. | C Governments forbid it. | D Bacteria are no longer dangerous. | B
+Which solution is NOT mentioned in the passage? | A government money for research | B tighter control of antibiotics on farms | C quick tests to identify bacterial infections | D banning international travel | D
+
+## The Simplest Exercise | Health
+Walking is so ordinary that it hardly seems to deserve the name of exercise. It needs no equipment, no training and no membership fee. Yet a large body of research indicates that it is one of the most effective things people can do for their health.
+
+Many people aim for 10,000 steps a day, but that figure has no scientific origin. It comes from an advertising campaign for a Japanese pedometer sold in 1965, whose name meant '10,000-step meter'. Recent studies give a more encouraging picture. In a study of about 17,000 older American women, those who took around 4,400 steps a day had a markedly lower death rate over the following years than those who took 2,700. The benefit continued to rise up to about 7,500 steps and then levelled off.
+
+Pace matters too. Brisk walking, fast enough to raise the heart rate but still allow conversation, does more good than a slow stroll. Short walks after meals appear to be particularly useful, because they reduce the sharp rise in blood sugar that follows eating.
+
+The advantages are not only physical. Experiments at Stanford University found that people produced far more creative ideas while walking than while sitting, which may explain why so many writers and thinkers, from Aristotle to Charles Darwin, were habitual walkers. Walking in parks or woodland has also been shown to lower stress more than walking along busy streets.
+
+Sadly, modern cities often discourage walking. Wide roads, long distances between homes and shops, and a lack of pavements make the car the only practical choice. Planners are now trying to design neighbourhoods in which daily needs lie within a fifteen-minute walk.
+@V
+equipment = оборудование, снаряжение
+fee = плата, взнос
+pedometer = шагомер
+markedly = заметно, существенно
+levelled off (level off) = выравниваться, стабилизироваться
+pace = темп
+stroll = неторопливая прогулка
+pavement = тротуар
+@Q TFNG
+The goal of 10,000 steps a day was established by medical researchers. | F
+In the American study, benefits kept increasing far beyond 7,500 steps. | F
+Walking after a meal helps to limit the rise in blood sugar. | T
+Charles Darwin walked the same route every day. | NG
+@Q SHORT
+In which country was the '10,000-step meter' sold? | Japan/Japanese
+At which university did experiments link walking with creativity? | Stanford/Stanford University
+@Q MCQ
+Brisk walking is described as a pace at which | A talking is impossible. | B the heart rate rises but one can still talk. | C one must stop frequently. | D the walker is almost running. | B
+What are planners attempting to do? | A ban cars from cities | B build wider roads | C place everyday services within a short walk of homes | D build more car parks | C
+
+## The Science of Laughter | Health
+Laughter is one of the few behaviours shared by every human culture. Babies laugh at around three or four months, long before they can speak, and people who are born deaf and blind laugh in the same way as everyone else, which shows that it is an inborn behaviour rather than a learned one.
+
+We tend to assume that people laugh because something is funny. When the American psychologist Robert Provine sent his students to listen to conversations in public places, they found something different. Of more than a thousand episodes of laughter that they recorded, fewer than a fifth followed anything resembling a joke. Most came after ordinary remarks such as 'I'll see you later'. Speakers laughed more than their listeners, and people were about thirty times more likely to laugh in company than when alone. Laughter, Provine concluded, is above all a social signal, a way of showing friendliness and agreement.
+
+Its origins seem to lie in play. Young chimpanzees and gorillas make a panting sound when they are tickled or chase each other, and even rats produce high-pitched chirps, too high for human ears, when they play. The sound tells a partner that a mock attack is not serious.
+
+Is laughter also 'the best medicine'? The claims are often exaggerated, but there is some evidence. Laughing with others raises the level at which people begin to feel pain, apparently because it releases the brain's natural painkillers, endorphins. It also reduces stress hormones for a short time. Perhaps its most important effect, however, is indirect: by strengthening relationships, laughter helps to protect people from loneliness, which is itself a danger to health.
+@V
+inborn = врождённый
+assume = полагать, предполагать
+episode = эпизод, случай
+remark = замечание, реплика
+tickle = щекотать
+mock = ненастоящий, притворный
+exaggerate = преувеличивать
+loneliness = одиночество
+@Q TFNG
+Babies learn to laugh by copying adults. | F
+Most laughter recorded in Provine's study followed jokes. | F
+People laugh much more often when they are with others. | T
+Rats' play sounds can be heard easily by humans. | F
+@Q HEAD i. Laughter in the animal world; ii. Health benefits: real but limited; iii. Why jokes differ between cultures; iv. A universal human behaviour; v. What everyday observation revealed; vi. The dangers of laughing too much
+Paragraph A | iv
+Paragraph B | v
+Paragraph C | i
+Paragraph D | ii
+
+## Meditation under the Microscope | Health
+Meditation has been practised in Asia for at least 2,500 years, mainly within religious traditions such as Buddhism and Hinduism. In recent decades a non-religious form called mindfulness has become popular in the West. It involves paying deliberate attention to the present moment, typically by concentrating on one's breathing, and gently bringing the mind back each time it wanders.
+
+Its entry into medicine is usually dated to 1979, when Jon Kabat-Zinn, a scientist at the University of Massachusetts, designed an eight-week course for hospital patients suffering from long-term pain that doctors had been unable to relieve. Many reported that although the pain remained, it troubled them less. A later variation of the course, combined with elements of psychological therapy, has been shown in controlled trials to reduce the risk of relapse in people who have had repeated episodes of depression, and it is now recommended by the British health service for that purpose.
+
+Enthusiasm has, however, run ahead of the evidence. Mindfulness has been promoted to schools, companies and armies as a solution for almost everything. When researchers at Johns Hopkins University reviewed thousands of studies in 2014, they found that most were too small or poorly designed to be reliable. The good-quality trials showed moderate benefits for anxiety, depression and pain, but little effect on attention, sleep or weight.
+
+Nor is meditation free of risk. A minority of participants report unpleasant experiences, including increased anxiety. Critics add that offering stressed employees a meditation app may distract attention from the causes of their stress, such as excessive workloads. Meditation, it seems, is a useful tool for some people, not a cure for all problems.
+@V
+mindfulness = осознанность
+deliberate = намеренный, сознательный
+wander = блуждать, отвлекаться
+relieve = облегчать
+relapse = рецидив
+promote = продвигать, рекламировать
+minority = меньшинство
+workload = рабочая нагрузка
+@Q YNNG
+Mindfulness requires religious belief. | N
+The evidence for mindfulness is weaker than its popularity suggests. | Y
+Meditation is completely safe for everyone. | N
+Mindfulness should be taught in all primary schools. | NG
+@Q GAP
+Kabat-Zinn's original course lasted ____ weeks. | eight/8
+His first patients were suffering from long-term ____ . | pain
+@Q MCQ
+What did the 2014 review conclude? | A Mindfulness has no benefits. | B Most studies were of poor quality, but good ones showed moderate benefits for some conditions. | C Mindfulness improves sleep and weight. | D Mindfulness is harmful. | B
+What criticism is made of meditation apps at work? | A They are too expensive. | B They may draw attention away from the real sources of stress. | C They are difficult to use. | D They reduce productivity. | B
+
+## Green Spaces and Health | Health
+In 1984 a researcher named Roger Ulrich published a study that has since become famous. He examined the records of patients who had had the same operation in a hospital in Pennsylvania. Some had recovered in rooms with a window facing trees, others in identical rooms facing a brick wall. Those with the view of trees went home, on average, almost a day earlier, needed fewer strong painkillers and received fewer negative comments in the nurses' notes.
+
+Since then hundreds of studies have explored the connection between nature and health. People who live near parks tend to be more physically active and less overweight. A large Danish study, which followed nearly a million people, found that children who grew up with little green space around their homes had a risk of developing mental illness in later life up to fifty-five per cent higher than those who grew up with the most, even after family income and other factors were taken into account.
+
+Several explanations have been suggested. Green areas encourage walking and play, and they bring neighbours into contact with one another. Trees filter polluted air, reduce noise and cool streets in summer. There may also be a direct psychological effect: natural scenes seem to hold our attention gently, allowing a tired mind to rest in a way that busy streets do not.
+
+City authorities are beginning to act on such findings. Some are planting trees along roads and turning disused railway lines into parks. In Japan the practice of 'forest bathing', spending quiet time among trees, is officially encouraged, and doctors in several countries have begun to give 'green prescriptions' advising patients to spend time outdoors.
+@V
+recover = выздоравливать
+identical = одинаковый
+painkiller = обезболивающее
+overweight = с избыточным весом
+income = доход
+filter = фильтровать, очищать
+authorities = власти
+disused = заброшенный
+@Q TFNG
+Patients in Ulrich's study had undergone different kinds of operations. | F
+Patients who could see trees left hospital sooner. | T
+The Danish study ignored differences in family income. | F
+Japan has more city parks than any other country. | NG
+@Q MATCH
+possible reasons why nature improves health | C
+examples of official responses to the research | D
+a study based on hospital records | A
+@Q GAP
+The Danish study followed almost a ____ people. | million
+
+## Where People Live Longest | Health
+In a few places in the world an unusually high proportion of people live to ninety or a hundred in good health. The writer Dan Buettner, working with demographers, identified five of them and called them 'Blue Zones': the Japanese island of Okinawa, the mountain villages of Sardinia in Italy, the Greek island of Ikaria, the Nicoya peninsula in Costa Rica, and a religious community in Loma Linda, California.
+
+Although these places are far apart, their inhabitants have a good deal in common. Their diet consists largely of plants, especially beans, vegetables and whole grains, with meat eaten only occasionally. In Okinawa people follow an old saying that advises them to stop eating when the stomach is eighty per cent full. Nobody goes to a gym, but everyone moves constantly: Sardinian shepherds walk for miles over steep hills, and Okinawans tend their gardens into their nineties.
+
+Social factors appear just as important. Older people in these communities are not isolated. They live with or near their families and have a recognised role. Okinawans have a word, ikigai, which means roughly 'a reason for getting up in the morning'. Many also belong to small groups of lifelong friends who support one another.
+
+The Blue Zones idea has been questioned. Some researchers have pointed out that in certain regions birth records were unreliable, so a number of supposed hundred-year-olds may be younger than claimed. In Okinawa, moreover, the advantage is disappearing as younger generations adopt fast food and cars. Even so, the general advice drawn from these communities, to eat mostly plants, keep moving and stay connected to others, agrees well with what medical research has found elsewhere.
+@V
+demographer = демограф
+peninsula = полуостров
+inhabitant = житель
+grain = зерно, злак
+shepherd = пастух
+steep = крутой
+isolated = изолированный, одинокий
+unreliable = ненадёжный
+@Q TFNG
+All five Blue Zones are islands. | F
+People in Blue Zones eat meat every day. | F
+Okinawans are advised not to eat until they are completely full. | T
+Sardinian women live longer than Sardinian men. | NG
+@Q SUM
+Okinawans use the word ____ for a purpose in life. | ikigai
+Critics say that in some areas ____ could not be trusted. | birth records
+Okinawa's advantage is fading because young people have taken up ____ and cars. | fast food
+@Q MCQ
+What does the writer conclude about advice from the Blue Zones? | A It has been proved false. | B It matches findings from other medical research. | C It works only in warm climates. | D It is impossible to follow. | B
+
+## The Doctor Who Washed His Hands | Health
+In the 1840s Vienna General Hospital had two maternity clinics. In the first, where babies were delivered by doctors and medical students, about one mother in ten died of childbed fever. In the second, staffed by midwives, the death rate was less than a third of that. Women begged not to be sent to the first clinic.
+
+A young Hungarian doctor, Ignaz Semmelweis, was determined to find out why. He examined and rejected one explanation after another: overcrowding, diet, even the position in which women gave birth. The breakthrough came in 1847 after a tragedy. A colleague cut his finger while examining a dead body and died of an illness exactly like childbed fever. Semmelweis realised that the doctors and students often came straight from the dissecting room to the maternity ward. Midwives never handled dead bodies. Something from the corpses, he reasoned, was being carried on the doctors' hands.
+
+He ordered everyone to wash their hands in a chlorine solution before examining patients. Within months the death rate in the first clinic fell to around one or two per cent.
+
+The reaction of the medical profession was hostile. Semmelweis could not explain what the 'particles' were, since the role of germs in disease had not yet been discovered, and many doctors were offended by the suggestion that they themselves were killing their patients. He lost his post, grew increasingly bitter, and died in an asylum in 1865, aged forty-seven. Only later, when Louis Pasteur and Joseph Lister established the germ theory, was he proved right. Today hand washing is recognised as the single most effective way of preventing the spread of infection in hospitals.
+@V
+maternity = родильный, материнство
+midwife = акушерка
+beg = умолять
+breakthrough = прорыв
+ward = палата, отделение
+corpse = труп
+hostile = враждебный
+germ = микроб
+@Q TFNG
+The clinic run by midwives had a higher death rate than the doctors' clinic. | F
+Semmelweis found the answer after the death of a colleague. | T
+Semmelweis was able to explain exactly what caused the infection. | F
+Semmelweis's wife supported his campaign. | NG
+@Q GAP
+Doctors frequently went to the maternity ward directly from the ____ . | dissecting room
+Semmelweis made staff wash their hands in a ____ solution. | chlorine
+@Q MCQ
+Why did many doctors reject Semmelweis's idea? | A Hand washing was too expensive. | B They disliked being told they were responsible for deaths. | C The death rate did not change. | D He refused to publish his results. | B
+Who later confirmed that Semmelweis had been right? | A the hospital's midwives | B the Hungarian government | C Pasteur and Lister | D his former students | C

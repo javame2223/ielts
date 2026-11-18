@@ -1,0 +1,292 @@
+## Farming in the City | Environment
+By 2050 about two thirds of the world's population is expected to live in cities, far from the fields that feed them. One response has been to bring agriculture into the city itself. Urban farming takes many forms, from community gardens on empty plots to greenhouses on supermarket roofs.
+
+The most ambitious version is the vertical farm. Inside a warehouse or a disused factory, lettuces and herbs grow on shelves stacked many levels high. There is no soil: the roots sit in water containing nutrients, a method known as hydroponics, and LED lamps replace the sun. Because the environment is sealed, no pesticides are needed, and the crop is unaffected by drought, frost or storms. Such farms use up to ninety-five per cent less water than open fields, and harvests continue all year round.
+
+There are further benefits. Food grown where it is eaten does not need to be transported long distances, so it arrives fresher. Community gardens also bring neighbours together and give children who have grown up among concrete a chance to learn where food comes from.
+
+Critics are not convinced that vertical farms can feed cities. The lamps and climate control consume a great deal of electricity, and several well-funded companies have gone bankrupt because of energy costs. Moreover, the crops that grow well indoors are leafy vegetables, which supply few calories. Wheat, rice and maize, the staple foods of humanity, need far too much space and light to be grown this way at a reasonable price. Urban farms may add welcome freshness to city diets, but the countryside will remain essential.
+@V
+plot = участок земли
+disused = заброшенный, неиспользуемый
+stack = складывать ярусами
+nutrient = питательное вещество
+sealed = герметичный
+drought = засуха
+bankrupt = обанкротившийся
+staple = основной (продукт питания)
+@Q TFNG
+Vertical farms grow plants in soil brought from the countryside. | F
+Crops in vertical farms are protected from bad weather. | T
+Vertical farms can produce food throughout the year. | T
+Community gardens produce more food than vertical farms. | NG
+@Q MCQ
+What has caused some vertical farming companies to fail? | A lack of customers | B the cost of energy | C shortage of water | D plant diseases | B
+Why can't vertical farms replace ordinary farms, according to critics? | A Leafy vegetables are unpopular. | B Staple crops cannot be grown indoors cheaply. | C City people dislike farm work. | D Hydroponic food is unsafe. | B
+@Q GAP
+Growing plants in nutrient-rich water instead of soil is called ____ . | hydroponics
+Compared with open fields, vertical farms may use up to ____ per cent less water. | ninety-five/95
+
+## Losing the Forests | Environment
+Forests cover about thirty per cent of the Earth's land, but the area is shrinking. Each year around ten million hectares are cleared, most of it in the tropics. The Amazon basin, Central Africa and South-East Asia are losing trees fastest.
+
+The main cause is agriculture. In South America forest is cleared chiefly for cattle ranches and for fields of soya, much of which is exported as animal feed. In Indonesia and Malaysia the principal driver has been palm oil, an ingredient found in a huge range of supermarket products from biscuits to shampoo. Logging for timber, mining and road building add to the damage; a new road also opens up previously remote areas to settlers.
+
+The consequences reach far beyond the forest itself. Tropical forests contain more than half of the world's land species, many of which live nowhere else. Trees also store vast amounts of carbon, and when they are burned or left to rot it is released as carbon dioxide; deforestation accounts for roughly a tenth of global emissions. Forests even make their own weather. Trees draw water from the ground and release it through their leaves, and this moisture falls again as rain. Scientists fear that if too much of the Amazon is cut, the remainder could dry out and turn into grassland.
+
+There are some encouraging signs. Satellite monitoring now allows illegal clearing to be spotted within days. Costa Rica, which pays landowners to protect trees, has doubled its forest cover since the 1980s. Consumers have a role too, since several large companies have promised, under public pressure, to buy only products that are not linked to deforestation.
+@V
+shrink = сокращаться
+clear = расчищать, вырубать
+cattle = крупный рогатый скот
+logging = заготовка леса
+settler = поселенец
+rot = гнить
+moisture = влага
+monitoring = наблюдение, мониторинг
+@Q TFNG
+Forests are disappearing most rapidly in tropical regions. | T
+Most South American soya is eaten by local people. | F
+Deforestation is responsible for about half of global carbon emissions. | F
+Costa Rica has more forest than it had in the 1980s. | T
+@Q MATCH
+the effect of forests on rainfall | C
+a description of positive developments | D
+an everyday product connected with deforestation in Asia | B
+@Q GAP
+Building a ____ allows settlers to reach areas that used to be remote. | road/new road
+
+## Plastic in the Oceans | Environment
+Every year an estimated eight to eleven million tonnes of plastic enter the sea, roughly a lorry load every minute. About eighty per cent of it comes from the land, carried by rivers or blown from beaches and rubbish dumps. The rest is lost or thrown overboard at sea, and abandoned fishing nets make up a large part of this.
+
+Ocean currents gather floating debris into huge rotating zones. The best known, the Great Pacific Garbage Patch between Hawaii and California, is often imagined as an island of rubbish, but this is misleading. Most of it is a thin soup of small fragments, hardly visible from a boat.
+
+Plastic does not decay as natural materials do. Sunlight and waves merely break it into smaller and smaller pieces. Fragments under five millimetres across are called microplastics, and they have now been found everywhere from Arctic ice to the deepest ocean trench. They also come from sources that few people suspect, such as the fibres washed out of synthetic clothes and the dust from car tyres.
+
+The harm to wildlife is well documented. Turtles mistake plastic bags for jellyfish, and seabirds feed bottle tops to their chicks, which may starve with full stomachs. Animals become entangled in old nets and drown. Microplastics are swallowed by tiny creatures at the bottom of the food chain and pass upwards to fish and eventually to humans, though the effect on our health is not yet known.
+
+Cleaning the open ocean is extremely difficult, so most specialists believe efforts should focus on stopping plastic at its source, by improving waste collection in coastal cities and reducing throwaway packaging.
+@V
+dump = свалка
+overboard = за борт
+debris = мусор, обломки
+misleading = вводящий в заблуждение
+decay = разлагаться
+entangle = запутывать(ся)
+swallow = глотать
+packaging = упаковка
+@Q TFNG
+Most plastic in the sea was originally thrown from ships. | F
+The Great Pacific Garbage Patch is a solid island of rubbish. | F
+Car tyres are one source of microplastics. | T
+Microplastics have been proved to cause disease in humans. | F
+@Q SHORT
+What do turtles confuse plastic bags with? | jellyfish
+What size, in millimetres, must fragments be under to count as microplastics? | five/5/five millimetres
+@Q MCQ
+Why do some seabird chicks die? | A They are caught in nets. | B Their parents feed them plastic. | C They are eaten by turtles. | D They cannot find the sea. | B
+Where should most effort be directed, according to specialists? | A cleaning up the open ocean | B preventing plastic from entering the sea | C breeding more turtles | D banning fishing | B
+
+## The World's Water Problem | Environment
+Seen from space, the Earth looks like a planet with water to spare. In fact about ninety-seven per cent of that water is salty. Of the remaining fresh water, more than two thirds is frozen in glaciers and ice caps, and most of the rest lies underground. Rivers and lakes, on which humanity mainly depends, hold a tiny fraction of one per cent of the total.
+
+Demand on this limited supply has grown about six times over the past century. Contrary to what many people assume, households are not the main consumers. Agriculture takes roughly seventy per cent of all the fresh water that people use, industry around twenty per cent and homes only about ten. Some crops are particularly thirsty: producing a single kilogram of rice can require more than two thousand litres.
+
+The results are visible in many regions. Great rivers such as the Colorado and the Yellow River sometimes fail to reach the sea. Underground reserves in northern India and the central United States are being pumped out much faster than rain can refill them. Around two billion people live in countries where water is under severe pressure, and climate change is making rainfall less reliable.
+
+Solutions exist, but none is simple. Drip irrigation, which delivers water directly to the roots of plants, can cut a farm's use by half compared with flooding fields. Cities lose a great deal through leaking pipes, in some cases a third or more of their supply. Removing salt from seawater is technically possible but remains expensive. Many economists argue that water is wasted mainly because it is priced too low, although raising the price of something so essential is politically difficult.
+@V
+glacier = ледник
+fraction = доля, часть
+household = домохозяйство
+consumer = потребитель
+reserve = запас
+severe = серьёзный, суровый
+irrigation = орошение
+leak = протекать; утечка
+@Q TFNG
+Most of the world's fresh water is found in rivers and lakes. | F
+Farming uses more water than industry and households combined. | T
+The Colorado River always flows all the way to the sea. | F
+Desalination plants are common in North Africa. | NG
+@Q SUM
+Households account for about ____ per cent of human water use. | ten/10
+____ irrigation supplies water straight to plant roots. | Drip
+Some cities lose a third of their water because of ____ . | leaking pipes
+@Q MCQ
+Why, according to many economists, is water wasted? | A People do not understand the problem. | B Its price is too low. | C There are too few engineers. | D Rice is grown too widely. | B
+
+## Harvesting the Wind | Environment
+People have used the wind for thousands of years, to drive sailing ships and to turn mills that ground grain and pumped water. Using it to make electricity began in the late nineteenth century, but wind power became a serious industry only after the oil crisis of the 1970s, when Denmark in particular began investing in it.
+
+A modern turbine is a huge machine. Its tower may be over a hundred metres tall, and each of its three blades can be longer than the wing of a large passenger aircraft. Size matters, because doubling the length of the blades roughly quadruples the energy captured, and winds are stronger and steadier higher up. A single large turbine can supply electricity for several thousand homes.
+
+Increasingly, turbines are being built out at sea. Offshore winds are more powerful and more constant than those on land, and there are no neighbours to complain about noise or spoiled views. The disadvantage is cost: foundations must be fixed to the seabed, and salt water makes maintenance difficult. The newest designs float, anchored by cables, so that they can be placed in deep water.
+
+Wind power has drawbacks. Its output varies with the weather, so other sources or storage are needed for calm days. Turbines kill birds and bats, though studies indicate that the numbers are far smaller than those killed by cats or by collisions with buildings. Old blades, made of materials that are hard to recycle, often end up buried in the ground. Nevertheless, wind now provides more than half of Denmark's electricity, and its share is rising steadily worldwide.
+@V
+mill = мельница
+invest = инвестировать
+blade = лопасть
+quadruple = увеличивать в четыре раза
+offshore = морской, в открытом море
+foundation = фундамент
+anchor = закреплять якорем
+collision = столкновение
+@Q TFNG
+Wind was first used to generate electricity in the 1970s. | F
+Turbine blades can be longer than the wings of big aeroplanes. | T
+Offshore turbines are cheaper to build than those on land. | F
+Cats kill more birds than wind turbines do. | T
+@Q HEAD i. The limits of wind energy; ii. From sails to electricity; iii. Moving out to sea; iv. Why bigger is better; v. Denmark's political debate; vi. The price of electricity
+Paragraph A | ii
+Paragraph B | iv
+Paragraph C | iii
+Paragraph D | i
+
+## The Wolves of Yellowstone | Environment
+When Yellowstone became the world's first national park in 1872, wolves were regarded as dangerous pests. Hunters, encouraged by the government, shot or poisoned them, and by 1926 the last pack in the park had been killed.
+
+The effects appeared slowly. Without their main predator, the elk, a large species of deer, multiplied. They no longer needed to keep moving, and they gathered along river banks, where they ate young willow and aspen trees down to the ground. As the trees vanished, so did the songbirds that nested in them. Beavers, which need willow for food and for building their dams, became rare, and the ponds that their dams had created dried up.
+
+In 1995, after years of argument, biologists brought fourteen wolves from Canada and released them in the park; seventeen more followed the next year. The wolves killed some elk, but, equally important, they changed the behaviour of the rest. Elk began to avoid valleys where they could easily be trapped. In those places the trees recovered, and beavers and birds returned. The wolves also reduced the number of coyotes, so that the small animals coyotes hunt increased, providing more food for foxes and eagles.
+
+The story has become a famous example of what ecologists call a trophic cascade, in which a change at the top of the food chain flows down through every level. Some scientists warn that it has been simplified: milder winters, drought and hunting outside the park also affected the elk. Even so, few now doubt that large predators shape the landscapes they live in. Farmers near the park, whose sheep and cattle are sometimes attacked, remain less enthusiastic.
+@V
+pest = вредитель
+pack = стая
+multiply = размножаться
+dam = плотина
+pond = пруд
+trap = загонять в ловушку
+cascade = каскад
+landscape = ландшафт
+@Q TFNG
+Wolves were deliberately removed from Yellowstone. | T
+After the wolves disappeared, the number of beavers rose. | F
+The wolves released in the 1990s came from another country. | T
+Tourist numbers increased after the wolves returned. | NG
+@Q GAP
+Without wolves, elk gathered beside ____ and destroyed young trees. | river banks
+Wolves lowered the population of ____ , which helped foxes and eagles. | coyotes
+@Q MCQ
+What was as important as the number of elk killed by wolves? | A the change in where elk chose to feed | B the arrival of new tree species | C the building of fences | D the removal of beavers | A
+Why do some scientists say the story is too simple? | A Wolves were never really absent. | B Other factors also influenced the elk. | C The trees have not recovered. | D Farmers support the wolves. | B
+
+## Rivers of Ice | Environment
+A glacier is a mass of ice that forms on land where more snow falls in winter than melts in summer. Over many years the snow is compressed into dense ice, and when it becomes thick enough it begins to move downhill under its own weight, usually by less than a metre a day. Glaciers and the great ice sheets of Greenland and Antarctica hold about seventy per cent of the world's fresh water.
+
+Glaciers are powerful sculptors. During the ice ages they carved the deep U-shaped valleys of the Alps and the fjords of Norway, and they left behind the basins that became the Great Lakes of North America.
+
+Today almost all of the world's glaciers are retreating. Photographs taken a century apart show valleys once filled with ice now occupied by bare rock and lakes. The Alps have lost roughly half of their ice volume since 1900, and some small glaciers have disappeared completely. The cause is rising temperature: a glacier is highly sensitive to climate because a change of only a degree or so tips the balance between snowfall and melting.
+
+The loss matters to people far from the mountains. Glaciers act as natural reservoirs, storing water in winter and releasing it in the dry summer months when rivers would otherwise run low. Hundreds of millions of people in South and Central Asia depend on rivers fed by the ice of the Himalayas and neighbouring ranges, including the Amu Darya and the Syr Darya. As glaciers shrink, river flow first increases, sometimes causing floods, and then declines permanently. Melting land ice also adds to the rise in sea level, which threatens low-lying coasts and islands.
+@V
+compress = сжимать
+dense = плотный
+ice sheet = ледяной щит
+sculptor = скульптор
+basin = котловина, бассейн
+retreat = отступать
+sensitive = чувствительный
+reservoir = водохранилище, резервуар
+@Q TFNG
+Glaciers generally move several metres each day. | F
+Norway's fjords were formed by glaciers. | T
+The Alps now contain about half as much ice as in 1900. | T
+Glaciers in Antarctica are melting faster than those in the Alps. | NG
+@Q MCQ
+Why are glaciers described as 'natural reservoirs'? | A They are surrounded by lakes. | B They store water and release it in dry seasons. | C They are used to produce electricity. | D They prevent floods completely. | B
+What happens to river flow as a glacier shrinks? | A It stops immediately. | B It stays the same. | C It rises at first and later falls for good. | D It falls at first and later rises. | C
+@Q GAP
+Glaciers are very ____ to changes in climate. | sensitive
+Melting land ice contributes to rising ____ . | sea level
+
+## The Hidden Cost of Noise | Environment
+Noise is perhaps the most underestimated form of pollution. It leaves no visible trace and disappears the moment its source is switched off, so it is easy to dismiss as a mere annoyance. Evidence gathered over the past few decades suggests it is considerably more than that.
+
+Sound is measured in decibels. Normal conversation is about 60 decibels, heavy traffic around 85 and a rock concert well over 100. Long exposure to levels above 85 decibels can permanently damage hearing. But harm occurs at much lower levels too. The body reacts to noise as a signal of danger, releasing stress hormones and raising blood pressure, and it continues to do so during sleep, even when the sleeper does not wake. Large studies in Europe have found that people living beside busy roads or under flight paths have a higher risk of heart disease.
+
+Children seem to be especially vulnerable. In a well-known study in New York in the 1970s, pupils in classrooms facing a railway line were found to be almost a year behind in reading compared with those on the quiet side of the same building. When the noise was reduced, the gap disappeared.
+
+Wildlife suffers as well. Birds in cities sing at a higher pitch or at night in order to be heard, and the engines of ships interfere with the calls that whales use to communicate over great distances.
+
+Remedies are available. Quieter road surfaces, lower speed limits, barriers and better insulation in buildings all make a difference. Electric vehicles are quieter at low speeds, although at higher speeds most traffic noise comes from tyres rather than engines.
+@V
+underestimate = недооценивать
+trace = след
+dismiss = отмахиваться, не принимать всерьёз
+exposure = воздействие
+vulnerable = уязвимый
+pitch = высота (звука)
+interfere = мешать
+insulation = изоляция
+@Q YNNG
+Noise deserves to be taken more seriously than it usually is. | Y
+Noise affects the body only when a person is awake. | N
+Adults are more easily harmed by noise than children. | N
+Governments spend too little on reducing noise. | NG
+@Q GAP
+Sound levels are measured in ____ . | decibels
+At high speeds, most traffic noise is produced by ____ . | tyres
+@Q MCQ
+What did the New York study show? | A Trains make children ill. | B Noise slowed pupils' progress in reading. | C Quiet classrooms are too expensive. | D Teachers preferred the noisy side. | B
+How have some city birds adapted to noise? | A They have moved to the countryside. | B They sing at a higher pitch. | C They have stopped singing. | D They nest near railways. | B
+
+## When the Stars Disappeared | Environment
+For almost all of human history, the night sky was filled with thousands of stars and the pale band of the Milky Way. Today about a third of humanity, including most Europeans and North Americans, can no longer see the Milky Way from where they live. The cause is light pollution: the glow of street lamps, advertising signs and buildings that scatters in the atmosphere and brightens the sky.
+
+Astronomers were the first to complain, and many observatories have been forced to move to remote mountains and deserts. But the loss of darkness affects much more than stargazing. Life on Earth evolved with a regular cycle of day and night, and many species depend on it. Baby sea turtles, which hatch on beaches at night, find the ocean by heading for the brightest horizon; artificial lights lead them inland, where they die. Migrating birds are drawn towards illuminated towers and collide with them. Insects circle street lamps until they are exhausted, which is one probable reason for the decline in insect numbers.
+
+Human beings are affected too. Light in the evening reduces the body's production of melatonin and disturbs sleep, and some studies have linked night-shift work with higher rates of certain illnesses.
+
+Unlike most forms of pollution, this one is easy to reverse. Much outdoor lighting is simply wasted, shining upwards or sideways rather than down onto the ground. Lamps that are shielded, dimmed late at night or fitted with motion sensors save energy and money as well as darkness. A growing number of regions have been declared dark-sky reserves, where lighting is strictly controlled and visitors come specifically to see the stars.
+@V
+pale = бледный
+scatter = рассеивать(ся)
+observatory = обсерватория
+evolve = эволюционировать, развиваться
+hatch = вылупляться
+illuminated = освещённый
+exhausted = обессиленный
+shield = экранировать, прикрывать
+@Q TFNG
+Most people in Europe are unable to see the Milky Way from home. | T
+Baby turtles naturally move away from bright light. | F
+Light pollution may be contributing to the fall in insect numbers. | T
+Dark-sky reserves were first created in North America. | NG
+@Q SUM
+Many observatories have had to relocate to distant ____ and deserts. | mountains
+Evening light lowers the amount of ____ produced by the human body. | melatonin
+A lot of outdoor lighting is wasted because it shines upwards or ____ . | sideways
+@Q MCQ
+What makes light pollution different from most pollution? | A It is invisible. | B It can be reversed easily. | C It affects only animals. | D It costs nothing. | B
+
+## The True Price of Fast Fashion | Environment
+A generation ago, clothing shops introduced new collections two or four times a year. Today some brands add thousands of new designs to their websites every week, at prices so low that a T-shirt may cost less than a sandwich. This business model, known as fast fashion, has transformed the way people dress. Worldwide, clothing production roughly doubled between 2000 and 2015, while the number of times a garment is worn before being thrown away fell by more than a third.
+
+The environmental cost is heavy. Cotton is a thirsty crop: growing enough for one pair of jeans can take several thousand litres of water. The Aral Sea in Central Asia, once the fourth largest lake in the world, shrank to a fraction of its size largely because the rivers that fed it were diverted to irrigate cotton fields. Polyester, now the most common fibre, is made from oil and releases tiny plastic fibres each time it is washed. Dyeing and finishing fabric pollutes rivers in manufacturing regions.
+
+There is a human cost too. Most clothes are sewn in low-wage countries, often in poor conditions. In 2013 the Rana Plaza building in Bangladesh, which housed several clothing factories, collapsed, killing more than 1,100 workers. The disaster led to new safety agreements, but wages in the industry remain very low.
+
+Less than one per cent of the material in old clothes is recycled into new ones, and much of what is donated to charity is shipped abroad and eventually dumped. Campaigners therefore urge shoppers to buy fewer, better items, to repair them and to choose second-hand. Some governments are considering making brands pay for the waste they generate.
+@V
+garment = предмет одежды
+transform = преобразовывать, менять
+fibre = волокно
+dye = красить (ткань)
+sew = шить
+wage = заработная плата
+collapse = обрушиться
+donate = жертвовать, отдавать
+@Q TFNG
+Clothes are now worn fewer times than in the past before being discarded. | T
+Polyester is produced from a natural plant. | F
+The Aral Sea shrank mainly because of water taken for cotton growing. | T
+After Rana Plaza, wages in clothing factories rose sharply. | F
+@Q MATCH
+advice for individual consumers | D
+a comparison between past and present shopping habits | A
+an accident that affected factory workers | C
+@Q GAP
+Less than ____ per cent of the material from old clothing becomes new clothing. | one/1

@@ -1,0 +1,187 @@
+## Joining a Sports Centre | Section 1
+@CTX You will hear a telephone conversation between a receptionist at a sports centre and a man who wants to become a member.
+@VOICES Woman=f Man=m
+@S
+Woman: Good morning, Riverside Sports Centre. How can I help you?
+Man: Hello. I've just moved to the area and I'd like to ask about membership.
+Woman: Of course. We have two main types. Full membership is forty-five pounds a month and lets you use everything, any time. Off-peak membership is twenty-eight pounds, but you can only come before four in the afternoon on weekdays.
+Man: I work in the mornings, so I think the full one would suit me better. Is there a joining fee?
+Woman: Normally there's a fee of thirty pounds, but this month it's reduced to fifteen.
+Man: Great. What facilities do you have?
+Woman: There's a twenty-five metre swimming pool, a gym, four squash courts and a climbing wall. The climbing wall is new. It opened in March.
+Man: I'd love to try that. Do I need to book?
+Woman: Yes, beginners have to take an introduction class first. They're on Thursday evenings at seven thirty.
+Man: Fine. Can I register now?
+Woman: Certainly. Can I take your name?
+Man: It's Daniel Hartley. That's H, A, R, T, L, E, Y.
+Woman: Thank you. And your address?
+Man: Flat six, nineteen Marlow Road.
+Woman: And a contact number?
+Man: It's oh seven seven double five, nine one three, six two eight.
+Woman: Thanks. Do you have any health problems we should know about?
+Man: Nothing serious. I injured my knee last year playing football, but it's fine now.
+Woman: I'll make a note of that. When you come for the first time, please bring a photograph for your membership card and some proof of address, like a bank statement.
+Man: OK. Is there parking?
+Woman: Yes, it's free for members for up to three hours. And one more thing, we have a café on the first floor, and members get a ten per cent discount.
+Man: Perfect. I'll come in on Saturday.
+@Q LGAP
+Cost of full membership: £ ____ per month | 45/forty-five
+Off-peak members must come before ____ pm on weekdays | 4/four
+Joining fee this month: £ ____ | 15/fifteen
+Newest facility: the ____ | climbing wall
+Introduction class: ____ evenings at 7.30 | Thursday
+Surname: ____ | Hartley
+Address: Flat 6, 19 ____ Road | Marlow
+Previous injury: ____ | knee/his knee
+Bring: a photograph and proof of ____ | address
+Members' discount in the café: ____ per cent | 10/ten
+
+## Booking a Holiday Cottage | Section 1
+@CTX You will hear a woman phoning a holiday company to book a cottage.
+@VOICES Man=m Woman=f
+@S
+Man: Lakeland Holiday Cottages, Peter speaking.
+Woman: Hi, I saw a cottage on your website called Rose Cottage and I'd like to check a few things before I book.
+Man: Sure. Rose Cottage is in the village of Fenwick, about two miles from the lake.
+Woman: How many people does it sleep?
+Man: It has three bedrooms, so six people comfortably.
+Woman: Good, there are five of us. We'd like to come in August, from the twelfth for a week.
+Man: Let me see. I'm afraid the twelfth is taken, but it's free from the nineteenth.
+Woman: That should be all right. How much is it?
+Man: In August it's six hundred and eighty pounds for the week. We ask for a deposit of twenty per cent when you book, and the rest four weeks before you arrive.
+Woman: Does the price include everything?
+Man: It includes electricity and bed linen. You'll need to bring your own towels.
+Woman: OK. We're bringing our dog. Is that a problem?
+Man: Not at all, but there's an extra charge of twenty-five pounds for pets.
+Woman: Fine. What's in the kitchen? Is there a dishwasher?
+Man: Yes, a dishwasher and a microwave, but there isn't a washing machine. There's a laundry in the village, though.
+Woman: And what is there to do nearby?
+Man: You can hire boats on the lake, and there's a lovely walk from the cottage up to an old castle. The village has a shop and a pub, and the nearest supermarket is in Kendal, about fifteen minutes by car.
+Woman: Lovely. How do we get the keys?
+Man: They're kept by a neighbour, Mrs Dawson. That's D, A, W, S, O, N. She lives at number four, next door. You can arrive any time after three o'clock.
+Woman: Great. I'd like to go ahead and book, please.
+@Q LGAP
+Name of village: ____ | Fenwick
+Number of bedrooms: ____ | 3/three
+Arrival date: ____ August | 19/19th/nineteenth/the nineteenth
+Price for the week: £ ____ | 680/six hundred and eighty
+Deposit: ____ per cent | 20/twenty
+Guests must bring their own ____ | towels
+Extra charge for the dog: £ ____ | 25/twenty-five
+The kitchen has no ____ | washing machine
+There is a walk to an old ____ | castle
+Keys are kept by Mrs ____ | Dawson
+
+## Lost Property at the Station | Section 1
+@CTX You will hear a man reporting a lost bag at a railway station office.
+@VOICES Woman=f Man=m
+@S
+Woman: Lost property office. Can I help you?
+Man: I hope so. I left a bag on a train this morning.
+Woman: I'll need some details. Which train were you on?
+Man: The eight fifteen from Oxford to London Paddington.
+Woman: And where were you sitting?
+Man: In coach D, near the door. I put the bag on the luggage rack above my seat.
+Woman: Can you describe it?
+Man: It's a dark green backpack, medium sized, with a leather handle. One of the side pockets is torn.
+Woman: What was inside?
+Man: My laptop, which is the main thing. Also a blue folder with some documents for a meeting, my glasses and an umbrella.
+Woman: Any cash or bank cards?
+Man: No, luckily my wallet was in my jacket.
+Woman: Good. Is your name anywhere on the bag?
+Man: There's a small label inside with my business card.
+Woman: Can I take your name, please?
+Man: Martin Kowalski. K, O, W, A, L, S, K, I.
+Woman: And a phone number?
+Man: Oh two oh, seven nine four six, oh one five three.
+Woman: Thank you. Bags left on trains are usually brought here by the cleaning staff at the end of the day, so we may have it by this evening. We're open until eight.
+Man: Should I call back?
+Woman: We'll send you a text message if it arrives. If you collect it, you'll need to bring identification, such as a passport, and there's a handling fee of five pounds.
+Man: That's fine. And if it doesn't appear?
+Woman: Items are kept for three months. After that, they're given to charity. I'll give you a reference number. It's L P, four seven two nine.
+Man: L P, four seven two nine. Thank you very much.
+@Q LGAP
+Train left at: ____ | 8.15/8:15/eight fifteen
+Coach: ____ | D
+Colour of backpack: dark ____ | green
+The handle is made of ____ | leather
+Most important item inside: ____ | laptop/a laptop/his laptop
+Colour of the folder: ____ | blue
+Surname: ____ | Kowalski
+The office closes at ____ pm | 8/eight
+Handling fee: £ ____ | 5/five
+Items are kept for ____ months | 3/three
+
+## A Tour of the City Museum | Section 2
+@CTX You will hear a guide welcoming visitors to a city museum.
+@VOICES Guide=f
+@S
+Guide: Good afternoon, everyone, and welcome to the City Museum. Before you start exploring, I'd like to tell you a little about the building and what you can see today.
+Guide: The museum opened in eighteen ninety-two. The building was originally a wool warehouse, which explains the large windows and high ceilings. It was converted into a museum after a local businessman left his private collection to the city.
+Guide: We're now standing in the entrance hall on the ground floor. To your left is the Local History gallery, which tells the story of the town from Roman times to the present. The most popular exhibit there is a model of the old harbour as it looked three hundred years ago.
+Guide: On the first floor you'll find the Natural World gallery. Children love the dinosaur skeleton, which is over nine metres long. Next to it is our temporary exhibition. This month it's about the history of photography, and it finishes on the thirtieth of June.
+Guide: The second floor has the art collection, mainly paintings of the sea and the coast by local artists. Please note that photography is allowed everywhere in the museum except in the art gallery.
+Guide: If you're hungry, the café is in the basement and it serves hot food until half past two. The gift shop is beside the main exit.
+Guide: We have two free talks today. At two o'clock there's a talk about Roman coins in the Local History gallery, and at three thirty a member of staff will show how old clocks are repaired. For the second one you need a ticket from the information desk, because there are only twenty places.
+Guide: Finally, the museum closes at five thirty, and the last entry to the galleries is at five. Lockers for bags are next to the stairs. You'll need a one pound coin, which you get back afterwards. Enjoy your visit.
+@Q LMCQ
+The museum building was originally | A a private house. | B a warehouse. | C a town hall. | B
+The most popular exhibit in the Local History gallery is | A a model of the harbour. | B a collection of Roman coins. | C an old fishing boat. | A
+Photography is not permitted | A anywhere in the museum. | B in the temporary exhibition. | C in the art gallery. | C
+@Q LGAP
+The museum opened in ____ | 1892/eighteen ninety-two
+The dinosaur skeleton is over ____ metres long | 9/nine
+The temporary exhibition is about the history of ____ | photography
+The café is in the ____ | basement
+The 3.30 demonstration is about repairing old ____ | clocks
+Number of places at the second talk: ____ | 20/twenty
+Last entry to the galleries is at ____ | 5/five/5.00/5 pm/five o'clock
+
+## Volunteering at the Summer Festival | Section 2
+@CTX You will hear an organiser giving information to people who want to work as volunteers at a town festival.
+@VOICES Organiser=f
+@S
+Organiser: Thanks for coming this evening. I'm Helen, and I coordinate the volunteers for the Greenfield Summer Festival.
+Organiser: As most of you know, the festival takes place in Victoria Park over three days, from Friday the eighth of July to Sunday the tenth. Last year we had around twelve thousand visitors, and this year we're expecting even more, so we need about eighty volunteers.
+Organiser: There are three main jobs. The first is working at the entrance gates, checking tickets and giving out maps. The second is helping in the children's area, where there'll be face painting, games and a small theatre. For that job we must check your background, so please complete the form tonight. The third job is the green team, which looks after recycling. It's not glamorous, but last year we recycled seventy per cent of all the waste, and we want to do better.
+Organiser: Each shift lasts five hours, and we ask everybody to do at least two shifts over the weekend. In return you get a free T-shirt, a meal for each shift and a free ticket for one of the days when you're not working.
+Organiser: There's a training session for all volunteers on Saturday the second of July at ten in the morning. It's in the community centre, not in the park, and it takes about two hours. Please wear comfortable shoes on the day, because you'll be standing a lot, and bring a waterproof jacket. You know what the weather is like here.
+Organiser: If you're driving, you can't park at the main entrance. Use the car park in Mill Lane, which is reserved for staff. Show your volunteer badge.
+Organiser: If you have any problems during the festival, the volunteer office will be in the white tent beside the main stage. My mobile number is on the information sheet. Now, are there any questions?
+@Q LGAP
+The festival lasts ____ days | 3/three
+Number of visitors last year: about ____ | 12000/12,000/twelve thousand
+Volunteers needed: about ____ | 80/eighty
+Proportion of waste recycled last year: ____ per cent | 70/seventy
+Length of each shift: ____ hours | 5/five
+Training takes place in the ____ | community centre
+Volunteers should bring a waterproof ____ | jacket
+Staff car park is in ____ Lane | Mill
+@Q LMCQ
+Volunteers in the children's area must | A have experience as teachers. | B complete a background form. | C be over twenty-one. | B
+The volunteer office is in a tent | A by the main stage. | B at the entrance gates. | C in the children's area. | A
+
+## Changes to the Public Library | Section 2
+@CTX You will hear a radio announcement about changes at a town library.
+@VOICES Presenter=m Manager=f
+@S
+Presenter: And now some local news. Listeners who use Kingsbridge Library will be pleased to hear that it reopens next Monday after being closed for four months for rebuilding. The library's manager, Sarah Collins, is here to tell us what's new.
+Manager: Thank you. Yes, we're very excited. The biggest change is that the library is now on two floors instead of one. Downstairs is the children's library, which is twice as big as before, with a special corner for story time. The adult books have moved upstairs, and there's a lift for anybody who can't use the stairs.
+Manager: We've also created a quiet study room with thirty desks. Students asked for this for years. Each desk has a lamp and a socket for a laptop. You can reserve a desk online for up to three hours at a time.
+Manager: The old computer room has become a café. It's run by a local bakery, and you're welcome to take your drinks to the reading area, but not into the study room, please.
+Manager: Our opening hours are longer. We'll be open from nine in the morning to eight in the evening from Monday to Friday, and from ten to four on Saturdays. We're still closed on Sundays.
+Manager: Borrowing is easier too. You can now take out twelve books instead of eight, and keep them for four weeks. There are no more fines for children's books returned late.
+Manager: To celebrate, we're holding an open day on Saturday the fourteenth. A well-known crime writer, James Porter, will be reading from his new novel at eleven o'clock, and in the afternoon there's a workshop on tracing your family history. Both are free, but please book by phone, because space is limited.
+Presenter: Sarah, thank you. That's Kingsbridge Library, reopening on Monday.
+@Q LGAP
+The library was closed for ____ months | 4/four
+The children's library is now ____ as big as before | twice
+The study room has ____ desks | 30/thirty
+A desk can be reserved for up to ____ hours | 3/three
+The café is run by a local ____ | bakery
+Closing time on weekdays: ____ pm | 8/eight
+Maximum number of books: ____ | 12/twelve
+@Q LMCQ
+Drinks from the café may not be taken into | A the reading area. | B the study room. | C the children's library. | B
+On the open day, James Porter will | A sign copies of his book. | B run a writing workshop. | C read from his new novel. | C
+The afternoon workshop is about | A family history. | B crime writing. | C using computers. | A

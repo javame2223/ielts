@@ -1,0 +1,259 @@
+# t2
+P: Таблица, два года, 8 стран. Группировка: высокий уровень (4 богатые страны), средний (Польша, Бразилия), очень низкий (Китай, Индия). Overview: рост везде; разрыв между группами огромный.
+E: The table compares the number of motor vehicles for every thousand people in eight countries in 1990 and 2000.
+E: Overall, car ownership increased in all eight countries over the decade, but there was a vast gap between the wealthy nations, where vehicles were extremely common, and China and India, where they remained rare.
+E: The United States had by far the highest rate in both years, rising slightly from 752 to 779 vehicles per thousand inhabitants. Italy, Germany and Japan followed, with figures of between roughly 470 and 530 in 1990. Of these three, Italy saw the largest increase, reaching 656, while Germany and Japan both ended the period at just over 570.
+E: Poland and Brazil occupied a middle position. Poland recorded the most dramatic relative growth of any country, with its figure almost doubling from 168 to 312, whereas the number in Brazil grew more modestly, from 87 to 118. At the bottom of the table, China and India had only five and four vehicles per thousand people respectively in 1990. Although both figures roughly doubled, to 12 and 8, they were still tiny compared with the other nations.
+V: per thousand inhabitants = на тысячу жителей; by far the highest = намного выше всех; occupied a middle position = занимали промежуточное положение; relative growth = относительный рост; respectively = соответственно
+N: 172 слова. Страны сгруппированы, а не перечислены по одной — это главное для Coherence. Есть и абсолютные цифры, и относительные изменения (almost doubling). Overview стоит отдельным абзацем.
+
+# t3
+P: Таблица (по смыслу — линии), 4 возрастные группы, 5 лет. Overview: рост во всех группах; чем старше, тем ниже доля, но старшие росли быстрее.
+E: The table shows the percentage of adults in four age groups who used the internet in a European country each year from 2006 to 2010.
+E: Overall, internet use rose steadily in every age group. Younger people were consistently the most likely to be online, but the gap between the generations narrowed, as the fastest growth occurred among older adults.
+E: In 2006, the overwhelming majority of 16 to 24-year-olds (88%) were already internet users, and this figure climbed gradually to an almost universal 98% by 2010. The 25 to 44 age group followed a similar pattern at a slightly lower level, increasing from 76% to 92% over the five years.
+E: Among those aged 45 to 64, just over half (55%) used the internet at the start of the period, but the proportion grew by around six percentage points a year to reach 79%. The most striking change, however, was seen in the oldest group. Only 15% of people aged 65 and over were online in 2006, yet this proportion more than doubled to 38% in 2010. Even so, it remained far below the figures for all younger groups.
+V: overwhelming majority = подавляющее большинство; almost universal = почти всеобщий; followed a similar pattern = следовал похожей тенденции; percentage points = процентные пункты; more than doubled = более чем удвоился
+N: 182 слова. Разница между «per cent» и «percentage points» показывает точность. Most striking change — приём для выделения главного. Абзацы делят группы на «молодые» и «старшие».
+
+# t4
+P: Столбчатая диаграмма, 7 стран, мужчины и женщины. Overview: мужчины уходят позже почти везде; самая поздняя пенсия в Корее, самая ранняя во Франции/Италии.
+E: The bar chart compares the average age at which men and women retired in seven countries in 2008.
+E: Overall, men tended to retire later than women in almost every country. People in Korea and Japan stopped working at the oldest ages, whereas the earliest retirement was found in France and Italy.
+E: Korea stood out with the highest figures for both sexes: men retired at an average age of 71 and women at 68. Japan came second, with ages of 69 and 66 respectively. In both of these countries, women left work three years earlier than men, which was the largest gender gap shown.
+E: The United States, Sweden and Australia formed a middle group, with men retiring at between 64 and 66 and women at between 62 and 64. The difference between the sexes here was smaller, only one year in the USA and two or three years in the other two countries. At the other end of the scale, Italian men retired at 61 and women at 60, while France was the only country where women did not retire earlier than men, both doing so at around 59 to 60.
+V: stood out = выделялась; for both sexes = для обоих полов; gender gap = разрыв между полами; formed a middle group = составили среднюю группу; at the other end of the scale = на другом конце шкалы
+N: 179 слов. Исключение (Франция) отмечено отдельно — экзаменатор ищет именно такие детали. Respectively экономит слова. Не пытайся перечислить все 14 чисел — группируй.
+
+# t5
+P: Столбчатая диаграмма, доли продаж по 4 регионам за 5 лет. Overview: Северная Америка упала, Азия выросла и стала лидером; Европа слегка снизилась, Южная Америка мала и стабильна.
+E: The bar chart illustrates how the share of a car manufacturer's total sales was divided among four regions between 2006 and 2010.
+E: Overall, the company's sales shifted from North America towards Asia. While North America accounted for the largest share at the beginning of the period, Asia had overtaken it by the end. Europe's share declined slightly, and South America remained the smallest market throughout.
+E: In 2006, North America represented 42% of sales, but this proportion fell every year, dropping to just 28% in 2010. Asia showed the opposite trend. Its share almost doubled, rising from 18% to 34%, and it surpassed North America in 2009, when it reached 30% compared with 31% for North America, before clearly taking the lead in the final year.
+E: Europe's contribution was relatively stable, remaining at 30% in the first two years and then edging down to 26%. South America consistently accounted for the smallest proportion of sales, although its share increased slightly from 10% to 12%. By 2010, therefore, Asia, North America and Europe each contributed roughly a quarter to a third of total sales.
+V: accounted for = составлял; overtaken = обогнал; surpassed = превзошёл; edging down = понемногу снижаясь; took the lead = вышел вперёд
+N: 182 слова. Внимание: в 2009 Азия (30%) ещё чуть ниже Северной Америки (31%) — в тексте это учтено. Проверяй каждую цифру, неточности снижают Task Achievement. Opposite trend — хорошая связка между абзацами.
+
+# t6
+P: Процесс, 9 стадий. Overview: число стадий, начало (добыча глины) и конец (доставка). Body 1 — подготовка и формовка. Body 2 — сушка, обжиг, роспись, контроль. Пассив везде.
+E: The diagram shows the stages involved in the manufacture of ceramic pots.
+E: Overall, there are nine main stages in the process, beginning with the extraction of raw clay from the ground and ending with the delivery of the finished pots to shops. The pots are fired in a kiln twice.
+E: First, clay is dug out of the ground by an excavator and taken by lorry to the factory. There it is crushed and passed through a sieve in order to remove any stones. Water is then added in a mixing tank, and the resulting liquid clay is poured into moulds. After four to six hours, the pots are removed from the moulds and smoothed by hand.
+E: Next, the pots are placed in a drying room, where they are left for two days at a temperature of 40°C. They then undergo their first firing in a kiln at 1,000°C. After this, they are painted and coated with glaze before being fired a second time at an even higher temperature of 1,200°C. Once they have cooled for 24 hours, each pot is checked for quality. Finally, the pots are packaged and delivered to shops.
+V: extraction = добыча; be passed through a sieve = просеиваться; mould = форма; undergo = подвергаться; be coated with glaze = покрываться глазурью
+N: 187 слов. Пассив (is dug, is crushed, are placed) — обязательная грамматика процесса. Разнообразные связки: First, then, After, Next, Once, Finally. Цифры (часы, градусы) переданы точно — это детали, которые хотят видеть.
+
+# t7
+P: Карта, два года. Overview: главные изменения — вход и центр стали открытее; появились кафе, детская комната и магазин; западное крыло не изменилось. Body 1 — вход и центр. Body 2 — крылья и север.
+E: The plans show how the ground floor of a museum changed between 1998 and 2008.
+E: Overall, the museum was redesigned to offer more facilities for visitors. While the Local History gallery remained in its original place, most other areas were converted to new uses, including a café, a children's room and a gift shop.
+E: The entrance on the south side was widened and fitted with glass, replacing the single door of 1998. The ticket desk, which had stood to the left of the entrance, was moved to the centre of the hall. The statue that had occupied the centre of the open hall was removed, and a gift shop was added in its place.
+E: In the east wing, the storeroom and staff office were turned into a café with an outdoor terrace. The Natural History gallery along the north side was divided into two spaces: a Children's Discovery room and an area for temporary exhibitions. Finally, in the north-east corner, the toilets were enlarged and a lift to the first floor was installed. The west wing, by contrast, still housed the Local History gallery, as it had ten years earlier.
+V: be converted to = быть переделанным в; fitted with = оснащённый; occupy = занимать; be divided into = быть разделённым на; house = вмещать, размещать
+N: 184 слова. Для карт прошлого — пассив в Past Simple (was widened, was removed) и Past Perfect для исходного состояния (which had stood). Указания сторон света (south side, east wing) делают описание понятным без картинки.
+
+# t8
+P: Карта, сейчас и план. Overview: застройка на севере, улучшение транспорта, лес сохранится. Body 1 — север и центр. Body 2 — восток, юг, запад. Будущее + пассив.
+E: The maps illustrate a housing estate as it is at present and how it is planned to develop in the future.
+E: Overall, the estate will expand significantly, mainly through new housing and a school on what is currently farmland. Transport links will also be improved, while the woodland in the west will be preserved.
+E: At present, the northern part of the site is used for farming. Under the plan, this land will be built on, with 60 new houses and a primary school. In the centre, the existing 40 houses will remain, but the small green around which they stand will be turned into a playground.
+E: On the eastern side, the row of shops will be replaced by a supermarket, and the neighbouring car park is going to be extended. Several changes are planned for the south of the estate. A roundabout will be built on the main road, a second bus stop will be added, and a new access road will run northwards to the new housing area. Meanwhile, the woodland on the western side will be kept, although a cycle path will be constructed through it.
+V: housing estate = жилой квартал; be built on = быть застроенным; be turned into = быть превращённым в; access road = подъездная дорога; be preserved = быть сохранённым
+N: 186 слов. Будущее время в пассиве: will be replaced, is going to be extended. Контраст сейчас/потом через At present… Under the plan…. Не путай: в карте будущего нельзя писать Past Simple.
+
+# g1
+P: Formal. Имя неизвестно → Dear Sir or Madam / Yours faithfully. Три пункта = три абзаца: что нравится; что не устраивает; предложения.
+E: Dear Sir or Madam,
+E: I have been a member of the Central Library for the past three years and use it several times a week for study and leisure. I am writing to share some feedback about the service.
+E: First of all, I would like to say how much I appreciate the library. The staff are always helpful and knowledgeable, and the collection of English-language novels has improved greatly in the last year. The new self-service machines have also made borrowing books much quicker.
+E: However, I am rather disappointed with the reading room on the second floor. It has become increasingly noisy, as groups of students often use it for discussions, and there are not enough power sockets for laptops. On busy afternoons it is almost impossible to find a quiet place to work.
+E: I would therefore like to suggest that a separate room be set aside for group study, so that the main reading room can remain silent. It would also be very helpful if additional sockets could be installed. Finally, extending the opening hours until 9 p.m. on weekdays would benefit people who work during the day.
+E: Thank you for considering my suggestions.
+E: Yours faithfully,
+E: Aziza Karimova
+V: share feedback = поделиться отзывом; knowledgeable = компетентный; be set aside for = быть выделенным для; power socket = розетка; considering = рассмотрение
+N: 199 слов. Формальный тон: I would like to suggest that…, It would be very helpful if…. Каждый пункт задания — отдельный абзац с конкретикой. Конструкция suggest that a room be set aside — продвинутая грамматика.
+
+# g3
+P: Formal жалоба. Три пункта: что купил; в чём проблема; почему срочно нужна замена. Тон вежливый, но твёрдый.
+E: Dear Sir or Madam,
+E: I am writing to complain about an order I received from your online store on 3 May (order number 48215).
+E: I ordered a dark blue wool jacket in size M, which cost £89, together with a pair of grey trousers. The trousers were satisfactory, but I am very unhappy with the jacket.
+E: When I opened the parcel, I discovered that the jacket was black, not dark blue as shown on your website. More seriously, one of the sleeves had a hole near the cuff, and two buttons were missing. It is clearly not in a condition that anyone could wear.
+E: I would be grateful if you could send me a replacement as soon as possible. I bought the jacket specifically for a job interview, which is taking place on 15 May, and I do not have another suitable jacket. If you are unable to provide a replacement before that date, I would like a full refund, including the delivery charge.
+E: I have attached photographs of the damage. Please let me know how I should return the faulty item.
+E: I look forward to your prompt reply.
+E: Yours faithfully,
+E: Timur Aliev
+V: satisfactory = удовлетворительный; cuff = манжета; replacement = замена; full refund = полный возврат денег; faulty item = бракованный товар
+N: 190 слов. Номер заказа и дата делают письмо реалистичным. Причина срочности конкретна (собеседование 15 мая). Запасной вариант (refund) — признак уверенного, но вежливого тона. Prompt reply — стандартная формальная концовка.
+
+# g5
+P: Semi-formal, руководителю по имени → Dear Mr …/ Yours sincerely. Пункты: твоя роль; почему заслуживаешь; планы.
+E: Dear Mr Hasanov,
+E: I am writing to ask whether you would consider reviewing my salary.
+E: As you know, I joined the sales department three years ago as an assistant, and for the past eighteen months I have been responsible for managing our corporate clients. In addition to my original duties, I now train new members of the team and prepare the monthly sales reports for the board.
+E: I believe that an increase would reflect the additional responsibility I have taken on. Since I began working with corporate clients, the number of accounts I manage has grown from twelve to twenty-five, and last year my clients generated around 30% more revenue than in the previous year. I have also completed a professional course in marketing, which I paid for myself, in order to improve my skills.
+E: In the coming year, I would like to develop our online sales, which I think offer real potential for growth. I would also be happy to take on further responsibility for training if that would be useful to the company.
+E: I would be grateful for the opportunity to discuss this with you at a convenient time.
+E: Yours sincerely,
+E: Dilnoza Yusupova
+V: review my salary = пересмотреть мою зарплату; corporate clients = корпоративные клиенты; take on responsibility = взять на себя ответственность; generate revenue = приносить доход; at a convenient time = в удобное время
+N: 207 слов. Аргументы подкреплены цифрами (from twelve to twenty-five, 30%). Тон уважительный, без давления: would you consider, I would be grateful. Имя адресата известно → Yours sincerely.
+
+# g6
+P: Informal другу. Пункты: почему переехал; описание квартиры; приглашение. Разговорные фразы, сокращения.
+E: Dear Sam,
+E: Sorry it's taken me so long to write. You won't believe how busy the last few weeks have been, because I've finally moved house!
+E: As you know, my old flat was miles from my office, and I was spending nearly two hours a day on buses. When a friend told me about a flat that was becoming free just ten minutes' walk from work, I jumped at the chance.
+E: The new place is on the fifth floor of a fairly modern building. It's a bit smaller than my old flat, but it's much brighter, and the living room has a balcony with an amazing view over the park. The kitchen is tiny, but it has everything I need, and there's even a little spare room, which means I finally have somewhere for guests to sleep.
+E: Which brings me to my real reason for writing. Why don't you come and stay for a few days? The weather's lovely in September, and I'd love to show you round the neighbourhood. There's a fantastic market nearby and a café that does the best breakfasts in the city. Just let me know which dates suit you.
+E: Hope to see you soon!
+E: Best wishes,
+E: Kamol
+V: jump at the chance = ухватиться за возможность; spare room = свободная комната; show you round = показать окрестности; suit you = подходить тебе; which brings me to = что подводит меня к
+N: 214 слов. Неформальный стиль: сокращения (I've, it's), восклицания, вопросы к читателю (Why don't you come…?). Связка Which brings me to my real reason… плавно ведёт к приглашению.
+
+# g7
+P: Informal другу о помолвке. Пункты: как узнал; чувства; предложение встретиться отпраздновать.
+E: Dear Laylo,
+E: I've just heard your wonderful news, and I couldn't wait to write and say congratulations!
+E: I found out yesterday in a rather funny way. I bumped into your sister at the supermarket, and she was so excited that she told me before she remembered it might be a secret. I hope you're not too cross with her!
+E: Honestly, I'm absolutely delighted for you both. I still remember the first time you told me about Farrukh, after that conference in Samarkand, and how your face lit up when you talked about him. Since then I've got to know him a little, and I think you're perfect together. He's kind, he makes you laugh, and he obviously adores you.
+E: We really must celebrate properly. How about dinner at that Italian restaurant we used to go to when we were students? My treat, of course. I'm free most evenings next week, apart from Wednesday, so just tell me which day works for you, and bring Farrukh along too, if he'd like to come.
+E: Once again, many congratulations. I'm so happy for you!
+E: Lots of love,
+E: Madina
+V: bump into = случайно встретить; be cross with = сердиться на; be delighted for = искренне радоваться за; light up = засиять; my treat = я угощаю
+N: 199 слов. Тёплый личный тон, конкретные детали (как узнала, общие воспоминания). Предложение встречи содержит детали: где, кто платит, когда. Концовка Lots of love уместна только для близких друзей.
+
+# g2
+P: Formal запрос. Пункты: тип машины; даты; вопросы о цене и условиях. Имя неизвестно → Yours faithfully.
+E: Dear Sir or Madam,
+E: I am planning a holiday in the south of the country next month and would like to rent a car from your agency. I would be grateful if you could provide some information.
+E: There will be four adults in our group, and we will be carrying quite a lot of luggage, so we need a fairly large vehicle, ideally an estate car or a small SUV. As we intend to drive on some mountain roads, air conditioning and good ground clearance would be important. I would prefer an automatic gearbox if one is available.
+E: We would need the car from 10 a.m. on Saturday 14 June until the evening of Sunday 22 June, collecting it at your office at the airport. If possible, we would like to return it to your branch in the city centre instead.
+E: Could you please tell me the total cost for this period, including insurance? I would also like to know whether there is a limit on the number of kilometres, how large the deposit is, and whether an additional driver can be added. Finally, please let me know which documents we will need to bring.
+E: I look forward to hearing from you.
+E: Yours faithfully,
+E: Rustam Nazarov
+V: estate car = универсал; ground clearance = дорожный просвет; automatic gearbox = автоматическая коробка; return it to your branch = вернуть в ваш филиал; additional driver = дополнительный водитель
+N: 207 слов. Вежливые формальные просьбы: I would be grateful if…, Could you please tell me…, I would also like to know whether…. Все три пункта раскрыты конкретно (люди, багаж, даты, место возврата).
+
+# g4
+P: Formal арендодателю. Пункты: почему нужна отсрочка; когда сможешь въехать; что можно сделать (аренда, ключи). Имя известно → Yours sincerely.
+E: Dear Mrs Petrova,
+E: I am writing about the flat at 12 Garden Street, which I am due to move into on 1 March. Unfortunately, I have to ask whether it would be possible to postpone the start of my tenancy.
+E: Last week my employer informed me that I must complete a three-week training course at our head office in another city, starting on 25 February. Attendance is compulsory, so I will not be able to arrive in time to move in on the agreed date or to receive the keys.
+E: The course finishes on 17 March, and I could move into the flat on Saturday 21 March. I realise that this delay may cause you some inconvenience, and I would be happy to pay rent from 1 March as originally agreed if that would help. Alternatively, if you would prefer, we could agree a new start date and I would pay from then.
+E: I would also like to ask whether a relative of mine could collect the keys and bring some of my belongings to the flat in early March. I would, of course, inform you of her name in advance.
+E: I apologise for any trouble this causes and look forward to your reply.
+E: Yours sincerely,
+E: Jamshid Rakhimov
+V: be due to = должен (по плану); postpone = отложить; tenancy = аренда (срок); cause inconvenience = доставить неудобство; belongings = вещи
+N: 208 слов. Причина конкретная и уважительная, предложено два варианта решения — это показывает зрелость тона. I realise that this may cause… и I apologise for any trouble — типичные формулы смягчения.
+
+# g8
+P: Informal/semi-formal соседям. Пункты: прощание и причина переезда; благодарность за помощь (конкретно); как поддерживать связь.
+E: Dear Mr and Mrs Saidov,
+E: As you may have heard, we are leaving Navoi Street at the end of this month. My husband has been offered a job in Tashkent, so we have decided to move there with the children. It was not an easy decision, and one of the hardest things will be saying goodbye to you.
+E: I want to thank you for everything you have done for us over the past eight years. When we first arrived, we knew nobody, and you made us feel welcome from the very first day. You looked after our cat whenever we went away, watered our plants, and, as I will never forget, you drove me to the hospital in the middle of the night when our son was ill. The children will miss your apricots and your stories very much.
+E: We would love to keep in touch. Our new address is 45 Bobur Street, flat 18, and my phone number will stay the same, so please call or send a message whenever you like. If you are ever in Tashkent, you must come and stay with us. We will certainly visit you when we come back to see my parents.
+E: With warmest wishes and many thanks,
+E: Gulnora
+V: make someone feel welcome = радушно принять; look after = присматривать; keep in touch = поддерживать связь; whenever you like = когда захотите; with warmest wishes = с самыми тёплыми пожеланиями
+N: 220 слов. Тон тёплый, но уважительный (к старшим соседям по фамилии). Благодарность подкреплена конкретными случаями, а не общими словами. Контакты и приглашение закрывают третий пункт.
+
+# g9
+P: Informal другу. Пункты: что за выставка; почему ему понравится; как встретиться.
+E: Hi Alex,
+E: How are you? I hope your exams went well! I'm writing because I've got two free tickets for a photography exhibition and I immediately thought of you.
+E: It's called 'Faces of the Silk Road', and it's on at the city art gallery until the end of the month. It's a collection of portraits taken by a young photographer who spent two years travelling from China to Turkey, photographing ordinary people such as farmers, market traders and craftsmen. I saw a few of the pictures online, and they're absolutely stunning.
+E: I'm sure you'd love it. You're always taking photos on your trips, and you told me last time that you wanted to get better at portraits. Apparently the photographer is giving a short talk about her techniques on Saturday afternoon, which could be really useful for you. Besides, it's ages since we last caught up properly.
+E: How about going this Saturday? The talk starts at three, so we could meet at the main entrance at half past two, and afterwards grab something to eat at that little café in the park. If Saturday's no good, Sunday would work too, but then we'd miss the talk.
+E: Let me know what you think!
+E: Cheers,
+E: Bekzod
+V: be on = идти (о выставке); stunning = потрясающий; get better at = улучшить навык; catch up = пообщаться, наверстать; grab something to eat = перекусить
+N: 214 слов. Каждая причина личная (ты любишь фото, хотел улучшить портреты). Конкретный план встречи и запасной вариант. Разговорные выражения (it's ages since, grab, no good) уместны только в неформальном письме.
+
+# t9
+P: Line graph с прогнозом. Overview: рост в трёх странах из четырёх; самое резкое изменение — Япония, Нигерия почти без изменений. Детали 1: 1960 и путь до 2000 (Япония обгоняет). Детали 2: 2020 и прогноз на 2040.
+E: The line graph compares the proportion of people aged 65 or over in Japan, Germany, the USA and Nigeria between 1960 and 2020, and gives predictions up to 2040.
+E: It is clear that the elderly population grew in three of the four countries and is expected to continue rising. Japan saw the most dramatic change, while the figure for Nigeria remained almost unchanged throughout the period.
+E: In 1960, Germany had the highest proportion of older people, at 11%, compared with 9% in the USA and only 6% in Japan. Just 3% of Nigerians were aged 65 or over. Over the next forty years, the figure for Japan rose steeply to 17%, overtaking both Germany (16%) and the USA (12%).
+E: By 2020, almost three in ten Japanese people (29%) were 65 or older, while the figures for Germany and the USA stood at 22% and 17% respectively. By 2040, the proportion in Japan is predicted to reach 35%, and Germany is expected to follow closely at 30%. The figure for the USA is projected to rise to 22%, whereas in Nigeria it will remain at only around 4%.
+V: proportion = доля; overtake = обогнать; stood at = составлял; is predicted to = по прогнозу; whereas = тогда как
+N: Детали начинаются со сравнения всех линий в первом году — как советует метод. Прошлое в past simple, будущее через is predicted / is expected / is projected to, без повторов. Respectively экономит слова. Особая точка — момент, когда Япония обгоняет остальных.
+
+# t10
+P: Bar chart, два года, пять категорий. Overview: сдвиг от ТВ к соцсетям; соцсети с последнего места на первое; спорт и чтение упали. Детали 1: 2005. Детали 2: 2025 и изменения.
+E: The bar chart compares the average number of hours that teenagers spent each week on five leisure activities in 2005 and 2025.
+E: Overall, there was a clear shift from watching television towards screen-based activities on phones and computers. Social media went from being the least popular activity to the most popular, while the time spent on sport and reading fell.
+E: In 2005, television dominated teenagers' free time, at 14 hours per week, which was more than the other four activities combined. Sport came second, with 6 hours, followed by video games (5 hours) and reading (4 hours). Young people spent only 2 hours a week on social media.
+E: Twenty years later, the situation had almost reversed. Time spent on social media rose more than sevenfold to 15 hours, and the figure for video games almost doubled to 9 hours. By contrast, television viewing dropped sharply to just 5 hours a week. Sport and reading also declined, to 4 hours and 2 hours respectively, making reading the least popular of the five activities.
+V: dominate = доминировать, занимать основное место; combined = вместе взятые; reverse = поменяться на противоположное; sevenfold = в семь раз; decline = снижаться
+N: Детали разделены по годам — самый понятный вариант для двух лет. Приём with + число (with 6 hours) и сравнение «больше, чем остальные четыре вместе». Overview называет главное изменение без цифр.
+
+# t11
+P: Table без дат → present simple. Ключевые числа: самые большие (Торонто по размеру, Хельсинки по посещениям) и самые маленькие (Сидней, Мадрид). Overview: Торонто — самая большая система, Хельсинки — самые активные читатели, Сидней — самая маленькая. Детали 1: размер. Детали 2: использование и часы.
+E: The table compares the public library systems of five cities in terms of the number of libraries, the size of their collections, how often residents use them and the opening hours of the main library.
+E: It is clear that Toronto has by far the largest library system, while residents of Helsinki are the most frequent library users. Sydney has the smallest network on almost every measure.
+E: Toronto has 100 libraries holding 10.4 million books, a collection more than three times the size of any other shown. Helsinki and Madrid come next, with 37 and 33 libraries respectively, although Helsinki's collection is larger, at 3.2 million books compared with 2.1 million in Madrid. Sydney has only 9 libraries and 0.6 million books.
+E: In terms of usage, the average resident of Helsinki visits a library 10.5 times a year, followed by people in Oslo, at 7.2 visits. The figures for Madrid and Sydney are much lower, at 2.4 and 3.1 visits. Helsinki's main library is also open the longest, at 84 hours a week, whereas the main library in Madrid opens for just 56 hours.
+V: in terms of = с точки зрения; by far = намного, безусловно; on almost every measure = почти по всем показателям; collection = фонд (книг); frequent = частый
+N: Числа сгруппированы по смыслу (размер / использование), а не по городам — главное правило для таблиц. В каждом абзаце больше трёх чисел. Весь текст в present simple, потому что дат нет.
+
+# t12
+P: Две круговые диаграммы, два года. Overview: отопление — самая большая доля в оба года, но меньше; главный рост — бытовые приборы. Детали 1: 1990. Детали 2: 2020 и изменения.
+E: The pie charts compare how energy was used in homes in one country in 1990 and 2020.
+E: Overall, heating accounted for the largest share of household energy in both years, although its dominance declined. The most significant growth was in the proportion of energy used to run household appliances.
+E: In 1990, more than half of all domestic energy (58%) went on heating. Hot water was the second largest category, at 18%, while appliances, lighting and cooking together made up less than a quarter of the total, at 10%, 8% and 6% respectively.
+E: By 2020, the share used for heating had fallen to 42%. Meanwhile, the figure for appliances more than doubled to 22%, overtaking hot water (20%) to become the second largest category. The proportion of energy used for cooking also doubled, from 6% to 12%. Lighting was the only other category to decline, halving from 8% to just 4%, which made it the smallest use of household energy.
+V: accounted for = составлял; dominance = преобладание; went on = уходил на; made up = составляли; halve = сократиться вдвое
+N: Язык долей разнообразный: accounted for, went on, made up, the share, the proportion. -ing обороты (overtaking…, halving…) добавляют детали без новых предложений. Одна категория сравнивается на двух диаграммах, а не круг за кругом.
+
+# t13
+P: Три круговые диаграммы, три города. Overview: в каждом городе свой главный способ; Норт-порт — машины, Ривертон — транспорт, Истбэй — самый сбалансированный. Детали 1: машины и транспорт. Детали 2: велосипед, пешком, Истбэй.
+E: The pie charts show how commuters in three cities, Northport, Riverton and Eastbay, travel to work.
+E: It is clear that the most common way of getting to work differs from one city to another. Cars dominate in Northport, public transport is the main choice in Riverton, and Eastbay has the most balanced mix of transport types.
+E: More than half of Northport's commuters (55%) drive to work, which is the highest figure shown for any single method. A quarter use public transport, while 15% walk and only 5% cycle. In Riverton, by contrast, half of all workers travel by public transport, and just 20% go by car.
+E: Cycling is far more popular in Riverton and Eastbay than in Northport, accounting for 20% and 25% of journeys respectively. In Eastbay, the car is still the most popular option, at 35%, but public transport is close behind at 30%. The proportion of people who walk to work is the same in Riverton and Eastbay, at 10%.
+V: commuter = человек, ездящий на работу; differ from one … to another = отличаться от … к …; balanced mix = сбалансированное сочетание; by contrast = напротив; close behind = чуть позади
+N: Present simple, так как год не указан. Второй абзац деталей строится вокруг одной категории (cycling) во всех городах — так проще сравнивать. Дроби вместо процентов (more than half, a quarter, half) разнообразят язык.
+
+# t14
+P: Mixed: график + таблица. Overview: по одному выводу о каждой картинке (рост, затем резкое падение; пешие походы — главное занятие). Детали 1: график. Детали 2: таблица.
+E: The line graph shows the number of visitors to a national park between 2010 and 2020, and the table shows the main activities of visitors in 2020.
+E: Overall, visitor numbers grew steadily for most of the decade before dropping sharply in the final two years. Hiking was by far the most popular activity in 2020.
+E: In 2010, the park received 120,000 visitors. This figure rose gradually to 160,000 in 2014, before increasing more rapidly to reach a peak of 250,000 in 2018, more than double the number at the start of the period. However, visitor numbers then fell dramatically to 140,000 in 2020, only slightly above the level of 2012.
+E: Looking at the activities in 2020, almost half of all visitors (45%) went hiking. Camping was the second most popular activity, chosen by one in five visitors, while cycling and boating accounted for 15% and 12% respectively. The remaining 8% of visitors took part in other activities.
+V: steadily = стабильно, постепенно; reach a peak of = достичь пика в; more than double = более чем вдвое больше; the remaining = оставшиеся; take part in = участвовать
+N: Классическая схема для двух картинок: абзац на каждую. Пик и падение — «особые» точки графика, их обязательно упомянуть. Looking at… — удобный переход ко второй картинке.
+
+# t15
+P: Map, два места. Overview: главное различие — край города vs центр; ещё различаются транспорт и окружение. Детали 1: Site A. Детали 2: Site B.
+E: The map shows two possible sites for a new sports centre in the town of Westbridge.
+E: The main difference between the two locations is that Site A is on the edge of the town, whereas Site B is in the centre. The sites also differ in terms of transport links and the facilities around them.
+E: Site A lies about 3 kilometres north-west of the town centre, on open grassland next to a park. It is close to a new housing estate with around 8,000 residents and a secondary school, and it is located on the main road to the motorway, so there would be space for a large car park.
+E: Site B, by contrast, is right in the town centre, beside the railway station and bus terminal, which means it would be easy to reach by public transport. However, there is no room for parking on this site, and an old warehouse would need to be demolished before building could begin. Site B is surrounded by shops and offices, and there are two primary schools nearby.
+V: lie = располагаться; be located on = находиться на; easy to reach = легко добраться; be demolished = быть снесённым; be surrounded by = быть окружённым
+N: Overview называет главное различие и критерии сравнения. Предлоги места (north-west of, next to, beside, nearby) обязательны для карт. Would передаёт гипотетичность: центр ещё не построен.
+
+# t16
+P: Process (природный цикл). Overview: шесть этапов, часть в реке, часть в море; начинается и заканчивается в верховье реки. Детали 1: этапы 1–3 в реке. Детали 2: этапы 4–6 и возвращение.
+E: The diagram illustrates the life cycle of the salmon, from eggs in a river to adult fish in the ocean.
+E: There are six main stages in the cycle, which takes place partly in fresh water and partly in the sea. It begins and ends in the upper part of a river, where eggs are laid.
+E: At the first stage, salmon eggs are laid among small stones in shallow river water. After around three months, they hatch into tiny fish called alevin, which remain hidden in the gravel for about six weeks, feeding on a yolk sac attached to their bodies. Once this food source is used up, the young fish, now known as fry, swim freely in the river and feed on insects for up to a year.
+E: In the next stage, the fish, which have grown to between 12 and 15 centimetres and are called smolt, travel downstream to the sea. They spend the following one to four years in the ocean, where they become adults measuring 70 to 80 centimetres. Finally, the adult salmon swim back to the river in which they hatched, where they lay their eggs and the cycle begins again.
+V: hatch = вылупляться; yolk sac = желточный мешок; once = как только; downstream = вниз по течению; the cycle begins again = цикл начинается снова
+N: Overview — число этапов, начало и конец, как советует метод. Описано каждое из шести состояний. Для природного цикла уместен актив (swim, travel), пассив только там, где действие не выполняет сама рыба (eggs are laid). Последовательность: At the first stage, After, Once, In the next stage, Finally.
+
+# t17
+P: Diagram-сравнение двух систем (не процесс). Overview: главное различие — как вода доходит до растений; капельный расходует меньше, но дороже. Детали 1: затопление. Детали 2: капельный.
+E: The diagrams compare two methods of irrigating crops: flood irrigation and drip irrigation.
+E: The most noticeable difference between the two systems is the way in which water reaches the plants. Drip irrigation uses far less water than flooding, but it requires more expensive equipment.
+E: In flood irrigation, water flows from a river or canal along open channels and is allowed to cover the whole field. This method uses around 12,000 cubic metres of water per hectare in a growing season, and about half of this is lost through evaporation and runoff. However, the equipment needed is simple and cheap, and the system is well suited to flat land and crops such as rice.
+E: Drip irrigation, by contrast, delivers water from a tank through a network of plastic pipes, using a pump and a filter. The water drips slowly from small holes next to each plant, so less than 10% is wasted, and only 5,000 cubic metres are needed per hectare. Although the system is costly to install, it can be used on slopes and is ideal for fruit and vegetables.
+V: irrigate = орошать; the most noticeable difference = самое заметное различие; runoff = стекание (воды); be well suited to = хорошо подходить для; costly to install = дорого установить
+N: Схема-сравнение пишется как таблица: overview — главное различие, затем по абзацу на каждую систему. The most noticeable difference… — точная формула для таких заданий. Числа (12,000 vs 5,000, 50% vs 10%) делают сравнение конкретным.

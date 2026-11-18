@@ -1,0 +1,756 @@
+<title>IELTS Skills Pack</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+/* Layout: sticky app bar (tabs, search, overall progress) over hash-routed views; wide 1360px shell; reading units split text|questions like the computer-delivered exam. */
+:root{--bg:#f2f5f9;--card:#ffffff;--ink:#162033;--mute:#5a6880;--line:#d8dfe9;--soft:#e9eff7;
+--acc:#2348a6;--on-acc:#ffffff;--word:#0b6e66;--mark:#b4530a;--ok:#177245;--warn:#9a5a00;--bad:#b3322a;
+--ui:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--read:"Source Serif 4",Georgia,"Times New Roman",serif;
+--top:58px;--ub:56px}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f141c;--card:#171e29;--ink:#e5eaf1;--mute:#93a0b4;--line:#2a3545;--soft:#1e2938;
+--acc:#8fb2ff;--on-acc:#0f141c;--word:#5fd0c3;--mark:#f0a860;--ok:#62d39b;--warn:#f0b45a;--bad:#ff8f86;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f141c;--card:#171e29;--ink:#e5eaf1;--mute:#93a0b4;--line:#2a3545;--soft:#1e2938;
+--acc:#8fb2ff;--on-acc:#0f141c;--word:#5fd0c3;--mark:#f0a860;--ok:#62d39b;--warn:#f0b45a;--bad:#ff8f86;color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:calc(var(--top) + 16px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--ui)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--card)}
+a{color:var(--acc)}
+.wrap{max-width:1360px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3,h4{text-wrap:balance;letter-spacing:-.01em}
+h1{font-size:30px;line-height:1.15;margin:22px 0 6px}
+h2{font-size:22px;margin:30px 0 10px}
+h3{font-size:19px;margin:0 0 10px;line-height:1.3}
+h4{font-size:16px;margin:22px 0 6px}
+.lead{color:var(--mute);font-size:15px;max-width:80ch}
+button{font:600 14px var(--ui);padding:7px 14px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+button:hover{border-color:color-mix(in srgb,var(--acc) 45%,var(--line))}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px var(--ui);padding:8px 16px;border-radius:9px;border:1px solid var(--line);background:var(--card);color:var(--ink);text-decoration:none;white-space:nowrap}
+.btn.pri,button.chk,button.play{background:var(--acc);color:var(--on-acc);border-color:var(--acc)}
+.btn[aria-disabled="true"]{opacity:.4;pointer-events:none}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+
+/* app bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--card);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:10px 14px;flex-wrap:wrap;padding-block:8px}
+.brand{display:flex;align-items:center;gap:9px;font-weight:800;font-size:17px;color:var(--ink);text-decoration:none;white-space:nowrap}
+.brand i{height:30px;padding:0 7px;border-radius:8px;background:var(--acc);color:var(--on-acc);display:grid;place-items:center;font:800 12px var(--ui);font-style:normal;letter-spacing:.02em}
+.tabs{display:flex;gap:2px;overflow-x:auto;flex:1 1 auto;min-width:0;scrollbar-width:none}
+.tabs a{padding:7px 13px;border-radius:999px;text-decoration:none;color:var(--ink);font-weight:600;font-size:15px;white-space:nowrap}
+.tabs a:hover{background:var(--soft)}
+.tabs a.on{background:color-mix(in srgb,var(--acc) 14%,transparent);color:var(--acc)}
+.search{flex:0 1 300px;min-width:150px}
+.search input{width:100%;font:15px var(--ui);padding:8px 12px;border:1px solid var(--line);border-radius:9px;background:var(--bg);color:var(--ink)}
+.ov{display:flex;align-items:center;gap:8px;font:700 13px var(--ui);color:var(--mute);white-space:nowrap;font-variant-numeric:tabular-nums}
+.bar{height:8px;border-radius:99px;background:var(--soft);overflow:hidden;min-width:60px}
+.bar i{display:block;height:100%;width:0;background:var(--acc);border-radius:inherit;transition:width .3s}
+.ov .bar{width:90px}
+@media(max-width:860px){.tabs{order:3;flex-basis:100%}.search{order:2;flex:1 1 150px}.ov .bar{display:none}}
+@media(prefers-reduced-motion:reduce){.bar i{transition:none}}
+
+main{padding-bottom:56px}
+.view{padding-top:6px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px;min-width:0}
+.stack>*+*{margin-top:16px}
+
+/* chips & status */
+.chip{display:inline-block;font:700 12px var(--ui);padding:3px 9px;border-radius:99px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.chip.good{background:color-mix(in srgb,var(--ok) 16%,transparent);color:var(--ok)}
+.chip.mid{background:color-mix(in srgb,var(--warn) 16%,transparent);color:var(--warn)}
+.chip.low{background:color-mix(in srgb,var(--bad) 14%,transparent);color:var(--bad)}
+.chip.wip{background:color-mix(in srgb,var(--acc) 14%,transparent);color:var(--acc)}
+.chip.new{background:var(--soft);color:var(--mute)}
+.tag,.wc{font:600 12px var(--ui);background:var(--soft);border-radius:999px;padding:2px 9px;color:var(--mute);white-space:nowrap}
+
+/* home */
+.hgrid{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:16px;margin-top:14px}
+.hgrid>.cont{grid-column:span 7}.hgrid>.stats{grid-column:span 5}.hgrid>.skill{grid-column:span 3}.hgrid>.recent{grid-column:span 7}.hgrid>.cal{grid-column:span 5}.hgrid>.full{grid-column:1/-1}
+.hgrid>.recent,.hgrid>.cal{align-self:start}
+@media(max-width:1060px){.hgrid>.cont,.hgrid>.stats,.hgrid>.recent,.hgrid>.cal{grid-column:1/-1}.hgrid>.skill{grid-column:span 6}}
+@media(max-width:560px){.hgrid>.skill{grid-column:1/-1}}
+.eyebrow{font:700 12px var(--ui);text-transform:uppercase;letter-spacing:.08em;color:var(--mute);margin:0 0 6px}
+.cont h2{margin:0 0 6px;font-size:24px}
+.cont .acts{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.big{font:800 34px/1 var(--ui);font-variant-numeric:tabular-nums}
+.statrow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:12px}
+.statrow div{background:var(--soft);border-radius:10px;padding:10px 12px}
+.statrow b{display:block;font:800 22px/1.2 var(--ui);font-variant-numeric:tabular-nums}
+.statrow span{font-size:12.5px;color:var(--mute)}
+.skill{display:flex;flex-direction:column;gap:8px}
+.skill .hd{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.skill .hd b{font-size:17px}
+.skill .nums{font:800 26px/1 var(--ui);font-variant-numeric:tabular-nums}.skill .nums small{font:600 14px var(--ui);color:var(--mute)}
+.skill .sub{font-size:13.5px;color:var(--mute);min-height:2.6em}
+.skill .acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:auto}
+.skill .acts .btn{padding:6px 12px;font-size:13.5px}
+.rlist{list-style:none;margin:0;padding:0}
+.rlist li a{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:9px 4px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.rlist li:last-child a{border-bottom:0}
+.rlist .when{grid-column:1;font-size:12.5px;color:var(--mute)}
+.rlist .chip{grid-row:1/span 2;grid-column:2;align-self:center}
+.empty{color:var(--mute);font-size:14.5px;padding:8px 0}
+.calg{display:grid;grid-template-columns:repeat(7,minmax(0,44px));justify-content:start;gap:6px;margin-top:8px}
+.calg span{font:600 11px var(--ui);color:var(--mute);text-align:center}
+.calg i{aspect-ratio:1;border-radius:6px;background:var(--soft);display:block}
+.calg i.l1{background:color-mix(in srgb,var(--acc) 30%,var(--soft))}.calg i.l2{background:color-mix(in srgb,var(--acc) 60%,var(--soft))}.calg i.l3{background:var(--acc)}
+.calg i.today{outline:2px solid var(--ink);outline-offset:1px}
+.sync{font-size:13px;color:var(--mute);margin:18px 0 0}
+
+/* lists */
+.lhead{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.filters{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:14px 0}
+.filters button{font-size:13.5px;padding:6px 12px;border-radius:99px}
+.filters button[aria-pressed="true"]{background:var(--ink);color:var(--card);border-color:var(--ink)}
+.filters select{font:14px var(--ui);padding:6px 10px;border:1px solid var(--line);border-radius:99px;background:var(--card);color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+.item{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:2px 12px;align-items:center;padding:12px 14px;border:1px solid var(--line);border-left:4px solid var(--line);border-radius:10px;background:var(--card);text-decoration:none;color:var(--ink)}
+.item:hover{border-color:color-mix(in srgb,var(--acc) 45%,var(--line))}
+.item.done{border-left-color:var(--ok)}.item.wip{border-left-color:var(--acc)}
+.item .num{grid-row:1/span 2;width:34px;height:34px;border-radius:9px;background:var(--soft);display:grid;place-items:center;font:700 13px var(--ui);font-variant-numeric:tabular-nums}
+.item .ti{font-weight:600;line-height:1.3;min-width:0}
+.item .meta{grid-column:2;color:var(--mute);font-size:12.5px}
+.item .chip{grid-row:1/span 2;grid-column:3}
+.group{margin-top:22px}
+.group h2{font-size:18px;margin:0 0 10px;display:flex;align-items:center;gap:10px}
+.tests td,.tests th{text-align:center}.tests td:first-child,.tests th:first-child{text-align:left}
+.tests a{display:inline-flex;align-items:center;gap:5px;text-decoration:none;font-variant-numeric:tabular-nums}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--line);display:inline-block}.dot.done{background:var(--ok)}.dot.wip{background:var(--acc)}
+
+/* unit screen */
+.ubar{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--top));z-index:15;background:var(--bg);border-bottom:1px solid var(--line);margin-bottom:16px}
+.ubar .wrap{display:flex;align-items:center;gap:8px 12px;flex-wrap:wrap;padding-block:9px}
+.ubar .ttl{flex:1 1 260px;min-width:0}
+.ubar .ttl b{display:block;font-size:16.5px;line-height:1.25}
+.ubar .ttl span{font-size:12.5px;color:var(--mute)}
+.ubar .nav{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.ubar .btn{padding:6px 12px;font-size:13.5px}
+#uTimer{font-variant-numeric:tabular-nums;min-width:118px}
+#uTimer.run{border-color:var(--acc);color:var(--acc)}#uTimer.over{border-color:var(--bad);color:var(--bad)}
+#units .unit{display:none}
+#units .unit.active{display:block}
+.unit.listen{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 22px;max-width:920px;margin:0 auto}
+.pane{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 22px;min-width:0}
+.pane+.pane{margin-top:16px}
+@media(min-width:1024px){
+ #units .unit.reading.active .panes{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(0,.88fr);gap:18px;height:calc(100dvh - env(safe-area-inset-top,0px) - var(--top) - var(--ub) - 34px);min-height:420px}
+ .unit.reading .pane{overflow:auto;overscroll-behavior:contain}
+ .unit.reading .pane+.pane{margin-top:0}
+}
+.unit.reading .pane-q .qs{border:0;margin:0;padding:0}
+.vocab{background:var(--soft);border-radius:8px;padding:8px 14px;font-size:14.5px}
+.vocab summary,.script summary,details.model summary{cursor:pointer;font-weight:700}
+.vocab ul{columns:2;margin:6px 0;padding-left:18px}
+.text,details.model p{font:17.5px/1.65 var(--read)}
+.text p{margin:12px 0;max-width:72ch}
+.pl{font:700 13px var(--ui);color:var(--mark);margin-right:4px}
+.vw{color:var(--word)}
+.qs{border-top:1px dashed var(--line);margin-top:14px;padding-top:6px;font-size:15.5px}
+.instr{color:var(--mute);font-size:14px;margin:14px 0 6px}
+.q{margin:8px 0;padding:6px 8px;border-radius:8px}
+.q .n{display:inline-block;min-width:24px;height:24px;line-height:24px;text-align:center;border-radius:6px;background:var(--ink);color:var(--card);font-weight:700;font-size:13px;margin-right:4px}
+.q input,.q select,.player select{font:inherit;padding:3px 6px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);max-width:100%}
+.q input{width:170px}
+.q .ans{display:none;color:var(--ok);font-weight:700;margin-left:6px}
+.q.show .ans,.q.bad .ans{display:inline}
+.q.ok{background:color-mix(in srgb,var(--ok) 14%,transparent)}
+.q.bad{background:color-mix(in srgb,var(--bad) 14%,transparent)}
+.opts,.heads{margin:4px 0 0 30px;padding:0;list-style:none}
+.heads{background:var(--soft);padding:8px 14px;border-radius:8px;margin-left:0}
+.btns{margin-top:14px;display:flex;gap:8px;flex-wrap:wrap;align-items:center;position:sticky;bottom:0;background:var(--card);padding:10px 0 14px;border-top:1px solid var(--line)}
+.unit.reading .pane-q{padding-bottom:0}
+.score{font-weight:700;margin-left:6px;font-variant-numeric:tabular-nums}
+.player{display:flex;gap:10px;flex-wrap:wrap;align-items:center;font-size:14px;margin:8px 0;position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--top) + var(--ub));z-index:5;background:var(--card);padding:8px 0}
+.player audio{flex:1 1 280px;min-width:0;max-width:100%;height:40px}
+.player .dl{font-size:13px}
+.ctx{font-style:italic;color:var(--mute);margin:0 0 6px}
+.script{margin-top:16px}
+.script p{margin:6px 0;font-size:15.5px}
+.script p.now{background:var(--soft)}
+
+/* long documents: writing & speaking */
+.doclay{display:grid;grid-template-columns:270px minmax(0,1fr);gap:28px;align-items:start;margin-top:14px}
+.side{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--top) + 14px);max-height:calc(100dvh - env(safe-area-inset-top,0px) - var(--top) - 28px);overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.side summary{font-weight:700;cursor:pointer}
+.side .prog{margin:10px 0 8px;font-size:13.5px;color:var(--mute)}
+.side .prog .bar{margin-top:6px}
+.side nav a{display:block;padding:5px 8px;border-radius:7px;font-size:14px;color:var(--ink);text-decoration:none;line-height:1.35}
+.side nav a.h4{padding-left:20px;font-size:13.5px;color:var(--mute)}
+.side nav a:hover{background:var(--soft)}
+.doc{max-width:920px;min-width:0}
+.doc .card{margin:18px 0}
+@media(max-width:1000px){.doclay{grid-template-columns:minmax(0,1fr);gap:10px}.side{position:static;max-height:none}}
+.doc .unit.wex{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin:18px 0}
+.doc .unit.wex h4{margin:0 0 6px;font-size:17px}
+.doc .unit.wex>p{margin:4px 0;color:var(--mute);font-size:14.5px}
+.doc .unit.wex .qs{margin-top:8px}
+button.done{font-size:13px;padding:5px 11px;margin:8px 0 2px;display:inline-flex;align-items:center;gap:6px}
+button.done.on{background:color-mix(in srgb,var(--ok) 15%,transparent);color:var(--ok);border-color:color-mix(in srgb,var(--ok) 45%,transparent)}
+ol.ql li>button.done{display:flex}
+details.model{margin-top:8px}
+details.model.p1{border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:10px 0;background:var(--card)}
+details.model.p1 summary{font-weight:400}
+details.model.p1 summary .t{font-weight:700}
+details.model.p1.isdone{border-left:4px solid var(--ok)}
+.note{font-size:14.5px;margin:8px 0;padding:8px 12px;background:var(--soft);border-radius:8px}
+details.model .essay p{margin:10px 0;max-width:72ch}
+ol.ql li details.model{font-size:15.5px}
+ol.p3 li{margin:8px 0}ol.p3 p{margin:4px 0 0}
+table{border-collapse:collapse;margin:10px 0;font-size:14.5px;width:100%}
+th,td{border:1px solid var(--line);padding:5px 9px;text-align:left}
+th{background:var(--soft)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.tw{overflow-x:auto}
+.task{background:var(--soft);border-left:4px solid var(--acc);padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;font-family:var(--read);font-size:17px}
+.src{font-size:13px;color:var(--mute)}
+ol.ql li,ul.ql li{margin:6px 0}
+.cue{border:1px solid var(--line);border-left:4px solid var(--line);border-radius:10px;padding:10px 14px;margin:10px 0;background:var(--card)}
+.cue.isdone{border-left-color:var(--ok)}
+.cue b.new{font:700 11px var(--ui);color:var(--on-acc);background:var(--acc);border-radius:4px;padding:1px 6px;margin-left:6px;vertical-align:middle;letter-spacing:.04em}
+.cue ul{margin:4px 0}
+.chart{margin:8px 0;max-width:100%}
+.flash{animation:flash 1.6s ease-out}
+@keyframes flash{0%{box-shadow:0 0 0 3px var(--acc)}100%{box-shadow:0 0 0 0 transparent}}
+@media(prefers-reduced-motion:reduce){.flash{animation:none}}
+
+/* search */
+.res .grp{margin-top:18px}
+.res .grp h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--mute);margin:0 0 8px}
+.hit{display:block;padding:11px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);text-decoration:none;margin-bottom:8px}
+.hit:hover{border-color:color-mix(in srgb,var(--acc) 45%,var(--line))}
+.hit b{display:block;line-height:1.35}
+.hit span{font-size:13px;color:var(--mute)}
+.hit mark{background:color-mix(in srgb,var(--warn) 30%,transparent);color:inherit;border-radius:3px;padding:0 1px}
+
+.toast{position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--card);padding:10px 16px;border-radius:10px;font-weight:600;font-size:14.5px;z-index:40;box-shadow:0 6px 24px rgba(0,0,0,.25);max-width:calc(100vw - 32px)}
+@media(max-width:700px){.ubar{position:static;margin-bottom:12px}.ubar .ttl{flex-basis:100%}.ubar .btn,#uTimer{padding:5px 10px;font-size:13px}#uTimer{min-width:0}
+ .player{top:calc(env(safe-area-inset-top,0px) + var(--top))}}
+@media(max-width:600px){.q input{width:130px}.vocab ul{columns:1}h1{font-size:25px}.card,.pane,.unit.listen{padding:14px}.text,details.model p{font-size:16.5px}.statrow b{font-size:19px}}
+</style>
+<!--BODY-->
+<header class="top" id="top"><div class="wrap">
+<a class="brand" href="#home"><i>IELTS</i>Skills Pack</a>
+<nav class="tabs" aria-label="Разделы"><a href="#home" data-tab="home">Главная</a><a href="#reading" data-tab="reading">Reading</a><a href="#listening" data-tab="listening">Listening</a><a href="#writing" data-tab="writing">Writing</a><a href="#speaking" data-tab="speaking">Speaking</a></nav>
+<div class="search"><input id="q" type="search" placeholder="Поиск по словам, темам, вопросам" autocomplete="off" aria-label="Поиск по всем материалам"></div>
+<div class="ov" title="Общий прогресс"><span class="bar"><i id="ovBar"></i></span><span id="ovPct">0%</span></div>
+</div></header>
+
+<main>
+<section class="view wrap" id="v-home">
+<h1>Привет! Готов заниматься?</h1>
+<p class="lead">Reading — {{NR}} текстов ({{NQ}} вопросов) · Listening — {{NL}} аудиозаписей · Writing и Speaking — актуальные вопросы сентября–декабря 2026 с образцами ответов и разбором.</p>
+<div class="hgrid">
+ <div class="card cont" id="hCont"></div>
+ <div class="card stats" id="hStats"></div>
+ <div class="card skill" id="hs-reading"></div>
+ <div class="card skill" id="hs-listening"></div>
+ <div class="card skill" id="hs-writing"></div>
+ <div class="card skill" id="hs-speaking"></div>
+ <div class="card recent"><p class="eyebrow">Последние результаты</p><ul class="rlist" id="hRecent"></ul></div>
+ <div class="card cal"><p class="eyebrow">Занятия за 4 недели</p><div id="hCal"></div></div>
+ <details class="card full"><summary><b>Как пользоваться сайтом</b></summary>
+ <ul class="ql">
+ <li><b>Reading.</b> Открой текст: слева текст и новые слова, справа вопросы. Включи таймер на 20 минут, ответь на вопросы и нажми «Проверить». Верные ответы подсветятся зелёным, ошибки красным с правильным вариантом.</li>
+ <li><b>Listening.</b> Включи запись и отвечай по ходу. На экзамене запись звучит один раз, поэтому не останавливай её. Транскрипт открывай только после проверки.</li>
+ <li><b>Writing и Speaking.</b> Сначала напиши или проговори ответ сам, потом открой образец и разбор. После задания нажми «Отметить как сделано».</li>
+ <li><b>Поиск</b> сверху ищет по всем текстам, новым словам, вопросам и карточкам.</li>
+ <li><b>Прогресс сохраняется сам:</b> ответы, баллы и отметки. Можно закрыть сайт и продолжить с того же места.</li>
+ <li>Тексты и записи составлены специально для этого набора в формате IELTS. Они короче экзаменационных: на экзамене текст Reading — 700–900 слов и 13–14 вопросов, секция Listening — 5–7 минут.</li>
+ </ul></details>
+</div>
+<p class="sync" id="sync"></p>
+</section>
+
+<section class="view wrap" id="v-reading" hidden>
+<div class="lhead"><div><h1>Reading</h1><p class="lead">{{NR}} текстов, по 13 вопросов: True / False / Not Given, Yes / No / Not Given, multiple choice, completion, short answers, matching information и headings.</p></div><div class="stats-mini" id="rMini"></div></div>
+<div class="filters" id="rFilters"></div>
+<div class="grid" id="rList"></div>
+</section>
+
+<section class="view wrap" id="v-listening" hidden>
+<div class="lhead"><div><h1>Listening</h1><p class="lead">{{NL}} записей по 10 вопросов. Section 1 — бытовой диалог, Section 2 — монолог на бытовую тему, Section 3 — учебное обсуждение, Section 4 — лекция. Голоса британские и американские, мужские и женские.{{AUDIONOTE}}</p></div><div id="lMini"></div></div>
+<div class="filters" id="lFilters"></div>
+<div id="lList"></div>
+<div class="card" style="margin-top:24px">
+<h3>Полные тесты: 4 секции подряд</h3>
+<p class="lead">Чтобы тренироваться как на экзамене, проходи 4 записи подряд без пауз (40 вопросов), потом сложи баллы. Когда все 4 секции теста пройдены, здесь появится итог и примерный балл.</p>
+<div class="tw"><table class="tests" id="lTests"></table></div>
+<h4>Перевод верных ответов в балл (из 40)</h4>
+<div class="tw"><table><tr><th>Верных</th><th class="num">39–40</th><th class="num">37–38</th><th class="num">35–36</th><th class="num">32–34</th><th class="num">30–31</th><th class="num">26–29</th><th class="num">23–25</th><th class="num">18–22</th><th class="num">16–17</th><th class="num">13–15</th></tr>
+<tr><td>Балл</td><td class="num">9</td><td class="num">8.5</td><td class="num">8</td><td class="num">7.5</td><td class="num">7</td><td class="num">6.5</td><td class="num">6</td><td class="num">5.5</td><td class="num">5</td><td class="num">4.5</td></tr></table></div>
+<p class="src">Таблица приблизительная: так обычно пересчитывают баллы Listening, но точная шкала немного меняется от теста к тесту. Секции здесь короче экзаменационных, поэтому балл — ориентир, а не прогноз.</p>
+<h4>Про записи Cambridge</h4>
+<p>Аудио из сборников Cambridge IELTS (в том числе 16) продаётся вместе с книгами и защищено авторским правом, поэтому его здесь нет. Записи выше озвучены синтезатором речи нейросетевыми британскими и американскими голосами в формате экзамена: вступление, 20 секунд на чтение вопросов, запись, полминуты на проверку. Настоящий экзаменационный звук бесплатно и легально есть в официальных пробных тестах British Council: <a href="https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-english-practice-tests/listening">takeielts.britishcouncil.org — free Listening practice tests</a>. Сами книги Cambridge IELTS с аудио продаются в книжных магазинах и на сайте Cambridge.</p>
+</div>
+<div class="card" style="margin-top:16px">
+<h3>Настоящие подкасты для ежедневной практики</h3>
+<p class="lead">Записи на этом сайте озвучены синтезатором. Чтобы привыкать к живой речи, слушай бесплатные подкасты на их сайтах — по одному выпуску в день.</p>
+<ul class="ql">
+<li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english">BBC Learning English — 6 Minute English</a>: 6 минут, два ведущих, есть транскрипт и словарь. Лучший старт для уровня 5.5–6.5.</li>
+<li><a href="https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak">BBC Learning English — The English We Speak</a>: 3 минуты, разговорные выражения для Speaking.</li>
+<li><a href="https://www.bbc.co.uk/programmes/p02nq0gn">BBC World Service — Global News Podcast</a>: новости в естественном темпе, разные акценты.</li>
+<li><a href="https://www.bbc.co.uk/programmes/p016tmg1">BBC World Service — The History Hour</a> и <a href="https://www.bbc.co.uk/programmes/p002w557">Discovery</a>: история и наука — близко к Section 4.</li>
+<li><a href="https://www.bbc.co.uk/programmes/b036f7w2">BBC Radio 4 — Inside Science</a> и <a href="https://www.bbc.co.uk/programmes/b006qykl">In Our Time</a>: академические обсуждения, уровень 7+.</li>
+<li><a href="https://www.ted.com/podcasts/ted-talks-daily">TED Talks Daily</a>: лекции 10–15 минут, американский акцент.</li>
+<li><a href="https://www.abc.net.au/listen/programs/scienceshow">ABC — The Science Show</a>: австралийский акцент, который тоже встречается на экзамене.</li>
+</ul>
+<p class="lead">Как слушать с пользой: первый раз без текста и запиши 5–10 ключевых фактов (цифры, имена, даты); второй раз с транскриптом; выпиши 5 новых выражений.</p>
+</div>
+</section>
+
+<section class="view wrap" id="v-writing" hidden>
+<h1>Writing</h1>
+<div class="doclay"><details class="side" open><summary>Содержание</summary><div class="prog" id="wProg"></div><nav id="wToc"></nav></details>
+<div class="doc" id="wDoc">
+{{WRITING}}
+</div></div>
+</section>
+
+<section class="view wrap" id="v-speaking" hidden>
+<h1>Speaking</h1>
+<div class="doclay"><details class="side" open><summary>Содержание</summary><div class="prog" id="sProg"></div><nav id="sToc"></nav></details>
+<div class="doc" id="sDoc">
+{{SPEAKING}}
+</div></div>
+</section>
+
+<section class="view wrap" id="v-search" hidden>
+<h1>Поиск</h1>
+<p class="lead" id="sInfo">Введи слово или тему в поле поиска сверху: например, <i>volcano</i>, <i>drought</i>, <i>museum</i>, <i>describe a person</i>.</p>
+<div class="res" id="sRes"></div>
+</section>
+
+<section class="view" id="v-unit" hidden>
+<div class="ubar" id="ubar"><div class="wrap">
+ <a class="btn" id="uBack" href="#reading">← Все тексты</a>
+ <div class="ttl"><b id="uTitle"></b><span id="uMeta"></span></div>
+ <div class="nav"><span id="uStatus"></span><button id="uTimer" type="button">Таймер 20:00</button><a class="btn" id="uPrev" href="#">← Назад</a><a class="btn" id="uNext" href="#">Дальше →</a></div>
+</div></div>
+<div class="wrap" id="units">
+{{READING}}
+{{LISTENING}}
+</div>
+</section>
+</main>
+<div class="toast" id="toast" role="status" hidden></div>
+<script>
+(function(){
+'use strict';
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm=s=>s.toLowerCase().replace(/[.,;:!?'"’%$£€]/g,'').replace(/\s+/g,' ').trim();
+const now=()=>Date.now();
+
+/* ---------- progress state ---------- */
+const KEY='ielts-pack-progress-v1';
+const blank=()=>({v:1,units:{},done:{},last:null,lastAt:0,hist:[]});
+function normalize(x){
+  const s=blank(); if(!x||typeof x!=='object')return s;
+  if(x.units&&typeof x.units==='object')s.units=Object.assign({},x.units);
+  if(x.done&&typeof x.done==='object')s.done=Object.assign({},x.done);
+  if(typeof x.last==='string')s.last=x.last; s.lastAt=+x.lastAt||0;
+  if(Array.isArray(x.hist))s.hist=x.hist.filter(h=>h&&typeof h.k==='string'&&+h.at).slice(-400);
+  return s;
+}
+function merge(a,b){
+  const s=blank();
+  new Set([...Object.keys(a.units),...Object.keys(b.units)]).forEach(k=>{const x=a.units[k],y=b.units[k];s.units[k]=!x?y:!y?x:((+y.at||0)>(+x.at||0)?y:x);});
+  new Set([...Object.keys(a.done),...Object.keys(b.done)]).forEach(k=>{const x=a.done[k],y=b.done[k];s.done[k]=!x?y:!y?x:((+y.at||0)>(+x.at||0)?y:x);});
+  if(a.lastAt>=b.lastAt){s.last=a.last;s.lastAt=a.lastAt}else{s.last=b.last;s.lastAt=b.lastAt}
+  const seen=new Set();
+  s.hist=[...a.hist,...b.hist].filter(h=>{const id=h.k+'@'+h.at;if(seen.has(id))return false;seen.add(id);return true}).sort((p,q)=>p.at-q.at).slice(-400);
+  return s;
+}
+let S=blank();
+try{const raw=localStorage.getItem(KEY);if(raw)S=normalize(JSON.parse(raw));}catch(e){}
+let lt=null;
+function saveLocalNow(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+function saveLocal(){clearTimeout(lt);lt=setTimeout(saveLocalNow,300);}
+
+/* sync with the viewer's account (claude.ai) when available; the file also works offline */
+let ref=null,writing=false,again=false,rt=null;
+const setSync=t=>{const el=$('#sync');if(el)el.textContent=t;};
+setSync('Прогресс сохраняется в этом браузере.');
+async function flush(){
+  if(!ref)return; if(writing){again=true;return;}
+  writing=true;
+  try{await ref.set(JSON.parse(JSON.stringify(S)));setSync('Прогресс сохранён в твоём аккаунте и будет на всех твоих устройствах.');}
+  catch(e){const c=e&&e.code;
+    if(c==='unavailable'||c==='resource_exhausted'){again=true;setSync('Нет связи с аккаунтом: прогресс пока сохранён в этом браузере.');}
+    else{ref=null;setSync('Прогресс сохраняется в этом браузере.');}}
+  writing=false;
+  if(again){again=false;clearTimeout(rt);rt=setTimeout(flush,6000);}
+}
+function changed(){saveLocal();if(ref){clearTimeout(rt);rt=setTimeout(flush,2000);}refresh();}
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'){clearTimeout(lt);saveLocalNow();if(ref&&rt){clearTimeout(rt);rt=null;flush();}}});
+(async()=>{
+  try{
+    if(!window.claude||typeof window.claude.use!=='function')return;
+    const user=await window.claude.use('user'); if(!user)return;
+    const id=await user.id(); if(!id)return;
+    const db=await window.claude.use('db'); if(!db)return;
+    const r=db.doc('data/users/'+id+'/progress');
+    setSync('Загружаю прогресс из аккаунта…');
+    const snap=await Promise.race([r.get(),new Promise((_,rej)=>setTimeout(()=>rej({code:'timeout'}),10000))]);
+    ref=r;
+    const remote=snap.exists?normalize(snap.data()):null;
+    if(remote)S=merge(S,remote);
+    saveLocalNow();restoreWex();refresh();
+    setSync('Прогресс синхронизирован с твоим аккаунтом и будет на всех твоих устройствах.');
+    if(!remote||JSON.stringify(S)!==JSON.stringify(remote)){clearTimeout(rt);rt=setTimeout(flush,1500);}
+  }catch(e){ref=null;setSync(e&&e.code==='timeout'?'Аккаунт сейчас не отвечает: прогресс сохраняется в этом браузере.':'Прогресс сохраняется в этом браузере.');}
+})();
+
+/* ---------- registry ---------- */
+const units=$$('#units .unit');
+const R=units.filter(u=>u.classList.contains('reading')), L=units.filter(u=>u.classList.contains('listen'));
+const byK={};units.forEach(u=>{byK[u.dataset.k]=u;});
+const doneBtns=$$('button.done');
+const W=[...new Set(doneBtns.filter(b=>b.dataset.k.startsWith('w-')).map(b=>b.dataset.k))];
+const SP=[...new Set(doneBtns.filter(b=>/^[cp]\d+$/.test(b.dataset.k)).map(b=>b.dataset.k))];
+const label=k=>{const u=byK[k];return u?(k[0]==='r'?'Reading ':'Listening ')+u.dataset.n+'. '+u.dataset.title:k;};
+
+const ctrls=u=>$$('.q',u).map(q=>q.querySelector('input,select'));
+const pct=st=>st&&st.t?Math.round(100*st.s/st.t):0;
+function status(k){const st=S.units[k];if(!st)return 'new';if(st.s!=null)return 'done';if(Array.isArray(st.a)&&st.a.some(x=>x))return 'wip';return 'new';}
+function chip(k){const s=status(k),st=S.units[k];
+  if(s==='done'){const p=pct(st);return `<span class="chip ${p>=80?'good':p>=60?'mid':'low'}">${st.s} / ${st.t}</span>`;}
+  return s==='wip'?'<span class="chip wip">в процессе</span>':'<span class="chip new">не начато</span>';}
+const isDone=k=>!!(S.done[k]&&S.done[k].v);
+function setUnit(k,patch){const t=now();S.units=Object.assign({},S.units,{[k]:Object.assign({},S.units[k]||{},patch,{at:t},patch.ck?{ck:t}:{})});}
+function pushHist(h){S.hist=[...S.hist,h].slice(-400);}
+
+/* ---------- checking answers ---------- */
+function mark(u){
+  const qs=$$('.q',u);let ok=0;
+  qs.forEach(q=>{const c=q.querySelector('input,select');const good=q.dataset.a.split('/').map(norm);const hit=good.includes(norm(c?c.value:''));
+    q.classList.remove('ok','bad','show');q.classList.add(hit?'ok':'bad');if(hit)ok++;});
+  return [ok,qs.length];
+}
+let toastT=null;
+function toast(t){const el=$('#toast');el.textContent=t;el.hidden=false;clearTimeout(toastT);toastT=setTimeout(()=>{el.hidden=true},2600);}
+const pend={};
+document.addEventListener('input',e=>{
+  const c=e.target.closest('.q input,.q select');if(!c)return;
+  const u=c.closest('.unit');const q=c.closest('.q');q.classList.remove('ok','bad','show');
+  const k=u.dataset.k;clearTimeout(pend[k]);
+  pend[k]=setTimeout(()=>{setUnit(k,{a:ctrls(u).map(x=>x.value)});changed();},400);
+});
+document.addEventListener('change',e=>{if(e.target.matches('.q select'))e.target.dispatchEvent(new Event('input',{bubbles:true}));});
+document.addEventListener('click',e=>{
+  const b=e.target.closest('button');if(!b)return;
+  if(b.classList.contains('done')){toggleDone(b.dataset.k);return;}
+  const u=b.closest('.unit');if(!u)return;
+  const k=u.dataset.k;
+  if(b.classList.contains('chk')){
+    clearTimeout(pend[k]);const [ok,n]=mark(u);
+    $('.score',u).textContent=ok+' / '+n;
+    setUnit(k,{a:ctrls(u).map(x=>x.value),s:ok,t:n,ck:1});pushHist({k,s:ok,t:n,at:now()});changed();
+    toast(`Сохранено: ${ok} из ${n} (${Math.round(100*ok/n)}%)`);
+  }else if(b.classList.contains('shw')){$$('.q',u).forEach(q=>q.classList.add('show'));}
+  else if(b.classList.contains('rst')){
+    clearTimeout(pend[k]);$$('.q',u).forEach(q=>{q.classList.remove('ok','bad','show');const c=q.querySelector('input,select');if(c)c.value='';});
+    $('.score',u).textContent='';setUnit(k,{a:[],s:null,t:null,ck:0});changed();toast('Ответы сброшены');
+  }else if(b.classList.contains('play')){play(u);}
+  else if(b.classList.contains('stop')){stopTts();}
+});
+function toggleDone(k){const on=!isDone(k);S.done=Object.assign({},S.done,{[k]:{v:on,at:now()}});if(on)pushHist({k,d:1,at:now()});changed();toast(on?'Отмечено как сделано':'Отметка снята');}
+
+/* ---------- browser speech fallback (when an mp3 cannot load) ---------- */
+let token=0;
+function stopTts(){token++;if(window.speechSynthesis)speechSynthesis.cancel();$$('.script p.now').forEach(p=>p.classList.remove('now'));$$('.pstat').forEach(s=>s.textContent='');}
+function voices(){const all=speechSynthesis.getVoices().filter(v=>/^en/i.test(v.lang));const gb=all.filter(v=>/GB|AU/i.test(v.lang));return gb.length>=2?gb:all;}
+function play(u){
+  const stat=$('.pstat',u);
+  if(!('speechSynthesis' in window)){stat.textContent='В этом браузере нет синтеза речи. Открой сайт в Chrome, Edge или Safari.';return;}
+  stopTts();const my=++token;const vs=voices();
+  if(!vs.length)stat.textContent='Английский голос не найден: проверь голоса в настройках системы.';
+  const lines=$$('.script p',u);const sp=[...new Set(lines.map(p=>p.dataset.sp))];const rate=parseFloat($('.rate',u).value)*0.95;let i=0;
+  (function next(){if(my!==token)return;if(i>=lines.length){stat.textContent='Конец записи.';return;}
+    const p=lines[i++];const k=sp.indexOf(p.dataset.sp);const ut=new SpeechSynthesisUtterance($('span',p).textContent);
+    ut.lang='en-GB';ut.rate=rate;if(vs.length)ut.voice=vs[k%vs.length];ut.pitch=[1,.75,1.25,.9][k%4];
+    stat.textContent='Идёт запись… '+i+' / '+lines.length;ut.onend=()=>setTimeout(next,350);ut.onerror=()=>{if(my===token)setTimeout(next,200)};speechSynthesis.speak(ut);})();
+}
+$$('.listen audio').forEach(au=>{
+  const u=au.closest('.unit'),sel=$('.rate',u);
+  au.addEventListener('error',()=>{au.hidden=true;const d=$('.dl',u);if(d)d.hidden=true;$('.tts',u).hidden=false;$('.pstat',u).textContent='Аудиофайл не загрузился: доступна озвучка голосом браузера.';});
+  au.addEventListener('play',()=>{au.playbackRate=parseFloat(sel.value);$$('.listen audio').forEach(o=>{if(o!==au)o.pause();});});
+  sel.addEventListener('change',()=>{au.playbackRate=parseFloat(sel.value);});
+});
+function stopMedia(){$$('.listen audio').forEach(a=>{if(!a.paused)a.pause();});stopTts();}
+if('speechSynthesis' in window){speechSynthesis.getVoices();}
+
+/* ---------- layout measurements ---------- */
+const rootS=document.documentElement.style;
+function measure(){rootS.setProperty('--top',$('#top').offsetHeight+'px');const ub=$('#ubar');if(ub.offsetHeight)rootS.setProperty('--ub',ub.offsetHeight+'px');}
+if('ResizeObserver' in window){const ro=new ResizeObserver(measure);ro.observe($('#top'));ro.observe($('#ubar'));}
+window.addEventListener('resize',measure);measure();
+
+/* ---------- timer (reading) ---------- */
+let tLeft=1200,tRun=false,tInt=null;
+const tBtn=$('#uTimer');
+const fmt=s=>String(Math.floor(s/60)).padStart(2,'0')+':'+String(s%60).padStart(2,'0');
+function tDraw(){tBtn.textContent=tLeft===0?'Время вышло':(tRun?'Осталось ':tLeft<1200?'Продолжить ':'Таймер ')+fmt(tLeft);tBtn.title=tRun?'Поставить на паузу':'Запустить таймер на 20 минут';tBtn.classList.toggle('run',tRun);tBtn.classList.toggle('over',tLeft===0);}
+function tReset(){clearInterval(tInt);tRun=false;tLeft=1200;tDraw();}
+tBtn.addEventListener('click',()=>{if(tLeft===0){tReset();return;}tRun=!tRun;clearInterval(tInt);
+  if(tRun)tInt=setInterval(()=>{tLeft--;if(tLeft<=0){tLeft=0;clearInterval(tInt);tRun=false;toast('20 минут прошло');}tDraw();},1000);tDraw();});
+
+/* ---------- views ---------- */
+const views={home:$('#v-home'),reading:$('#v-reading'),listening:$('#v-listening'),writing:$('#v-writing'),speaking:$('#v-speaking'),search:$('#v-search'),unit:$('#v-unit')};
+let curView=null,curUnit=null,pendingEl=null;
+const scrollMem={};
+function route(){
+  const h=decodeURIComponent((location.hash||'').slice(1))||'home';
+  if(/^[rl]\d+$/.test(h)&&byK[h])show('unit',h);
+  else if(views[h])show(h,null);
+  else{const el=document.getElementById(h);const host=el&&el.closest('#v-writing,#v-speaking');if(host){pendingEl=el;show(host.id.slice(2),null);}else show('home',null);}
+}
+function show(v,k){
+  if(curView&&curView!=='unit')scrollMem[curView]=window.scrollY;
+  stopMedia();
+  Object.entries(views).forEach(([n,el])=>{el.hidden=n!==v;});
+  const tab=v==='unit'?(k[0]==='r'?'reading':'listening'):v;
+  $$('.tabs a').forEach(a=>a.classList.toggle('on',a.dataset.tab===tab));
+  curView=v;curUnit=k;
+  if(v==='unit')openUnit(k);else render(v);
+  measure();
+  const y=(v!=='unit'&&!pendingEl&&scrollMem[v])||0;
+  window.scrollTo(0,y);
+  if(pendingEl){const el=pendingEl;pendingEl=null;requestAnimationFrame(()=>reveal(el));}
+}
+function reveal(el){
+  let p=el;while(p){if(p.tagName==='DETAILS')p.open=true;p=p.parentElement;}
+  el.scrollIntoView({block:'start'});
+  el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash');
+}
+function goTo(view,el){pendingEl=el;if(location.hash==='#'+view)show(view,null);else location.hash='#'+view;}
+window.addEventListener('hashchange',route);
+
+function openUnit(k){
+  const u=byK[k];const isR=k[0]==='r';const list=isR?R:L;const i=list.indexOf(u);
+  units.forEach(x=>x.classList.toggle('active',x===u));
+  $('#uTitle').textContent=(isR?'Passage ':'Listening ')+u.dataset.n+'. '+u.dataset.title;
+  $('#uMeta').textContent=isR?`${u.dataset.cat} · ${u.dataset.words} слов · ${$$('.q',u).length} вопросов · текст ${i+1} из ${list.length}`:`${u.dataset.cat} · 10 вопросов · запись ${i+1} из ${list.length}`;
+  const back=$('#uBack');back.href=isR?'#reading':'#listening';back.textContent=isR?'← Все тексты':'← Все записи';
+  const pv=$('#uPrev'),nx=$('#uNext');
+  pv.href=i>0?'#'+list[i-1].dataset.k:'#'+k;pv.setAttribute('aria-disabled',i>0?'false':'true');
+  nx.href=i<list.length-1?'#'+list[i+1].dataset.k:'#'+k;nx.setAttribute('aria-disabled',i<list.length-1?'false':'true');
+  tBtn.hidden=!isR;tReset();
+  // restore answers
+  const st=S.units[k];const cs=ctrls(u);
+  $$('.q',u).forEach(q=>q.classList.remove('ok','bad','show'));
+  cs.forEach((c,j)=>{c.value=(st&&Array.isArray(st.a)&&st.a[j])||'';});
+  const sc=$('.score',u);sc.textContent='';
+  if(st&&st.s!=null){if(st.ck&&st.ck>=st.at){mark(u);sc.textContent=st.s+' / '+st.t;}else sc.textContent='Последний результат: '+st.s+' / '+st.t;}
+  $('#uStatus').innerHTML=chip(k);
+  $$('.pane',u).forEach(p=>{p.scrollTop=0;});
+  S.last=k;S.lastAt=now();saveLocal();if(ref){clearTimeout(rt);rt=setTimeout(flush,4000);}
+  refreshBar();
+}
+
+/* ---------- rendering ---------- */
+function counts(){
+  const rd=R.filter(u=>status(u.dataset.k)==='done').length,ld=L.filter(u=>status(u.dataset.k)==='done').length;
+  const wd=W.filter(isDone).length,sd=SP.filter(isDone).length;
+  const acc=list=>{let s=0,t=0;list.forEach(u=>{const st=S.units[u.dataset.k];if(st&&st.s!=null){s+=st.s;t+=st.t;}});return t?Math.round(100*s/t):null;};
+  return {rd,ld,wd,sd,ra:acc(R),la:acc(L),total:R.length+L.length+W.length+SP.length,done:rd+ld+wd+sd};
+}
+function refreshBar(){const c=counts();const p=c.total?Math.round(100*c.done/c.total):0;$('#ovBar').style.width=p+'%';$('#ovPct').textContent=p+'%';}
+function refresh(){
+  refreshBar();
+  doneBtns.forEach(b=>{const on=isDone(b.dataset.k);b.classList.toggle('on',on);b.textContent=on?'✓ Сделано':'Отметить как сделано';
+    const host=b.closest('.cue,details.p1');if(host)host.classList.toggle('isdone',on);});
+  if(curView&&curView!=='unit')render(curView);
+  if(curView==='unit'&&curUnit)$('#uStatus').innerHTML=chip(curUnit);
+  docProgress();
+}
+function render(v){
+  if(v==='home')renderHome();else if(v==='reading')renderReading();else if(v==='listening')renderListening();else if(v==='search')renderSearch();
+}
+const firstOpen=list=>list.find(u=>status(u.dataset.k)!=='done');
+const day=t=>{const d=new Date(t);return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();};
+function when(t){const d=new Date(t),td=new Date();const diff=Math.round((new Date(td.toDateString())-new Date(d.toDateString()))/864e5);
+  const hm=d.toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'});
+  return diff===0?'сегодня, '+hm:diff===1?'вчера, '+hm:d.toLocaleDateString('ru-RU',{day:'numeric',month:'long'});}
+function renderHome(){
+  const c=counts();
+  const last=S.last&&byK[S.last]?S.last:null;
+  const nextR=firstOpen(R),nextL=firstOpen(L);
+  let h;
+  if(last){const st=status(last);
+    h=`<p class="eyebrow">Продолжить с места остановки</p><h2>${esc(label(last))}</h2><div>${chip(last)} <span class="src">${S.lastAt?'открыто '+when(S.lastAt):''}</span></div>
+    <div class="acts"><a class="btn pri" href="#${last}">${st==='done'?'Открыть снова':'Продолжить'}</a>${nextR&&nextR.dataset.k!==last?`<a class="btn" href="#${nextR.dataset.k}">Следующий текст: ${nextR.dataset.n}</a>`:''}${nextL&&nextL.dataset.k!==last?`<a class="btn" href="#${nextL.dataset.k}">Следующая запись: ${nextL.dataset.n}</a>`:''}</div>`;
+  }else{
+    h=`<p class="eyebrow">С чего начать</p><h2>Начни с первого текста Reading</h2><p class="lead">Раздел за 10 минут: текст, новые слова и 13 вопросов. Прогресс сохранится сам, и в следующий раз здесь появится кнопка «Продолжить».</p>
+    <div class="acts"><a class="btn pri" href="#r1">Открыть Reading 1</a><a class="btn" href="#l1">Listening 1</a></div>`;
+  }
+  $('#hCont').innerHTML=h;
+  const days=new Set(S.hist.map(x=>day(x.at)));
+  let streak=0;{const d=new Date();if(!days.has(day(d)))d.setDate(d.getDate()-1);while(days.has(day(d))){streak++;d.setDate(d.getDate()-1);}}
+  const checks=S.hist.filter(x=>x.s!=null);
+  $('#hStats').innerHTML=`<p class="eyebrow">Общий прогресс</p><div class="big">${c.total?Math.round(100*c.done/c.total):0}%</div>
+   <div class="bar" style="margin-top:10px"><i style="width:${c.total?100*c.done/c.total:0}%"></i></div>
+   <div class="statrow"><div><b>${c.done}</b><span>заданий из ${c.total}</span></div><div><b>${streak}</b><span>${streak===1?'день':'дней'} подряд</span></div><div><b>${checks.length}</b><span>проверок</span></div></div>`;
+  const sk=(id,name,done,total,sub,actions)=>{$('#hs-'+id).innerHTML=`<div class="hd"><b>${name}</b><span class="chip ${done===total?'good':done?'wip':'new'}">${Math.round(100*done/total)}%</span></div>
+   <div class="nums">${done} <small>из ${total}</small></div><div class="bar"><i style="width:${100*done/total}%"></i></div><div class="sub">${sub}</div><div class="acts">${actions}</div>`;};
+  sk('reading','Reading',c.rd,R.length,c.ra==null?'Пока нет проверенных текстов.':`Верных ответов: <b>${c.ra}%</b>`,
+     (nextR?`<a class="btn pri" href="#${nextR.dataset.k}">Текст ${nextR.dataset.n}</a>`:'')+'<a class="btn" href="#reading">Все тексты</a>');
+  sk('listening','Listening',c.ld,L.length,c.la==null?'Пока нет проверенных записей.':`Верных ответов: <b>${c.la}%</b>`,
+     (nextL?`<a class="btn pri" href="#${nextL.dataset.k}">Запись ${nextL.dataset.n}</a>`:'')+'<a class="btn" href="#listening">Все записи</a>');
+  sk('writing','Writing',c.wd,W.length,'Отмечай задание, когда написал ответ и сравнил с образцом.','<a class="btn pri" href="#writing">Открыть</a>');
+  sk('speaking','Speaking',c.sd,SP.length,'Part 1 — 32 темы, Part 2 и 3 — 50 карточек.','<a class="btn pri" href="#speaking">Открыть</a>');
+  const rec=checks.slice(-6).reverse();
+  $('#hRecent').innerHTML=rec.length?rec.map(x=>{const p=x.t?Math.round(100*x.s/x.t):0;return `<li><a href="#${x.k}"><span>${esc(label(x.k))}</span><span class="when">${when(x.at)}</span><span class="chip ${p>=80?'good':p>=60?'mid':'low'}">${x.s} / ${x.t}</span></a></li>`;}).join(''):'<li class="empty">Здесь появятся результаты после первой проверки ответов.</li>';
+  const per={};S.hist.forEach(x=>{const d=day(x.at);per[d]=(per[d]||0)+1;});
+  const today=new Date();today.setHours(0,0,0,0);
+  // 4 full weeks (Monday first) ending with the current week
+  const mon=new Date(today);mon.setDate(mon.getDate()-((today.getDay()+6)%7)-21);
+  let cells='';['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].forEach(w=>{cells+=`<span>${w}</span>`;});
+  let active=0;
+  for(let i=0;i<28;i++){const d=new Date(mon);d.setDate(mon.getDate()+i);const n=per[day(d)]||0;if(n)active++;
+    const fut=d>today;cells+=`<i class="${n>=6?'l3':n>=3?'l2':n?'l1':''}${+d===+today?' today':''}" style="${fut?'opacity:.35':''}" title="${d.toLocaleDateString('ru-RU',{day:'numeric',month:'long'})}: ${n} ${n===1?'задание':'заданий'}"></i>`;}
+  $('#hCal').innerHTML=`<div class="calg">${cells}</div><p class="src" style="margin:10px 0 0">Дней с занятиями: <b>${active}</b> из 28. Чем темнее клетка, тем больше заданий в этот день.</p>`;
+}
+const rf={st:'all',cat:'all'},lf={st:'all'};
+function stCount(list){const o={all:list.length,new:0,wip:0,done:0};list.forEach(u=>o[status(u.dataset.k)]++);return o;}
+function filterBar(el,state,list,extra){
+  const c=stCount(list);
+  el.innerHTML=[['all','Все'],['new','Не начато'],['wip','В процессе'],['done','Сделано']].map(([v,t])=>`<button type="button" data-st="${v}" aria-pressed="${state.st===v}">${t} · ${c[v]}</button>`).join('')+(extra||'');
+}
+function itemHTML(u){const k=u.dataset.k,s=status(k);
+  const meta=k[0]==='r'?`${esc(u.dataset.cat)} · ${u.dataset.words} слов`:testOf(u);
+  return `<a class="item ${s}" href="#${k}"><span class="num">${u.dataset.n}</span><span class="ti">${esc(u.dataset.title)}</span><span class="meta">${meta}</span>${chip(k)}</a>`;}
+const cats=[...new Set(R.map(u=>u.dataset.cat))];
+function testOf(u){const sec=L.filter(x=>x.dataset.cat===u.dataset.cat);const i=sec.indexOf(u);const n=Math.min(...['Section 1','Section 2','Section 3','Section 4'].map(s=>L.filter(x=>x.dataset.cat===s).length));
+  return i<n?`Test ${i+1} · 10 вопросов`:'Дополнительная · 10 вопросов';}
+function renderReading(){
+  filterBar($('#rFilters'),rf,R,`<select id="rCat" aria-label="Тема"><option value="all">Все темы</option>${cats.map(c=>`<option ${rf.cat===c?'selected':''}>${esc(c)}</option>`).join('')}</select>`);
+  const list=R.filter(u=>(rf.st==='all'||status(u.dataset.k)===rf.st)&&(rf.cat==='all'||u.dataset.cat===rf.cat));
+  $('#rList').innerHTML=list.length?list.map(itemHTML).join(''):'<p class="empty">Нет текстов с таким фильтром.</p>';
+}
+$('#rFilters').addEventListener('click',e=>{const b=e.target.closest('button[data-st]');if(!b)return;rf.st=b.dataset.st;renderReading();});
+$('#rFilters').addEventListener('change',e=>{if(e.target.id==='rCat'){rf.cat=e.target.value;renderReading();}});
+function renderListening(){
+  filterBar($('#lFilters'),lf,L);
+  const secs=[...new Set(L.map(u=>u.dataset.cat))];
+  $('#lList').innerHTML=secs.map(sec=>{const list=L.filter(u=>u.dataset.cat===sec&&(lf.st==='all'||status(u.dataset.k)===lf.st));
+    return list.length?`<div class="group"><h2>${esc(sec)}</h2><div class="grid">${list.map(itemHTML).join('')}</div></div>`:'';}).join('')||'<p class="empty">Нет записей с таким фильтром.</p>';
+  const bySec=sec=>L.filter(u=>u.dataset.cat===sec);
+  const S1=bySec('Section 1'),S2=bySec('Section 2'),S3=bySec('Section 3'),S4=bySec('Section 4');
+  const band=n=>n>=39?9:n>=37?8.5:n>=35?8:n>=32?7.5:n>=30?7:n>=26?6.5:n>=23?6:n>=18?5.5:n>=16?5:n>=13?4.5:4;
+  let rows='<tr><th>Тест</th><th>Section 1</th><th>Section 2</th><th>Section 3</th><th>Section 4</th><th>Итог</th></tr>';
+  const nT=Math.min(S1.length,S2.length,S3.length,S4.length);
+  for(let i=0;i<nT;i++){const set=[S1[i],S2[i],S3[i],S4[i]];
+    const cells=set.map(u=>{const k=u.dataset.k,s=status(k),st=S.units[k];return `<td><a href="#${k}"><span class="dot ${s}"></span>${u.dataset.n}${s==='done'?` · ${st.s}/${st.t}`:''}</a></td>`;}).join('');
+    const all=set.every(u=>status(u.dataset.k)==='done');const sum=set.reduce((a,u)=>a+((S.units[u.dataset.k]||{}).s||0),0);
+    rows+=`<tr><td>Test ${i+1}</td>${cells}<td>${all?`<b>${sum}/40</b> · ≈ ${band(sum)}`:'—'}</td></tr>`;}
+  $('#lTests').innerHTML=rows;
+}
+$('#lFilters').addEventListener('click',e=>{const b=e.target.closest('button[data-st]');if(!b)return;lf.st=b.dataset.st;renderListening();});
+
+/* writing & speaking: table of contents and progress */
+function buildToc(doc,nav,sel){
+  const hs=$$(sel,doc);nav.innerHTML='';
+  hs.forEach((h,i)=>{if(!h.id)h.id=doc.id+'-h'+i;const a=document.createElement('a');a.href='#'+h.id;a.textContent=h.textContent.replace(/\s+/g,' ').trim().slice(0,70);
+    if(h.tagName==='H4')a.className='h4';
+    a.addEventListener('click',e=>{e.preventDefault();reveal(h);closeSideIfNarrow(nav);});nav.appendChild(a);});
+}
+function closeSideIfNarrow(nav){if(matchMedia('(max-width:1000px)').matches)nav.closest('details').open=false;}
+buildToc($('#wDoc'),$('#wToc'),'h3');
+buildToc($('#sDoc'),$('#sToc'),'h3,h4');
+if(matchMedia('(max-width:1000px)').matches)$$('.side').forEach(d=>{d.open=false;});
+function docProgress(){
+  const wd=W.filter(isDone).length,sd=SP.filter(isDone).length;
+  $('#wProg').innerHTML=`Сделано ${wd} из ${W.length}<div class="bar"><i style="width:${100*wd/W.length}%"></i></div>`;
+  $('#sProg').innerHTML=`Сделано ${sd} из ${SP.length}<div class="bar"><i style="width:${100*sd/SP.length}%"></i></div>`;
+}
+
+/* ---------- search ---------- */
+const fold=s=>s.toLowerCase().replace(/ё/g,'е');
+let INDEX=null;
+function buildIndex(){
+  const ix=[];const txt=el=>el.textContent.replace(/\s+/g,' ').trim();
+  R.forEach(u=>{ix.push({g:'Reading',t:`Passage ${u.dataset.n}. ${u.dataset.title}`,s:u.dataset.cat,h:fold(u.dataset.title+' '+u.dataset.cat+' '+u.dataset.vocab+' '+txt($('.text',u))),go:'#'+u.dataset.k,w:fold(u.dataset.title)});
+    $$('.vocab li',u).forEach(li=>{ix.push({g:'Новые слова',t:txt(li),s:`Passage ${u.dataset.n}. ${u.dataset.title}`,h:fold(txt(li)),go:'#'+u.dataset.k,w:fold(txt(li))});});});
+  L.forEach(u=>{ix.push({g:'Listening',t:`Listening ${u.dataset.n}. ${u.dataset.title}`,s:u.dataset.cat,h:fold(u.dataset.title+' '+txt($('.ctx',u))+' '+txt($('.script',u))),go:'#'+u.dataset.k,w:fold(u.dataset.title)});});
+  $$('#wDoc button.done').forEach(b=>{const host=b.closest('li')||b.closest('.card');if(!host)return;
+    let q;if(host.tagName==='LI'){const c=host.cloneNode(true);c.querySelectorAll('button,details').forEach(n=>n.remove());q=c.textContent;}
+    else q=($('h3',host)?txt($('h3',host)):'')+': '+($('.task',host)?txt($('.task',host)):'');
+    const t=q.replace(/\s+/g,' ').trim();ix.push({g:'Writing',t:t.slice(0,160)+(t.length>160?'…':''),s:'Writing',h:fold(t+' '+txt(host)),el:host,v:'writing',w:fold(t)});});
+  $$('#sDoc .cue').forEach(c=>{ix.push({g:'Speaking',t:c.dataset.title,s:'Part 2 · карточка '+c.id.slice(1),h:fold(txt(c)),el:c,v:'speaking',w:fold(c.dataset.title)});});
+  $$('#sDoc details.p1').forEach(d=>{ix.push({g:'Speaking',t:d.dataset.title,s:'Part 1',h:fold(txt(d)),el:d,v:'speaking',w:fold(d.dataset.title)});});
+  return ix;
+}
+let lastQ='';
+function hl(t,terms){let s=esc(t);terms.forEach(x=>{if(x.length<2)return;const re=new RegExp('('+x.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig');s=s.replace(re,'<mark>$1</mark>');});return s;}
+function renderSearch(){
+  const q=$('#q').value.trim();lastQ=q;const info=$('#sInfo'),out=$('#sRes');
+  if(q.length<2){info.hidden=false;out.innerHTML='';return;}
+  if(!INDEX)INDEX=buildIndex();
+  const terms=fold(q).split(/\s+/).filter(Boolean);
+  const hits=INDEX.filter(x=>terms.every(t=>x.h.includes(t))).map(x=>({x,r:(terms.every(t=>x.w.includes(t))?0:1)}));
+  hits.sort((a,b)=>a.r-b.r);
+  info.hidden=false;info.textContent=hits.length?`Найдено: ${hits.length}`:'Ничего не найдено. Попробуй другое слово или форму слова (например, без окончания).';
+  const groups=['Новые слова','Reading','Listening','Writing','Speaking'];
+  out.innerHTML=groups.map(g=>{const list=hits.filter(h=>h.x.g===g).slice(0,40);if(!list.length)return '';
+    return `<div class="grp"><h2>${g} · ${hits.filter(h=>h.x.g===g).length}</h2>`+list.map((h,i)=>`<a class="hit" href="${h.x.go||'#'+h.x.v}" data-i="${INDEX.indexOf(h.x)}"><b>${hl(h.x.t,terms)}</b><span>${esc(h.x.s)}</span></a>`).join('')+'</div>';}).join('');
+}
+$('#sRes').addEventListener('click',e=>{const a=e.target.closest('a.hit');if(!a)return;const x=INDEX[+a.dataset.i];if(x&&x.el){e.preventDefault();goTo(x.v,x.el);}});
+let sT=null;
+$('#q').addEventListener('input',()=>{clearTimeout(sT);sT=setTimeout(()=>{if(curView!=='search'){location.hash='#search';}else renderSearch();},180);});
+$('#q').addEventListener('keydown',e=>{if(e.key==='Enter'){clearTimeout(sT);if(curView!=='search')location.hash='#search';else renderSearch();}});
+
+// charts drawn on canvas from tables: <table data-chart="bar|line">
+const COLORS=['#2f6fd6','#d9822b','#1a9a5b','#c2413a','#7a4fc2','#17a2a2','#8a8a2b','#c2478f'];
+function drawChart(t,cv){
+  const rows=[...t.rows].map(r=>[...r.cells].map(c=>c.textContent.trim()));
+  const cats=rows[0].slice(1),ser=rows.slice(1).map(r=>({name:r[0],v:r.slice(1).map(x=>parseFloat(x.replace(/,/g,'')))}));
+  const W=640,H=300,L=46,B=34,T=14,R=10;
+  const dm=Math.max(...ser.flatMap(s=>s.v)),pw=Math.pow(10,Math.floor(Math.log10(dm/4))),fr=dm/4/pw,step=(fr<1.5?1:fr<3?2:fr<7?5:10)*pw,max=Math.ceil(dm/step)*step;
+  const dpr=Math.min(window.devicePixelRatio||1,3);cv.width=W*dpr;cv.height=H*dpr;
+  if(t.dataset.chart==='pie'){
+    const g=cv.getContext('2d');g.setTransform(dpr,0,0,dpr,0,0);
+    const cs=getComputedStyle(document.body);const ink=cs.getPropertyValue('--ink').trim()||'#162033',card=cs.getPropertyValue('--card').trim()||'#fff';
+    const n=ser.length,cw=W/n,r=Math.min(cw/2-18,(H-46)/2);
+    ser.forEach((se,k)=>{const cx=cw*k+cw/2,cy=14+r;const tot=se.v.reduce((a,b)=>a+b,0);let a0=-Math.PI/2;
+      se.v.forEach((v,i)=>{const a1=a0+2*Math.PI*v/tot;g.beginPath();g.moveTo(cx,cy);g.arc(cx,cy,r,a0,a1);g.closePath();g.fillStyle=COLORS[i%8];g.fill();
+        g.strokeStyle=card;g.lineWidth=2;g.stroke();
+        if(v/tot>=0.04){const am=(a0+a1)/2,lr=r*0.66;g.fillStyle='#fff';g.font='600 12px Inter, system-ui, sans-serif';g.textAlign='center';g.textBaseline='middle';g.fillText(v+'%',cx+lr*Math.cos(am),cy+lr*Math.sin(am));}
+        a0=a1;});
+      g.fillStyle=ink;g.font='700 13px Inter, system-ui, sans-serif';g.textAlign='center';g.textBaseline='top';g.fillText(se.name,cx,cy+r+10);});
+    return;
+  }
+  const g=cv.getContext('2d');g.setTransform(dpr,0,0,dpr,0,0);g.fillStyle='rgba(0,0,0,0)';
+  const cs=getComputedStyle(document.body);const ink=cs.getPropertyValue('--ink').trim()||'#162033',grid=cs.getPropertyValue('--line').trim()||'#d8dfe9';
+  const y=v=>T+(H-T-B)*(1-v/max),gw=(W-L-R)/cats.length;
+  g.font='11px Inter, system-ui, sans-serif';g.fillStyle=ink;g.strokeStyle=grid;g.lineWidth=1;
+  g.textAlign='right';g.textBaseline='middle';
+  for(let v=0;v<=max+1e-9;v+=step){g.beginPath();g.moveTo(L,y(v)+.5);g.lineTo(W-R,y(v)+.5);g.stroke();g.fillText(String(+v.toFixed(1)),L-5,y(v));}
+  g.textAlign='center';g.textBaseline='top';cats.forEach((c,i)=>g.fillText(c,L+gw*(i+.5),H-B+6));
+  if(t.dataset.chart==='line'){ser.forEach((se,k)=>{g.strokeStyle=COLORS[k%8];g.fillStyle=COLORS[k%8];g.lineWidth=2.5;g.beginPath();
+    se.v.forEach((v,i)=>{const x=L+gw*(i+.5);if(i)g.lineTo(x,y(v));else g.moveTo(x,y(v));});g.stroke();
+    se.v.forEach((v,i)=>{g.beginPath();g.arc(L+gw*(i+.5),y(v),3,0,7);g.fill();});});}
+  else{const bw=gw*.8/ser.length;ser.forEach((se,k)=>{g.fillStyle=COLORS[k%8];se.v.forEach((v,i)=>{g.fillRect(L+gw*i+gw*.1+bw*k,y(v),bw-1,H-B-y(v));});});}
+}
+const charts=[];
+$$('table[data-chart]').forEach(t=>{
+  const names=t.dataset.chart==='pie'?[...t.rows[0].cells].slice(1).map(c=>c.textContent.trim()):[...t.rows].slice(1).map(r=>r.cells[0].textContent.trim());
+  const d=document.createElement('div');const cv=document.createElement('canvas');cv.className='chart';cv.style.width='100%';cv.style.maxWidth='640px';cv.style.aspectRatio='640/300';
+  cv.setAttribute('role','img');cv.setAttribute('aria-label','График по данным таблицы ниже');
+  const leg=document.createElement('div');leg.style.cssText='font:13px system-ui;display:flex;gap:12px;flex-wrap:wrap';
+  leg.innerHTML=names.map((n,k)=>`<span><i style="display:inline-block;width:10px;height:10px;background:${COLORS[k%8]};border-radius:2px"></i> ${esc(n)}</span>`).join('');
+  d.append(cv,leg);t.closest('.tw').before(d);charts.push([t,cv]);drawChart(t,cv);
+});
+const redrawCharts=()=>charts.forEach(([t,cv])=>{cv.getContext('2d').setTransform(1,0,0,1,0,0);cv.width=cv.width;drawChart(t,cv);});
+try{matchMedia('(prefers-color-scheme: dark)').addEventListener('change',redrawCharts);}catch(e){}
+new MutationObserver(redrawCharts).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
+function restoreWex(){
+  $$('.unit.wex').forEach(u=>{const st=S.units[u.dataset.k];if(!st)return;const cs=ctrls(u);
+    cs.forEach((c,j)=>{c.value=(Array.isArray(st.a)&&st.a[j])||'';});
+    const sc=$('.score',u);if(st.s!=null){if(st.ck&&st.ck>=st.at){mark(u);sc.textContent=st.s+' / '+st.t;}else sc.textContent='Последний результат: '+st.s+' / '+st.t;}});
+}
+restoreWex();
+refresh();
+route();
+})();
+</script>

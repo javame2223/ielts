@@ -1,0 +1,288 @@
+## Working from Home | Society & Business
+Before 2020 only a small minority of employees worked mainly from home. The pandemic changed this within weeks, as offices closed and millions of people set up laptops on kitchen tables. Many expected productivity to collapse. For the most part it did not, and when offices reopened a large number of workers were unwilling to return to their old routine.
+
+The attractions are obvious. Commuting disappears, saving the average worker about an hour a day as well as the cost of travel. Parents can collect children from school, and people can live farther from expensive city centres. In a well-known experiment at a Chinese travel company, carried out by the economist Nicholas Bloom, call-centre staff who were randomly chosen to work at home completed thirteen per cent more calls than those in the office, and far fewer of them resigned.
+
+The same experiment revealed a cost, however: the home workers were promoted less often, apparently because managers forgot about people they did not see. Other drawbacks have become clear since. New employees learn less when they cannot watch experienced colleagues. Chance conversations in corridors, which often lead to fresh ideas, do not happen on video calls. Some people feel lonely, and the line between work and private life becomes blurred when the office is also the bedroom.
+
+Most organisations have therefore settled on a hybrid arrangement, typically three days in the office and two at home. Bloom's later research suggests that this pattern keeps employees satisfied without harming performance. The consequences reach beyond the workplace. City-centre cafés and shops have lost customers, while demand for larger homes in the suburbs has grown.
+@V
+productivity = производительность
+commuting = поездки на работу и обратно
+resign = увольняться
+promote = повышать в должности
+drawback = недостаток
+blurred = размытый
+hybrid = гибридный, смешанный
+suburb = пригород
+@Q TFNG
+Most employees worked from home before 2020. | F
+In Bloom's experiment, home workers handled more calls than office workers. | T
+Home workers in the experiment were more likely to be promoted. | F
+The Chinese company later closed its offices completely. | NG
+@Q MCQ
+Why do new employees lose out when working remotely? | A They are paid less. | B They cannot observe experienced colleagues. | C They have slower internet. | D They work longer hours. | B
+What effect has remote work had on cities? | A More shops have opened in the centre. | B City-centre businesses have fewer customers. | C Suburban houses have become cheaper. | D Public transport has expanded. | B
+@Q GAP
+Not travelling to work saves the typical worker about an ____ a day. | hour
+A common hybrid pattern is ____ days in the office each week. | three/3
+
+## Too Many Tourists | Society & Business
+In 1950 there were about twenty-five million international tourist arrivals worldwide. By 2019 the figure had reached almost one and a half billion. Cheap flights, rising incomes and websites that let anyone rent out a spare room have put foreign travel within reach of a vast number of people. For many countries tourism is a vital source of jobs and income. But in the most popular places the crowds have begun to destroy the very things that visitors come to see.
+
+Venice is the classic case. The historic centre has fewer than 50,000 residents, yet it receives around twenty million visitors a year, many of them arriving on cruise ships for only a few hours. Such day trippers spend little but add greatly to the congestion. Shops selling bread and hardware have been replaced by souvenir stalls, and rents have risen as flats are turned into holiday accommodation. The local population has fallen by more than half since the 1950s.
+
+Natural sites suffer too. Maya Bay in Thailand, made famous by a Hollywood film, was receiving up to 5,000 visitors a day when the authorities closed it in 2018 because most of its coral had died. It reopened in 2022 with strict limits on numbers, and no boats may now enter the bay.
+
+Other destinations are experimenting with similar controls. Venice has introduced an entry fee for day visitors on busy dates. Amsterdam has stopped advertising itself and banned new hotels in the centre. Bhutan charges every tourist a substantial daily tax. Experts also recommend spreading visitors more evenly, by promoting less well-known regions and travel outside the peak season.
+@V
+arrival = прибытие
+vital = жизненно важный
+resident = житель
+cruise ship = круизный лайнер
+congestion = перегруженность, заторы
+accommodation = жильё
+destination = место назначения, направление
+substantial = значительный
+@Q TFNG
+International tourist arrivals had risen to nearly 1.5 billion by 2019. | T
+Cruise passengers in Venice typically spend large amounts of money. | F
+Maya Bay is still completely closed to visitors. | F
+Bhutan limits the number of tourists to 5,000 a year. | NG
+@Q MATCH
+measures taken by different places to manage tourism | D
+reasons for the growth of tourism | A
+the effect of tourism on a city's permanent population | B
+@Q GAP
+Maya Bay was closed after most of its ____ had died. | coral
+
+## The Art of Persuasion | Society & Business
+Advertising is as old as trade. Shopkeepers in ancient Pompeii painted notices on their walls, and the first newspaper advertisements appeared in the seventeenth century. For a long time advertisements simply announced that a product existed and described what it did.
+
+That changed in the early twentieth century, when manufacturers discovered that people buy for emotional reasons at least as much as for practical ones. An important figure was Edward Bernays, a nephew of Sigmund Freud, who applied his uncle's ideas about hidden desires to selling. Instead of praising a product, advertisers began to associate it with things people longed for: love, status, freedom or youth. A car was no longer merely a means of transport but a symbol of success.
+
+Psychologists have since identified a number of techniques that reliably influence us. One is social proof: we are more likely to choose something if we believe many others have done so, which is why sellers boast of being 'the nation's favourite'. Another is scarcity; an offer that is 'for a limited time only' seems more desirable. Simple repetition is effective too, because familiar names feel more trustworthy.
+
+The internet has transformed the industry once more. Traditional advertisements were shown to everybody, and a famous saying held that half the money spent was wasted, though nobody knew which half. Online advertisers, by contrast, can track what individuals search for and buy, and can direct messages at precisely the people most likely to respond. This is efficient, but it has raised serious concerns about privacy, and about the targeting of children and of people who are vulnerable, for instance to gambling.
+@V
+influence = влиять
+desire = желание
+associate = связывать, ассоциировать
+longed for (long for) = страстно желать
+boast = хвастаться
+scarcity = дефицит, нехватка
+track = отслеживать
+privacy = неприкосновенность частной жизни
+@Q TFNG
+The earliest advertisements focused on customers' emotions. | F
+Edward Bernays was related to Sigmund Freud. | T
+People tend to trust brand names they have heard many times. | T
+Bernays worked mainly for car manufacturers. | NG
+@Q SUM
+The technique called ____ relies on our tendency to follow what many others do. | social proof
+Offers limited in time exploit the principle of ____ . | scarcity
+Online advertising has caused worries about ____ . | privacy
+@Q MCQ
+How does online advertising differ from traditional advertising? | A It is shown to everybody equally. | B It can be aimed at specific individuals. | C It costs more. | D It avoids emotional appeals. | B
+
+## The Four-Day Week | Society & Business
+The two-day weekend is a relatively recent invention. In 1926 Henry Ford closed his car factories on Saturdays as well as Sundays, partly on the reasoning that workers with more leisure would buy more goods, including cars. A century later, some employers are asking whether the week could be shortened again.
+
+The largest test so far took place in Britain in 2022. About sixty companies, with nearly 3,000 employees between them, agreed to reduce working time to four days for six months with no cut in pay. In exchange, staff promised to maintain their output. At the end, the companies' revenue was broadly unchanged, the number of people resigning had fallen by more than half, and employees reported less stress and better sleep. More than ninety per cent of the firms decided to continue the arrangement.
+
+How is it possible to do five days' work in four? Participants said the answer lay in removing wasted time. Meetings were shortened or cancelled, and periods were set aside in which nobody could be interrupted. Research has long suggested that in office jobs only a few hours of each day are truly productive.
+
+Sceptics are not convinced. The companies in the trial had volunteered, so they were likely to be those best suited to the change; most were small firms in fields such as marketing and technology. In hospitals, schools, restaurants and factories, where staff must be present for fixed hours, a shorter week means hiring more people. Some workers also found that squeezing the same tasks into fewer days made each day more intense. Whether the idea can spread through the whole economy remains uncertain.
+@V
+leisure = досуг
+reduce = сокращать
+revenue = выручка, доход
+arrangement = договорённость, схема
+interrupt = прерывать
+sceptic = скептик
+volunteer = вызываться добровольно
+intense = напряжённый
+@Q YNNG
+Henry Ford believed that giving workers more free time would help sales. | Y
+The British trial led to a serious fall in company income. | N
+The results of the trial can be applied to every type of workplace. | N
+Governments should make the four-day week compulsory. | NG
+@Q GAP
+During the trial, the number of staff resigning fell by more than ____ . | half
+Companies saved time by making ____ shorter or cancelling them. | meetings
+@Q MCQ
+Why do sceptics doubt the trial's results? | A The trial was too short to measure revenue. | B The companies had chosen to take part and were mostly of a suitable type. | C Employees were paid less. | D Most firms abandoned the idea afterwards. | B
+What problem did some employees report? | A lower pay | B longer holidays | C more pressure on each working day | D boredom | C
+
+## The Global Journey of Coffee | Society & Business
+According to a popular legend, coffee was discovered in Ethiopia by a goatherd called Kaldi, who noticed that his goats became lively after eating the red berries of a certain bush. Whether or not Kaldi existed, the coffee plant is certainly native to the Ethiopian highlands. By the fifteenth century it was being cultivated across the Red Sea in Yemen, where religious communities drank it to stay awake during night-time prayers.
+
+From Yemen the drink spread through the Islamic world. Coffee houses opened in Mecca, Cairo and Istanbul, and they quickly became places where men gathered to talk, play chess and exchange news. Rulers who feared that such conversation might turn to politics tried several times to close them, without lasting success. The same pattern was repeated in Europe after coffee arrived in the seventeenth century. In London, coffee houses were nicknamed 'penny universities', because for the price of a cup anyone could listen to learned discussion. The insurance market Lloyd's of London began in one of them.
+
+For a long time Yemen guarded its monopoly, exporting only beans that could not grow. Eventually the Dutch obtained living plants and established plantations in Java, and the French and Portuguese followed in the Caribbean and Brazil. Brazil has been the world's largest producer for more than 150 years.
+
+Coffee today supports some twenty-five million farming families, most of them working small plots. Yet they receive only a small share of the price paid in a café, and their income swings sharply with the world market. Climate change is a further threat: the arabica plant is sensitive to heat, and studies suggest that around half of the land now suitable for it could be lost by 2050.
+@V
+goatherd = пастух коз
+native = родом из, местный
+cultivate = выращивать
+prayer = молитва
+ruler = правитель
+nickname = давать прозвище
+insurance = страхование
+threat = угроза
+@Q TFNG
+The coffee plant originally comes from Yemen. | F
+Rulers in the Islamic world succeeded in closing coffee houses permanently. | F
+Lloyd's of London started in a coffee house. | T
+Kaldi sold his discovery to local monks. | NG
+@Q SHORT
+What were London coffee houses called? | penny universities
+Which country has been the leading coffee producer for over 150 years? | Brazil
+@Q MCQ
+How did Yemen try to keep control of coffee growing? | A by banning coffee houses | B by exporting only beans that could not be planted | C by destroying foreign plantations | D by lowering prices | B
+What danger does climate change pose to coffee? | A Arabica may lose much of the land where it can grow. | B Coffee will lose its flavour. | C Farmers will earn too much. | D Brazil will stop exporting. | A
+
+## Sharing Instead of Owning | Society & Business
+A typical private car is parked for about ninety-five per cent of its life. An electric drill may be used for only a few minutes in total before it is thrown away. Observations like these lie behind the idea of the sharing economy, which became fashionable around 2010. Why should everybody own things that are seldom used, when the internet makes it easy to borrow them from a neighbour?
+
+Early enthusiasts imagined a world of neighbours lending tools and offering spare seats in their cars. The promised benefits were social and environmental as well as financial: fewer goods would need to be manufactured, and strangers would learn to trust one another through online reviews.
+
+What actually grew was rather different. The most successful platforms were not really about sharing but about renting. Home-rental sites began with people letting a spare bed, but a large proportion of listings now belong to professional landlords with several properties, and in popular cities this has reduced the housing available to residents. Ride services have given passengers a cheap and convenient alternative to taxis, yet their drivers are generally treated as independent contractors, without a guaranteed wage, paid holidays or sick pay. Courts in several countries have been asked to decide whether they are in fact employees.
+
+Meanwhile, genuine sharing has survived on a smaller scale. 'Libraries of things' lend out tools, tents and kitchen equipment for a small fee, and community repair cafés help people fix broken items. Car clubs, in which members book a vehicle by the hour, appear to deliver a real environmental gain: studies indicate that each shared car replaces several privately owned ones.
+@V
+drill = дрель
+seldom = редко
+enthusiast = энтузиаст
+lend = одалживать
+landlord = арендодатель
+contractor = подрядчик
+genuine = подлинный, настоящий
+scale = масштаб
+@Q TFNG
+Private cars are in use for most of the day. | F
+Many home-rental listings are now owned by professional landlords. | T
+Drivers for ride services usually receive paid holidays. | F
+Libraries of things are funded by local governments. | NG
+@Q HEAD i. Small-scale sharing that works; ii. A dream of neighbourly cooperation; iii. The legal history of taxis; iv. Unused possessions; v. From sharing to renting; vi. Why online reviews are unreliable
+Paragraph A | iv
+Paragraph B | ii
+Paragraph C | v
+Paragraph D | i
+
+## The Age of the Megacity | Society & Business
+In 1950 only two cities on Earth, New York and Tokyo, had more than ten million inhabitants. Today there are more than thirty such 'megacities', and most of the new ones are in Asia and Africa. Greater Tokyo remains the largest, with about thirty-seven million people, but cities such as Delhi, Dhaka and Lagos are growing far faster.
+
+People move to cities for good reasons. Urban areas offer jobs, schools, hospitals and a variety of opportunities that villages cannot match. Economists point out that density makes people more productive: when firms and workers are close together, ideas spread and specialised businesses can find customers. Cities generate more than eighty per cent of the world's economic output.
+
+Rapid growth, however, often outruns planning. Around a billion people live in informal settlements, or slums, without secure housing, clean water or sewers. Traffic congestion wastes hours of every working day, and air pollution in many megacities far exceeds safe limits. Cities built on coasts and river deltas, as many are, face increasing danger from floods.
+
+Yet big cities can also be surprisingly efficient. Because residents live in smaller homes and travel shorter distances, often by public transport, the average city dweller in a rich country uses less energy than someone living in the suburbs or the countryside. The task for governments is to capture these advantages while reducing the harm. Successful examples exist. Seoul demolished an elevated motorway and restored the river beneath it as a park, and the Colombian city of Medellín linked its poor hillside districts to the centre with cable cars, cutting journey times from over an hour to a few minutes.
+@V
+inhabitant = житель
+density = плотность
+specialised = специализированный
+settlement = поселение
+slum = трущоба
+sewer = канализация
+dweller = житель, обитатель
+demolish = сносить
+@Q TFNG
+There were more than thirty megacities in 1950. | F
+Tokyo is the fastest-growing megacity. | F
+City residents in rich countries tend to use less energy than rural residents. | T
+Medellín's cable cars are free of charge. | NG
+@Q GAP
+Roughly a ____ people live in slums. | billion
+Seoul removed a motorway and restored a ____ under it. | river
+@Q MCQ
+According to economists, why does density raise productivity? | A Wages are lower in cities. | B Ideas spread and specialised firms find customers. | C People work longer hours. | D Housing is cheaper. | B
+Which problem of megacities is NOT mentioned? | A air pollution | B flooding | C traffic congestion | D shortage of teachers | D
+
+## Too Much Choice | Society & Business
+It seems self-evident that the more options we have, the better off we are. A shop with a hundred kinds of tea must serve its customers better than one with ten. This assumption was challenged by a now famous experiment conducted in a California supermarket in 2000 by the psychologists Sheena Iyengar and Mark Lepper.
+
+On some days they set up a table offering samples of twenty-four varieties of jam; on others the table offered only six. The large display attracted more shoppers. But when it came to buying, the results were reversed: about thirty per cent of those who stopped at the small display bought a jar, compared with only three per cent at the large one.
+
+The psychologist Barry Schwartz popularised the idea as 'the paradox of choice'. Too many options, he argued, make deciding harder work, and after deciding we are less satisfied, because it is easy to imagine that one of the rejected alternatives would have been better. He distinguished two types of people. 'Maximisers' feel they must find the very best and compare endlessly, whereas 'satisficers' settle for something that is good enough. In his studies maximisers often obtained objectively better results, such as higher starting salaries, yet felt less happy with them.
+
+Later research has complicated the story. When scientists combined the results of some fifty similar experiments, the average effect of having more choice was close to zero: sometimes it discouraged buyers and sometimes it did not. Overload seems most likely when the options are hard to compare and people have no clear preference beforehand. For businesses the practical lesson is to organise choices into categories and offer a sensible default.
+@V
+self-evident = самоочевидный
+assumption = предположение
+sample = образец, проба
+variety = разновидность
+reverse = менять на противоположное
+paradox = парадокс
+reject = отвергать
+default = вариант по умолчанию
+@Q TFNG
+More shoppers stopped at the table with twenty-four jams. | T
+Shoppers at the larger display were more likely to buy. | F
+Maximisers tend to feel happier with their decisions than satisficers. | F
+The jam experiment was repeated in the same supermarket ten years later. | NG
+@Q SUM
+According to Schwartz, people who insist on finding the best option are called ____ . | maximisers
+Those who accept an option that is good enough are called ____ . | satisficers
+A combined analysis of about fifty experiments found an average effect near ____ . | zero
+@Q MCQ
+When is choice overload most likely to occur? | A when options are cheap | B when options are difficult to compare and people lack a prior preference | C when there are fewer than six options | D when shoppers are in a hurry | B
+
+## Why People Volunteer | Society & Business
+Every year hundreds of millions of people around the world give their time without payment. They coach children's football teams, serve meals to the homeless, staff lifeboats and clear rubbish from beaches. If volunteers were counted as a workforce, it would be one of the largest on the planet.
+
+Their motives are varied. Surveys show that most volunteers wish to help others or to support a cause they believe in. Many also mention more personal reasons: meeting people, learning skills, gaining experience that may lead to a job, or simply filling time after retirement. Researchers do not regard these mixed motives as a problem. Volunteers who gain something for themselves tend to continue for longer than those driven by duty alone.
+
+There is good evidence that volunteering benefits the giver. Studies following older adults over many years have found that those who volunteer regularly report greater satisfaction with life and, on average, live longer, even when their initial health is taken into account. The benefit seems to come from having a sense of purpose and regular social contact. Interestingly, it appears at quite modest levels, around two hours a week, and volunteering much more than that brings no additional gain.
+
+Organisations that depend on volunteers face a challenge, however. In many countries people are less willing than before to commit to a fixed weekly duty over many years. They prefer short projects that fit around work and family. Charities have responded by offering one-day events, tasks that can be done online, and 'micro-volunteering' through phone apps, which can take just a few minutes, such as describing a photograph for a blind person.
+@V
+coach = тренировать
+workforce = рабочая сила
+motive = мотив
+cause = дело, идея (общественная)
+retirement = выход на пенсию
+duty = долг, обязанность
+commit = брать на себя обязательство
+charity = благотворительная организация
+@Q TFNG
+Most volunteers say they want to help other people. | T
+Volunteers with personal motives usually give up sooner. | F
+Volunteering for many hours brings greater benefits than two hours a week. | F
+Young people volunteer more than the elderly. | NG
+@Q MATCH
+changes in how people prefer to volunteer | D
+effects of volunteering on volunteers themselves | C
+examples of the kinds of work volunteers do | A
+@Q GAP
+An example of micro-volunteering is describing a ____ for a blind person. | photograph
+
+## Businesses Owned by Their Members | Society & Business
+In 1844 twenty-eight workers in the English town of Rochdale, most of them weavers, opened a small shop selling flour, butter, sugar and oatmeal. They were tired of shopkeepers who charged high prices for goods that were often adulterated; flour, for instance, was sometimes mixed with chalk. Their shop was different in one crucial respect: it belonged to its customers.
+
+The rules they drew up, later known as the Rochdale Principles, became the foundation of the cooperative movement. Membership was open to all. Each member had one vote, regardless of how much money he or she had invested. Goods were to be pure and honestly weighed. Profits were returned to members in proportion to what they had bought, a payment called the dividend. A share of the surplus was set aside for education.
+
+The model was copied widely. Today around a billion people worldwide are members of some kind of cooperative. Farmers join together to sell their milk or grain and to buy equipment. Credit unions offer savings and loans to their members. In worker cooperatives the employees themselves own the firm; the best known is Mondragon in the Basque region of Spain, a group of businesses with tens of thousands of worker-owners, where the highest-paid manager may earn only a few times more than the lowest-paid worker.
+
+Supporters argue that cooperatives are more stable than ordinary companies, since they are not under pressure from outside shareholders to maximise short-term profit, and studies indicate that they survive economic crises rather better. Their weakness is finance. Because they cannot sell shares to investors, they often find it hard to raise the money needed to grow quickly.
+@V
+weaver = ткач
+adulterated = с примесями, фальсифицированный
+crucial = ключевой
+cooperative = кооператив
+dividend = дивиденд
+surplus = излишек, прибыль
+loan = заём, кредит
+shareholder = акционер
+@Q TFNG
+The Rochdale shop was owned by the people who bought from it. | T
+Members who invested more money had more votes. | F
+Part of the profit was used for education. | T
+The original Rochdale shop is now a museum. | NG
+@Q GAP
+In a worker cooperative, the firm is owned by its ____ . | employees
+The payment returned to members according to their purchases was called the ____ . | dividend
+@Q MCQ
+What is said about pay at Mondragon? | A Managers earn hundreds of times more than workers. | B Everyone earns exactly the same. | C The gap between highest and lowest pay is small. | D Workers are paid in shares. | C
+What is the main disadvantage of cooperatives? | A They are unstable in a crisis. | B They struggle to raise capital for growth. | C They cannot employ managers. | D They are illegal in some countries. | B

@@ -1,0 +1,199 @@
+## Next Stop, Mars
+@INSERT 2
+Mars is also a world of spectacular scenery. Its largest volcano, Olympus Mons, rises about twenty-two kilometres above the surrounding plain, two and a half times the height of Everest, and covers an area the size of Italy. A system of canyons near the equator stretches for 4,000 kilometres, roughly the distance from one coast of the United States to the other. A day on Mars lasts only about forty minutes longer than a day on Earth, but gravity is little more than a third as strong, and dust storms occasionally grow until they hide the entire planet for weeks.
+
+Our knowledge comes largely from a series of robot vehicles. The first, which landed in 1997, was no bigger than a microwave oven and travelled about a hundred metres. Its successors have grown steadily larger and more capable. Perseverance, which arrived in 2021, is the size of a small car and carries a drill, with which it is filling metal tubes with samples of rock for a future mission to bring back to Earth. It has also performed an experiment of great importance for human visitors, producing small quantities of oxygen from the carbon dioxide of the Martian air.
+
+Perseverance brought a passenger: a helicopter weighing less than two kilograms. Because the air is so thin, its blades had to spin many times faster than those of a helicopter on Earth. In April 2021 it made the first powered flight on another planet, rising three metres and hovering for half a minute. It had been designed to fly five times. By the time a damaged blade ended its career in early 2024, it had made seventy-two flights.
+@V
+scenery = пейзаж
+canyon = каньон
+quantities (quantity) = количество
+spin = вращаться
+@Q TFNG
+Olympus Mons is more than twice as high as Mount Everest. | T
+Perseverance has already sent rock samples back to Earth. | F
+The helicopter made far more flights than had been planned. | T
+@Q GAP
+Gravity on Mars is little more than a ____ as strong as on Earth. | third
+Perseverance has produced small quantities of ____ from the Martian air. | oxygen
+
+## Eyes on the Universe
+@INSERT 2
+The power of the reflecting telescope was demonstrated by a musician. William Herschel, a German-born organist living in the English city of Bath, taught himself to grind mirrors and built instruments better than those of any professional observatory. In March 1781, while surveying the sky from his back garden, he noticed an object that moved slowly among the stars. It was Uranus, the first planet to be discovered since ancient times. His sister Caroline, who assisted him, became a noted astronomer herself and found eight comets.
+
+Light is not the only messenger from space. In 1932 Karl Jansky, an engineer investigating interference on transatlantic telephone lines for an American company, traced a faint steady hiss to the centre of the Milky Way. His discovery was largely ignored at the time, but after the Second World War, astronomers using equipment developed for radar began to map the sky at radio wavelengths. Radio telescopes, which are huge metal dishes, revealed objects that no optical telescope could have detected, among them the rapidly spinning dead stars known as pulsars.
+
+Optical telescopes meanwhile continued to grow. A single mirror much more than eight metres across would bend under its own weight, so the largest modern instruments use a mosaic of smaller pieces. Each of the twin Keck telescopes in Hawaii has a mirror ten metres wide made of thirty-six six-sided segments, kept in line by computer. Such giants are built on high, dry mountains, far from city lights.
+@V
+comet = комета
+hiss = шипение
+wavelength = длина волны
+segment = сегмент
+@Q TFNG
+Herschel was a professional astronomer when he discovered Uranus. | F
+Jansky's discovery immediately attracted great interest. | F
+Caroline Herschel discovered several comets. | T
+@Q GAP
+Jansky traced the hiss to the centre of the ____ . | Milky Way
+Each Keck mirror is made of ____ segments. | thirty-six/36
+
+## Food of the Gods
+@INSERT 3
+Turning cacao into chocolate is a long process. The seeds grow inside large pods, surrounded by a sweet white pulp. After harvest they are heaped up, covered with banana leaves and left to ferment for about a week; without this stage they would never develop the flavour of chocolate. They are then dried in the sun, shipped, roasted and ground. The smoothness of modern chocolate is due to a Swiss manufacturer, Rodolphe Lindt, who in 1879 found that stirring the liquid mixture for many hours removed its gritty texture. According to tradition he made the discovery by accident, having left a machine running over a weekend.
+
+Part of the pleasure of chocolate is a matter of physics. Cocoa butter melts at about thirty-four degrees, just below the temperature of the human body, so a piece that is solid in the hand turns liquid in the mouth. Chocolate also contains a mild stimulant related to caffeine. Humans cope with it easily, but dogs break it down very slowly, and a bar of dark chocolate can make a small dog seriously ill.
+
+Consumption is highest not in the countries that grow cacao but in northern Europe. The Swiss eat around ten kilograms per person each year, more than any other nation. Claims that chocolate is good for the heart should be treated with caution: the beneficial substances in cocoa are largely destroyed in processing, and much of the research has been paid for by manufacturers.
+@V
+pods (pod) = плод-стручок
+ferment = бродить, ферментироваться
+stirring (stir) = помешивать
+stimulant = стимулятор
+@Q TFNG
+Fermentation is essential for developing the flavour of chocolate. | T
+Lindt carefully planned his experiment with long stirring. | F
+People in the countries that grow cacao eat the most chocolate. | F
+@Q GAP
+Cocoa butter melts at about ____ degrees. | thirty-four/34
+A bar of dark chocolate can be dangerous for small ____ . | dogs
+
+## The Grain that Feeds Half the World
+@INSERT 3
+The institute also guards the raw material for future improvements. Its gene bank holds seeds of more than 130,000 kinds of rice, stored at minus twenty degrees in an earthquake-proof building. The value of the collection was shown in Cambodia. During the war and famine of the 1970s, farmers there ate their seed grain, and many traditional varieties vanished from the fields. Fortunately, samples had been collected a few years earlier, and in the 1980s the institute was able to send back seeds of several hundred Cambodian varieties.
+
+One modern variety has been the subject of fierce argument. Hundreds of thousands of children in poor countries go blind each year because their diet lacks vitamin A. In 2000 scientists announced that they had added genes to rice that cause the grain to produce the substance from which the body makes the vitamin, giving it a yellow colour; it was named Golden Rice. Opponents of genetically modified crops campaigned against it for two decades, and it was not approved for planting until 2021, in the Philippines.
+
+The place of rice in Asian life goes far beyond nutrition. In Chinese, Thai and several other languages, the everyday greeting was traditionally a question meaning 'Have you eaten rice?', and the same word serves for rice and for a meal. Emperors of Japan still plant and harvest a small field in the palace grounds each year.
+@V
+gene bank = генный банк
+lacks (lack) = испытывать недостаток
+approved (approve) = одобрять
+greeting = приветствие
+@Q TFNG
+Cambodian farmers lost many traditional kinds of rice in the 1970s. | T
+Golden Rice was approved for planting soon after it was announced. | F
+In some Asian languages the same word is used for rice and for a meal. | T
+@Q GAP
+The gene bank stores its seeds at minus ____ degrees. | twenty/20
+Golden Rice was first approved for planting in the ____ . | Philippines
+
+## The Machine that Changed Mobility
+@INSERT 4
+The bicycle also gave birth to one of the world's great sporting events. In 1903 a struggling French sports newspaper, looking for a way to increase its sales, organised a race around the whole country. Sixty riders set out on the first Tour de France, covering more than 2,400 kilometres in six enormous stages, some of which continued through the night. The winner was a former chimney sweep. The newspaper's circulation more than doubled, and the yellow jersey later awarded to the race leader took its colour from the paper on which it was printed.
+
+For much of the twentieth century the bicycle seemed to be in retreat, pushed off the roads by motor traffic. The country now most closely associated with cycling shows that this was not inevitable. In the early 1970s the Netherlands was as dominated by cars as its neighbours, and more than four hundred children were killed on its roads in a single year. Mass protests by parents persuaded the government to build a national network of separate cycle paths. Today more than a quarter of all journeys there are made by bicycle.
+
+The newest chapter is electric. A small motor that assists the rider's pedalling makes hills and headwinds easy and allows older people and commuters with long journeys to cycle. Electric bicycles now outsell electric cars many times over worldwide. Surveys suggest that their owners are not lazier than other cyclists: they ride more often and further, and so get as much exercise in total.
+@V
+stages (stage) = этап
+circulation = тираж
+inevitable = неизбежный
+outsell = продаваться лучше, чем
+@Q TFNG
+The first Tour de France was organised in order to sell more newspapers. | T
+The Netherlands has always had fewer cars than neighbouring countries. | F
+Owners of electric bicycles get much less exercise than other cyclists. | F
+@Q GAP
+____ riders set out on the first Tour de France. | Sixty/60
+In the Netherlands, more than a ____ of all journeys are made by bicycle. | quarter
+
+## Transparent and Everywhere
+@INSERT 3
+A persistent myth holds that glass is really a very slow liquid, and that the windows of old cathedrals are thicker at the bottom because the glass has flowed downwards over the centuries. It is true that the panes are uneven, but the cause is the way they were made. Medieval glassmakers spun a blob of molten glass into a disc, which was always thicker in some places than others, and builders usually set the heavier edge at the bottom. Measurements show that at ordinary temperatures glass would not flow visibly in billions of years.
+
+The greatest weakness of glass, its tendency to shatter into sharp pieces, was overcome by accident. In 1903 a French chemist, Edouard Benedictus, knocked a glass flask off a shelf and was surprised to find that, although it cracked, it kept its shape. The flask had contained a liquid plastic, which had dried to a thin film on the inside. From this observation he developed safety glass, in which a plastic sheet is sandwiched between two layers of glass. It was used in the eyepieces of gas masks during the First World War and afterwards in the windscreens of cars.
+
+The screens of mobile phones depend on another kind of strengthened glass. It is dipped in a bath of hot chemicals, which forces larger atoms into the surface and squeezes it so tightly that scratches and cracks cannot easily spread. The material was invented in the 1960s but found few buyers and was abandoned, until a phone manufacturer asked for a tough, thin screen in 2007.
+@V
+myth = миф
+panes (pane) = оконное стекло
+flask = колба
+windscreen = лобовое стекло
+@Q TFNG
+Old cathedral windows are thicker at the bottom because the glass has slowly flowed. | F
+Benedictus discovered the principle of safety glass by chance. | T
+Strengthened glass for screens was an immediate commercial success in the 1960s. | F
+@Q GAP
+Safety glass has a sheet of ____ between two layers of glass. | plastic
+During the First World War, safety glass was used in gas ____ . | masks
+
+## The Number that Means Nothing
+@INSERT 3
+Even Brahmagupta was defeated by one question: what happens when a number is divided by zero? He suggested that zero divided by zero is zero, and later Indian mathematicians proposed that any other number divided by zero gives infinity. Modern mathematics simply declares the operation undefined. Computers must be told to avoid it, and the consequences of forgetting can be serious. In 1997 an American warship came to a halt at sea for more than two hours after a crew member entered a zero into a database and the ship's control software attempted to divide by it.
+
+The absence of zero in early Europe has left a curious mark on the calendar. The system of counting years from the birth of Christ was devised by a monk in Rome in AD 525, long before the new numerals arrived. He began his count with the year one, and so the year 1 BC is followed immediately by AD 1, with nothing in between. This is why purists insisted that the third millennium began on 1 January 2001, a year after most of the world had celebrated.
+
+Zero came fully into its own with the computer. In 1703 the German philosopher Gottfried Leibniz described a way of writing any number using only two symbols, 0 and 1. He regarded it mainly as a mathematical curiosity. Two and a half centuries later, engineers recognised that the two digits could be represented by a switch that is either off or on, and binary arithmetic became the language of every digital machine.
+@V
+infinity = бесконечность
+undefined = неопределённый
+halt = остановка
+binary = двоичный
+@Q TFNG
+A warship once stopped at sea because its software tried to divide by zero. | T
+The calendar in use today includes a year zero. | F
+Leibniz expected his two-symbol system to be used in machines. | F
+@Q GAP
+The system of counting years was devised by a monk in AD ____ . | 525
+In a computer, the two digits are represented by a ____ that is either off or on. | switch
+
+## The Psychology of Colour
+@INSERT 4
+The meanings attached to colours have often been a matter of cost. In the ancient Mediterranean the most prized dye was a purple extracted from sea snails; some ten thousand of them were needed to produce a single gram, and in Rome only the emperor was permitted to wear a robe dyed entirely with it. Purple remained the colour of rank until 1856, when an eighteen-year-old chemistry student in London, William Perkin, attempting to make a medicine for malaria, produced instead a dark sludge that stained cloth a brilliant mauve. It was the first synthetic dye, and within a few years purple dresses were within reach of any shop assistant.
+
+Conventions that seem natural can be surprisingly recent. The rule that pink is for girls and blue for boys dates only from about the 1940s. Earlier in the century American shops and magazines were divided on the question, and some gave exactly the opposite advice, on the grounds that pink, a paler version of red, was the stronger and more decided colour, while blue was delicate and dainty.
+
+It should not be forgotten that people do not all see the same colours. About one man in twelve, and one woman in two hundred, has difficulty in telling red from green. For this reason designers are advised never to rely on colour alone to convey important information. Traffic lights are a good example: the red lamp is always at the top, so that a driver who cannot distinguish the colours can still read the signal by its position.
+@V
+snail = улитка
+rank = высокое положение, ранг
+synthetic = синтетический
+convention = условность, обычай
+@Q TFNG
+Purple dye was once extremely expensive to produce. | T
+Perkin was trying to create a new dye when he made his discovery. | F
+Pink has been associated with girls for many centuries. | F
+@Q GAP
+About one man in ____ has difficulty telling red from green. | twelve/12
+In traffic lights, the red lamp is always at the ____ . | top
+
+## Why Do We Dream?
+@INSERT 3
+What do people actually dream about? The American psychologist Calvin Hall spent more than thirty years collecting written accounts of dreams, eventually assembling over 50,000. They proved far less exotic than might be expected. Most dreams took place in ordinary surroundings such as a house or a street, and involved the dreamer's family, friends and colleagues. Unpleasant feelings were considerably more common than pleasant ones, anxiety being the most frequent of all.
+
+People who have been blind from birth dream as often as anyone else, but their dreams contain no pictures: they are composed of sounds, touch, smell and movement. Those who lost their sight after the age of about seven usually continue to see in their dreams for the rest of their lives. Animals, too, appear to dream. When researchers recorded the brain cells of rats that had spent the day learning a maze, they found that the same cells fired in the same order while the animals slept, as though they were running the route again.
+
+Dreams have occasionally been credited with real achievements. The German chemist August Kekule claimed that the ring-shaped structure of an important chemical came to him in 1865 after he dozed by the fire and saw a snake seizing its own tail. A century later the musician Paul McCartney woke one morning with a complete melody in his head and at first assumed that he must have heard it somewhere. It became the song 'Yesterday'.
+@V
+exotic = экзотический, необычный
+maze = лабиринт
+dozed (doze) = дремать
+seizing (seize) = хватать
+@Q TFNG
+Hall found that most dreams are set in strange and unfamiliar places. | F
+People who have been blind from birth do not dream. | F
+The brain activity of sleeping rats repeated patterns from the daytime. | T
+@Q GAP
+The most frequent feeling in the dreams Hall collected was ____ . | anxiety
+Paul McCartney's dream melody became the song ____ . | Yesterday
+
+## The Olympic Games, Ancient and Modern
+@INSERT 3
+Several features that seem ancient are in fact modern inventions. The curious length of the marathon, 42.195 kilometres, was fixed at the London Games of 1908, when the course was laid out to start beneath the windows of Windsor Castle and finish in front of the royal seats in the stadium. The relay of runners carrying a flame from Olympia to the host city was devised for the Berlin Games of 1936. Even gold medals are not what they appear: since 1912 they have been made of silver covered with a thin layer of gold.
+
+The Games have also been a stage for moments that had little to do with sport. At Berlin, the government of the day intended the event to demonstrate its ideas of racial superiority, and was embarrassed when the black American athlete Jesse Owens won four gold medals. In 1960 the Ethiopian runner Abebe Bikila won the marathon in Rome running barefoot through the streets, the first African from south of the Sahara to become an Olympic champion.
+
+A parallel movement began in an English hospital. Ludwig Guttmann, a doctor treating soldiers with injuries to the spine, was convinced that sport would restore their strength and confidence. On the day the London Olympics opened in 1948, he held an archery contest for sixteen patients in wheelchairs. The event became annual, then international, and in 1960 the first Paralympic Games took place in Rome with four hundred competitors. More than four thousand now take part.
+@V
+relay = эстафета
+barefoot = босиком
+spine = позвоночник
+archery = стрельба из лука
+@Q TFNG
+The length of the marathon was decided at the first modern Games in 1896. | F
+Olympic gold medals are made of solid gold. | F
+Guttmann believed that sport could help injured soldiers. | T
+@Q GAP
+Abebe Bikila won the 1960 marathon running ____ . | barefoot
+The first Paralympic Games took place in the city of ____ . | Rome

@@ -1,0 +1,201 @@
+## The Decline of the Honeybee
+@INSERT 1
+A honeybee colony is a highly organised society. In summer a single hive may contain as many as 60,000 insects, almost all of them female workers. There is only one queen, whose sole task is to lay eggs, up to 2,000 a day at the height of the season. The workers do everything else. Young workers clean the hive and feed the larvae; as they grow older they build wax comb, guard the entrance and finally fly out to gather food. It is exhausting work, and in summer a worker lives for only about six weeks. The few hundred males, known as drones, do no work at all and are driven out of the hive when autumn comes.
+
+The economic value of this labour is enormous. Farmers of crops such as apples, cherries and almonds do not simply wait for bees to arrive; they rent them. Each February, well over a million hives are loaded onto lorries and driven to California, where the almond orchards cover an area so vast that local insects could never pollinate it. When the almond blossom is over, the same hives are moved on to other crops in other states. Critics argue that this constant travel, together with a diet restricted to a single kind of flower for weeks at a time, places the insects under considerable strain.
+
+It should also be remembered that the honeybee is only one of some 20,000 species of bee. Most of the others are solitary and make no honey, but many are excellent pollinators. Bumblebees, for instance, can shake pollen loose from tomato flowers by vibrating their bodies, something honeybees cannot do. Studies comparing fields in several countries have found that harvests are larger where wild bees are abundant, even when hives are present. Wild species, however, are harder to count than managed hives, and their decline has attracted far less publicity.
+@V
+larvae = личинки
+drone = трутень
+orchard = фруктовый сад
+solitary = одиночный
+@Q TFNG
+Most of the bees in a hive are male. | F
+A worker bee does the same job throughout its life. | F
+Almond growers in California pay to have hives brought to their orchards. | T
+@Q GAP
+Male bees, called ____ , are forced to leave the hive in autumn. | drones
+Bumblebees release pollen from tomato flowers by ____ their bodies. | vibrating
+
+## Coral Reefs Under Pressure
+@INSERT 3
+Rising temperature is not the only consequence of the carbon dioxide that humans release. About a quarter of the gas is absorbed by the oceans, where it forms a weak acid. Since the Industrial Revolution the surface of the sea has become roughly thirty per cent more acidic. For animals that build shells or skeletons from limestone, this is a serious handicap: the more acidic the water, the more energy they must spend to construct their skeletons, and the more easily existing ones dissolve. Corals in such conditions grow more slowly and are more likely to be broken by storms.
+
+Reefs also suffer from pressures closer to home. Fertiliser and soil washed off farmland make coastal water cloudy, cutting off the light, and encourage the growth of seaweed. On a healthy reef, seaweed is kept short by plant-eating fish such as parrotfish. Where these have been removed by overfishing, seaweed can spread over the coral and smother it. In parts of South-East Asia some fishermen still use explosives, which shatter in seconds a structure that took centuries to form. Careless tourism adds to the damage when anchors are dropped on coral or visitors break off pieces as souvenirs.
+
+Fortunately, reefs have a remarkable ability to renew themselves if they are given the chance. On a few nights each year, usually shortly after a full moon, the corals over a wide area release their eggs at almost exactly the same moment, filling the water with what divers describe as an underwater snowstorm. The young that result drift for days or weeks before settling on a hard surface to begin a new colony. Reefs in protected zones, where fishing is banned, have been shown to recover from bleaching considerably faster than those outside.
+@V
+dissolve = растворяться
+smother = душить, заглушать
+shatter = разбивать вдребезги
+drift = дрейфовать
+@Q MATCH
+a comparison between reefs inside and outside protected areas | F
+damage caused by visitors | E
+@Q GAP
+The sea surface is about ____ per cent more acidic than before the Industrial Revolution. | thirty/30
+On a healthy reef, seaweed is controlled by fish such as ____ . | parrotfish
+@Q TFNG
+Corals release their eggs at different times throughout the month. | F
+
+## The Intelligence of the Octopus
+@INSERT 3
+Evidence of planning has also been observed in the wild. In 2009 biologists working in Indonesia filmed veined octopuses collecting the empty halves of coconut shells that people had thrown into the sea. An animal would stack two halves, carry them awkwardly beneath its body across the open seabed and later fit them together to form a shelter. Since the shells were of no use while they were being carried, and indeed made the animal slower, the researchers argued that the octopus was preparing for a future need, which is usually taken as a sign of advanced thinking.
+
+Octopuses kept in laboratories show marked individual differences, which their keepers describe as personality: some are bold, others shy. They appear to tell people apart as well. In an experiment at an aquarium in Seattle, one person regularly fed a group of octopuses while another touched them with a bristly stick. Within two weeks the animals behaved quite differently towards the two, moving towards the first and squirting water at the second, although both wore identical uniforms. Some individuals have even been seen to play, repeatedly pushing a floating bottle around their tank with jets of water.
+
+What makes all this so intriguing is the evolutionary distance involved. The last ancestor shared by humans and octopuses was probably a small worm-like creature that lived about 600 million years ago. Complex brains therefore evolved twice, quite independently. Many biologists believe that the octopus became clever after its ancestors lost their protective shell. A soft body with no armour is an easy meal, so survival depended on hiding, escaping and outwitting predators.
+@V
+shelter = укрытие
+bold = смелый
+squirt = брызгать струёй
+armour = броня, панцирь
+@Q TFNG
+The coconut shells slowed the octopuses down while they were carrying them. | T
+The two people in the Seattle experiment wore different clothes. | F
+Shy octopuses learn more slowly than bold ones. | NG
+@Q GAP
+The common ancestor of humans and octopuses lived roughly ____ million years ago. | 600
+@Q MCQ
+According to many biologists, octopuses became intelligent because | A they needed to catch faster prey. | B they no longer had a shell to protect them. | C they lived in large groups. | D they had to care for their young. | B
+
+## How Birds Find Their Way
+@INSERT 1
+For a long time people had no idea where the birds went. The Greek philosopher Aristotle supposed that swallows spent the winter asleep in holes or under water, and the belief survived for some two thousand years. Decisive evidence came in 1822, when a stork was shot in northern Germany with a spear almost a metre long stuck through its neck. The spear was of a type made in central Africa. The unfortunate bird had been wounded there and had nevertheless flown back to Europe. Today researchers fit birds with numbered leg rings or with electronic tags weighing less than a gram, which record a bird's position throughout its journey.
+
+The reason for these exhausting journeys is food. The far north offers an enormous supply of insects and almost continuous daylight in summer, ideal conditions for raising young, but in winter there is little to eat. Before setting off, migrants feed intensively, and some small songbirds almost double their body weight in a few weeks. The stored fat is their fuel. Certain species go further still: the godwit actually shrinks its stomach and other digestive organs before departure, since they are useless weight on a flight during which it will not eat.
+
+Birds also save energy by the way they fly. Geese and cranes travel in a V-shaped formation, in which each bird gains lift from the air disturbed by the wings of the one in front; the leader, which works hardest, changes regularly. Many small birds migrate at night, when the air is cooler and calmer and there are fewer hawks about. Height is no obstacle either. Bar-headed geese cross the Himalayas on their way between Central Asia and India, at altitudes where a human climber would struggle to breathe.
+@V
+spear = копьё
+fuel = топливо
+departure = отправление
+altitude = высота (над уровнем моря)
+@Q SHORT
+In which country was the stork with the spear found? | Germany
+What do migrating birds use as fuel? | fat/stored fat
+@Q TFNG
+Aristotle correctly explained where swallows went in winter. | F
+The bird at the front of a V formation stays there for the whole flight. | F
+Bar-headed geese fly faster than other geese. | NG
+
+## Living with Volcanoes
+@INSERT 2
+Not all eruptions are alike. Where the molten rock is thin and runny, as in Hawaii, gas escapes easily and lava pours out in glowing rivers. These are spectacular but slow, and people can usually walk away from them. The real killers are volcanoes whose molten rock is thick and sticky. Gas is trapped inside until the pressure becomes too great, and the mountain explodes. The greatest danger then is not lava but a pyroclastic flow, a cloud of burning gas and ash that races down the slope at more than a hundred kilometres an hour. It was a cloud of this kind that overwhelmed Pompeii.
+
+The explosion of Krakatoa, an island volcano in Indonesia, in August 1883 showed how far the effects can reach. The final blast was heard almost 5,000 kilometres away and is thought to be the loudest sound in recorded history. It sent giant waves crashing onto the neighbouring coasts, and so much fine dust rose into the upper atmosphere that sunsets around the world turned a vivid red for months afterwards.
+
+Even a modest eruption can disrupt modern life. In April 2010 a volcano beneath a glacier in Iceland produced a plume of fine ash that drifted over Europe. Because such ash can melt inside jet engines and stop them, most of the continent's airspace was closed for six days. About 100,000 flights were cancelled and millions of passengers were stranded, although nobody was hurt.
+@V
+runny = жидкий, текучий
+sticky = вязкий, липкий
+blast = взрыв
+plume = столб, шлейф
+@Q TFNG
+Lava flows in Hawaii usually move too fast for people to escape. | F
+The sound of Krakatoa's explosion was heard thousands of kilometres away. | T
+The Icelandic eruption of 2010 caused many deaths. | F
+@Q GAP
+A fast-moving cloud of burning gas and ash is called a ____ flow. | pyroclastic
+In 2010 most of Europe's airspace was closed for ____ days. | six/6
+
+## The Deep Sea: Earth's Last Frontier
+@INSERT 3
+Reaching such depths is a formidable engineering challenge. In January 1960 the Swiss engineer Jacques Piccard and the American naval officer Don Walsh climbed into a steel sphere beneath a vessel named Trieste and sank for almost five hours to the floor of the Mariana Trench in the Pacific, nearly eleven kilometres down. During the descent one of the outer windows cracked with a loud bang. They spent only twenty minutes on the bottom, and the cloud of mud they had stirred up prevented them from taking photographs. No human returned to that spot for more than fifty years.
+
+Since plants cannot grow without light, almost everything that lives in the deep depends on food falling from above. Most of it arrives as 'marine snow', a slow, continuous shower of dead plankton and other tiny particles. Occasionally there is a feast. The body of a dead whale that sinks to the seabed can support a whole community for decades: first sharks and other scavengers strip the flesh, and finally strange worms, first identified in 2002, dissolve and consume the bones themselves.
+
+Deep-sea animals cope with the pressure in a simple way. Their bodies contain no air spaces that could be squeezed, and their tissue is largely water, which can hardly be compressed. Brought quickly to the surface, many of them lose their shape altogether. Some grow to remarkable sizes. The giant squid, which can exceed twelve metres in length, was known for centuries only from dead specimens washed ashore; it was not filmed alive in its natural home until 2012.
+@V
+formidable = грандиозный, очень трудный
+descent = спуск, погружение
+scavenger = падальщик
+specimen = экземпляр, образец
+@Q SHORT
+What was the name of the vessel used in the 1960 dive? | Trieste
+How long did the two men stay on the seabed? | twenty minutes/20 minutes
+@Q TFNG
+Piccard and Walsh brought back photographs of the trench floor. | F
+A dead whale can provide food on the seabed for many years. | T
+Giant squid had been filmed alive in the ocean several times before 2012. | F
+
+## Why We Sleep
+@INSERT 3
+What happens when people do not sleep at all? In 1964 a seventeen-year-old Californian schoolboy, Randy Gardner, stayed awake for eleven days as a science project, watched by a researcher from Stanford University. After a few days he became irritable and forgetful and could not repeat simple sentences; later he began to see things that were not there. Remarkably, he recovered fully after a few long nights of sleep. Record books no longer accept such attempts, on the grounds that they are too dangerous.
+
+Far more common than total loss of sleep is mild, continual shortage, and its effects are easily underestimated. Laboratory tests have shown that a person who has been awake for about eighteen hours reacts as slowly as someone who has drunk enough alcohol to reach the legal limit for driving in many countries. Tired people, moreover, are poor judges of their own condition and tend to insist that they are perfectly alert. Sleepiness at the wheel is believed to be a factor in a significant proportion of serious road accidents.
+
+The timing of sleep is governed by an internal clock in the brain, which runs on a cycle of roughly twenty-four hours and is reset each morning by daylight. This clock is not the same for everyone, and it changes with age. During adolescence it shifts later, so that teenagers genuinely find it hard to fall asleep early and to wake early. Some schools in the United States that moved their first lesson to a later hour have reported better attendance and higher marks.
+@V
+irritable = раздражительный
+alert = бодрый, внимательный
+adolescence = подростковый возраст
+attendance = посещаемость
+@Q TFNG
+Randy Gardner suffered permanent damage as a result of his experiment. | F
+Tired people usually recognise how badly they are performing. | F
+Some schools that started lessons later saw an improvement in marks. | T
+@Q GAP
+Randy Gardner stayed awake for ____ days. | eleven/11
+The body's internal clock is reset every morning by ____ . | daylight
+
+## The Moon and the Tides
+@INSERT 3
+The tides have a slow but measurable effect on the planet itself. As the bulges of water drag across the sea floor, friction acts as a brake on the Earth's rotation, and each century the day grows longer by about two thousandths of a second. The evidence is preserved in fossil corals, which add a thin layer of limestone every day; specimens 400 million years old show that a year then contained about 400 days, each lasting less than twenty-two hours. The energy lost by the Earth is transferred to the Moon, which is moving away from us by almost four centimetres a year.
+
+For the plants and animals of the shore, the tide is the main fact of life. The strip of coast that is covered and uncovered twice a day is one of the harshest environments on Earth: its inhabitants must survive drying wind, hot sun and fresh rainwater, and then the pounding of waves. Mussels and barnacles close their shells tightly when the water retreats and open them to feed when it returns. Many sea creatures time their breeding by the tides, coming ashore to lay their eggs only on the nights of the highest spring tides.
+
+People who misjudge the tide can pay heavily. When Julius Caesar landed in Britain in 55 BC, his soldiers, who were used to the almost tideless Mediterranean, pulled their ships onto the beach. A few nights later a spring tide combined with a storm filled the ships with water and smashed many of them. Even today, rescue services are regularly called out to walkers who have been cut off by water rising behind them across flat sands.
+@V
+friction = трение
+fossil = ископаемое, окаменелость
+shell = раковина
+misjudge = неверно оценить
+@Q GAP
+Tidal friction is gradually slowing the Earth's ____ . | rotation
+Evidence about the length of ancient days comes from fossil ____ . | corals
+@Q TFNG
+The Moon is slowly getting closer to the Earth. | F
+Caesar's soldiers had little experience of tides. | T
+Mussels feed when they are uncovered by the tide. | F
+
+## Bamboo: The Giant Grass
+@INSERT 2
+Few plants have served people in so many ways. Before paper became common, Chinese writers used narrow strips of bamboo tied together with string, and the plant has supplied Asia with water pipes, fishing rods, musical instruments and chopsticks. It even played a part in the history of electric light. In 1880, searching for a material that would glow for a long time without burning away, the American inventor Thomas Edison tested thousands of plant fibres and found that a thread of carbonised Japanese bamboo lasted for more than 1,200 hours. Bamboo was used in his lamps for the next decade.
+
+The secret of the plant's rapid growth lies underground. Bamboo spreads by means of horizontal stems beneath the soil, from which new shoots rise each spring, so that an entire grove may be a single plant. A shoot emerges from the ground already as thick as it will ever be and reaches its full height within about two months; after that it hardens but grows no further. The dense network of roots holds soil in place and is valued for preventing erosion on steep slopes. In gardens, however, the same habit makes some kinds of bamboo extremely difficult to control.
+
+Bamboo is also eaten. The young shoots are a popular vegetable across East Asia, although most kinds must be boiled first to remove bitter, mildly poisonous substances. For the giant panda, bamboo is practically the whole menu. Because the plant contains so little nourishment, an adult panda has to eat for as long as twelve hours a day, consuming more than twelve kilograms of leaves and stems.
+@V
+grove = роща
+shoot = побег, росток
+erosion = эрозия
+nourishment = питательность, питание
+@Q TFNG
+Edison used bamboo from Japan in his electric lamps. | T
+A bamboo shoot becomes thicker every year. | F
+All bamboo shoots are safe to eat raw. | F
+@Q GAP
+Bamboo's roots are valued for preventing ____ on steep slopes. | erosion
+An adult panda may spend as long as ____ hours a day eating. | twelve/12
+
+## How Memory Works
+@INSERT 3
+Much of what is known about where memories are formed comes from a single patient. In 1953 a young American, Henry Molaison, underwent an operation to cure severe epilepsy, in which surgeons removed a small structure deep in the brain called the hippocampus. The epilepsy improved, but for the remaining fifty-five years of his life he was unable to form new long-term memories; he greeted the doctors who studied him as strangers every day. Yet he could still learn physical skills, such as drawing a shape while watching his hand in a mirror, without any recollection of having practised. Memory, it became clear, is not one system but several.
+
+The hippocampus can also change with use. To obtain a licence, London taxi drivers must learn the layout of some 25,000 streets, a task that takes three or four years. When the neuroscientist Eleanor Maguire scanned their brains in 2000, she found that the rear part of the hippocampus was larger than in other people, and largest in those who had been driving longest.
+
+Ordinary people can improve their memories considerably with technique. The oldest method, attributed to the Greek poet Simonides, is to imagine a familiar building and place the items to be remembered in different rooms; to recall them, one simply takes a walk through the building in the mind. Competitors in modern memory championships use this approach to memorise the order of a pack of playing cards in under half a minute. Tests suggest that such people are not born with unusual brains: they have simply trained.
+@V
+surgeon = хирург
+recollection = воспоминание
+layout = расположение, планировка
+attribute = приписывать
+@Q TFNG
+The operation on Henry Molaison failed to help his epilepsy. | F
+After the operation, Molaison was still able to learn new physical skills. | T
+Memory champions are born with exceptional brains. | F
+@Q GAP
+London taxi drivers have to learn the layout of about ____ streets. | 25,000/25000
+The method of Simonides involves imagining a familiar ____ . | building

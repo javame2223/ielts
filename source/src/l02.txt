@@ -1,0 +1,175 @@
+## Planning a Group Presentation | Section 3
+@CTX You will hear two students, Maya and Tom, discussing a presentation on urban transport with their tutor.
+@VOICES Tutor=m Maya=f Tom=m
+@S
+Tutor: Come in, both of you. So, how is the presentation on urban transport going?
+Maya: Quite well, I think. We've decided to focus on cycling in cities, rather than transport in general.
+Tutor: Good. A narrow topic is easier to handle in fifteen minutes. Which cities are you comparing?
+Tom: Copenhagen and London. Copenhagen is the obvious success story. Nearly half of all trips to work or school there are made by bike.
+Tutor: And why is that, in your view?
+Maya: Mainly the infrastructure. The cycle lanes are separated from the cars by a kerb, so people feel safe. In London many lanes are just painted lines.
+Tom: I'd add cost. Owning a car in Denmark is very expensive because of the tax on new vehicles.
+Tutor: That's a fair point. What sources are you using?
+Maya: We have official statistics from both city councils, and Tom found a good journal article.
+Tom: Yes, but it was published in two thousand and twelve, so the figures are quite old.
+Tutor: Then use it for the background, not for current data. Have you thought about doing any research of your own?
+Maya: We'd like to do a short survey of students here, asking why they do or don't cycle to campus.
+Tutor: Excellent. Keep it short, though. Five or six questions at most, and aim for about fifty responses.
+Tom: How should we divide the talk?
+Tutor: I'd suggest Maya presents the comparison of the two cities, and Tom, you present the survey and the recommendations. And please don't read from your notes. Last year that was the most common weakness.
+Maya: Should we use slides?
+Tutor: Yes, but no more than ten, with very little text. Use graphs and photographs instead. One more thing. Leave three minutes at the end for questions from the audience.
+Tom: When do you need our outline?
+Tutor: By next Friday, by email. The presentation itself is on the twenty-first of November.
+@Q LMCQ
+The students have decided to focus on | A public transport in general. | B cycling in cities. | C the cost of cars. | B
+According to Maya, the main reason for Copenhagen's success is | A the flat landscape. | B the high tax on cars. | C the separated cycle lanes. | C
+What is the problem with the journal article Tom found? | A It is out of date. | B It is too long. | C It is about a different city. | A
+The tutor says that last year's most common weakness was | A too many slides. | B reading from notes. | C speaking too fast. | B
+@Q LGAP
+Length of the presentation: ____ minutes | 15/fifteen
+Target number of survey responses: about ____ | 50/fifty
+Tom will present the survey and the ____ | recommendations
+Maximum number of slides: ____ | 10/ten
+Time to leave for questions: ____ minutes | 3/three
+The outline must be sent by next ____ | Friday
+
+## Discussing a Field Trip Report | Section 3
+@CTX You will hear two geography students, Anna and Ben, talking about a report they have to write after a field trip to the coast.
+@VOICES Anna=f Ben=m
+@S
+Anna: Ben, have you started the field trip report yet?
+Ben: Only the introduction. I'm not sure how to organise the rest. How about you?
+Anna: I've made a plan. I think the method section should come straight after the introduction, where we explain how we measured the beach.
+Ben: OK. We measured the width of the beach at six points, didn't we?
+Anna: Eight points, actually, every fifty metres. And we recorded the size of the stones at each one.
+Ben: Right. My notes got wet in the rain, so some of my numbers are hard to read.
+Anna: Don't worry, I photographed all the data sheets on my phone. I'll send them to you tonight.
+Ben: Thanks. What did you think was the most interesting result?
+Anna: That the stones got smaller as we moved east. It shows the direction the waves carry material along the coast.
+Ben: Yes, and the beach was much wider on the west side of each wooden barrier. I was surprised how big the difference was.
+Anna: Me too. I think we should present that in a bar chart, and use a map to show where the eight points were.
+Ben: Good idea. I can draw the map. I'm quite good with the mapping software.
+Anna: Great. Then I'll do the charts. What about the conclusion?
+Ben: Doctor Evans said we should evaluate the method, not just repeat the results. What would you criticise?
+Anna: Well, we only visited once, in calm weather. The beach probably looks very different after a winter storm.
+Ben: True. And we measured the stones by hand, which isn't very accurate.
+Anna: Let's say both of those things. How long does the report have to be?
+Ben: Two thousand words, not including the appendix.
+Anna: And the deadline is the fifth of March, isn't it?
+Ben: It was, but she's extended it to the twelfth because of the strike.
+Anna: That's a relief. Shall we meet on Wednesday in the library to compare drafts?
+Ben: Wednesday's fine. Two o'clock?
+@Q LGAP
+Number of measuring points on the beach: ____ | 8/eight
+Distance between the points: ____ metres | 50/fifty
+Ben's notes were damaged by ____ | rain/the rain
+Anna has photographs of the data sheets on her ____ | phone
+The stones became smaller towards the ____ | east
+Results will be shown in a ____ chart | bar
+Ben will draw the ____ | map
+Word limit: ____ words | 2000/2,000/two thousand
+New deadline: the ____ of March | 12th/12/twelfth
+@Q LMCQ
+One weakness of the method was that the students | A visited the beach only once. | B used the wrong software. | C measured too few stones. | A
+
+## Choosing a Dissertation Topic | Section 3
+@CTX You will hear a student, Laura, talking to her supervisor about her dissertation in business studies.
+@VOICES Supervisor=m Laura=f
+@S
+Supervisor: Hello Laura, have a seat. You wanted to talk about your dissertation topic.
+Laura: Yes. I'm interested in small businesses, and I was thinking of writing about why so many new cafés fail in their first year.
+Supervisor: It's an interesting area, but getting data could be difficult. Owners of failed businesses don't usually want to be interviewed.
+Laura: I hadn't thought of that. My second idea was to look at how small shops use social media to attract customers.
+Supervisor: That's more practical. Do you have any contacts?
+Laura: My aunt owns a bookshop, and she knows other shop owners in the town centre. I think I could interview about ten of them.
+Supervisor: Ten interviews would be enough if they're done carefully. I'd recommend combining them with a questionnaire for customers, so you have two kinds of evidence.
+Laura: How many customers should I ask?
+Supervisor: Around a hundred would be reasonable. You could do it online to save time.
+Laura: OK. Is there much published research on this?
+Supervisor: A fair amount on large companies, but much less on small independent shops. That gap is exactly what makes your project worthwhile. Start with the reading list from the marketing module, especially the chapter on digital strategy.
+Laura: Right. What should I do first?
+Supervisor: Write a research proposal of about five hundred words. It should include your main research question, your methods and a timetable. And you'll need to complete an ethics form before you interview anyone. Students often forget that, and it delays everything.
+Laura: When would you like the proposal?
+Supervisor: By the end of October. Then we'll meet every two weeks. The final dissertation is ten thousand words and is due in May.
+Laura: That sounds like a lot.
+Supervisor: It is, but if you write a little every week it's manageable. Most students leave the writing too late. That's the biggest mistake.
+@Q LMCQ
+Why does the supervisor advise against the first topic? | A It has been studied too often. | B It would be hard to collect data. | C It is not related to business. | B
+Laura's contact with shop owners comes through | A her aunt. | B her supervisor. | C a previous job. | A
+The supervisor says existing research mostly concerns | A cafés. | B small shops. | C large companies. | C
+According to the supervisor, students' biggest mistake is | A choosing the wrong topic. | B starting to write too late. | C interviewing too few people. | B
+@Q LGAP
+Number of shop owners Laura can interview: about ____ | 10/ten
+Suggested number of customers for the questionnaire: about ____ | 100/a hundred/one hundred
+Length of the research proposal: about ____ words | 500/five hundred
+Before interviewing, Laura must complete an ____ form | ethics
+The proposal is due by the end of ____ | October
+Length of the final dissertation: ____ words | 10000/10,000/ten thousand
+
+## The History of the Postal Service | Section 4
+@CTX You will hear part of a lecture about the development of postal services.
+@VOICES Lecturer=m
+@S
+Lecturer: Today I want to look at something we tend to take for granted, the postal service, and to show how it shaped modern communication.
+Lecturer: Organised systems for carrying messages are extremely old. The Persian Empire, around five hundred BC, had a royal road with stations where riders changed horses. A message could cross the empire in about a week. But this system, like the later Roman one, was for government use only. Ordinary people had to rely on travellers or merchants to carry their letters.
+Lecturer: Public postal services developed in Europe from the sixteenth century, but they were expensive and complicated. In Britain before eighteen forty, the cost of a letter depended on the distance and on the number of sheets of paper. And, importantly, the cost was paid not by the sender but by the person who received it. Many people simply refused to accept letters they could not afford.
+Lecturer: The reform came from a teacher called Rowland Hill. In eighteen thirty-seven he published a pamphlet arguing that the real cost of carrying a letter was tiny, and that most of the expense came from calculating and collecting the charges. He proposed a single low price of one penny for any distance, paid in advance by the sender. To show payment, he suggested a small piece of paper with glue on the back. This was the first postage stamp, known as the Penny Black, issued in May eighteen forty.
+Lecturer: The results were dramatic. Within a year the number of letters sent in Britain more than doubled. Other countries copied the system quickly. Cheap post encouraged people to learn to read and write, helped businesses to grow, and allowed families separated by migration to stay in contact.
+Lecturer: In eighteen seventy-four, an international agreement signed in Switzerland created what is now the Universal Postal Union, so that a stamp bought in one country would carry a letter to any other. Today, of course, the number of letters is falling because of email, but parcels are increasing rapidly as a result of online shopping.
+@Q LGAP
+In the Persian Empire, riders changed ____ at stations along the royal road | horses
+Early postal systems were only for ____ use | government
+Before 1840, the cost was paid by the person who ____ the letter | received
+Rowland Hill worked as a ____ | teacher
+His pamphlet was published in ____ | 1837/eighteen thirty-seven
+He proposed a price of one ____ for any distance | penny
+The first stamp was called the Penny ____ | Black
+Within a year, the number of letters more than ____ | doubled
+The international agreement of 1874 was signed in ____ | Switzerland
+Today the number of ____ is rising because of online shopping | parcels
+
+## How Bees Communicate | Section 4
+@CTX You will hear part of a lecture on animal behaviour.
+@VOICES Lecturer=f
+@S
+Lecturer: In this lecture I'd like to describe one of the most remarkable communication systems in the animal world, the dance of the honeybee.
+Lecturer: Beekeepers had noticed for centuries that when one bee found a rich source of food, many others soon arrived at the same place. The explanation was discovered by an Austrian scientist, Karl von Frisch, who began his experiments in the nineteen twenties. He marked individual bees with tiny spots of paint and watched them through a glass wall in the hive.
+Lecturer: He found that a bee returning from flowers close to the hive performs what he called the round dance. She simply runs in circles. This tells the others that food is nearby, within about fifty metres, but it gives no direction.
+Lecturer: For food that is farther away, the bee performs the waggle dance. She runs in a straight line while shaking her body from side to side, then circles back and repeats the run. The two key pieces of information are in that straight run. First, its length shows the distance. Roughly speaking, one second of waggling means one kilometre. Second, the angle of the run shows the direction. Inside the dark hive the bee dances on a vertical surface, and she uses gravity to represent the sun. A run straight up means fly towards the sun. A run at sixty degrees to the right of vertical means fly sixty degrees to the right of the sun.
+Lecturer: The other bees follow the dancer closely, touching her with their antennae, and they also learn the smell of the flowers from her body.
+Lecturer: Many scientists at first refused to believe that an insect could use such a symbolic language. Von Frisch's ideas were only fully accepted decades later, and he shared the Nobel Prize in nineteen seventy-three. Later experiments using tiny radar devices attached to bees confirmed that they really do fly to the place the dance indicates.
+Lecturer: Bees also use the dance when choosing a new home. Scouts dance to advertise sites they have found, and the colony moves only when enough scouts agree. It is, in effect, a kind of democratic vote.
+@Q LGAP
+Von Frisch began his experiments in the ____ | 1920s/nineteen twenties
+He marked bees with small spots of ____ | paint
+The round dance means food is within about ____ metres | 50/fifty
+The round dance does not show ____ | direction
+One second of waggling represents about one ____ | kilometre/kilometer/km
+In the hive, bees use ____ to represent the sun | gravity
+Other bees touch the dancer with their ____ | antennae
+Von Frisch shared the Nobel Prize in ____ | 1973/nineteen seventy-three
+Later experiments used small ____ devices fixed to bees | radar
+Bees also dance when choosing a new ____ | home
+
+## The Development of the Shipping Container | Section 4
+@CTX You will hear part of a lecture on the history of world trade.
+@VOICES Lecturer=m
+@S
+Lecturer: When we talk about globalisation, we usually think of the internet or of trade agreements. Today I want to argue that a simple steel box has been just as important.
+Lecturer: Until the nineteen fifties, loading a ship was slow and costly. Goods arrived at the port in sacks, barrels and wooden crates of every size. Each item had to be carried on board by hand and packed carefully into the ship. A vessel could spend more time in port than at sea, and loading could account for half the total cost of a voyage. Theft was common too.
+Lecturer: The man who changed this was not a sailor but an American trucking businessman, Malcolm McLean. He asked a simple question. Why unload the truck at all? Why not lift the whole body of the truck onto the ship? On the twenty-sixth of April nineteen fifty-six, his converted oil tanker, the Ideal X, sailed from New Jersey to Texas carrying fifty-eight containers. The cost of loading fell from nearly six dollars a ton to about sixteen cents.
+Lecturer: Success was not immediate. Ports needed huge new cranes, and dock workers, who feared for their jobs, went on strike. Above all, different companies used boxes of different sizes. Only in the nineteen sixties were international standards agreed, the most common being lengths of twenty and forty feet. Standard boxes could move from ship to train to truck anywhere in the world.
+Lecturer: The consequences were enormous. Transport became so cheap that it made sense to manufacture goods thousands of kilometres from the customer. Factories moved to countries with lower wages, especially in East Asia. Old ports in city centres, such as London and New York, declined, because container ships needed deep water and a great deal of space. New ports like Rotterdam and Singapore grew rapidly.
+Lecturer: Today about ninety per cent of non-bulk goods travel in containers, and the largest ships carry more than twenty thousand of them. The system is efficient but also fragile, as we saw in twenty twenty-one, when a single ship blocked the Suez Canal for six days and delayed trade around the world.
+@Q LGAP
+Before containers, loading could make up ____ of a voyage's cost | half
+Another common problem in ports was ____ | theft
+McLean's business was in ____ | trucking
+The Ideal X carried ____ containers | 58/fifty-eight
+Loading cost fell to about ____ cents a ton | 16/sixteen
+Dock workers went on ____ | strike
+Standard container lengths are twenty and ____ feet | 40/forty
+Factories moved especially to East ____ | Asia
+About ____ per cent of non-bulk goods travel in containers | 90/ninety
+In 2021 a ship blocked the Suez Canal for ____ days | 6/six

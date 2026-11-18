@@ -1,0 +1,289 @@
+## The Decline of the Honeybee | Science & Nature
+Honeybees are among the most valuable insects on Earth. As they travel from flower to flower collecting nectar, they carry pollen with them, and this process of pollination allows plants to produce fruit and seeds. Roughly a third of the food that humans eat depends, directly or indirectly, on pollinators, and honeybees do a large share of that work.
+
+In the winter of 2006, beekeepers in the United States began reporting something strange. Worker bees were vanishing from their hives, leaving behind the queen, plenty of food and a few young bees. Very few dead bees were found nearby. Scientists named the phenomenon Colony Collapse Disorder, and similar losses were soon recorded in parts of Europe.
+
+No single cause has been identified. Most researchers now believe that several pressures act together. A tiny parasite, the varroa mite, feeds on bees and spreads viruses. Certain pesticides, even in small doses, appear to damage the bees' ability to navigate back to the hive. In addition, modern farming has replaced wild meadows with huge fields of a single crop, so bees have a poorer and less varied diet.
+
+There is some reason for optimism. Several countries have restricted the most harmful pesticides, and farmers are being paid to plant strips of wild flowers along the edges of their fields. City residents are helping too: urban hives on rooftops often do surprisingly well, because gardens and parks offer a wide range of flowers throughout the year.
+@V
+nectar = нектар
+pollination = опыление
+vanish = исчезать
+hive = улей
+parasite = паразит
+pesticide = пестицид
+navigate = ориентироваться, находить путь
+meadow = луг
+@Q TFNG
+Honeybees are responsible for all of the pollination that food crops require. | F
+When colonies collapsed, large numbers of dead bees were usually found close to the hive. | F
+Colony Collapse Disorder was first noticed in Europe. | F
+Varroa mites were accidentally brought to the United States from Asia. | NG
+@Q MCQ
+According to the passage, modern farming harms bees mainly because it | A uses too much water. | B reduces the variety of their food. | C destroys their hives directly. | D attracts more parasites. | B
+Urban hives are often successful because | A cities are warmer than the countryside. | B there are no pesticides in cities. | C city plants flower across the whole year. | D city beekeepers are better trained. | C
+@Q GAP
+Some pesticides seem to harm the bees' ability to ____ home. | navigate
+Farmers receive money for planting ____ at the borders of fields. | wild flowers
+
+## Coral Reefs Under Pressure | Science & Nature
+Coral reefs cover less than one per cent of the ocean floor, yet they are home to around a quarter of all marine species. For this reason they are often called the rainforests of the sea. A reef may look like rock, but it is built by millions of tiny animals called polyps, which produce a hard skeleton of limestone. Over thousands of years these skeletons accumulate into enormous structures.
+
+Corals get their colour, and most of their food, from microscopic algae that live inside their tissue. The relationship benefits both sides: the algae receive shelter, and in return they supply the coral with energy made from sunlight. This is why reefs grow only in clear, shallow water where light can reach them.
+
+The partnership is fragile, however. When sea temperatures rise by just one or two degrees for several weeks, the stressed coral expels its algae and turns white, an event known as bleaching. A bleached coral is not dead, and it can recover if the water cools quickly. If the heat continues, though, it slowly starves.
+
+Reefs matter to people as well as to fish. They protect coastlines by breaking the force of waves, and hundreds of millions of people rely on them for food or for income from tourism. Scientists are now experimenting with growing heat-resistant corals in nurseries and planting them on damaged reefs. Such projects are promising, but most experts agree that they cannot succeed unless the warming of the oceans is slowed.
+@V
+marine = морской
+skeleton = скелет
+accumulate = накапливаться
+algae = водоросли
+shallow = мелкий, неглубокий
+fragile = хрупкий
+expel = выбрасывать, изгонять
+bleaching = обесцвечивание
+@Q TFNG
+Coral reefs occupy a very small proportion of the sea bed. | T
+Polyps are a type of plant. | F
+Bleached corals always die within a few weeks. | F
+The largest reef in the world is located near Australia. | NG
+@Q SUM
+Corals obtain most of their food from tiny ____ living in their tissue. | algae
+In exchange for energy, the coral gives them ____ . | shelter
+Because the process needs ____ , reefs are found only in clear, shallow water. | sunlight/light
+@Q MCQ
+What is the writer's view of coral nurseries? | A They are a waste of money. | B They will solve the problem on their own. | C They are useful but not sufficient. | D They damage healthy reefs. | C
+
+## The Intelligence of the Octopus | Science & Nature
+The octopus is one of the strangest clever animals on the planet. Its closest relatives are slow creatures such as snails and clams, yet it can solve puzzles, open jars and escape from tanks that were thought to be secure. Aquarium staff around the world tell stories of octopuses that climbed out at night, ate fish in a neighbouring tank and returned before morning.
+
+Its body is as unusual as its behaviour. An octopus has three hearts and blue blood, and about two thirds of its neurons are located not in its brain but in its eight arms. Each arm can taste what it touches and can carry out some movements without instructions from the brain. Because the animal has no bones, it can squeeze through any gap larger than its hard beak.
+
+Octopuses are also masters of disguise. Special cells in the skin allow them to change colour and even texture in less than a second, so that they resemble sand, rock or seaweed. Curiously, experiments suggest that they are colour-blind, and scientists still do not fully understand how they match their surroundings so precisely.
+
+Perhaps the most surprising fact is how short their lives are. Most species live for only one or two years, and they grow up without any contact with their parents. Unlike apes or dolphins, therefore, an octopus cannot learn from older animals. Everything it knows, it has discovered alone, which makes its intelligence all the more remarkable.
+@V
+relative = родственник
+secure = надёжный, безопасный
+neuron = нейрон
+squeeze = протискиваться
+beak = клюв
+disguise = маскировка
+texture = текстура, фактура
+remarkable = поразительный
+@Q TFNG
+Octopuses are closely related to snails. | T
+Most of an octopus's neurons are found in its brain. | F
+An octopus's arms are able to sense taste. | T
+Octopuses in aquariums are fed only at night. | NG
+@Q SHORT
+What is the only hard part of an octopus's body mentioned in the passage? | beak/its beak/hard beak
+How long do most octopus species live? | one or two years/1 or 2 years/two years
+@Q MCQ
+What puzzles scientists about octopus camouflage? | A How quickly the skin changes. | B How the animal copies colours it apparently cannot see. | C Why it copies seaweed. | D Why only some species can do it. | B
+The writer finds octopus intelligence especially impressive because octopuses | A have larger brains than dolphins. | B are taught by their parents very quickly. | C learn everything by themselves. | D live for a long time. | C
+
+## How Birds Find Their Way | Science & Nature
+Every autumn, billions of birds leave their breeding grounds and fly to warmer regions, returning in spring. Some of these journeys are astonishing. The Arctic tern travels from the Arctic to the Antarctic and back each year, a round trip of more than 70,000 kilometres, while the bar-tailed godwit can fly for over a week across the Pacific Ocean without landing once.
+
+How birds navigate over such distances puzzled naturalists for centuries. It is now clear that they use several methods at the same time. During the day many species use the position of the sun, adjusting for the time with an internal clock. At night they steer by the stars. In a famous experiment in the 1960s, young birds raised in a planetarium learned to orient themselves by the pattern of the artificial night sky.
+
+Birds can also detect the Earth's magnetic field, although exactly how they do so is still debated. One theory suggests that light-sensitive molecules in the eye allow a bird literally to see the field. Closer to home, birds switch to landmarks such as rivers, coastlines and mountain ranges, and some seabirds even appear to use smell.
+
+Migration is risky. Storms, hunger and predators kill many birds on the way, and human activity has added new dangers. Brightly lit cities confuse birds that fly at night, and the wetlands where they stop to rest and feed are disappearing. Protecting these stopover sites, researchers say, is as important as protecting the places where birds nest.
+@V
+breeding grounds = места гнездования
+astonishing = поразительный
+steer = держать курс, управлять
+orient = ориентироваться
+detect = обнаруживать, улавливать
+landmark = ориентир
+predator = хищник
+wetland = водно-болотное угодье
+@Q TFNG
+The bar-tailed godwit rests on the water during its Pacific crossing. | F
+Birds rely on a single method of navigation. | F
+The planetarium experiment showed that birds can learn star patterns. | T
+Scientists agree on how birds sense the magnetic field. | F
+@Q MATCH
+a description of dangers created by people | D
+examples of extremely long flights | A
+a reference to research carried out indoors | B
+@Q GAP
+Near the end of their journey, birds find their way using ____ such as rivers and coastlines. | landmarks
+
+## Living with Volcanoes | Science & Nature
+Volcanoes are openings in the Earth's crust through which molten rock, ash and gas escape. Most are found along the edges of the tectonic plates that make up the planet's surface, especially around the Pacific Ocean in a zone known as the Ring of Fire. There are about 1,350 potentially active volcanoes on land, and around fifty of them erupt in a typical year.
+
+Eruptions can be catastrophic. In AD 79 Mount Vesuvius buried the Roman town of Pompeii under several metres of ash. In 1815 the eruption of Tambora in Indonesia threw so much dust into the atmosphere that temperatures fell around the world, and 1816 became known in Europe and North America as the year without a summer. Crops failed and many people went hungry.
+
+Given such dangers, it may seem surprising that hundreds of millions of people choose to live close to volcanoes. The explanation lies largely in the soil. Volcanic ash is rich in minerals, and over time it breaks down into some of the most fertile farmland on Earth. The slopes of volcanoes in Indonesia, Italy and Central America have been intensively farmed for centuries. Volcanic regions also provide geothermal energy and attract tourists.
+
+Today scientists can often tell when an eruption is approaching. They measure small earthquakes, changes in the shape of the mountain and the gases escaping from it. Prediction is still far from exact, but timely warnings have saved many thousands of lives in recent decades.
+@V
+crust = кора (земная)
+molten = расплавленный
+erupt = извергаться
+catastrophic = катастрофический
+bury = погребать, засыпать
+fertile = плодородный
+slope = склон
+prediction = прогноз, предсказание
+@Q TFNG
+Most volcanoes are located in the middle of tectonic plates. | F
+About fifty volcanoes erupt on land in an average year. | T
+The eruption of Tambora affected the weather in other continents. | T
+More people died at Pompeii than at Tambora. | NG
+@Q MCQ
+The main reason people live near volcanoes is | A cheap housing. | B productive soil. | C lack of space elsewhere. | D the mild climate. | B
+What does the writer say about predicting eruptions? | A It is now completely reliable. | B It is impossible. | C It is imperfect but valuable. | D It relies only on measuring gases. | C
+@Q GAP
+The area around the Pacific where many volcanoes are found is called the ____ . | Ring of Fire
+In Europe, 1816 was called the year without a ____ . | summer
+
+## The Deep Sea: Earth's Last Frontier | Science & Nature
+More than half of our planet is covered by water that is over 3,000 metres deep, yet we have better maps of the surface of Mars than of our own ocean floor. Sunlight fades quickly in the sea: below about 200 metres there is only a dim blue glow, and beneath 1,000 metres the darkness is total. The water there is close to freezing, and the pressure would crush an unprotected human instantly.
+
+For a long time scientists assumed that almost nothing could survive in such conditions. That view changed in 1977, when researchers in a small submarine near the Galápagos Islands discovered hot springs on the seabed, known as hydrothermal vents. Around them lived dense communities of giant tube worms, clams and crabs. These animals depend not on sunlight but on bacteria that obtain energy from chemicals in the hot water.
+
+Many deep-sea creatures produce their own light, an ability called bioluminescence. They use it to attract prey, to find a mate or to confuse an attacker. Food is scarce in the depths, so animals there tend to move slowly and live for a long time; some deep-sea fish are thought to reach an age of more than a hundred years.
+
+The deep ocean is no longer beyond human reach. Plastic waste has been found in its deepest trenches, and companies now hope to mine the seabed for metals used in batteries. Many biologists argue that this should not begin until we know far more about what lives there.
+@V
+fade = тускнеть, угасать
+dim = тусклый
+crush = раздавить
+assume = предполагать
+hot spring = горячий источник
+prey = добыча
+scarce = скудный, редкий
+trench = впадина, жёлоб
+@Q TFNG
+The ocean floor has been mapped in greater detail than Mars. | F
+There is no light at all below 1,000 metres. | T
+The hydrothermal vents were discovered by an unmanned robot. | F
+Tube worms are the largest animals living near the vents. | NG
+@Q SUM
+Animals at hydrothermal vents rely on ____ rather than sunlight. | bacteria
+These organisms get their energy from ____ in the hot water. | chemicals
+@Q MCQ
+Why do deep-sea animals tend to move slowly? | A The water is too cold. | B There is little to eat. | C The pressure is too great. | D They cannot see. | B
+What do many biologists think about deep-sea mining? | A It should be banned for ever. | B It is harmless. | C It should wait until more research is done. | D It will reduce plastic pollution. | C
+
+## Why We Sleep | Science & Nature
+Humans spend about a third of their lives asleep, and for a long time this seemed like wasted time. Modern research suggests the opposite: sleep is a period of intense activity for the brain and body, and going without it is quickly harmful.
+
+A night's sleep is made up of cycles lasting roughly ninety minutes. Each cycle includes light sleep, deep sleep and a stage known as REM, during which the eyes move rapidly and most vivid dreams occur. In deep sleep the body repairs tissue and releases growth hormone. During the night the brain also appears to wash itself: fluid flows through it more freely and carries away waste products that build up during the day.
+
+Sleep is essential for memory as well. Studies show that people who sleep after learning something remember it far better than those who stay awake. The sleeping brain replays the day's experiences and transfers important information into long-term storage, while weaker memories are allowed to fade.
+
+Most adults need between seven and nine hours a night, although teenagers need more. Yet in many countries people are sleeping less than they did fifty years ago. Artificial light is partly responsible. The blue light from phone and computer screens delays the release of melatonin, the hormone that makes us feel sleepy. Regular lack of sleep has been linked to weight gain, heart disease and low mood. Doctors therefore advise keeping the bedroom dark and cool, and switching off screens at least an hour before bed.
+@V
+intense = интенсивный
+vivid = яркий, живой
+tissue = ткань (организма)
+release = выделять, высвобождать
+fluid = жидкость
+storage = хранение, хранилище
+delay = задерживать
+mood = настроение
+@Q YNNG
+Sleeping is an unproductive use of time. | N
+The brain removes waste more effectively at night. | Y
+Dreams help people to solve practical problems. | NG
+Screens should be avoided shortly before going to bed. | Y
+@Q GAP
+One complete cycle of sleep lasts about ____ minutes. | ninety/90
+The hormone that causes sleepiness is called ____ . | melatonin
+@Q MCQ
+According to the passage, what happens to memories during sleep? | A All memories are stored permanently. | B Important ones are stored and weaker ones fade. | C Memories from the day are erased. | D Only dreams are remembered. | B
+Which group is said to need more sleep than adults? | A babies | B the elderly | C teenagers | D athletes | C
+
+## The Moon and the Tides | Science & Nature
+Anyone who has spent a day at the seaside has seen the water creep up the beach and then retreat again. Along most coasts this happens twice a day, and the cause lies 384,000 kilometres away. The gravity of the Moon pulls on the Earth, and because water moves easily, the oceans bulge slightly towards the Moon. A second bulge forms on the opposite side of the planet. As the Earth rotates, a coastline passes through both bulges, producing two high tides and two low tides roughly every twenty-five hours.
+
+The Sun also influences the tides, though its effect is less than half that of the Moon because it is so much farther away. When the Sun, Earth and Moon are in a line, at full moon and new moon, their forces combine to create especially large tides called spring tides. The name has nothing to do with the season. When the Sun and Moon pull at right angles, the result is the weaker neap tide.
+
+The shape of the coast makes an enormous difference. In the open ocean the water rises by less than a metre, but in narrow bays it can be funnelled to great heights. In the Bay of Fundy in Canada the difference between high and low tide can exceed fifteen metres.
+
+Tides have long been useful to people. Fishermen and sailors plan their work around them, and tidal mills were grinding grain in Europe over a thousand years ago. Today engineers are building turbines that generate electricity from tidal currents, a source of energy that, unlike wind, is entirely predictable.
+@V
+creep = медленно подкрадываться, ползти
+retreat = отступать
+gravity = гравитация, сила тяжести
+bulge = выпуклость; выпячиваться
+rotate = вращаться
+funnel = направлять (как в воронку)
+grind = молоть
+predictable = предсказуемый
+@Q TFNG
+Most coasts experience two high tides in about twenty-five hours. | T
+The Sun has a stronger effect on tides than the Moon. | F
+Spring tides occur only in the spring. | F
+The Bay of Fundy has the highest tides in the world. | NG
+@Q HEAD i. A reliable source of power; ii. Why the sea rises and falls; iii. The danger of tides for sailors; iv. The role of the Sun; v. How geography changes the tide; vi. Measuring the distance to the Moon
+Paragraph A | ii
+Paragraph B | iv
+Paragraph C | v
+@Q GAP
+Unlike wind power, tidal energy is completely ____ . | predictable
+
+## Bamboo: The Giant Grass | Science & Nature
+Bamboo looks like a tree, but botanically it is a grass. There are well over a thousand species, ranging from plants a few centimetres tall to giants that reach thirty metres. Most grow in the warm, wet regions of Asia, South America and Africa. Bamboo is famous for its speed: under ideal conditions certain species can grow almost a metre in a single day, faster than any other plant.
+
+A bamboo stem is hollow and divided into sections by solid joints. This structure makes it both light and extremely strong; weight for weight, it can resist stretching better than steel. In much of Asia it has been used for centuries to build houses, bridges and furniture, and in Hong Kong workers still construct bamboo scaffolding around skyscrapers.
+
+One of the plant's strangest features is the way it flowers. Many species flower only once, after several decades, and then die. Remarkably, all the plants of the same species often flower in the same year, even when they are growing on different continents. For animals that depend on bamboo, the result can be disastrous. Giant pandas, which eat almost nothing else, have starved when the bamboo in their area died off.
+
+Bamboo is now attracting interest as an environmentally friendly material. It can be harvested after three to five years, compared with decades for most timber, and it grows back from its roots without replanting. It is being turned into flooring, paper and fabric. Critics point out, however, that producing soft bamboo fabric usually requires strong chemicals, so the finished product is not always as green as its label suggests.
+@V
+species = вид (биол.)
+stem = стебель
+hollow = полый
+joint = узел, соединение
+scaffolding = строительные леса
+disastrous = катастрофический, губительный
+harvest = собирать урожай
+timber = древесина
+@Q TFNG
+Bamboo is classified as a kind of tree. | F
+All species of bamboo grow nearly a metre a day. | F
+Bamboo scaffolding is still used on tall buildings in Hong Kong. | T
+Bamboo houses last longer than houses built of timber. | NG
+@Q SHORT
+What animal is mentioned as depending almost completely on bamboo? | giant pandas/giant panda/pandas
+After how many years can bamboo be harvested? | three to five/3 to 5/three to five years/3-5
+@Q MCQ
+What is unusual about bamboo flowering? | A It happens every spring. | B Plants of one species flower at the same time worldwide. | C Only the tallest species flower. | D The flowers are poisonous to pandas. | B
+What criticism of bamboo fabric is mentioned? | A It is uncomfortable. | B It is too expensive. | C Its production often involves harsh chemicals. | D It wears out quickly. | C
+
+## How Memory Works | Science & Nature
+We tend to think of memory as a kind of video recording that can be played back whenever we wish. Psychologists have shown that this picture is wrong. Remembering is an active process of reconstruction, and each time we recall an event we rebuild it, sometimes adding details that were never there.
+
+Researchers usually distinguish three stages. Sensory memory holds what we see and hear for a second or two. A small part of this passes into short-term memory, which can keep about seven items for less than half a minute unless we repeat them. Only information that is rehearsed, or that matters to us emotionally, is transferred to long-term memory, where it may last a lifetime.
+
+The German psychologist Hermann Ebbinghaus studied forgetting in the 1880s by memorising lists of meaningless syllables. He found that most forgetting happens very quickly, within the first day, and then slows down. He also discovered that reviewing material at increasing intervals, a technique now called spaced repetition, is far more effective than studying it many times in one session.
+
+Because memories are rebuilt, they can be distorted. In a well-known experiment by Elizabeth Loftus, people watched a film of a car accident. Those who were later asked how fast the cars were going when they 'smashed' into each other gave higher estimates than those who heard the word 'hit', and some even remembered broken glass that had not been shown. Such findings have made courts more cautious about relying on the testimony of eyewitnesses.
+@V
+reconstruction = воссоздание, реконструкция
+recall = вспоминать
+distinguish = различать
+rehearse = повторять, репетировать
+syllable = слог
+interval = промежуток
+distort = искажать
+testimony = показания (свидетеля)
+@Q TFNG
+Psychologists believe memory works like a video recorder. | F
+Short-term memory can hold information for several minutes without repetition. | F
+Ebbinghaus used real words in his experiments. | F
+Loftus's experiment was repeated in several countries. | NG
+@Q GAP
+Ebbinghaus found that the greatest amount of forgetting occurs during the first ____ . | day
+Reviewing at increasing intervals is known as ____ . | spaced repetition
+@Q MCQ
+What did the Loftus experiment demonstrate? | A People forget accidents quickly. | B The wording of a question can change what people remember. | C Films are remembered better than real events. | D Eyewitnesses are usually accurate. | B
+Which information is most likely to enter long-term memory? | A anything we see for a second | B lists of seven items | C things that are emotionally important | D meaningless syllables | C

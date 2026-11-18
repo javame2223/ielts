@@ -1,0 +1,201 @@
+## The Invention of Paper
+@INSERT 4
+For centuries paper in Europe was made almost entirely from old linen and cotton rags, and as printing expanded, the supply could not keep up. Rag collectors went from door to door, and some governments banned the export of rags altogether. The solution had been suggested as early as 1719 by a French scientist, René de Réaumur, who noticed that wasps build their nests from a kind of paper made by chewing wood. It was not until the 1840s, however, that a German weaver, Friedrich Keller, built a machine that ground logs into pulp. Within a few decades wood had replaced rags, and the price of paper fell sharply.
+
+Cheap paper changed society once again. Daily newspapers selling for a penny, popular novels, school exercise books and paper bags all date from this period. But the new material had a hidden weakness. Chemicals used in making it left the paper slightly acidic, and over the years the acid attacks the fibres. Books printed between about 1850 and 1990 turn yellow and brittle, and libraries around the world now face the enormous task of treating or copying millions of volumes before they crumble.
+
+In the 1970s, as computers entered offices, it was widely predicted that paper would soon be unnecessary. The opposite happened: with a printer on every desk, the consumption of office paper rose for the next thirty years, and has only recently begun to decline. Meanwhile the growth of online shopping has greatly increased the demand for cardboard packaging. Today well over half of the paper used in Europe is collected and recycled, although the fibres shorten each time and can be reused only a limited number of times.
+@V
+rags = тряпьё
+wasp = оса
+brittle = ломкий
+crumble = рассыпаться
+@Q TFNG
+The idea of making paper from wood came from observing insects. | T
+Friedrich Keller was a scientist by profession. | F
+The use of office paper fell as soon as computers were introduced. | F
+@Q GAP
+Paper made with certain chemicals is slowly damaged by ____ . | acid
+Online shopping has increased the demand for ____ packaging. | cardboard
+
+## The Silk Road
+@INSERT 2
+The opening of the route is usually credited to a Chinese official named Zhang Qian. In 138 BC the emperor sent him west to look for allies against the nomads who raided China's northern frontier. He was captured and held prisoner for ten years, but eventually escaped and returned home with detailed reports of rich kingdoms beyond the mountains. The emperor was particularly excited by his description of the powerful horses bred in the Fergana Valley, which were far superior to Chinese animals, and soon afterwards armies and merchants began to travel regularly to obtain them.
+
+For centuries the Chinese kept the method of making silk a closely guarded secret, and revealing it to foreigners was punishable by death. Silk thread is unwound from the cocoons of a caterpillar that feeds only on the leaves of the mulberry tree. Customers in Rome had no idea of this, and one Roman writer assured his readers that silk was combed from the leaves of trees. According to a famous story, the monopoly was broken around AD 550, when two monks smuggled silkworm eggs out of Asia inside hollow walking sticks and presented them to the emperor in Constantinople.
+
+The journey was hard and often dangerous. The most feared section skirted the Taklamakan Desert in what is now western China, where travellers faced sandstorms, extremes of heat and cold, and stretches of several days without water. Caravans kept to the string of oases around its edge. Bandits were a constant threat, so merchants travelled in large groups and paid local rulers for protection.
+@V
+allies = союзники
+frontier = граница, рубеж
+cocoon = кокон
+bandit = разбойник
+@Q TFNG
+Zhang Qian was originally sent west in order to buy silk. | F
+The Romans understood how silk was produced. | F
+According to a story, silkworm eggs reached Constantinople hidden in walking sticks. | T
+@Q GAP
+Zhang Qian was held prisoner for ____ years. | ten/10
+Silkworms feed only on the leaves of the ____ tree. | mulberry
+
+## Gutenberg and the Printing Press
+@INSERT 3
+The Bible itself was a remarkable piece of work. Each page has two columns of forty-two lines, set in a heavy type designed to imitate the handwriting of the best scribes, because Gutenberg wanted his product to look as much like a manuscript as possible. Spaces were left for coloured capital letters to be painted in afterwards by hand. Most copies were printed on paper, but about a quarter were on parchment for wealthier buyers. Around fifty copies survive today, and they are among the most valuable books in the world.
+
+Producing a page was a slow business by modern standards. A compositor picked the metal letters one at a time from a case and arranged them, in mirror image, into lines. The finished page of type was locked in a frame, inked with leather pads, and pressed onto a sheet of damp paper. When enough copies had been printed, the type was taken apart and used again. Even so, a workshop with a single press could turn out more pages in a day than a scribe could copy in several months.
+
+Not everyone welcomed the new art. Professional copyists saw their living disappear, and some scholars sneered at printed books as cheap and ugly; one Italian duke is said to have refused to allow a single one into his library. In 1492 a German abbot, Johannes Trithemius, wrote a pamphlet in praise of scribes, arguing that words written on parchment would last a thousand years while those printed on paper would soon perish. To make sure that his argument reached as many readers as possible, he had it printed.
+@V
+manuscript = рукопись
+compositor = наборщик
+sneer = насмехаться
+perish = погибать, исчезать
+@Q TFNG
+Gutenberg wanted his Bible to look different from handwritten books. | F
+All copies of the Gutenberg Bible were printed on parchment. | F
+Trithemius's pamphlet in praise of scribes was itself printed. | T
+@Q GAP
+Each page of the Bible has two columns of ____ lines. | forty-two/42
+The compositor arranged the metal letters in ____ image. | mirror
+
+## Building the Great Pyramid
+@INSERT 4
+When it was completed, the pyramid looked very different from the stepped, sand-coloured monument that visitors see now. Its sides were covered with a smooth casing of polished white limestone, which must have shone brilliantly in the sun. Most of these stones were removed in the Middle Ages, after an earthquake in 1303 loosened them, and were reused to build the mosques and houses of Cairo. With the loss of the casing and of its topmost stones, the pyramid is now about eight metres shorter than when it was built.
+
+The pyramid was intended to protect the king's body for ever, but in this it failed. Despite passages blocked with huge granite plugs, robbers broke in, probably within a few centuries, and when explorers entered the burial chamber in the ninth century they found only an empty stone coffin. One treasure did escape. In 1954 archaeologists clearing sand beside the pyramid discovered a sealed pit containing a cedar-wood boat, carefully taken apart into more than a thousand pieces. Reassembled, it is forty-three metres long and may have been meant to carry the king across the sky.
+
+The building has not yet given up all its secrets. In 2017 an international team used detectors that register muons, particles from space which pass through stone, to make a kind of X-ray of the structure. They reported a previously unknown empty space at least thirty metres long above the main internal gallery. Its purpose is unknown, and since there is no passage leading to it, nobody has yet been able to look inside.
+@V
+casing = облицовка
+coffin = гроб, саркофаг
+pit = яма
+detector = детектор
+@Q MATCH
+a discovery made with modern scientific equipment | G
+a description of how the pyramid's appearance has changed | E
+@Q TFNG
+The pyramid's outer stones were taken away for use in other buildings. | T
+The king's body was still in the burial chamber in the ninth century. | F
+@Q GAP
+The boat discovered in 1954 was made of ____ wood. | cedar
+
+## A Short History of Tea
+@INSERT 3
+Tea has more than once been at the centre of political events. In December 1773, colonists in the American port of Boston, angry at being taxed by a parliament in which they had no representatives, boarded three British ships and threw 342 chests of tea into the harbour. The protest, later known as the Boston Tea Party, was one of the sparks of the American Revolution. For years afterwards many Americans regarded drinking tea as unpatriotic, which is one reason why coffee became the national drink of the United States.
+
+In the nineteenth century the first tea of each new season fetched the highest prices in London, and shipowners built fast sailing vessels called clippers to carry it. Their voyages became a sporting event on which large sums were bet. In the great race of 1866, two clippers that had left China on the same day reached London after ninety-nine days at sea, within half an hour of each other. The age of the clipper was short. The opening of the Suez Canal in 1869 gave steamships a much shorter route, and sail could no longer compete.
+
+Even the tea bag has a story. Around 1908 a New York merchant, Thomas Sullivan, began sending samples of tea to customers in small silk bags instead of expensive tins. He intended them to empty the leaves into a pot, but some simply lowered the whole bag into hot water and then asked for more of the same. Britain resisted the innovation for decades; today, however, the great majority of the tea drunk there comes in bags.
+@V
+chest = ящик, сундук
+spark = искра, толчок
+fetch = приносить (цену)
+innovation = новшество
+@Q TFNG
+The Boston protesters objected to being taxed without having representatives in parliament. | T
+The two leading clippers in the 1866 race arrived several days apart. | F
+Thomas Sullivan intended customers to put the bags straight into hot water. | F
+@Q GAP
+In 1773, ____ chests of tea were thrown into Boston harbour. | 342
+Sailing ships lost the tea trade after the ____ opened in 1869. | Suez Canal
+
+## Measuring Time
+@INSERT 4
+The twentieth century brought a new kind of accuracy. In 1927 an engineer at Bell Laboratories in the United States built a clock regulated by a crystal of quartz, which vibrates at a perfectly steady rate when an electric current passes through it. Early models filled a cabinet, but in 1969 a Japanese company put the technology into a wristwatch. Within a few years a cheap quartz watch kept better time than the finest mechanical one, and the traditional Swiss industry was thrown into crisis.
+
+Greater precision still came from the atom. The first reliable atomic clock, built in Britain in 1955 by the physicist Louis Essen, counted the vibrations of caesium atoms. It was so much steadier than the rotation of the Earth that in 1967 scientists abandoned the old definition of the second as a fraction of a day and redefined it in terms of the caesium atom. The best modern clocks would lose less than one second in several billion years.
+
+This precision has created a curious problem. The Earth does not turn at a perfectly constant speed, so time measured by atoms and time measured by the Sun slowly drift apart. Since 1972 an extra 'leap second' has occasionally been added to keep them together, twenty-seven so far. Because these adjustments can upset computer systems, international authorities voted in 2022 to stop making them by 2035.
+@V
+quartz = кварц
+vibrate = вибрировать, колебаться
+precision = точность
+adjustment = корректировка, поправка
+@Q TFNG
+The first quartz clocks were small enough to be worn on the wrist. | F
+The Swiss watch industry suffered because of quartz watches. | T
+Louis Essen received a Nobel Prize for his atomic clock. | NG
+@Q GAP
+Since 1967 the second has been defined in terms of the ____ atom. | caesium
+The extra second added to keep clocks in step with the Sun is called a ____ second. | leap
+
+## Roman Roads
+@INSERT 3
+Roman engineers laid out their routes with a simple instrument called a groma, a pole carrying a horizontal cross from which four weighted strings hung. By lining up the strings with markers in the distance, surveyors could plot straight lines and right angles over many kilometres. Obstacles were met with ambitious structures. The bridge that carries the road across the River Tagus at Alcantara in Spain was completed in AD 106; it stands almost fifty metres above the water and is still in use.
+
+Roads brought problems that sound surprisingly modern. By the first century BC the streets of Rome were so crowded that Julius Caesar banned most wheeled vehicles from the city during the hours of daylight. Deliveries therefore had to be made after dark, and the poet Juvenal complained that the rumble of carts through the narrow streets made sleep impossible. In towns such as Pompeii, raised stepping stones allowed pedestrians to cross without walking in the dirt, with gaps left between them for cart wheels.
+
+Travellers planned their journeys with the help of written lists that named each stopping place and the distance to the next. A remarkable picture of the whole network survives in the so-called Peutinger Table, a medieval copy of a Roman map drawn on a strip of parchment nearly seven metres long but only thirty-four centimetres high. Shapes are wildly distorted, since the mapmaker cared only about the order of towns along each road, much as a modern diagram of an underground railway ignores true distances.
+@V
+plot = намечать, прокладывать (линию)
+pedestrian = пешеход
+rumble = грохот
+distorted = искажённый
+@Q MATCH
+a comparison with a present-day transport map | F
+a restriction on traffic in the capital | E
+@Q TFNG
+The bridge at Alcantara can no longer be used. | F
+Juvenal was pleased that deliveries were made at night. | F
+@Q GAP
+Surveyors plotted straight lines with an instrument called a ____ . | groma
+
+## The Story of Maps
+@INSERT 3
+Accuracy on land came later than at sea. The first survey of an entire country by precise measurement was carried out in France by four generations of the Cassini family and took more than a century to complete. Its early results showed that the coast lay considerably further east than earlier maps had suggested, and King Louis XIV is reported to have complained that his surveyors had cost him more territory than his enemies.
+
+Maps have always been instruments of power as well as of knowledge. Portuguese and Spanish rulers treated their charts of newly explored coasts as state secrets. At a conference in Berlin in 1884 and 1885, European governments divided most of Africa among themselves, in many places simply by ruling straight lines across a map of regions that none of them had visited. Many of those lines, which cut through the lands of single peoples, remain national borders to this day.
+
+Maps can also preserve mistakes. In 1798 an English mapmaker drew a great range of mountains, the Mountains of Kong, running across West Africa, on the strength of a single explorer's report. Other publishers copied it, and the range went on appearing in atlases for almost a century, until a French officer travelled through the region and found that it did not exist. Some modern publishers add small errors on purpose, such as an invented street, so that they can prove it when a rival copies their work.
+@V
+survey = съёмка местности
+chart = морская карта
+border = граница
+rival = конкурент, соперник
+@Q TFNG
+The French national survey was completed within a few years. | F
+All the borders drawn at the Berlin conference have since been changed. | F
+The Mountains of Kong appeared on maps for nearly a hundred years. | T
+@Q GAP
+The first national survey was the work of four generations of the ____ family. | Cassini
+Some publishers include deliberate ____ in order to catch rivals who copy their maps. | errors
+
+## Salt: The Mineral that Shaped History
+@INSERT 2
+There are three main ways of obtaining salt. In warm climates seawater is let into shallow ponds and left to evaporate in the sun, leaving the crystals behind. In cooler regions salty water from springs was boiled in large pans, a process that consumed whole forests of firewood. Finally, salt can be dug out of the ground like coal, since thick beds of rock salt remain wherever ancient seas dried up.
+
+The most famous salt mine in the world is at Wieliczka in southern Poland, where commercial mining continued without interruption from the thirteenth century until 1996. Its tunnels extend for nearly 300 kilometres and reach a depth of more than 300 metres. Over the generations miners carved chapels, statues and even chandeliers out of the salt itself, and more than a million tourists now visit every year.
+
+The importance of salt has left its mark on language and custom. One of the oldest roads leading into Rome was the Via Salaria, the Salt Road, along which the mineral was carried from the coast. The words 'salad', 'sauce' and 'sausage' all go back to the Latin word for salt, since each originally meant something salted. In many countries spilling salt is still thought to bring bad luck, a belief reflected in Leonardo da Vinci's painting of the Last Supper, in which Judas has knocked over the salt.
+@V
+firewood = дрова
+chapel = часовня
+custom = обычай
+spilling (spill) = просыпать, проливать
+@Q TFNG
+Boiling salty water required large amounts of wood. | T
+Mining at Wieliczka came to an end in the thirteenth century. | F
+Tourists are no longer allowed to enter the Wieliczka mine. | F
+@Q GAP
+The Via Salaria was used to carry salt to Rome from the ____ . | coast
+In Leonardo's painting, the salt has been knocked over by ____ . | Judas
+
+## Lighthouses
+@INSERT 3
+A light is of little use unless the sailor knows which one he is looking at. From the early nineteenth century, therefore, each lighthouse was given its own signal: one might show a steady beam, another two flashes every ten seconds, a third alternate red and white. The effect was produced by rotating the lens with clockwork that the keeper had to wind by hand. By day, towers were told apart by their painted bands of colour, and in fog, when no light could be seen, by bells and later by powerful horns.
+
+Among the greatest feats of lighthouse building was the tower on the Bell Rock, off the east coast of Scotland, a reef that lies under several metres of water at every high tide. The engineer Robert Stevenson and his men could work for only a few hours a day at low tide in summer, and the tower took from 1807 to 1810 to complete. It is still standing, the oldest surviving lighthouse built on a rock washed by the sea. Stevenson's descendants built lighthouses for over a century; one of them, Robert Louis Stevenson, abandoned the family profession to become a novelist.
+
+Duty on such rocks demanded strong nerves. In 1801 one of the two keepers of the Smalls lighthouse, off the coast of Wales, died during a long storm. His companion, fearing that he would be accused of murder if the body disappeared, kept it lashed to the outside of the tower for weeks until a relief boat could land. He is said never to have recovered from the experience. From then on, British rock lighthouses were always manned by three keepers.
+@V
+reef = риф
+feat = подвиг, достижение
+descendant = потомок
+accuse = обвинять
+@Q TFNG
+Every lighthouse showed the same pattern of light. | F
+Work on the Bell Rock was possible for only part of each day. | T
+Robert Louis Stevenson spent his life as a lighthouse engineer. | F
+@Q GAP
+In fog, lighthouses were identified by bells and later by ____ . | horns
+After 1801, British rock lighthouses were manned by ____ keepers. | three/3

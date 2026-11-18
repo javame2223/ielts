@@ -1,0 +1,199 @@
+## Working from Home
+@INSERT 3
+The idea is older than the technology that made it common. The word 'telecommuting' was coined in 1973 by Jack Nilles, an American engineer who had worked on space projects and was looking for ways to reduce traffic and save fuel during the oil crisis. He persuaded an insurance company to let some employees work from small offices near their homes, connected to the main computer by telephone line. The trial saved money, but managers disliked being unable to see their staff, and it was abandoned. For the next forty years the practice grew only slowly.
+
+Now that work can be done from anywhere, some people have asked why it should be done from home at all. So-called digital nomads carry their jobs with them from country to country, and more than fifty governments, beginning with Estonia in 2020, have created special visas to attract them. The visitors spend money, but in cities such as Lisbon and Mexico City residents complain that well-paid foreigners have pushed rents beyond the reach of local people.
+
+Technology has also made it harder to stop working. When the office is a laptop, messages arrive in the evening and at weekends, and many employees feel obliged to answer. In 2017 France gave workers in larger companies a legal 'right to disconnect', requiring employers to agree hours during which staff need not reply, and several other countries have followed. Some firms have gone in the opposite direction, installing software that records every keystroke of employees working at home.
+@V
+coined (coin) = придумать (слово)
+nomad = кочевник
+rents (rent) = арендная плата
+disconnect = отключаться
+@Q TFNG
+Jack Nilles's first trial of telecommuting continued for many years. | F
+Estonia was the first country to offer a visa for digital nomads. | T
+French law requires larger companies to agree times when staff need not answer messages. | T
+@Q GAP
+The word 'telecommuting' was coined in the year ____ . | 1973
+Residents of Lisbon complain that well-paid foreigners have pushed up ____ . | rents
+
+## Too Many Tourists
+@INSERT 3
+Even the highest place on Earth is not immune. In May 2019 a photograph taken near the summit of Mount Everest showed a queue of more than two hundred climbers waiting on a narrow ridge for their turn to stand on the top. Delays at that altitude, where the air contains a third of the oxygen available at sea level, are extremely dangerous, and eleven people died on the mountain that season. Decades of expeditions have also left the slopes littered with abandoned tents, empty oxygen cylinders and other rubbish.
+
+Small communities can be overwhelmed almost overnight when an image spreads on social media. Hallstatt, a lakeside village in the Austrian Alps with fewer than eight hundred inhabitants, has become one of the most photographed places in Europe and on busy days receives as many as ten thousand visitors. Most stay for an hour or two, take the same picture from the same spot and leave. Residents complain of tourists wandering into their gardens and flying drones past their windows.
+
+There is a wider cost as well. A detailed study published in 2018 calculated that tourism is responsible for about eight per cent of the world's emissions of greenhouse gases, several times more than earlier estimates, once flights, hotels, food and shopping are all included. Air travel is the largest element, and it is growing faster than engineers can make aircraft more efficient.
+@V
+immune = защищённый, невосприимчивый
+summit = вершина
+ridge = гребень (горы)
+overwhelmed (overwhelm) = перегружать, захлёстывать
+@Q TFNG
+Climbers near the summit of Everest in 2019 had to wait in a long queue. | T
+Most visitors to Hallstatt stay for several days. | F
+Earlier estimates of tourism's share of emissions were higher than the 2018 figure. | F
+@Q GAP
+Near the top of Everest the air contains a ____ of the oxygen found at sea level. | third
+The largest element of tourism's emissions is ____ . | air travel
+
+## The Art of Persuasion
+@INSERT 3
+Prices, too, are designed with psychology in mind. The economist Dan Ariely once noticed a curious offer from a magazine: a subscription to the website for 59 dollars, to the printed edition for 125 dollars, or to both together, also for 125 dollars. Nobody would choose the second option, so why include it? When Ariely presented the three choices to students, 84 per cent picked the combined package. When he removed the apparently pointless middle option, only 32 per cent did. Its sole purpose was to make the expensive package look like a bargain.
+
+Some of the most effective advertising does not look like advertising at all. In the 1982 film E.T., a boy tempts a shy alien out of hiding with a trail of sweets. The makers of the best-known brand had turned down the chance to appear, and a smaller rival took its place; within weeks of the film's release the rival's sales had risen by about two thirds. Paying to have products placed in films and television programmes has been standard practice ever since.
+
+Children are a particular concern. Research shows that most children under about eight do not understand that an advertisement is trying to sell them something; they take its claims as simple information. For this reason Sweden prohibited television advertising aimed at children under twelve in 1991, and several other countries restrict the marketing of sweets and fast food to the young.
+@V
+subscription = подписка
+bargain = выгодная покупка
+tempts (tempt) = заманивать, соблазнять
+restrict = ограничивать
+@Q TFNG
+Most students chose the subscription to the printed edition alone. | F
+The best-known sweet company agreed to have its product shown in E.T. | F
+Young children generally do not realise that advertisements are trying to sell something. | T
+@Q GAP
+With all three options available, ____ per cent of students chose the combined package. | 84
+Sweden prohibited television advertising aimed at children under ____ . | twelve/12
+
+## The Four-Day Week
+@INSERT 1
+The shortening of working time once seemed unstoppable. In the 1870s factory workers in industrial countries commonly laboured for sixty hours or more each week; by the middle of the twentieth century the figure had fallen to about forty. Writing in 1930, the British economist John Maynard Keynes predicted that, thanks to machines, his grandchildren would need to work only fifteen hours a week. He was right about the growth of wealth but wrong about leisure. Since the 1970s, working hours in most rich countries have hardly changed, as people have chosen higher incomes over more free time.
+
+Interest in a shorter week revived in the 2010s. Between 2015 and 2019 the city of Reykjavik and the government of Iceland cut the hours of about 2,500 employees in offices, nurseries and hospitals from forty to thirty-five or thirty-six a week, with no reduction in pay. Researchers reported that the quality of services was maintained and that staff were less exhausted. Icelandic trade unions afterwards negotiated the right to shorter hours for the great majority of the country's workers.
+
+A different version of the idea is to keep the same hours but pack them into fewer days. In 2022 Belgium gave employees the right to ask to work their full week in four long days instead of five. Critics observe that a ten-hour day is tiring and may be difficult for parents, and that this arrangement, unlike a true reduction, gives workers no extra time of their own.
+@V
+laboured (labour) = трудиться
+nursery = ясли, детский сад
+reduction = сокращение
+trade union = профсоюз
+@Q TFNG
+Keynes's prediction about working hours has come true. | F
+Staff in the Icelandic trials were paid the same as before. | T
+The Belgian law reduces the total number of hours worked each week. | F
+@Q GAP
+Keynes predicted a working week of only ____ hours. | fifteen/15
+The Icelandic trials involved about ____ employees. | 2,500/2500
+
+## The Global Journey of Coffee
+@INSERT 3
+Two species account for almost all the coffee that is drunk. Arabica, which makes up about sixty per cent of world production, grows best on cool mountain slopes and has the finer flavour. Robusta, as its name suggests, is tougher: it tolerates heat and disease, yields more, and contains roughly twice as much caffeine. Its harsher taste makes it less valued, and most of it goes into instant coffee and cheaper blends. Vietnam, which grows mainly robusta, has risen since the 1990s to become the second largest producer in the world.
+
+Instant coffee itself was the answer to a problem of oversupply. In the 1930s Brazil was producing far more beans than it could sell, and its government asked the Swiss company Nestle to find a way of preserving them. After eight years of research the company launched a soluble powder in 1938. It became a standard item in the rations of American soldiers during the Second World War, who carried the taste for it around the globe.
+
+The substance that gives coffee its appeal is, from the plant's point of view, a poison. Caffeine paralyses insects that try to eat the leaves and seeds. In the human brain it has a milder effect, blocking the chemical signal that makes us feel tired. Because the body needs five or six hours to remove half of a dose, a cup drunk in the late afternoon can still disturb sleep at midnight. For most healthy adults, up to about four cups a day is considered harmless.
+@V
+blend = смесь
+soluble = растворимый
+rations (ration) = паёк
+dose = доза
+@Q TFNG
+Robusta contains less caffeine than arabica. | F
+Instant coffee was developed because Brazil had more coffee than it could sell. | T
+Caffeine protects the coffee plant from insects. | T
+@Q GAP
+Arabica makes up about ____ per cent of world production. | sixty/60
+The second largest coffee producer in the world is now ____ . | Vietnam
+
+## Sharing Instead of Owning
+@INSERT 3
+Bicycles offer a lesson in how sharing can succeed or fail. In 1965 a group of activists in Amsterdam painted fifty bicycles white and left them unlocked around the city for anyone to use. Within a month most had been stolen or thrown into canals. The idea returned decades later in a more practical form, with bicycles locked into docking stations and released by a card or a phone; the system launched in Paris in 2007 now provides tens of thousands of journeys a day. A later generation that could be left anywhere went badly wrong in China, where competing companies flooded the streets with millions of cheap machines, and vast fields of abandoned bicycles became a symbol of wasted investment.
+
+All such services depend on trust between strangers, and the usual tool for building it is the rating. After each journey or stay, both sides award each other stars. The difficulty is that almost everybody is generous. On the main platforms the average score is around 4.7 or 4.8 out of five, because people feel uncomfortable criticising someone they have met, and because a driver whose score slips slightly may lose the right to work. A system in which nearly all marks are excellent tells users very little.
+
+It is worth remembering that sharing was normal long before the internet. Farmers in a village commonly owned a plough or a threshing machine in common, and the public library, perhaps the most successful sharing institution ever devised, has been lending books at no charge for well over a century.
+@V
+activist = активист
+rating = рейтинг, оценка
+award = присуждать, выставлять
+devised (devise) = придумывать, разрабатывать
+@Q TFNG
+Most of the white bicycles in Amsterdam were still in use after a year. | F
+Bicycle sharing in China resulted in huge numbers of abandoned bicycles. | T
+Average ratings on the main sharing platforms are close to the maximum. | T
+@Q GAP
+The modern bicycle system in Paris was launched in ____ . | 2007
+The writer describes the public ____ as perhaps the most successful sharing institution. | library
+
+## The Age of the Megacity
+@INSERT 3
+Lagos, in Nigeria, shows what rapid growth means in practice. In 1950 it was a port of about 300,000 people; today the urban area holds at least fifteen million, and nobody knows the exact figure. Roads designed for a small colonial town are jammed for much of the day, and a journey of twenty kilometres can take three hours. Most residents earn their living in the informal economy, selling goods or services without any official registration. On the lagoon, tens of thousands live in the district of Makoko in wooden houses raised on poles above the water, travelling by canoe.
+
+Jakarta, the capital of Indonesia, faces a still stranger difficulty: it is sinking. Because the piped water supply reaches less than half the population, households and businesses pump water from beneath the ground, and as the layers below are emptied the surface drops, in some northern districts by as much as twenty-five centimetres a year. Large areas now lie below sea level behind a concrete wall. In 2019 the government announced that it would build an entirely new capital on the island of Borneo.
+
+At the other extreme stands Tokyo, proof that enormous size need not mean disorder. Its railways carry some forty million passengers a day, and the average delay on the high-speed lines is measured in seconds. Crime is low, the streets are clean, and because rules on building are relatively relaxed, the supply of housing has kept pace with demand, so that homes cost less than in London or New York.
+@V
+lagoon = лагуна
+poles (pole) = свая, шест
+sinking (sink) = опускаться, тонуть
+disorder = беспорядок
+@Q TFNG
+The population of Lagos is known precisely. | F
+Jakarta is sinking because water is being pumped from beneath the ground. | T
+Housing in Tokyo is more expensive than in London. | F
+@Q GAP
+In Makoko, people live in wooden houses raised on ____ above the water. | poles
+Indonesia plans to build a new capital on the island of ____ . | Borneo
+
+## Too Much Choice
+@INSERT 3
+The effect was soon reported outside the supermarket. Iyengar examined the records of nearly 800,000 American employees who had been offered retirement savings plans by their companies. Where the plan contained only two investment funds, about three quarters of the staff joined. Where it offered fifty-nine, the proportion fell to about sixty per cent, even though by not joining people gave up money that their employer would have added to their savings.
+
+Some companies have profited from the lesson. When a large manufacturer reduced its range of one brand of shampoo from twenty-six varieties to fifteen, sales of the brand rose by ten per cent. The German discount chain Aldi stocks fewer than two thousand different products, compared with forty thousand or so in a typical large supermarket. Customers have less to compare, shelves are easier to fill, and the savings are passed on in lower prices.
+
+Making choices also seems to be tiring in itself. A study of more than a thousand decisions by judges considering whether to release prisoners early found that a prisoner's chances were best at the beginning of the day and immediately after a meal break, at about sixty-five per cent, and sank steadily to almost nothing just before the next break. Saying no was the easier option for a weary mind. Several well-known business leaders and politicians claim to wear the same style of clothes every day for precisely this reason, to save their energy for decisions that matter.
+@V
+fund = фонд
+range = ассортимент
+judge = судья
+weary = усталый
+@Q TFNG
+More employees joined savings plans when a large number of funds was offered. | F
+The shampoo manufacturer's sales rose after it reduced the number of varieties. | T
+Judges were most likely to release prisoners just before a break. | F
+@Q GAP
+Aldi stocks fewer than ____ different products. | two thousand/2000/2,000
+A prisoner's chances were best at the start of the day and just after a ____ break. | meal
+
+## Why People Volunteer
+@INSERT 2
+Who volunteers? Surveys give a consistent and, to some, unexpected answer. People with full-time jobs are more likely to volunteer than those without work, and people with children at home more likely than those without. Education matters as well: the longer someone has studied, the more probable it is that he or she gives time. The busiest people, in short, are the most willing, perhaps because they are already connected to schools, clubs and workplaces through which requests arrive.
+
+That last point is crucial. When researchers ask volunteers how they began, the commonest reply by far is that somebody asked them, usually a friend, a relative or a colleague. Very few respond to posters or advertisements. Conversely, the reason most often given by people who have never volunteered is not lack of time or interest but simply that nobody ever invited them.
+
+Economists have tried to put a figure on all this unpaid effort by calculating what it would cost to employ people to do the same work. Estimates for a country such as Britain run to tens of billions of pounds a year. The exercise has a political edge. When public budgets are cut, there is a temptation to hand services over to volunteers; several hundred British public libraries are now staffed entirely by unpaid local residents. Critics welcome their dedication but fear that it makes the loss of professional librarians permanent.
+@V
+consistent = устойчивый, последовательный
+conversely = наоборот
+budget = бюджет
+dedication = преданность делу
+@Q TFNG
+People without jobs volunteer more than those in full-time work. | F
+Most volunteers started because someone asked them personally. | T
+Posters are the most effective way of finding new volunteers. | F
+@Q GAP
+People who have never volunteered often say that nobody ever ____ them. | invited
+Several hundred British public ____ are now staffed entirely by volunteers. | libraries
+
+## Businesses Owned by Their Members
+@INSERT 3
+Some of the largest cooperatives are found in farming. In 1946 dairy farmers in the Indian state of Gujarat, tired of selling to a single private buyer at whatever price he offered, formed a cooperative to process and market their own milk. Under the brand name Amul it grew into an organisation owned by more than three million producers, many of whom keep only two or three animals. Its model was copied across the country, and India, once short of milk, became the world's largest producer.
+
+In the United States, cooperatives brought electricity to the countryside. In the mid-1930s nine out of ten city homes had electric light, but only about one farm in ten, because private companies saw no profit in running lines to scattered customers. With the help of cheap government loans, farmers set up their own cooperatives to build the lines. Within fifteen years the great majority of farms were connected, and some nine hundred of these organisations still supply power today.
+
+The cooperative principle is even applied in professional sport. FC Barcelona is not owned by a wealthy individual or a company but by well over a hundred thousand members, who pay a yearly fee and elect the club's president. In Germany a rule requires that members hold a majority of the votes in nearly every professional football club, which is one reason why ticket prices there have remained lower than in England.
+@V
+dairy = молочный
+market = сбывать, продавать
+elect = избирать
+majority = большинство
+@Q TFNG
+Before 1946 the Gujarat farmers could choose between many buyers. | F
+Private companies were eager to supply electricity to American farms. | F
+The president of FC Barcelona is chosen by the club's members. | T
+@Q GAP
+The Indian dairy cooperative sells its products under the brand name ____ . | Amul
+American farmers built power lines with the help of cheap government ____ . | loans

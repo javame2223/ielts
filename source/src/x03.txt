@@ -1,0 +1,199 @@
+## Artificial Intelligence in the Clinic
+@INSERT 3
+Reading images is only one application. A different kind of program has transformed a problem that had defeated biologists for fifty years: predicting the three-dimensional shape of a protein from its chemical sequence. The shape determines what a protein does in the body, and working it out in the laboratory could take years. In 2020 a system called AlphaFold showed that it could predict shapes almost as accurately as experiments, and its makers have since published predictions for some 200 million proteins. Researchers designing new medicines now routinely begin with these.
+
+Less glamorous uses may matter just as much. Doctors in many countries spend as much time on paperwork as with patients. Programs that listen to a consultation and produce a written summary, or that draft letters and fill in forms, could give some of that time back. Such tools must be checked carefully, however, because language programs occasionally state invented 'facts' with complete confidence.
+
+Experience has also shown that success in the laboratory does not guarantee success in the clinic. A program for detecting eye disease in people with diabetes, which had been more than ninety per cent accurate in tests, was tried in several clinics in Thailand in 2020. There, photographs were often taken in poor light, and the system rejected more than a fifth of them as unusable; slow internet connections caused further delays. Nurses who had hoped to save time found themselves with extra work.
+@V
+sequence = последовательность
+consultation = приём (у врача)
+draft = составлять черновик
+guarantee = гарантировать
+@Q TFNG
+Working out the shape of a protein in the laboratory used to be very slow. | T
+Language programs never make factual mistakes. | F
+The eye-disease program performed as well in Thai clinics as it had in tests. | F
+@Q GAP
+AlphaFold's makers have published predictions for about 200 million ____ . | proteins
+In Thailand the system rejected many photographs taken in poor ____ . | light
+
+## The Return of the Electric Car
+@INSERT 3
+The first modern attempt came in the 1990s. Under pressure from a Californian law requiring manufacturers to offer some vehicles with no exhaust fumes, General Motors produced an electric two-seater, the EV1, in 1996. About 1,100 were built and leased to customers, many of whom became devoted to them. When the law was weakened, however, the company declared the car unprofitable, took the vehicles back and crushed nearly all of them in 2003, to the fury of their drivers.
+
+The turning point is often dated to 2008, when a small Californian firm, Tesla, launched a sports car powered by several thousand of the lithium-ion cells used in laptop computers. It could travel almost 400 kilometres on one charge and accelerate faster than most petrol sports cars. It was expensive and sold in small numbers, but it destroyed the idea that an electric vehicle must be slow and dull, and the established manufacturers began to invest heavily in their own designs.
+
+Part of the appeal lies in simplicity. A petrol engine and its gearbox contain around two thousand moving parts; an electric motor and its drive system have about twenty. There is no oil to change and far less to go wrong, so servicing costs less. An electric car can also recover energy: when the driver slows down, the motor works in reverse as a generator and returns electricity to the battery instead of wasting it as heat in the brakes.
+@V
+exhaust fumes = выхлопные газы
+leased (lease) = сдавать / брать в аренду
+accelerate = ускоряться
+servicing = техобслуживание
+@Q TFNG
+General Motors sold the EV1 to its customers. | F
+The first Tesla sports car was cheap and sold in large numbers. | F
+Electric cars cost less to service than petrol cars. | T
+@Q GAP
+General Motors built about ____ EV1 cars. | 1,100/1100
+When an electric car slows down, its motor works as a ____ . | generator
+
+## Printing in Three Dimensions
+@INSERT 3
+The spread of the technology beyond industry owes much to the expiry of a patent. Until 2009 the most common printing method was protected, and a machine cost tens of thousands of dollars. Once the patent ran out, small companies and enthusiasts began building simple printers that sold for a few hundred. Designs were shared freely online, and a worldwide community of amateur makers grew up. Their value was shown in 2020, when volunteers with home printers produced face shields for medical staff within days of supplies running short.
+
+Builders have begun to print on a much larger scale. A robotic arm or a moving frame squeezes out a special quick-drying concrete, layer upon layer, rather as a baker pipes icing onto a cake. The walls of a small house can be completed in about twenty-four hours of printing, with far less waste than conventional building, and curved shapes cost no more than straight ones. Roofs, windows and wiring, however, still have to be added in the traditional way.
+
+The most ambitious research aims to print living tissue. Instead of plastic, the printer deposits a gel containing human cells, which then grow together. Patches of skin and cartilage have been produced in this way and are used for testing medicines. Printing a complete organ such as a kidney remains a distant goal, mainly because nobody has yet found a way to reproduce the dense network of tiny blood vessels that every thick tissue needs in order to stay alive.
+@V
+expiry = истечение срока
+patent = патент
+amateur = любитель, любительский
+blood vessels = кровеносные сосуды
+@Q TFNG
+3D printers became much cheaper after a patent expired. | T
+A printed house is completely finished by the printer alone. | F
+Whole kidneys are now regularly printed for patients. | F
+@Q GAP
+In 2020, volunteers used home printers to make face ____ for medical staff. | shields
+The main obstacle to printing organs is reproducing the network of tiny ____ . | blood vessels
+
+## The Origins of the Internet
+@INSERT 4
+The early web consisted mainly of plain text and was used chiefly by academics. That changed in 1993, when a team of students at the University of Illinois released Mosaic, a browser that displayed pictures on the same page as words and could be operated simply by pointing and clicking. It was easy to install, and within eighteen months it had several million users. Businesses realised that the web could reach the general public, and the first online shops and newspapers soon followed.
+
+As the number of pages multiplied, finding anything became the central difficulty. The first guides were lists compiled by hand, which could not keep pace. In 1998 two students at Stanford University, Larry Page and Sergey Brin, founded Google around a new principle. Their search engine ranked a page according to how many other pages linked to it, treating each link as a kind of vote. The results were so much more useful than those of rival services that the company's name became a verb.
+
+The physical side of the internet is easily forgotten. Despite talk of 'the cloud', more than ninety-five per cent of the data passing between continents travels through cables laid on the ocean floor, each no thicker than a garden hose. And access is far from universal: about a third of the world's people, most of them in poorer countries, still do not use the internet at all.
+@V
+browser = браузер
+compiled (compile) = составлять
+ranked (rank) = ранжировать, оценивать
+universal = всеобщий
+@Q TFNG
+Mosaic could show pictures and text on the same page. | T
+Google ranked pages by counting how often a word appeared on them. | F
+Most data travelling between continents is carried by satellites. | F
+@Q GAP
+Mosaic was created by students at the University of ____ . | Illinois
+About a ____ of the world's population does not use the internet. | third
+
+## Drones at Work
+@INSERT 3
+Conservation is another field that has been transformed. Counting animals from a light aircraft is expensive and risky; a drone can photograph a colony of seabirds or a herd of elephants without disturbing them, and computer software then counts the individuals. In African reserves, drones fitted with heat-sensitive cameras patrol at night and can pick out poachers from a distance. Some organisations are even using them to restore forests, firing capsules that contain seeds and nutrients into the ground far faster than people could plant by hand.
+
+The entertainment industry has embraced the technology too. Sweeping shots from the air, which once required a helicopter and a large budget, are now within reach of any film-maker. And in a growing number of cities, displays in which hundreds or thousands of illuminated drones form moving pictures in the night sky are replacing fireworks, since they are quieter, can be reused and produce no smoke.
+
+All of this depends on a machine that is remarkably simple to operate. A typical small drone stays level by itself: sensors measure its tilt hundreds of times a second and a tiny computer adjusts the speed of each propeller. Satellite positioning lets it hover over one spot or return automatically to its starting point if the signal from the controller is lost. The chief limitation is the battery. Most small models can remain in the air for only about half an hour.
+@V
+herd = стадо
+patrol = патрулировать
+capsule = капсула
+hover = зависать в воздухе
+@Q TFNG
+Drones are used to detect poachers at night. | T
+Drone light displays are noisier than fireworks. | F
+The pilot of a small drone must constantly correct it to keep it level. | F
+@Q GAP
+Some drones fire capsules containing ____ and nutrients into the ground. | seeds
+Most small drones can stay in the air for only about ____ . | half an hour
+
+## How GPS Knows Where You Are
+@INSERT 4
+Satellite positioning has uses that its designers never imagined. Fixed receivers anchored to rock can detect movements of a few millimetres a year, allowing geologists to watch continents drift and to measure the strain building up along the faults where earthquakes occur. Biologists attach miniature receivers to animals from albatrosses to whales in order to follow their migrations. And because signals are slowed slightly by moisture in the air, weather services analyse the delays to improve their forecasts.
+
+Yet the system is more fragile than most users realise. The signals arriving from space are extraordinarily faint, comparable to the light of a household bulb seen from 20,000 kilometres away, and they can be drowned out by a transmitter that costs very little. Such jammers are illegal in most countries, but they are used, for example by lorry drivers who do not want their employers to track them. More worrying still is the broadcasting of false signals, which can make a ship's instruments show a position many kilometres from the truth.
+
+There may also be a cost to our own abilities. In experiments, people who followed spoken directions from a device remembered far less about a route than those who used a paper map, and brain scans indicate that the regions involved in finding one's way are less active when a machine does the work. Rescue teams tell of drivers who obeyed their instructions so faithfully that they ended up on mountain tracks, or in rivers.
+@V
+fault = разлом
+faint = слабый, едва заметный
+jammer = глушилка
+obeyed (obey) = подчиняться
+@Q TFNG
+GPS receivers can measure the slow movement of continents. | T
+Powerful and expensive equipment is needed to block GPS signals. | F
+People using a paper map remembered a route better than those following a device. | T
+@Q GAP
+Weather services use the delays caused by ____ in the air. | moisture
+Devices that block satellite signals are known as ____ . | jammers
+
+## Power from the Sun
+@INSERT 4
+Photovoltaic panels are not the only way of using sunlight. In a concentrated solar power station, thousands of mirrors turn to follow the Sun and reflect its rays onto a receiver at the top of a tower. The intense heat is absorbed by molten salt, which can be kept hot in insulated tanks for many hours and used to make steam for turbines whenever electricity is required. A large plant of this type on the edge of the Sahara in Morocco continues to supply power for several hours after sunset.
+
+Solar energy is having perhaps its greatest effect in places that have never been connected to a power grid. Hundreds of millions of people, most of them in rural Africa and South Asia, still light their homes with kerosene lamps, which are expensive to run, give poor light and fill rooms with harmful smoke. A small panel on the roof, with a battery, can power several lamps, charge a mobile phone and run a radio. Many families buy such kits by paying small sums each week through their phones.
+
+Large solar farms require a great deal of space, and this has led to some inventive solutions. Panels are being floated on reservoirs, where they also reduce the loss of water through evaporation, and raised above fields so that crops can grow or sheep can graze in the partial shade beneath them. A problem for the future is disposal. The first generation of panels is now wearing out, and the industry has only begun to develop ways of recovering the glass, silicon and silver they contain.
+@V
+grid = электросеть
+kerosene = керосин
+graze = пастись
+disposal = утилизация
+@Q TFNG
+Concentrated solar power stations can produce electricity after dark. | T
+Kerosene lamps are a cheap and healthy source of light. | F
+Floating panels increase the amount of water lost from reservoirs. | F
+@Q GAP
+In a concentrated solar power station, heat is absorbed by molten ____ . | salt
+Old panels contain glass, silicon and ____ that could be recovered. | silver
+
+## Robots on the Factory Floor
+@INSERT 3
+Outside the factory, the largest numbers of robots are now found in warehouses. In the huge distribution centres of online retailers, low wheeled machines slide beneath shelving units, lift them and carry them to a human worker, who picks out the item that a customer has ordered. The worker stays in one place, and the shelves come to her. The arrangement illustrates a division of labour that is typical of the present stage of automation: machines do the carrying, while people do whatever requires a skilful hand.
+
+The reason is a puzzle first noted by the robotics researcher Hans Moravec in the 1980s. Tasks that people find difficult, such as playing chess or multiplying large numbers, are comparatively easy for a computer. Things that a small child does without thinking, such as picking up an unfamiliar object, folding a towel or walking over rough ground, turn out to be extraordinarily hard. A robot that can pick ripe strawberries without bruising them at anything like the speed of a human worker has still to be perfected.
+
+This helps to explain why the household robot promised by science fiction has failed to arrive. The one machine that has entered homes in large numbers is the robotic vacuum cleaner, tens of millions of which have been sold since 2002; it succeeds because floors are flat and the task is simple. A general-purpose domestic helper, able to tidy a room or load a dishwasher, would have to cope with an environment far less predictable than any factory.
+@V
+retailer = розничный продавец
+skilful = умелый
+bruising (bruise) = мять, повреждать
+domestic = домашний
+@Q TFNG
+In modern warehouses, workers walk long distances to collect items. | F
+Computers find chess easier than handling unfamiliar objects. | T
+Robotic vacuum cleaners have sold poorly. | F
+@Q GAP
+The puzzle about what robots find difficult was first noted by Hans ____ . | Moravec
+Robots still have difficulty picking ripe ____ without damaging them. | strawberries
+
+## The Attention Economy
+@INSERT 3
+The business of selling attention is older than the internet. In 1833 a young New York printer, Benjamin Day, launched a newspaper called the Sun at a price of one cent, when its rivals cost six. He sold it for less than it cost to produce and made his profit from advertisers, who paid to reach his large readership. To attract readers he filled the paper with crime stories and sensational reports, including a famous series claiming that life had been discovered on the Moon. Radio and television later adopted the same model.
+
+What is new is the precision and persistence of the modern version, and its effect on how people work. Many users believe they can attend to several things at once. Research at Stanford University found the opposite: people who habitually juggled several streams of media performed worse than others on tests of concentration, and, surprisingly, were also slower at switching from one task to another. Other studies of office workers suggest that after an interruption it takes many minutes to return fully to the original task.
+
+Some of the people who built these systems have come to regret them. The designer who invented the endless feed has said publicly that he had not foreseen how much time it would consume and now campaigns for more humane technology. A former executive of a large social network has admitted that its features were deliberately engineered to exploit a weakness in human psychology.
+@V
+readership = читательская аудитория
+sensational = сенсационный
+juggled (juggle) = жонглировать, совмещать
+regret = сожалеть
+@Q TFNG
+Benjamin Day sold his newspaper for less than it cost to produce. | T
+People who use several media at once are quicker at switching between tasks. | F
+The inventor of the endless feed is proud of its effects. | F
+@Q GAP
+A copy of Benjamin Day's newspaper cost one ____ . | cent
+The Sun published a series claiming that life had been found on the ____ . | Moon
+
+## What Happens to Our Plastic?
+@INSERT 3
+One proposed alternative is plastic made from plants such as maize or sugar cane rather than from oil. These 'bioplastics' sound attractive, but the label can mislead. Many of them break down only in industrial composting plants, where the temperature is kept at around sixty degrees; in a garden heap or in the sea they last almost as long as ordinary plastic. If they are mixed with conventional plastic waste, moreover, they can spoil the recycled material.
+
+A more surprising possibility emerged in 2016, when Japanese scientists examining samples from a bottle-recycling site discovered a bacterium that had evolved the ability to feed on the plastic used for drinks bottles. The enzymes it produces cut the long molecules into their original components. Researchers in several countries have since modified these enzymes to work many times faster, and a French company is building a plant that will use them to turn old bottles and polyester clothing into new plastic.
+
+Governments, meanwhile, have turned to the law. Rwanda prohibited plastic bags as early as 2008 and searches travellers' luggage for them at the border. The European Union banned a list of throwaway items, including plastic straws, cutlery and cotton buds, in 2021. Even modest measures can be effective: after large shops in England were required to charge a small sum for each carrier bag, the number handed out by the main supermarkets fell by more than ninety per cent.
+@V
+mislead = вводить в заблуждение
+enzyme = фермент
+modified (modify) = изменять
+cutlery = столовые приборы
+@Q TFNG
+Bioplastics break down quickly in the sea. | F
+The plastic-eating bacterium was created in a laboratory. | F
+Charging for carrier bags in England greatly reduced the number used. | T
+@Q GAP
+Many bioplastics break down only at a temperature of about ____ degrees. | sixty/60
+Rwanda prohibited plastic bags in ____ . | 2008

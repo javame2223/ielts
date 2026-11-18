@@ -1,0 +1,67 @@
+## Упражнение 1. Заполни пропуски в ответе Band 9 | gapfill
+@INTRO Прочитай ответ про линейный график (продажи билетов в кино в трёх странах, 2000–2020) и вставь в каждый пропуск одно слово из списка.
+@INTRO Слова: between · Overall · stood · respectively · reaching · doubled · figure · peak · slightly · whereas
+@Q GAP
+The line graph compares the number of cinema tickets sold in Spain, Poland and Sweden ____ 2000 and 2020. | between
+____, ticket sales rose in Poland but fell in the other two countries. | Overall
+In 2000, sales in Spain ____ at around 130 million, far higher than in the other two countries. | stood
+The figures for Poland and Sweden were 20 million and 15 million ____ . | respectively
+Spanish sales then fell gradually, ____ a low of 80 million in 2015. | reaching
+Meanwhile, Polish ticket sales more than ____ , rising to 50 million in 2020. | doubled
+Sales in Poland reached a ____ of 55 million in 2018. | peak
+The ____ for Sweden fell to 13 million by the end of the period. | figure
+Spanish sales recovered ____ to 85 million in 2020. | slightly
+Spain saw a small recovery at the end of the period, ____ Sweden did not. | whereas
+
+## Упражнение 2. Глагол ↔ существительное | flex
+@INTRO Перепиши мысль второй фразой, чтобы не повторять одну и ту же конструкцию. Впиши недостающие слова (одно или два).
+@Q GAP
+Sales dropped sharply in 2010. → There was a ____ in sales in 2010. | sharp drop/sharp fall/sharp decline/sharp decrease
+Prices rose slightly in May. → There was a ____ in prices in May. | slight rise/slight increase
+Unemployment fell dramatically after 2015. → There was a ____ in unemployment after 2015. | dramatic fall/dramatic drop/dramatic decline/dramatic decrease
+Visitor numbers increased steadily. → Visitor numbers saw a ____ . | steady increase/steady rise
+There was a gradual decline in car use. → Car use ____ . | declined gradually/fell gradually/decreased gradually/gradually declined/gradually fell/gradually decreased
+There was a significant increase in exports in 2019. → Exports ____ in 2019. | increased significantly/rose significantly/grew significantly/significantly increased/significantly rose
+Oil prices fluctuated wildly. → There were ____ in oil prices. | wild fluctuations
+The figure peaked at 40% in 2005. → The figure ____ a peak of 40% in 2005. | reached/hit
+
+## Упражнение 3. -ing обороты и with | ing
+@INTRO Выбери лучший способ соединить два предложения в одно.
+@Q MCQ
+Sales rose steadily. They reached a peak of 90,000 in 2018. | A Sales rose steadily, reaching a peak of 90,000 in 2018. | B Sales rose steadily, reached a peak of 90,000 in 2018. | C Sales rose steadily, to reaching a peak of 90,000 in 2018. | D Sales rising steadily, reached a peak of 90,000 in 2018. | A
+The number of tourists fell. It hit a low of 2 million in 2020. | A The number of tourists fell, it hit a low of 2 million in 2020. | B The number of tourists fell, hitting a low of 2 million in 2020. | C The number of tourists fell, was hitting a low of 2 million in 2020. | D The number of tourists falling, hit a low of 2 million in 2020. | B
+Coffee consumption rose in all countries. Brazil saw the largest increase. | A Coffee consumption rose in all countries, Brazil saw the largest increase. | B Coffee consumption rose in all countries, and Brazil seeing the largest increase. | C Coffee consumption rose in all countries, with Brazil seeing the largest increase. | D Coffee consumption rose in all countries, with Brazil saw the largest increase. | C
+Most students chose science. 45% studied it. | A Most students chose science, 45% studied it. | B Most students chose science, with 45% studied it. | C Most students chose science, which 45% studying it. | D Most students chose science, with 45% studying it. | D
+The figure remained stable. It stayed at around 30% throughout the period. | A The figure remained stable, staying at around 30% throughout the period. | B The figure remained stable, stayed at around 30% throughout the period. | C The figure remaining stable, at around 30% stayed throughout the period. | D The figure remained stable, it stayed at around 30% throughout the period. | A
+Prices increased in every city. London had the highest rise. | A Prices increased in every city, London had the highest rise. | B Prices increased in every city, with London having the highest rise. | C Prices increased in every city, with London had the highest rise. | D Prices increasing in every city, London having the highest rise. | B
+
+## Упражнение 4. Прогнозы и времена | forecast
+@INTRO Выбери правильный вариант.
+@Q MCQ
+By 2040, the population ____ 12 million. | A is expected to reach | B is expecting to reach | C expects reaching | D will reaching | A
+It ____ that car sales will fall over the next decade. | A predicts | B is predicted | C predicted | D is predicting | B
+The figure for Japan ____ to 35% by 2050. | A is projected to rise | B projected rising | C is projecting to rise | D will to rise | A
+In 2030, the number of internet users ____ about 5 billion. | A would be | B will be | C is being | D has been | B
+Which sentence describes a past year correctly? | A In 2010, sales are expected to rise to 5 million. | B In 2010, sales have risen to 5 million. | C In 2010, sales rose to 5 million. | D In 2010, sales will rise to 5 million. | C
+
+## Упражнение 5. Выбери лучший overview | overview
+@INTRO Overview — самый важный абзац. Выбери вариант, который лучше всего подходит на эту роль.
+@Q MCQ
+Line graph: people aged 65 and over in four countries, 1960–2040. | A In 1960, Germany had 11%, the USA 9%, Japan 6% and Nigeria 3%. | B It is clear that the elderly population grew in most countries, with Japan seeing the most dramatic change. | C Japan has many old people because people there live a long time. | D The graph shows four countries and five years. | B
+Bar chart: hours teenagers spent on five activities, 2005 and 2025. | A Teenagers spent 14 hours on television in 2005 and 5 hours in 2025. | B Overall, teenagers moved from television towards social media, while sport and reading declined. | C Social media is harmful for young people. | D The chart has five activities and two years. | B
+Process: the life cycle of the salmon (six stages). | A First, eggs are laid among small stones. | B The salmon is a large fish. | C There are six stages in the cycle, which begins and ends in a river. | D The diagram is very interesting. | C
+What should an overview NOT contain? | A the main trend | B the largest and smallest categories | C specific figures | D the most significant change | C
+
+## Упражнение 6. Проверь себя: правила Task 1 | revision
+@INTRO Верно или неверно?
+@Q TF
+A Task 1 answer should usually have four paragraphs. | T
+The overview should include the most important figures. | F
+You should mention every number shown in a table. | F
+It is a good idea to describe each line of a graph separately, one after another. | F
+If a table shows no dates, the present simple is usually the right tense. | T
+You may explain the reasons for the trends you see. | F
+For a process diagram, the overview should say how many stages there are. | T
+The passive is often useful for describing a manufacturing process. | T
+An answer of 250 words will get a higher score than one of 170 words. | F
+Inaccurate figures can lower your score even if your English is excellent. | T

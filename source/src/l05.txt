@@ -1,0 +1,348 @@
+## A Psychology Experiment on Sleep | Section 3
+@CTX You will hear two psychology students, Emma and Jack, discussing an experiment they are designing.
+@VOICES Emma=f Jack=m
+@S
+Emma: Jack, we need to finalise the design of our experiment today. The proposal is due on Monday.
+Jack: I know. So we're testing whether a short sleep after learning improves memory, right?
+Emma: Yes. I think we should keep it simple. Two groups. Everyone learns a list of word pairs, then one group has a nap and the other stays awake.
+Jack: How long should the nap be?
+Emma: The studies I read used ninety minutes, but that's too long for volunteers to give up. I'd say twenty minutes.
+Jack: Would that be enough to show an effect?
+Emma: One paper found an improvement after only six minutes, so I think so.
+Jack: OK. And what does the other group do during that time?
+Emma: That's the tricky part. If they use their phones, they'll be learning new things, which might interfere. I suggest they watch a nature film with no speech.
+Jack: Good idea. How many participants do we need?
+Emma: Doctor Lewis said at least forty, so twenty in each group.
+Jack: We should put them in groups at random, not let them choose. Otherwise all the tired people will choose the nap.
+Emma: Exactly. We could toss a coin for each person.
+Jack: Where can people sleep, though? The psychology lab is so noisy.
+Emma: I asked about that. We can use the quiet room in the library, as long as we book it a week ahead.
+Jack: Great. And what time of day?
+Emma: Early afternoon, about two o'clock. That's when people naturally feel sleepy.
+Jack: Should we test them straight after the nap?
+Emma: I'd wait ten minutes, so they're properly awake. People are often confused just after waking.
+Jack: Fine. What about the ethics form?
+Emma: We must tell participants not to drive straight afterwards, in case they still feel sleepy. And nobody under eighteen can take part.
+Jack: I'll write the method section if you do the introduction.
+Emma: Deal. Send me your part by Saturday.
+@Q LMCQ
+Why do the students reject a ninety-minute nap? | A It would not improve memory. | B Volunteers would not give so much time. | C The room is not available for so long. | B
+What will the group that stays awake do? | A use their phones | B read a textbook | C watch a film without speech | C
+Why will participants be placed in groups at random? | A to save time | B to prevent tired people all choosing the nap | C because the tutor requires it | B
+Why will the students wait before testing? | A People may be confused just after waking. | B The room must be cleaned. | C The film must finish. | A
+@Q LGAP
+Material to learn: a list of word ____ | pairs
+Length of the nap: ____ minutes | 20/twenty
+Minimum number of participants: ____ | 40/forty
+Place for sleeping: the quiet room in the ____ | library
+Time of the experiment: about ____ o'clock | 2/two
+Participants must be told not to ____ straight afterwards | drive
+
+## Feedback on an Essay | Section 3
+@CTX You will hear a history student, Daniel, receiving feedback from his tutor on a first draft of an essay.
+@VOICES Tutor=f Daniel=m
+@S
+Tutor: Come in, Daniel. I've read your draft on the Industrial Revolution. Shall we go through it?
+Daniel: Yes, please. I wasn't very happy with it, to be honest.
+Tutor: There's a lot that's good. Your introduction is clear, and you've obviously read widely. I counted eighteen sources in your list.
+Daniel: Thanks. I spent ages in the library.
+Tutor: It shows. But that's also part of the problem. In places the essay becomes a summary of what other historians think. I can't hear your own argument.
+Daniel: I wasn't sure I was allowed to disagree with them.
+Tutor: Not only allowed, but expected. The question asks how far railways caused economic growth. You need to take a position and defend it.
+Daniel: I think they were important, but less than people say. Canals had already reduced transport costs.
+Tutor: Good. Say that in your first paragraph, and build the essay around it.
+Daniel: OK. What about the structure?
+Tutor: The third section, on working conditions in factories, is interesting, but it doesn't answer the question. I'd cut it completely.
+Daniel: That's five hundred words gone.
+Tutor: Which is useful, because you're four hundred words over the limit anyway. Use the space to add evidence. You make claims about the price of coal, for example, without any figures.
+Daniel: I found a table of coal prices in one of the books. I could include that.
+Tutor: Perfect. Then the conclusion. At the moment it introduces a new idea about steamships. A conclusion should only bring together what you've already said.
+Daniel: Right. And my references?
+Tutor: Mostly fine, but you've forgotten page numbers for the quotations. Check each one.
+Daniel: I will. Is the writing style all right?
+Tutor: It's clear, but some sentences are very long. One of them had seventy-two words. Break them up.
+Daniel: When do you want the final version?
+Tutor: The deadline is the thirtieth of January. If you send me a new plan by Friday, I'll look at it.
+@Q LMCQ
+The tutor's main criticism of the draft is that it | A uses too few sources. | B lacks the student's own argument. | C has an unclear introduction. | B
+Daniel's view is that the railways were | A the main cause of growth. | B less important than is often claimed. | C harmful to the economy. | B
+What should Daniel do with the section on working conditions? | A move it to the end | B shorten it | C remove it | C
+What is wrong with the conclusion? | A It is too short. | B It introduces a new idea. | C It repeats the introduction. | B
+@Q LGAP
+Number of sources in Daniel's list: ____ | 18/eighteen
+The essay is ____ words over the limit | 400/four hundred
+Daniel will add a table of ____ prices | coal
+The quotations lack ____ numbers | page
+One sentence contained ____ words | 72/seventy-two
+Deadline: the thirtieth of ____ | January
+
+## Planning a Marketing Project | Section 3
+@CTX You will hear two business students, Sophie and Marcus, planning a marketing project for a new product.
+@VOICES Sophie=f Marcus=m
+@S
+Sophie: So, Marcus, we have to design a marketing campaign for a new product. Have you had any ideas?
+Marcus: I thought we could do a drink. An iced tea made with local fruit, with no added sugar.
+Sophie: I like that. Who would buy it?
+Marcus: I was thinking of students and young professionals, people between eighteen and thirty who care about health.
+Sophie: That's a good target group, but it's crowded. There are lots of healthy drinks already. What makes ours different?
+Marcus: The local angle. The fruit comes from farms within fifty kilometres. And the bottle is glass, so it can be returned and reused.
+Sophie: OK, that's a real selling point. What about the price?
+Marcus: Similar products cost about two pounds. I'd go a bit higher, two pounds forty, because people expect quality to cost more.
+Sophie: Hmm. Students won't pay that. I'd keep it at one ninety-five to start with.
+Marcus: You're probably right. We can always raise it later.
+Sophie: Where would we sell it?
+Marcus: Not supermarkets, at least not at first. They demand huge quantities. I'd begin with university cafés and independent coffee shops.
+Sophie: And gyms. That's exactly where our customers are.
+Marcus: Good point. For advertising, I assume social media?
+Sophie: Yes, but everybody does that. I think we should also give out free samples at the city's farmers' market. People need to taste it.
+Marcus: That fits the local idea. We need a name, though.
+Sophie: What about Orchard?
+Marcus: Simple, easy to remember. I like it.
+Sophie: For the assignment we have to include some research. I could run a focus group with eight or ten students to test the name and the flavours.
+Marcus: And I'll analyse three competitors. Their prices, packaging and adverts.
+Sophie: Great. The written report is three thousand words, and we present on the ninth of December.
+Marcus: Let's meet again on Thursday. Bring your results.
+@Q LMCQ
+What makes the product different from competitors? | A It contains no sugar. | B It is made with locally grown fruit. | C It is cheaper. | B
+Why does Sophie want a lower price? | A Students would not pay more. | B The bottle is cheap to make. | C Competitors charge less. | A
+Why do they decide not to sell in supermarkets at first? | A Supermarkets charge high fees. | B Supermarkets require very large quantities. | C Their customers do not shop there. | B
+@Q LGAP
+Target age group: eighteen to ____ | 30/thirty
+The fruit comes from farms within ____ kilometres | 50/fifty
+The bottle is made of ____ | glass
+Free samples will be given out at the farmers' ____ | market
+Name of the product: ____ | Orchard
+Marcus will analyse ____ competitors | 3/three
+Date of the presentation: the ninth of ____ | December
+
+## Choosing Optional Modules | Section 3
+@CTX You will hear two second-year students, Nadia and Chris, discussing which optional courses to take next year.
+@VOICES Nadia=f Chris=m
+@S
+Nadia: Chris, have you chosen your optional modules yet? The form has to be in by Friday.
+Chris: Not yet. I'm trying to decide between Environmental Law and Statistics for Social Science.
+Nadia: I took Statistics last year. It's hard work, but honestly it's the most useful course I've done. Every employer asks about data skills.
+Chris: That's what worries me. I'm terrible at maths.
+Nadia: You don't need to be brilliant. The lecturer, Doctor Okafor, explains everything step by step, and there's a help session every Wednesday.
+Chris: How is it assessed?
+Nadia: A two-hour exam is sixty per cent, and the rest is a project, where you analyse real data.
+Chris: Hmm. Environmental Law has no exam at all. It's two essays.
+Nadia: That sounds attractive, but I've heard the reading list is enormous. A friend said she had to read about two hundred pages a week.
+Chris: Really? I didn't know that. What are you taking?
+Nadia: I've signed up for Urban Geography. There's a field trip to Rotterdam in the spring, to look at how the city deals with flooding.
+Chris: Lucky you. Is the trip expensive?
+Nadia: The department pays for travel and the hotel. We just pay for food.
+Chris: I might consider that one too. When are the lectures?
+Nadia: Monday mornings at nine. Not ideal.
+Chris: Ouch. That's when I work at the bookshop.
+Nadia: Could you change your shift?
+Chris: Maybe. I'll ask my manager. The other thing I'm thinking about is the work placement module.
+Nadia: Oh, the one where you spend one day a week in a company?
+Chris: Yes. You have to find the placement yourself, though, and I don't have any contacts.
+Nadia: The careers office has a list of organisations. You should see them soon, because places go quickly.
+Chris: OK. So Statistics, and either Urban Geography or the placement. I'll decide tomorrow.
+@Q LMCQ
+Nadia thinks the Statistics module is | A the most useful course she has taken. | B easy for students who dislike maths. | C badly taught. | A
+What has Nadia heard about Environmental Law? | A The exam is difficult. | B There is a great deal of reading. | C The lecturer is new. | B
+What problem does Chris have with Urban Geography? | A The trip is too expensive. | B The lectures clash with his job. | C The module is full. | B
+@Q LGAP
+Deadline for the form: ____ | Friday
+Statistics help session: every ____ | Wednesday
+The Statistics exam counts for ____ per cent | 60/sixty
+Environmental Law is assessed by two ____ | essays
+The field trip is to ____ | Rotterdam
+On the trip, students pay only for ____ | food
+On the placement, students spend ____ day a week in a company | 1/one
+
+## Reflecting on a Work Placement | Section 3
+@CTX You will hear a student, Aisha, talking to her tutor about her work placement at a newspaper.
+@VOICES Tutor=m Aisha=f
+@S
+Tutor: Welcome back, Aisha. How was the placement at the Evening Post?
+Aisha: Really interesting, though not what I expected.
+Tutor: In what way?
+Aisha: I imagined I'd be out interviewing people. In fact, for the first two weeks I mostly checked facts for other journalists. Names, dates, spellings.
+Tutor: That's how most people start. Did you find it dull?
+Aisha: At first. But I realised how many mistakes get into stories. One article had the wrong name for the mayor.
+Tutor: A valuable lesson. Did you get to write anything?
+Aisha: Yes, in the third week. My first piece was about a school that had won a science prize. It was only two hundred words, but seeing my name in print was amazing.
+Tutor: I can imagine. What did you find most difficult?
+Aisha: Deadlines. At university I have weeks for an essay. There I sometimes had forty minutes.
+Tutor: And how did you cope?
+Aisha: Badly, at the beginning. My editor, Mrs Grant, told me to stop trying to make every sentence perfect and just get the facts down first.
+Tutor: Good advice for essays too. What about the online side?
+Aisha: That surprised me most. Most readers now come through their phones, and the website team is bigger than the print team. I spent my last week there, learning how to write headlines that people will click on.
+Tutor: Did that change your career plans?
+Aisha: A little. I used to want to be a foreign correspondent. Now I'm more interested in data journalism, using statistics to find stories.
+Tutor: Then you might take the statistics module next year. Now, your placement report. It should be fifteen hundred words.
+Aisha: Should I describe what I did each week?
+Tutor: Briefly. The main part should be reflection, what you learned and what you'd do differently. And include two or three examples of your work in the appendix.
+Aisha: When is it due?
+Tutor: The fourteenth of March. And well done. Mrs Grant sent me a very positive reference.
+@Q LMCQ
+What did Aisha mainly do in the first two weeks? | A interview people | B check facts | C write headlines | B
+What did Aisha find most difficult? | A working to deadlines | B using the computer system | C working with her editor | A
+What surprised Aisha most? | A how few people read the paper | B the importance of the online edition | C the number of mistakes | B
+@Q LGAP
+Her first article was about a school that won a ____ prize | science
+Length of her first article: ____ words | 200/two hundred
+Her editor advised her to get the ____ down first | facts
+She is now interested in ____ journalism | data
+Length of the placement report: ____ words | 1500/1,500/fifteen hundred
+The main part of the report should be ____ | reflection
+Report due: the fourteenth of ____ | March
+
+## A Documentary Film Assignment | Section 3
+@CTX You will hear two film studies students, Zoe and Ryan, discussing a short documentary they have to make.
+@VOICES Zoe=f Ryan=m
+@S
+Zoe: Ryan, we need a subject for our documentary. It has to be ten minutes long and about something local.
+Ryan: I've been thinking. What about the old cinema in Park Road? It's closing next month after ninety years.
+Zoe: That's a great story. Do you think the owner would talk to us?
+Ryan: I already asked. He's happy to be interviewed, and he has a box of old photographs we can use.
+Zoe: Brilliant. Who else should we interview?
+Ryan: Customers, I suppose. There's a woman who has gone there every Friday since nineteen sixty-eight.
+Zoe: Perfect. And maybe someone from the council, to explain what will happen to the building.
+Ryan: I heard it's going to become flats.
+Zoe: We should check that. We can't put rumours in a documentary.
+Ryan: True. How do you want to structure it?
+Zoe: I'd begin with the last evening, the final film, people leaving. Then go back and tell the history.
+Ryan: I like that. But the last evening is the twenty-eighth, and our deadline is the fifth of the following month. That gives us only a week to edit.
+Zoe: It's tight, but we can film the interviews before and edit those first.
+Ryan: OK. What about equipment?
+Zoe: We can borrow a camera from the department for up to five days. We have to book it, though. And we need a separate microphone. The sound on our last project was awful.
+Ryan: It was. You could hardly hear the speakers because of the traffic.
+Zoe: This time let's film the interviews indoors, inside the cinema.
+Ryan: The light in there is poor.
+Zoe: Then we borrow two lamps as well. Do we want music?
+Ryan: Yes, but we can't just use a famous song. We'd need permission. My flatmate plays the piano. I'll ask him to record something.
+Zoe: Great. And narration?
+Ryan: I'd rather not have a narrator. Let the people tell the story themselves.
+Zoe: Agreed. I'll write the interview questions tonight.
+@Q LMCQ
+What must the students check? | A the age of the cinema | B what the building will become | C the owner's name | B
+How does Zoe want the film to begin? | A with the history of the cinema | B with an interview with the owner | C with the cinema's final evening | C
+What was the problem with their previous project? | A The sound was poor. | B It was too long. | C The lighting was bad. | A
+What do they decide about narration? | A Ryan will narrate. | B They will hire an actor. | C There will be no narrator. | C
+@Q LGAP
+Length of the documentary: ____ minutes | 10/ten
+The cinema is closing after ____ years | 90/ninety
+The owner has a box of old ____ | photographs/photos
+A camera can be borrowed for up to ____ days | 5/five
+Interviews will be filmed ____ the cinema | inside
+Music will be recorded on the ____ | piano
+
+## Designing a Survey on Eating Habits | Section 3
+@CTX You will hear two nutrition students, Hannah and Leo, discussing a survey for their research project.
+@VOICES Hannah=f Leo=m
+@S
+Hannah: Leo, I've drafted the questionnaire on students' eating habits. Can we look at it together?
+Leo: Sure. How many questions are there?
+Hannah: Thirty-two at the moment.
+Leo: That's far too many. Nobody will finish it. Doctor Hayes said a survey should take no more than five minutes.
+Hannah: You're right. Which ones should we cut?
+Leo: The section about childhood food. It's interesting, but it isn't what we're studying. Our question is whether students who cook for themselves eat more healthily.
+Hannah: OK, that removes eight questions. What about the one asking people their weight?
+Leo: I'd take it out. It's personal, and people may stop answering.
+Hannah: Fine. Now, question five. How often do you eat fruit and vegetables? The answers are often, sometimes and rarely.
+Leo: Those words mean different things to different people. Better to give numbers. Every day, three to five times a week, and so on.
+Hannah: Good point. I'll change it. I also want an open question at the end, asking what stops them from eating well.
+Leo: One open question is fine, but only one. They take a long time to analyse.
+Hannah: Agreed. How will we find people to answer?
+Leo: We could stand outside the canteen with a tablet.
+Hannah: But then we'd only get students who eat in the canteen. That would distort the results.
+Leo: True. Email, then? The department can send a link to all first-year students.
+Hannah: That's better. We need at least a hundred and twenty answers to say anything meaningful.
+Leo: People ignore emails, though. Could we offer something?
+Hannah: A prize draw, maybe. One twenty-pound voucher for the campus shop.
+Leo: That should help. Before we send it, we ought to test it on a few friends.
+Hannah: Yes, a pilot with five or six people. I'll do that this weekend.
+Leo: And I'll set up the spreadsheet for the results. When do we send it out?
+Hannah: Monday the third. We'll leave it open for two weeks.
+@Q LMCQ
+Why will they remove the section on childhood food? | A It is not relevant to their research question. | B It is too personal. | C The tutor told them to. | A
+What is wrong with answers such as 'often' and 'rarely'? | A They are too long. | B People understand them differently. | C They are difficult to translate. | B
+Why do they reject the idea of surveying outside the canteen? | A It would take too long. | B They have no tablet. | C It would give a distorted sample. | C
+@Q LGAP
+Number of questions in the first draft: ____ | 32/thirty-two
+The survey should take no more than ____ minutes | 5/five
+They will remove the question about people's ____ | weight
+Number of open questions: ____ | 1/one
+Minimum number of answers needed: ____ | 120/a hundred and twenty/one hundred and twenty
+Value of the prize voucher: £ ____ | 20/twenty
+The survey will stay open for ____ weeks | 2/two
+
+## Applying for a Study Exchange | Section 3
+@CTX You will hear a student, Lucas, asking an adviser about a study exchange programme.
+@VOICES Adviser=f Lucas=m
+@S
+Adviser: Hello, Lucas. You're interested in the exchange programme, I believe.
+Lucas: Yes. I'd like to spend part of my third year abroad, but I don't know where to begin.
+Adviser: Let's start with the basics. You can go for one semester or for the whole year. Which were you thinking of?
+Lucas: One semester, probably. I'm worried about falling behind.
+Adviser: You won't. The courses you pass abroad count towards your degree, as long as I approve them in advance. Where would you like to go?
+Lucas: Canada was my first idea, but a friend said it's hard to get a place.
+Adviser: It is. We have only four places in Canada, and usually thirty applicants. Have you considered the Netherlands? Our partner in Utrecht teaches entirely in English, and it's excellent for your subject, economics.
+Lucas: I hadn't thought of that. What about the cost?
+Adviser: You pay your normal fees here and nothing to the host university. Accommodation in Utrecht is about five hundred euros a month. And every exchange student receives a grant of three hundred and fifty euros a month.
+Lucas: That helps a lot. What do I need to apply?
+Adviser: Three things. An application form, a statement of about four hundred words explaining why you want to go, and a reference from one of your lecturers.
+Lucas: Do my marks matter?
+Adviser: Yes. You need an average of at least sixty per cent in your second year.
+Lucas: I think I'm at sixty-four.
+Adviser: Then you're fine. Selection is based on your marks and on your statement, so write it carefully. Don't just say you like travelling. Explain what you would study there.
+Lucas: When's the deadline?
+Adviser: The first of December, for departure the following September. There's an information meeting next Tuesday at one o'clock in room two oh five. Students who went last year will be there.
+Lucas: I'll come. Thank you.
+Adviser: One more thing. Check that your passport is valid for the whole stay.
+@Q LMCQ
+Why is Lucas hesitant about a full year abroad? | A It is too expensive. | B He is worried about falling behind. | C His parents disagree. | B
+Why does the adviser suggest the Netherlands? | A It is the cheapest option. | B Lucas speaks Dutch. | C The university is strong in his subject and teaches in English. | C
+What does the adviser say about the personal statement? | A It should explain what he would study. | B It should describe his love of travel. | C It is less important than the reference. | A
+@Q LGAP
+Number of exchange places in Canada: ____ | 4/four
+Lucas's subject: ____ | economics
+Monthly grant: ____ euros | 350/three hundred and fifty
+Length of the statement: about ____ words | 400/four hundred
+Minimum second-year average: ____ per cent | 60/sixty
+Application deadline: the first of ____ | December
+Information meeting: next ____ at one o'clock | Tuesday
+
+## Building a Model Bridge | Section 3
+@CTX You will hear two engineering students, Mei and Sam, discussing a project in which they must build a model bridge.
+@VOICES Mei=f Sam=m
+@S
+Mei: Sam, have you read the instructions for the bridge project?
+Sam: Twice. We have to build a model bridge that crosses a gap of sixty centimetres, using only wooden sticks and glue.
+Mei: And it's tested by hanging weights from the middle until it breaks.
+Sam: Right. But the mark isn't just for strength. It's strength divided by the weight of the bridge. So a light bridge that holds a reasonable load beats a heavy one.
+Mei: That changes things. Last year's winners used a simple beam, but they needed far too many sticks.
+Sam: I think we should build a truss, with triangles along the sides. Triangles keep their shape under load.
+Mei: I agree. An arch might be even stronger, but bending the sticks would be very difficult.
+Sam: And we only have three weeks. Let's stay with the truss.
+Mei: How many sticks are we allowed?
+Sam: A maximum of two hundred. I'd aim for about a hundred and fifty.
+Mei: Before we build anything, we should test the materials. I'd like to know how much force one stick can take before it snaps.
+Sam: Good idea. And the glue. The joints are usually the weakest point, not the sticks.
+Mei: Exactly. Last year several bridges failed because the glue hadn't dried. We must leave at least twenty-four hours before testing.
+Sam: Shall we design it on the computer first?
+Mei: Yes. The software in the lab can show where the stress is greatest. Then we can double the sticks in those places.
+Sam: I can do the computer model. I used that program last term.
+Mei: Then I'll do the material tests and order the glue.
+Sam: What do we have to hand in, apart from the bridge?
+Mei: A report of two thousand words, with our calculations and a prediction of the load at which it will fail.
+Sam: And when is the test day?
+Mei: The twenty-second of May, in the main hall. Every team's bridge is tested in front of the whole year.
+Sam: No pressure, then.
+@Q LMCQ
+How is the bridge marked? | A by its strength alone | B by its strength in relation to its weight | C by its appearance | B
+Why do the students reject an arch design? | A It is weaker than a truss. | B It is not allowed. | C Bending the sticks would be too hard. | C
+According to the students, the weakest point is usually | A the joints. | B the sticks. | C the middle of the bridge. | A
+@Q LGAP
+Gap the bridge must cross: ____ centimetres | 60/sixty
+Maximum number of sticks: ____ | 200/two hundred
+The glue must dry for at least ____ hours | 24/twenty-four
+The software shows where the ____ is greatest | stress
+Sam will make the ____ model | computer
+Length of the report: ____ words | 2000/2,000/two thousand
+Test day: the twenty-second of ____ | May

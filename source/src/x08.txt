@@ -1,0 +1,199 @@
+## What Are Museums For?
+@INSERT 3
+What visitors see is only a small part of what a museum owns. Large institutions typically display less than a tenth of their collections; the British Museum, with around eight million objects, shows roughly one per cent at any time. The remainder is kept in storerooms, where it is available to researchers. Many museums are now photographing their holdings and publishing them online, so that an object in a drawer in London or Paris can be examined by a student anywhere in the world.
+
+These stored collections sometimes prove valuable in ways their collectors could not have imagined. In the 1960s birds of prey in Britain were mysteriously failing to breed. A scientist, Derek Ratcliffe, measured eggshells that had been gathered by collectors over more than a century and kept in museums. He found that shells laid after 1947 were markedly thinner than earlier ones, the year in which the insecticide DDT had come into general use. The discovery helped to bring about restrictions on the chemical.
+
+Whether museums should charge for entry is a matter of long debate. Britain's national museums abolished their entrance fees in 2001, and within a few years the number of visits to those that had previously charged rose by about seventy per cent. Opponents of free entry argue that it is really a subsidy for tourists and for the well-off, who would visit in any case, and surveys do suggest that the social background of visitors changed less than had been hoped.
+@V
+storeroom = хранилище, запасник
+drawer = выдвижной ящик
+insecticide = инсектицид
+subsidy = субсидия
+@Q TFNG
+The British Museum displays most of the objects it owns. | F
+Ratcliffe found that eggshells became thinner after DDT came into use. | T
+Free entry greatly changed the social background of museum visitors. | F
+@Q GAP
+The British Museum owns about ____ million objects. | eight/8
+After fees were abolished, visits to museums that had charged rose by about ____ per cent. | seventy/70
+
+## The Origins of Music
+@INSERT 3
+If music is part of human nature, people everywhere ought to understand one another's songs to some degree, and experiments suggest that they do. Researchers at Harvard assembled recordings from several hundred small societies around the world and played short extracts to listeners in other countries. Without any knowledge of the language or culture, the listeners could usually tell whether a song was a lullaby, a dance or a song for healing. Lullabies everywhere were slow and smooth; dance songs were fast and had a strong beat.
+
+The ability to move in time to a beat, which seems so natural to us, is very rare in the animal kingdom. Monkeys cannot be trained to do it reliably. The surprising exception was announced in 2009, when scientists studied a cockatoo named Snowball that bobbed its head and lifted its feet in time to pop songs, adjusting when the music was speeded up or slowed down. Parrots, like humans, learn to imitate sounds, and it may be that the brain connections needed for copying sounds are the same ones needed for keeping time.
+
+Doctors have found practical uses for the link between music and the brain. Some people who lose the power of speech after a stroke can still sing the words of familiar songs, because singing draws on the undamaged side of the brain. Therapists exploit this by teaching patients to chant everyday phrases to a simple tune and then gradually to drop the melody.
+@V
+healing = исцеление
+beat = ритм, такт
+imitate = подражать
+chant = напевать, произносить нараспев
+@Q TFNG
+Listeners needed to know a song's language in order to identify its purpose. | F
+Monkeys can easily learn to move in time to music. | F
+Some stroke patients who cannot speak are still able to sing. | T
+@Q GAP
+In every culture, lullabies were slow and ____ . | smooth
+The bird studied in 2009 was a ____ named Snowball. | cockatoo
+
+## The Birth of the Cinema
+@INSERT 3
+At first films were shown in fairgrounds, music halls and rented shops. The first building in the United States devoted entirely to them opened in Pittsburgh in 1905. Admission cost five cents, a nickel, and the theatre was named the Nickelodeon. Within three years there were several thousand imitators across the country. Their audiences were largely working people and recent immigrants, for whom the films had a particular attraction: since the stories were told without spoken words, no knowledge of English was needed to follow them.
+
+The centre of the American industry was originally New York and its surroundings. Around 1910, film-makers began moving to a quiet suburb of Los Angeles called Hollywood. Southern California offered sunshine almost all year, at a time when most filming depended on natural light, and deserts, mountains and ocean all within a short drive. It was also conveniently distant from Thomas Edison, whose company held patents on film equipment and sent agents to pursue those who used it without paying.
+
+Early producers did not reveal the names of their actors, fearing that well-known performers would demand higher wages. That policy collapsed in 1910, when the producer Carl Laemmle hired a popular actress, Florence Lawrence, and spread a false newspaper story that she had been killed in an accident. He then announced indignantly that she was alive and would appear in his next film. Crowds gathered to see her, and the film star was born.
+@V
+admission = плата за вход
+imitator = подражатель
+pursue = преследовать
+indignantly = с возмущением
+@Q TFNG
+Silent films were popular with immigrants because no English was needed. | T
+Film-makers moved to California partly to get away from Edison's agents. | T
+Early producers were keen to advertise the names of their actors. | F
+@Q GAP
+Admission to the first American cinema cost five ____ . | cents
+The false newspaper story claimed that Florence Lawrence had been ____ in an accident. | killed
+
+## Writing on the Wall
+@INSERT 2
+Another artist who moved from the underground to the gallery was Keith Haring. In the early 1980s he noticed that unused advertising panels in New York subway stations were covered with sheets of black paper, and he began filling them with quick chalk drawings of dancing figures, barking dogs and crawling babies. He made thousands, sometimes forty in a day, and was arrested more than once. Commuters came to look out for them, and within a few years his work was being exhibited around the world.
+
+Perhaps the most famous painted surface of all was the Berlin Wall. On its western side, which could be approached freely, people began writing slogans and painting pictures in the late 1970s, until the concrete was covered for kilometres. The eastern side, guarded by soldiers, remained blank. After the wall was opened in 1989, more than a hundred artists from twenty-one countries were invited to paint a surviving section 1.3 kilometres long. Known as the East Side Gallery, it is now a protected monument.
+
+Cities have gradually learned to distinguish between kinds of wall painting. Many now provide 'legal walls' where anyone may paint without permission, in the hope of drawing writers away from trains and private property. Evidence on whether this works is mixed. Some studies report less unwanted graffiti nearby, while others find that legal walls simply attract more painters to the district.
+@V
+panel = щит, панель
+chalk = мел
+blank = пустой, чистый
+permission = разрешение
+@Q TFNG
+Keith Haring drew on unused advertising panels in subway stations. | T
+Both sides of the Berlin Wall were covered with paintings before 1989. | F
+Studies agree that legal walls reduce unwanted graffiti. | F
+@Q GAP
+Haring made his subway drawings with ____ . | chalk
+The painted section of the Berlin Wall is known as the ____ . | East Side Gallery
+
+## Before Writing: The Storytellers
+@INSERT 3
+In Europe, serious interest in oral tales began in the early nineteenth century, when the brothers Jacob and Wilhelm Grimm published their collection of German stories. The popular image of the brothers wandering from village to village listening to old peasants is mistaken. Most of their material came from a handful of educated young women in their own town, who had heard the tales from nurses and servants. The Grimms also altered what they were told, making the language more literary and, in later editions intended for families, turning several cruel mothers into stepmothers.
+
+Collectors soon noticed that the same plots occur in widely separated countries. Hundreds of versions of the Cinderella story have been recorded; one written down in China in the ninth century features a kind girl, a jealous stepmother, a festival and a lost golden shoe. Researchers have recently applied to folk tales the statistical methods that biologists use to trace the descent of species. Their results suggest that a few tales are far older than anyone had suspected. One, about a blacksmith who outwits a devil, may have been told some six thousand years ago.
+
+Why are stories so easy to remember? Experiments at an American business school offer a clue. Students each gave a one-minute talk to their classmates, most of them filled with statistics. Ten minutes later, when the audience was asked what it recalled, only about one listener in twenty could remember any single figure, whereas almost two thirds remembered the stories that a few speakers had told.
+@V
+peasant = крестьянин
+plots (plot) = сюжет
+jealous = завистливый, ревнивый
+blacksmith = кузнец
+@Q TFNG
+The Grimm brothers collected most of their tales from peasants in villages. | F
+A version of the Cinderella story existed in China more than a thousand years ago. | T
+Listeners remembered statistics better than stories. | F
+@Q GAP
+In later editions the Grimms turned several cruel mothers into ____ . | stepmothers
+One very old tale is about a ____ who outwits a devil. | blacksmith
+
+## The Game of Kings
+@INSERT 2
+The spread of the game through medieval Europe is illustrated by one of the most famous archaeological finds in Britain. In 1831 a collection of ninety-three chess pieces was discovered in a sand dune on the Isle of Lewis, off the west coast of Scotland. Carved from walrus ivory in the twelfth century, probably in Norway, they include kings with worried expressions, bishops and warriors biting their shields. Most are now in the British Museum.
+
+Is skill at chess a matter of inborn talent? A Hungarian teacher, Laszlo Polgar, set out to show that it is not. Convinced that any healthy child could be trained to excel, he educated his three daughters at home from the 1970s, with chess as the main subject. All three became outstanding players. The youngest, Judit, earned the title of grandmaster at the age of fifteen, at that time the youngest person ever to do so, and went on to defeat several world champions.
+
+The dream of a chess-playing machine goes back much further than the computer. In 1770 an inventor at the Austrian court unveiled a wooden figure in Turkish dress, seated at a cabinet full of gears, which played a strong game and defeated many opponents during decades of tours through Europe and America. Napoleon is said to have been among them. The 'Turk' was in fact a trick: a skilled human player was concealed inside the cabinet.
+@V
+walrus = морж
+excel = преуспевать, выделяться
+unveiled (unveil) = представить публике
+concealed (conceal) = прятать, скрывать
+@Q TFNG
+The Lewis chess pieces were probably made in Scotland. | F
+Polgar believed that ability at chess depends mainly on training. | T
+The 'Turk' was a genuine machine that could play chess. | F
+@Q GAP
+The Lewis chess pieces were carved from ____ ivory. | walrus
+Judit Polgar became a grandmaster at the age of ____ . | fifteen/15
+
+## Languages in Danger
+@INSERT 1
+Linguistic variety is greatest in regions where mountains, forests or islands have kept communities apart. The extreme case is Papua New Guinea, where about 840 languages are spoken by a population of some nine million, more than in the whole of Europe and the Americas combined. Many are used by only a few hundred people in a single valley, and neighbouring villages may be unable to understand each other.
+
+Counting languages is less straightforward than it sounds, because there is no agreed way of distinguishing a language from a dialect. Danish, Norwegian and Swedish are regarded as separate languages although their speakers can usually follow one another, whereas the forms of Chinese spoken in Beijing and Hong Kong are officially dialects, yet differ as much as Spanish does from Italian. As one scholar remarked, a language is a dialect with an army and a navy: the decision is often political.
+
+The end, when it comes, can be dated precisely. Eyak, once spoken on the southern coast of Alaska, died on 21 January 2008 with its last native speaker, Marie Smith Jones, at the age of eighty-nine. For years she had had nobody to converse with in her mother tongue except a visiting linguist, with whom she worked to compile a dictionary. None of her nine children had learned the language, because, as she explained, when they were young it was considered wrong to speak anything but English.
+@V
+straightforward = простой, однозначный
+dialect = диалект
+navy = военно-морской флот
+converse = беседовать
+@Q TFNG
+Papua New Guinea has more languages than Europe and the Americas together. | T
+Speakers of Danish, Norwegian and Swedish cannot understand one another. | F
+Marie Smith Jones taught Eyak to all her children. | F
+@Q GAP
+About ____ languages are spoken in Papua New Guinea. | 840
+Marie Smith Jones worked with a linguist to compile a ____ . | dictionary
+
+## Bridges: Crossing the Gap
+@INSERT 2
+New materials changed what was possible. In 1779 the world's first large bridge of cast iron was completed across the River Severn at Coalbrookdale in England, the centre of the early iron industry. Its builders had no experience of the material and joined the parts in the way carpenters join timber, yet the bridge still stands. Iron allowed longer, lighter spans than stone, but cast iron is brittle, and a series of failures followed.
+
+The worst occurred in Scotland on a stormy night in December 1879, when the central section of the railway bridge over the River Tay collapsed as a train was crossing; all seventy-five people on board were lost. The designers of the next great Scottish bridge, across the Forth, were determined that it should not only be safe but look safe. Opened in 1890 and built of steel on the cantilever principle, with huge arms balanced on three towers, it used ten times as much metal as a modern engineer would consider necessary. It remains in daily use.
+
+Not every bridge is built; a few are grown. In the wet hills of north-eastern India, where wooden structures quickly rot, the Khasi people guide the roots of a kind of fig tree across streams along hollow trunks or bamboo poles. After fifteen years or more the roots are thick enough to bear the weight of a person, and they go on strengthening for as long as the tree lives. Some of these living bridges are believed to be several centuries old.
+@V
+cast iron = чугун
+carpenter = плотник
+cantilever = консоль, консольный
+fig tree = фиговое дерево, инжир
+@Q TFNG
+The builders of the bridge at Coalbrookdale were experienced in working with iron. | F
+The Forth Bridge contains far more metal than is strictly necessary. | T
+Living root bridges become weaker as they grow older. | F
+@Q GAP
+The Tay Bridge collapsed in the year ____ . | 1879
+The Khasi people make bridges from the roots of a kind of ____ tree. | fig
+
+## Capturing Light
+@INSERT 3
+The camera was soon taken to war. In 1855 the Englishman Roger Fenton travelled to the Crimea with a wagon converted into a darkroom, since each glass plate had to be prepared and developed on the spot. Exposures of several seconds made it impossible to record fighting, and his pictures show camps, officers and empty battlefields. Seven years later, during the American Civil War, an exhibition in New York of photographs of the dead lying where they had fallen shocked a public accustomed to heroic paintings.
+
+Photography also revealed things too quick for the eye. For centuries artists had painted galloping horses with their legs stretched out in front and behind. In 1878, to settle a question raised by a wealthy horse owner, the photographer Eadweard Muybridge set up twelve cameras in a row beside a racetrack in California, each triggered by a thread that the horse broke as it passed. The pictures proved that all four hooves do leave the ground at once, but when they are gathered under the body, not stretched out.
+
+Colour proved a harder problem. The first commercially successful process was introduced in 1907 by the Lumiere brothers, better known as pioneers of the cinema. Their glass plates were coated with millions of microscopic grains of potato starch dyed red, green and blue, which acted as tiny filters. The results were soft and beautiful but needed long exposures, and colour did not become common in family albums until the 1960s.
+@V
+darkroom = фотолаборатория
+galloping (gallop) = скакать галопом
+hooves (hoof) = копыта
+starch = крахмал
+@Q TFNG
+Fenton's photographs show soldiers in the middle of battle. | F
+Muybridge's pictures showed that a horse's four hooves are sometimes all off the ground. | T
+The Lumiere colour process required only very short exposures. | F
+@Q GAP
+Muybridge used ____ cameras set up in a row. | twelve/12
+The grains on the Lumiere plates were made of potato ____ . | starch
+
+## How Football Got Its Rules
+@INSERT 3
+The rules agreed in 1863 have been modified many times. Early matches had no referee on the pitch: the two captains settled disputes between themselves, on the assumption that gentlemen would not cheat. As competition grew fiercer, that assumption could not last. The penalty kick was introduced in 1891 at the suggestion of an Irish goalkeeper, William McCrum, and was at first bitterly opposed by amateur clubs, who considered it an insult to suggest that a player might foul deliberately.
+
+Yellow and red cards arrived much later. During the 1966 World Cup a player who had been sent off refused to leave the field, partly because he and the referee had no language in common. Ken Aston, the English official in charge of referees, was driving home afterwards when he stopped at a set of traffic lights and saw the solution: yellow for caution, red for stop. The cards were first used at the World Cup of 1970.
+
+The women's game has had a more troubled history. During the First World War, teams formed by women working in English factories played matches for charity, and one of them drew a crowd of 53,000 in Liverpool in 1920. The following year the Football Association declared the sport unsuitable for women and banned them from its members' grounds. The ban was not lifted until 1971. The first official Women's World Cup was held twenty years after that, in China.
+@V
+referee = судья (в спорте)
+insult = оскорбление
+foul = нарушать правила
+caution = предупреждение, осторожность
+@Q TFNG
+In early matches, disagreements were settled by the two captains. | T
+Amateur clubs welcomed the introduction of the penalty kick. | F
+Women were banned from Football Association grounds for about fifty years. | T
+@Q GAP
+Ken Aston's idea for the cards came to him at a set of ____ . | traffic lights
+The first official Women's World Cup was held in ____ . | China

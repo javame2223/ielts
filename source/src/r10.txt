@@ -1,0 +1,290 @@
+## Next Stop, Mars | Space & Ideas
+Mars has fascinated humanity for centuries. In the 1890s the American astronomer Percival Lowell announced that he could see canals on its surface, built, he believed, by an intelligent civilisation struggling to survive on a drying planet. The canals turned out to be an optical illusion, but the idea of Martians has never quite left the popular imagination.
+
+The real Mars is a harsh place. It is about half the diameter of the Earth, and its thin atmosphere, composed almost entirely of carbon dioxide, has less than one per cent of the pressure of ours. The average temperature is around minus sixty degrees. Yet it was not always so. Photographs from orbit show dry river valleys and deltas, and robot vehicles on the surface have found minerals that form only in water. Billions of years ago Mars had lakes and perhaps an ocean. Whether life ever arose there is the central question that current missions are trying to answer.
+
+Sending people is far more difficult than sending machines. Because of the way the planets move, a journey is practical only about once every twenty-six months, and it takes six to nine months each way. Astronauts would be exposed to dangerous radiation, and their muscles and bones would weaken in weightlessness. A radio signal takes up to twenty minutes to reach Earth, so the crew could not rely on immediate help. Landing is particularly hard: the atmosphere is too thin for parachutes alone to slow a heavy spacecraft, yet thick enough to cause intense heating.
+
+Space agencies and private companies have nevertheless announced plans to send crews in the coming decades. Critics ask whether the enormous expense is justified when robots are becoming ever more capable.
+@V
+fascinate = очаровывать, увлекать
+optical illusion = оптическая иллюзия
+diameter = диаметр
+mineral = минерал
+mission = миссия, экспедиция
+radiation = радиация
+weightlessness = невесомость
+spacecraft = космический корабль
+@Q TFNG
+Lowell's canals were later shown not to exist. | T
+The atmosphere of Mars consists mainly of oxygen. | F
+There is evidence that liquid water once existed on Mars. | T
+Life has been discovered in Martian soil. | F
+@Q GAP
+A trip to Mars is practical roughly once every ____ months. | twenty-six/26
+A radio signal from Mars can take up to ____ minutes to arrive on Earth. | twenty/20
+@Q MCQ
+Why is landing on Mars especially difficult? | A The surface is covered in water. | B The atmosphere is too thin for parachutes alone but thick enough to cause heating. | C The gravity is stronger than Earth's. | D Dust storms never stop. | B
+What do critics of crewed missions question? | A whether Mars exists as described | B whether the cost is worthwhile | C whether robots can reach Mars | D whether astronauts are brave enough | B
+
+## Eyes on the Universe | Space & Ideas
+Until the early seventeenth century, everything humans knew about the sky had been learned with the naked eye. In 1609 the Italian scientist Galileo Galilei heard of a Dutch invention that used two lenses to make distant objects appear closer. He built his own improved version and pointed it at the night sky. Within months he had seen mountains on the Moon, four moons circling Jupiter and countless stars invisible to the eye. His observations supported the idea, dangerous at the time, that the Earth is not the centre of the universe.
+
+Telescopes with lenses suffered from a defect: they surrounded bright objects with fringes of false colour. In 1668 Isaac Newton solved the problem by using a curved mirror instead of a lens to gather the light. Nearly all large telescopes since then have been reflectors, because mirrors can be made much bigger than lenses. The bigger the mirror, the more light it collects and the fainter the objects it can detect.
+
+Even the best telescope on the ground must look through the Earth's atmosphere, which blurs the image and blocks some kinds of light entirely. The answer was to go above it. The Hubble Space Telescope, launched in 1990, at first returned blurred pictures because its main mirror had been ground to very slightly the wrong shape. Astronauts fitted corrective optics in 1993, and Hubble went on to transform astronomy.
+
+Its successor, the James Webb Space Telescope, was launched in December 2021. With a gold-coated mirror 6.5 metres across, it observes infrared light and orbits the Sun 1.5 million kilometres from Earth. It can see galaxies as they were more than thirteen billion years ago, soon after the universe began.
+@V
+naked eye = невооружённый глаз
+defect = дефект
+fringe = кайма, ореол
+mirror = зеркало
+reflector = рефлектор (зеркальный телескоп)
+blur = размывать
+successor = преемник
+infrared = инфракрасный
+@Q TFNG
+Galileo invented the telescope. | F
+Galileo observed moons orbiting Jupiter. | T
+Newton's telescope used a mirror to collect light. | T
+The Hubble telescope has now stopped working. | NG
+@Q HEAD i. Getting above the air; ii. The first look through a lens; iii. Looking back to the beginning; iv. The cost of astronomy; v. Why mirrors replaced lenses; vi. Galileo's trial
+Paragraph A | ii
+Paragraph B | v
+Paragraph C | i
+Paragraph D | iii
+
+## Food of the Gods | Space & Ideas
+Chocolate is made from the seeds of the cacao tree, which grows only in hot, humid regions close to the equator. Its scientific name, Theobroma, means 'food of the gods'. The tree was first cultivated in Central America more than three thousand years ago, and for most of its history chocolate was not eaten but drunk.
+
+The Maya and later the Aztecs prepared a bitter, foaming drink from roasted cacao seeds, water, chilli and maize. It was reserved largely for rulers, warriors and priests. Cacao beans were so valuable that the Aztecs used them as money: according to one sixteenth-century record, a turkey cost a hundred beans and a tomato one.
+
+Spanish conquerors took cacao back to Europe in the 1500s. There the chilli was replaced with sugar and the drink was served hot, and for the next two centuries chocolate was a fashionable luxury of the wealthy. The transformation into a solid food came with the Industrial Revolution. In 1828 a Dutch chemist, Coenraad van Houten, invented a press that separated cocoa butter from the bean, leaving a fine powder. In 1847 the English firm Fry's mixed cocoa powder, sugar and melted cocoa butter to produce the first chocolate bar, and in 1875 the Swiss Daniel Peter added condensed milk to create milk chocolate.
+
+Today about two thirds of the world's cocoa comes from West Africa, chiefly Ivory Coast and Ghana, where it is grown mostly on small family farms. Many farmers earn very little, and the use of child labour on some farms has been widely criticised. Certification schemes that promise farmers a fairer price have grown, though they still cover only part of the market.
+@V
+humid = влажный
+bitter = горький
+foam = пениться
+roast = обжаривать
+warrior = воин
+conqueror = завоеватель
+condensed milk = сгущённое молоко
+certification = сертификация
+@Q TFNG
+For most of its history chocolate was consumed as a drink. | T
+The Aztec chocolate drink was sweetened with sugar. | F
+Cacao beans served as a form of currency. | T
+Van Houten sold his invention to Fry's. | NG
+@Q SUM
+The first chocolate bar was made in 1847 by the firm ____ . | Fry's
+Milk chocolate was created in 1875 by adding ____ . | condensed milk
+Roughly two thirds of cocoa is now produced in ____ . | West Africa
+@Q MCQ
+What problem in cocoa farming is mentioned? | A overproduction | B low incomes and child labour | C lack of rain | D competition from South America | B
+
+## The Grain that Feeds Half the World | Space & Ideas
+Rice is the staple food of more than half of humanity. It was domesticated in China, in the valley of the Yangtze River, around nine thousand years ago, and today roughly ninety per cent of the world's crop is still grown and eaten in Asia.
+
+Most rice is grown in flooded fields called paddies. The plant does not actually need to stand in water, but it tolerates flooding, whereas most weeds do not, so the water acts as a natural weedkiller. Traditionally the seedlings are raised in a nursery and then transplanted by hand into the mud, a task demanding great labour. In mountainous regions farmers have carved steep hillsides into terraces to hold the water; those in the northern Philippines are some two thousand years old.
+
+In the 1960s many experts predicted famine in Asia, as populations were growing faster than harvests. The disaster was avoided largely thanks to plant breeders at the International Rice Research Institute in the Philippines. In 1966 they released a variety known as IR8. Traditional rice plants were tall, and when given fertiliser they grew top-heavy and fell over. IR8 had a short, stiff stem and could convert fertiliser into grain, so that yields doubled or even tripled. It became known as 'miracle rice' and was a central part of what was called the Green Revolution.
+
+New challenges have since appeared. Flooded paddies release methane, a powerful greenhouse gas, and rice farming consumes a large share of Asia's fresh water. Researchers are testing methods in which fields are allowed to dry out periodically, which saves water and cuts emissions. Others have developed varieties that survive two weeks under water, a valuable quality in areas where floods are becoming more frequent.
+@V
+tolerate = переносить, выдерживать
+weed = сорняк
+seedling = саженец, рассада
+transplant = пересаживать
+terrace = терраса
+famine = голод
+yield = урожайность
+methane = метан
+@Q TFNG
+Rice was first domesticated in the Philippines. | F
+Rice plants must stand in water in order to grow. | F
+IR8 produced much larger harvests than traditional varieties. | T
+IR8 tasted better than traditional rice. | NG
+@Q GAP
+Flooding rice fields works as a natural ____ . | weedkiller
+Flooded paddies give off ____ , a strong greenhouse gas. | methane
+@Q MCQ
+Why did traditional rice plants fail when fertilised? | A They became too tall and heavy and fell over. | B They needed too much water. | C They were attacked by insects. | D They produced no seeds. | A
+What advantage do some new varieties have? | A They need no sunlight. | B They can survive being under water for two weeks. | C They grow without soil. | D They do not need harvesting. | B
+
+## The Machine that Changed Mobility | Space & Ideas
+The bicycle seems such a simple machine that it is surprising how late it appeared. Its ancestor was the 'running machine' built in 1817 by the German baron Karl von Drais: two wheels joined by a wooden frame, which the rider pushed along with his feet on the ground. Some historians link the invention to the crop failures of 1816, which had led to the deaths of many horses.
+
+Pedals were attached to the front wheel in France in the 1860s. The result, with its iron tyres, was so uncomfortable that it was nicknamed the 'boneshaker'. Since each turn of the pedals turned the wheel once, the only way to go faster was to enlarge the front wheel, and so the high-wheeler, or penny-farthing, appeared in the 1870s. It was fast but dangerous: a small stone could throw the rider head first to the ground.
+
+The breakthrough was the 'safety bicycle' of 1885, designed by the Englishman John Kemp Starley. It had two wheels of equal size and a chain driving the rear wheel, essentially the design used today. Three years later John Dunlop, a Scottish vet living in Belfast, developed the air-filled tyre to make his son's tricycle more comfortable.
+
+The effect on society was enormous. For the first time ordinary people had an affordable means of travelling beyond walking distance, to find work or simply for pleasure. The bicycle was especially significant for women, giving them new independence and encouraging more practical clothing; the American campaigner Susan B. Anthony said it had done more to free women than anything else in the world. Cyclists' demands for smoother roads also prepared the way, ironically, for the motor car.
+@V
+ancestor = предшественник, предок
+frame = рама
+pedal = педаль
+tyre = шина
+enlarge = увеличивать
+chain = цепь
+affordable = доступный по цене
+independence = независимость
+@Q TFNG
+The rider of von Drais's machine moved it by pushing against the ground. | T
+The 'boneshaker' was known for being comfortable. | F
+The safety bicycle had wheels of the same size. | T
+Starley became a millionaire from his design. | NG
+@Q SHORT
+What was John Dunlop's profession? | vet/a vet
+Which wheel did the chain drive on the safety bicycle? | rear/the rear wheel/rear wheel
+@Q MCQ
+Why did high-wheelers have such a large front wheel? | A to make them look impressive | B to increase speed | C to make them safer | D to carry luggage | B
+What ironic result of cycling is mentioned? | A Bicycles became too expensive. | B Better roads demanded by cyclists helped the car. | C Women stopped cycling. | D Horses became more popular. | B
+
+## Transparent and Everywhere | Space & Ideas
+Glass is made mainly from one of the commonest substances on Earth: sand. When sand is heated to a very high temperature with soda and lime, it melts, and on cooling it hardens without forming crystals, which is why it is transparent. Nature produces glass too. Obsidian, formed when volcanic lava cools quickly, was shaped into razor-sharp blades by Stone Age people.
+
+Humans began making glass more than four thousand years ago in Mesopotamia and Egypt, at first as beads and small bottles formed around a core of clay. The crucial advance came in the first century BC, probably on the coast of what is now Syria and Lebanon: glass-blowing. By blowing air through a hollow tube into a ball of molten glass, a craftsman could make a vessel in minutes. Glass became cheap enough for ordinary Roman households.
+
+In the Middle Ages the finest glass came from Venice. In 1291 the city ordered all its glassmakers to move to the island of Murano, officially to reduce the risk of fire, but also to keep their techniques secret. Craftsmen were forbidden to leave the republic.
+
+It is hard to overstate how much modern life owes to this material. Spectacles, invented in Italy around 1290, extended the working lives of scholars and craftsmen. Lenses made possible the telescope and the microscope, and hence modern astronomy and biology; the glass test tube and thermometer were essential to chemistry. Large flat windows became possible in 1959, when the British firm Pilkington perfected a method of floating molten glass on a bath of liquid tin. Today, strands of ultra-pure glass thinner than a hair carry almost all of the world's internet traffic as pulses of light.
+@V
+transparent = прозрачный
+crystal = кристалл
+blade = лезвие
+bead = бусина
+vessel = сосуд
+craftsman = ремесленник, мастер
+spectacles = очки
+strand = нить, волокно
+@Q TFNG
+Glass is transparent because it does not form crystals as it cools. | T
+Glass-blowing was invented in Venice. | F
+Venetian glassmakers were free to work abroad. | F
+Roman glass was stronger than modern glass. | NG
+@Q MATCH
+the contribution of glass to science | D
+a natural form of glass | A
+an attempt to protect trade secrets | C
+@Q GAP
+In Pilkington's method, molten glass floats on liquid ____ . | tin
+
+## The Number that Means Nothing | Space & Ideas
+It is difficult to imagine arithmetic without zero, yet for most of history people managed without it. The Babylonians, around 300 BC, used a pair of slanted marks to show an empty place within a number, rather as we distinguish 205 from 25, but they never treated it as a number in itself. The Maya of Central America independently invented a similar symbol, shaped like a shell, for their calendar.
+
+The ancient Greeks, for all their brilliance in geometry, were uncomfortable with the notion. How, their philosophers asked, can nothing be something? The Romans had no zero either, and anyone who has tried to multiply using Roman numerals will understand the difficulty this caused.
+
+Zero as a true number, which can be added, subtracted and multiplied like any other, appeared in India. In AD 628 the mathematician Brahmagupta set out rules for calculating with it, stating for example that a number minus itself is zero. From India the system of nine digits and zero passed to the Islamic world. In ninth-century Baghdad the scholar al-Khwarizmi, who was born in the region of Khorezm in present-day Uzbekistan, wrote an influential book explaining it; the word 'algorithm' comes from the Latin form of his name. The Arabic word for zero, sifr, meaning 'empty', gave English both 'zero' and 'cipher'.
+
+Europe was slow to accept the new numbers. The Italian merchant's son Leonardo of Pisa, known as Fibonacci, promoted them in a book of 1202, having learned them in North Africa. Some authorities remained suspicious; Florence banned them from official accounts in 1299, fearing that a zero could easily be altered into a six or a nine. Only with the spread of printing did they finally replace Roman numerals.
+@V
+slanted = наклонный
+notion = понятие, идея
+numeral = цифра, числительное
+subtract = вычитать
+digit = цифра
+influential = влиятельный
+cipher = шифр; ноль
+alter = изменять
+@Q TFNG
+The Babylonians treated zero as a number that could be used in calculations. | F
+The Maya developed a zero symbol without outside influence. | T
+The word 'algorithm' is derived from al-Khwarizmi's name. | T
+Brahmagupta travelled to Baghdad to teach his rules. | NG
+@Q GAP
+The Maya symbol for zero was shaped like a ____ . | shell
+The Arabic word sifr means ____ . | empty
+@Q MCQ
+Why did Florence ban the new numbers from official accounts? | A They were considered foreign. | B Zero could easily be changed into another digit. | C Nobody understood them. | D Printing had not been invented. | B
+Where did Fibonacci learn the new number system? | A India | B Baghdad | C North Africa | D Florence | C
+
+## The Psychology of Colour | Space & Ideas
+Does the colour of a room change how we feel? Does a red shirt help an athlete to win? Popular books give confident answers, but the scientific evidence is more mixed.
+
+Some effects appear to be real. In a study of the 2004 Olympic Games, researchers examined combat sports such as boxing and wrestling, in which competitors were randomly given red or blue clothing. Those in red won about fifty-five per cent of the contests, an advantage that was greatest when opponents were evenly matched. The researchers suggested that red is a natural signal of dominance, as it is in many animals. In other experiments, students who briefly saw the colour red before a test performed slightly worse on problems requiring flexible thinking, perhaps because red is associated with danger and with teachers' corrections.
+
+Many common claims, however, rest on little evidence. In the late 1970s a particular shade of pink was reported to calm aggressive prisoners, and some jails painted cells with it. Later, better-controlled studies failed to confirm any lasting effect.
+
+Culture complicates matters further. White is the colour of weddings in Western countries, whereas in China and India it is traditionally worn at funerals. Red suggests danger to many Europeans but good fortune in China. Even the boundaries between colours vary: Russian has two separate basic words for light blue and dark blue, and experiments show that Russian speakers are slightly quicker than English speakers at telling apart shades that fall on either side of that line.
+
+Asked for their favourite colour, people in most countries surveyed choose blue. Researchers think the reason is simple: we tend to like colours associated with things we like, such as clear skies and clean water.
+@V
+confident = уверенный
+combat = бой, единоборство
+contest = состязание, поединок
+dominance = доминирование, превосходство
+shade = оттенок
+aggressive = агрессивный
+fortune = удача
+boundary = граница
+@Q YNNG
+The scientific evidence about colour and behaviour is entirely clear. | N
+Wearing red may give a small advantage in combat sports. | Y
+Painting prison cells pink is an effective way to reduce violence. | N
+Companies should choose blue for their logos. | NG
+@Q GAP
+In the Olympic study, competitors wearing red won about ____ per cent of contests. | fifty-five/55
+In China and India, white is traditionally worn at ____ . | funerals
+@Q MCQ
+What does the example of Russian show? | A Russians prefer blue to other colours. | B Language can affect how quickly people distinguish colours. | C Russian has fewer colour words than English. | D Colours mean the same in all cultures. | B
+Why do researchers think blue is so widely liked? | A It is the easiest colour to see. | B It is linked with pleasant things like clear sky and clean water. | C It is used in most advertising. | D It has no negative meanings anywhere. | B
+
+## Why Do We Dream? | Space & Ideas
+People have always wondered about the meaning of dreams. In the ancient world they were commonly taken to be messages from the gods or glimpses of the future. In 1900 the Austrian doctor Sigmund Freud proposed a different interpretation: dreams, he argued, are disguised expressions of wishes that we hide even from ourselves.
+
+Scientific study of dreaming became possible in 1953, when researchers at the University of Chicago noticed that sleepers' eyes move rapidly beneath their lids at certain periods of the night. Volunteers woken during this rapid eye movement, or REM, sleep nearly always reported a vivid dream. During REM the brain is almost as active as when awake, yet the muscles of the body are effectively paralysed, which prevents us from acting out our dreams. We now know that some dreaming occurs in other stages of sleep as well.
+
+There is still no agreed explanation of what dreams are for. One influential theory, put forward in 1977, holds that they have no purpose at all: the sleeping brain produces random signals, and the thinking part of the brain does its best to turn them into a story. Others believe that dreaming helps to process memories and emotions. People deprived of REM sleep are worse at learning new skills, and experiments show that the brain replays recent experiences during sleep. A further idea is that dreams are rehearsals. A large proportion involve being chased or threatened, and practising such situations in safety might have helped our ancestors to survive.
+
+Most dreams are forgotten within minutes of waking. A few people, however, experience lucid dreams, in which they are aware of dreaming and can sometimes direct what happens, an ability that researchers have confirmed in the laboratory.
+@V
+glimpse = беглый взгляд, проблеск
+interpretation = толкование
+disguised = замаскированный
+lid = веко
+paralysed = парализованный
+deprive = лишать
+rehearsal = репетиция
+lucid = осознанный, ясный
+@Q TFNG
+Freud thought dreams were messages from the gods. | F
+REM sleep was identified in the middle of the twentieth century. | T
+During REM sleep, the body's muscles are very active. | F
+Women remember their dreams more often than men. | NG
+@Q SUM
+According to a theory from 1977, dreams result from ____ signals in the brain. | random
+Another view is that dreaming helps process memories and ____ . | emotions
+In a ____ dream, the sleeper knows that he or she is dreaming. | lucid
+@Q MCQ
+Why might dreams of being chased have been useful? | A They kept people awake. | B They allowed safe practice for dangerous situations. | C They improved eyesight. | D They helped people forget fear. | B
+
+## The Olympic Games, Ancient and Modern | Space & Ideas
+The Olympic Games were first held, according to tradition, in 776 BC at Olympia in southern Greece, as part of a religious festival in honour of the god Zeus. At the earliest Games there was a single event, a sprint of about 190 metres. Wrestling, boxing, chariot racing and other contests were added later. Only free Greek men could compete, and married women were not even permitted to watch. Winners received no medals, only a wreath of olive leaves, but their home cities rewarded them generously. A sacred truce allowed athletes and spectators to travel safely through warring states.
+
+The Games were held every four years for more than a millennium, until they were abolished at the end of the fourth century AD by a Christian Roman emperor who regarded them as pagan.
+
+Their revival was the work of a French aristocrat, Pierre de Coubertin, who believed that sport built character and that international competition could promote peace. The first modern Games took place in Athens in 1896, with about 240 athletes, all of them men, from fourteen countries. Women first took part in Paris in 1900. The marathon, incidentally, was a modern invention, inspired by the legend of a messenger who ran to Athens with news of a victory.
+
+The Games have grown enormously since then: more than 10,000 athletes from over 200 teams now take part in the summer event. Growth has brought problems. Coubertin's ideal of amateur competition has given way to professionalism, the Games have repeatedly been disrupted by political boycotts, and scandals over banned drugs are frequent. The cost of hosting has also soared, and fewer cities are now willing to bid.
+@V
+sprint = спринт, забег на короткую дистанцию
+wreath = венок
+sacred = священный
+truce = перемирие
+millennium = тысячелетие
+pagan = языческий
+amateur = любительский
+boycott = бойкот
+@Q TFNG
+The earliest Olympic Games consisted of one running race. | T
+Winners at the ancient Games were given gold medals. | F
+Women competed at the first modern Games in 1896. | F
+Coubertin himself competed in the 1896 Games. | NG
+@Q MATCH
+difficulties facing the modern Games | D
+the end of the ancient Games | B
+the ideas of the man who restarted the Games | C
+@Q GAP
+Ancient winners were given a wreath made of ____ leaves. | olive

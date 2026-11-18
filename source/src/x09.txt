@@ -1,0 +1,200 @@
+## The Social Life of Elephants
+@INSERT 3
+The elephant's most distinctive feature, its trunk, is a combined nose and upper lip containing tens of thousands of individual muscles and no bones. It is strong enough to push over a tree and delicate enough to pick up a single peanut. An elephant uses it to breathe, drink, feed, wash, greet and threaten, and as a snorkel when swimming. The sense of smell it provides is among the keenest known: elephants can detect water several kilometres away and can distinguish between human groups that have hunted them and groups that have not, simply from the scent of their clothing.
+
+In 2006 researchers at a zoo in New York tested whether elephants recognise themselves in a mirror, an ability previously demonstrated only in great apes, dolphins and humans. A white cross was painted on the forehead of an Asian elephant called Happy, in a place she could not see directly. Standing in front of a large mirror, she repeatedly touched the mark with the tip of her trunk. She had understood that the animal in the glass was herself.
+
+Elephants also shape the landscape for other species. In dry seasons they dig into river beds with their feet and tusks to reach water, creating pools that many animals depend on. By pushing over trees they keep grassland open, and they swallow fruit whole and deposit the seeds, complete with fertiliser, many kilometres away. Some trees of the African rainforest have seeds so large that no other animal can spread them.
+@V
+keenest (keen) = острый (о чувствах)
+scent = запах
+forehead = лоб
+tusks (tusk) = бивни
+@Q TFNG
+An elephant's trunk contains several small bones. | F
+Elephants can tell different groups of people apart by smell. | T
+Happy ignored the mark that had been painted on her forehead. | F
+@Q GAP
+Before 2006, mirror self-recognition had been shown only in great apes, ____ and humans. | dolphins
+Elephants dig into river beds with their feet and ____ . | tusks
+
+## Emperors of the Ice
+@INSERT 4
+Once the chicks are a few weeks old, both parents must fish to satisfy them, and the young are left together in large groups for warmth and protection. A returning adult therefore faces the problem of finding one chick among thousands that look identical. The solution is sound. Every emperor penguin has a call with its own pattern, produced by two voices at once, and a chick can pick out its parent's call from the din of the colony within seconds.
+
+At sea the clumsy walker becomes a superb swimmer. Emperor penguins hunt fish, squid and small shrimp-like animals beneath the ice, and they dive deeper than any other bird. Instruments attached to their backs have recorded descents of more than five hundred metres and dives lasting over twenty minutes. Unlike flying birds, whose bones are hollow, penguins have solid bones, which help them to sink.
+
+Because the colonies lie in some of the least accessible places on Earth, nobody knew how many emperors existed until scientists turned to satellites. The birds themselves are too small to see from space, but their droppings stain the ice a reddish brown, and these patches show up clearly in photographs. A survey completed in 2012 located forty-six colonies, several of them previously unknown, and put the total at about 600,000 birds, roughly twice the earlier estimate.
+@V
+clumsy = неуклюжий
+superb = превосходный
+accessible = доступный
+stain = окрашивать, пятнать
+@Q TFNG
+A chick recognises its parent by its appearance. | F
+Emperor penguins can stay under water for more than twenty minutes. | T
+The 2012 survey found fewer penguins than had been expected. | F
+@Q GAP
+Penguins have ____ bones, which help them to sink. | solid
+Colonies show up in satellite photographs as reddish-brown ____ . | patches
+
+## The Changing Sahara
+@INSERT 2
+People have lived in this unpromising environment for thousands of years. The Tuareg, nomadic herders sometimes called the 'blue people' because the dye of their robes stains the skin, traditionally moved with their camels and goats between seasonal pastures and controlled the caravan routes. Settled life is possible only at oases, where underground water reaches the surface or can be led to it through hand-dug tunnels. There, in the shade of date palms, farmers grow fruit, vegetables and grain in gardens no larger than a tennis court.
+
+On the southern edge of the desert stands Timbuktu, a name that in English has come to mean the most remote place imaginable. In the fifteenth and sixteenth centuries it was one of the great centres of learning of the Islamic world, with a university that attracted thousands of students. Hundreds of thousands of handwritten books on law, astronomy and medicine have been preserved by local families ever since. When armed groups occupied the city in 2012, librarians smuggled most of the manuscripts to safety in metal trunks, hidden under sacks of vegetables.
+
+The desert holds curiosities of another kind. In the far south-west of Egypt the sand is scattered with pieces of a pale yellow natural glass, formed some 29 million years ago when a meteorite, or its explosion in the air, melted the surface. The ancient Egyptians valued it: a beetle carved from this glass forms the centrepiece of a jewel found in the tomb of Tutankhamun.
+@V
+herder = скотовод, пастух
+pasture = пастбище
+date palm = финиковая пальма
+meteorite = метеорит
+@Q TFNG
+The Tuareg traditionally lived in one place throughout the year. | F
+Timbuktu was once an important centre of education. | T
+Most of the Timbuktu manuscripts were destroyed in 2012. | F
+@Q GAP
+At oases, crops are grown in the shade of ____ palms. | date
+The yellow desert glass was formed about ____ million years ago. | 29
+
+## The Mighty Amazon
+@INSERT 3
+The river owes its name to a sixteenth-century Spanish soldier, Francisco de Orellana, who in 1541 and 1542 became the first European to travel its whole length. He reported being attacked by a tribe led by women warriors, and the river was named after the Amazons, the female fighters of Greek legend. Orellana also described large towns and well-kept roads along the banks. Later travellers found only forest, and his account was dismissed as fantasy. In recent years, however, aircraft carrying laser scanners that can see through the trees have revealed the remains of extensive settlements, causeways and reservoirs, suggesting that he may have been telling the truth.
+
+Twice a day the Atlantic takes a small revenge on the river. Around the time of the highest tides, the incoming sea overcomes the current at the mouth and a wave up to four metres high rushes upstream with a roar that can be heard half an hour before it arrives. Local people call it the pororoca, and surfers travel from around the world to ride it; the longest rides have lasted more than thirty minutes.
+
+The forest and the river are more closely linked than might appear. An individual large tree can draw several hundred litres of water from the soil in a day and release it through its leaves. Added together, the trees of the basin send about twenty billion tonnes of water vapour into the air daily, more than the river itself carries to the sea. Winds carry these 'flying rivers' south, where they fall as rain on the farms and cities of southern Brazil.
+@V
+tribe = племя
+causeway = насыпная дорога
+revenge = месть
+vapour = пар
+@Q MATCH
+technology that has changed opinions about an old report | D
+a sport that depends on a natural event | E
+@Q TFNG
+Orellana's description of large towns was accepted by later travellers. | F
+The forest releases more water into the air than the river carries to the sea. | T
+@Q GAP
+The moisture carried south by the wind is known as 'flying ____ '. | rivers
+
+## The Coldest Continent
+@INSERT 3
+The continent itself supports almost no life. There are no trees or shrubs, only mosses and lichens on the few patches of bare rock, and the largest animal that spends its whole life on land is a wingless insect about six millimetres long. The surrounding ocean, by contrast, is extraordinarily rich. Its cold waters hold immense swarms of krill, small shrimp-like creatures that are the main food of the whales, seals, penguins and seabirds for which the region is famous.
+
+Beneath the ice lies a hidden world. Radar surveys have identified more than four hundred lakes under the ice sheet, kept liquid by heat from the Earth's interior and by the pressure of the ice above. The largest, Lake Vostok, is about the size of Lake Ontario and lies under almost four kilometres of ice; it has been sealed off from the atmosphere for millions of years. In 2012, after two decades of drilling, a Russian team finally reached its surface. Scientists hope that any organisms living in such lakes may show what kind of life could exist on the icy moons of Jupiter and Saturn.
+
+Scientists are no longer the only visitors. About 100,000 tourists now travel to Antarctica each summer, most of them by ship from the southern tip of South America. Operators follow strict rules: boots are disinfected before every landing to avoid introducing foreign seeds, no more than a hundred passengers may go ashore at one place at a time, and visitors must keep at least five metres from wildlife.
+@V
+mosses (moss) = мох
+swarm = рой, огромная стая
+krill = криль
+disinfected (disinfect) = дезинфицировать
+@Q TFNG
+The largest animal living permanently on land in Antarctica is an insect. | T
+The lakes beneath the ice sheet are frozen solid. | F
+Tourists are allowed to touch the penguins. | F
+@Q GAP
+Lake Vostok lies under almost ____ kilometres of ice. | four/4
+Boots are disinfected to avoid introducing foreign ____ . | seeds
+
+## Clever Crows
+@INSERT 3
+Members of the crow family may even think ahead. In an experiment in Sweden, ravens were taught to use a particular stone to open a box containing food. Later the box was removed, and the birds were offered a choice of objects, among them the stone. Most took it and kept it, and when the box was brought back, as much as seventeen hours afterwards, they used it at once. In a further test the ravens turned down a small immediate treat in favour of a token that they could later exchange for a better one, a kind of self-control that human children do not show reliably until they are about four.
+
+Crows gather noisily around the body of a dead companion, behaviour sometimes described as a funeral. Experiments indicate that the purpose is practical. When researchers placed a stuffed crow on the ground with a masked person standing nearby, the birds mobbed the person on later occasions and for several days avoided food put out at that spot. They appear to treat a death as a warning and to gather in order to learn what caused it.
+
+Their relations with people are not always hostile. An eight-year-old American girl who had fed the crows in her garden every day began to find small objects left on the feeding tray: buttons, beads, a paper clip, a single earring, a tiny silver heart. Biologists cannot be sure that such offerings are intended as gifts, but there are many similar reports.
+@V
+treat = лакомство
+token = жетон
+self-control = самоконтроль
+tray = поднос, лоток
+@Q TFNG
+The ravens used the stone up to seventeen hours after choosing it. | T
+Crows gather around a dead crow in order to eat it. | F
+Biologists are certain that crows deliberately give presents to people. | F
+@Q GAP
+Children do not reliably show this kind of self-control until they are about ____ . | four/4
+After the experiment, the crows avoided ____ put out at the same spot. | food
+
+## Songs of the Humpback
+@INSERT 3
+Song is not the only behaviour that humpbacks pass on. In the cold waters where they feed, groups of whales cooperate in an ingenious method of catching fish. One or more animals swim in a circle beneath a shoal, blowing a continuous stream of bubbles that rises like a curtain and frightens the fish into a tight ball. The whales then surge up through the centre with their mouths open. Off the north-east coast of the United States, a new variation, in which the whale first slaps the surface with its tail, was seen in a single animal in 1980 and within thirty years had spread to hundreds.
+
+The voices of the largest whales carry astonishing distances. Blue and fin whales produce notes so deep that most are below the range of human hearing, and in a particular layer of the ocean, where temperature and pressure trap sound, such calls can travel for more than a thousand kilometres. Before the age of engines, a whale may have been able to hear others across an entire ocean basin.
+
+One voice has puzzled listeners for decades. In 1989 underwater microphones belonging to the American navy picked up a whale calling at a pitch far higher than that of any known species. The same call has been followed across the North Pacific year after year, always alone. Nobody has ever seen the animal that makes it. Newspapers named it the loneliest whale in the world, although scientists point out that other whales can probably hear it perfectly well.
+@V
+ingenious = изобретательный
+shoal = косяк (рыбы)
+slaps (slap) = шлёпать, бить
+puzzled (puzzle) = озадачивать
+@Q TFNG
+Humpbacks use bubbles to drive fish close together. | T
+Most of the notes produced by blue whales can easily be heard by humans. | F
+The whale with the unusually high call has been photographed many times. | F
+@Q GAP
+Deep whale calls can travel for more than a ____ kilometres. | thousand
+The unusual call was first picked up by microphones belonging to the American ____ . | navy
+
+## The Ship of the Desert
+@INSERT 3
+Surprisingly, the camel family began not in Asia or Africa but in North America, about forty-five million years ago. Fossil bones of a giant camel have even been found in the Canadian Arctic, which was then covered by forest. Some members of the family later wandered south and became the llamas of the Andes; others walked into Asia across a bridge of land that once joined Alaska to Siberia. In their original homeland camels died out around ten thousand years ago.
+
+Today the largest population of wild camels lives on a continent where they are not native at all. From the 1840s onwards, thousands were shipped to Australia, together with experienced handlers from South Asia, to carry supplies for explorers and for the builders of railways and telegraph lines across the dry interior. When lorries replaced them in the 1920s, many were simply turned loose. Their descendants now number several hundred thousand, and they damage water holes and vegetation to such an extent that the government organises regular culls.
+
+The truly wild camel, by contrast, is one of the rarest large mammals on Earth. Fewer than a thousand wild Bactrian camels survive in the Gobi Desert of China and Mongolia. Genetic studies have shown that they are not escaped domestic animals but a separate species, and they possess one extraordinary ability: they can drink water that is saltier than the sea.
+@V
+handler = погонщик, проводник животных
+turned loose (turn loose) = выпустить на волю
+cull = отстрел для сокращения численности
+genetic = генетический
+@Q TFNG
+The camel family originated in North America. | T
+Camels were taken to Australia to be kept in zoos. | F
+Wild Bactrian camels are domestic animals that escaped. | F
+@Q GAP
+In Australia, camels were replaced by ____ in the 1920s. | lorries
+Wild Bactrian camels survive in the ____ Desert. | Gobi
+
+## Iceland: Energy from the Earth
+@INSERT 1
+Extracting the heat is simple in principle. Engineers drill wells two or three kilometres deep into rock that is still hot from volcanic activity. Water under pressure rushes to the surface, where part of it flashes into steam and drives turbines; the remaining hot water is piped to towns. The cooled water is afterwards pumped back underground so that the supply is not exhausted. Pipelines carrying water to the capital are so well insulated that the temperature falls by only about two degrees over a distance of twenty-seven kilometres.
+
+Living on a volcanic island has obvious risks. In January 1973 a fissure opened without warning on the edge of the only town on the island of Heimaey, off the south coast, and the entire population of 5,000 was taken to the mainland overnight by the fishing fleet, which happened to be in port because of a storm. Over the following months lava buried a third of the town and threatened to close the harbour on which its living depended. In a bold experiment, workers pumped millions of tonnes of seawater onto the advancing lava to cool and harden it. The harbour was saved, and most of the islanders returned.
+
+Icelandic engineers are now using their rocks in a new way. At a power station near Reykjavik, carbon dioxide is dissolved in water and injected deep into the volcanic basalt, where it reacts with minerals and turns to solid stone in less than two years. The method offers a permanent means of storing a gas that would otherwise warm the atmosphere.
+@V
+wells (well) = скважина
+fissure = трещина
+mainland = материк
+basalt = базальт
+@Q TFNG
+Used geothermal water is pumped back underground. | T
+The people of Heimaey had several weeks' warning of the eruption. | F
+Carbon dioxide injected into basalt takes centuries to turn to stone. | F
+@Q GAP
+In 1973 seawater was pumped onto the lava in order to save the ____ . | harbour
+The population of Heimaey was taken to the mainland by the fishing ____ . | fleet
+
+## The Sea that Disappeared
+@INSERT 3
+For the people of the region the change was swift and bewildering. The town of Moynaq, on the southern shore, had been a busy port with a fish cannery that employed several thousand workers. As the water withdrew, a channel was dug to keep the harbour connected to the sea, then extended, and finally abandoned. For some years the cannery was kept working with frozen fish brought by rail from the Baltic and the Pacific, thousands of kilometres away, before it closed. The shoreline is now more than a hundred kilometres from the town.
+
+The retreat of the water exposed another legacy of the period. An island in the middle of the sea had been used since the 1940s as a secret testing ground for biological weapons, chosen precisely because it was so isolated. As the sea shrank, the island grew, and by 2001 it had joined the mainland, so that animals, and people, could walk onto it. The following year an international team spent several months destroying the stores of anthrax that had been buried there.
+
+The underlying cause, the demand for irrigation water, is slowly being addressed. Uzbekistan, long one of the world's largest exporters of cotton, has reduced the area planted with the crop in favour of fruit, vegetables and wheat, which need less water and earn more. Farmers are being helped to line canals with concrete and to install drip systems, and the state no longer sets a compulsory quota for the cotton harvest.
+@V
+bewildering = ошеломляющий
+cannery = консервный завод
+legacy = наследие
+quota = квота
+@Q TFNG
+The cannery at Moynaq closed as soon as the sea began to retreat. | F
+The island used for weapons tests eventually became joined to the mainland. | T
+Uzbekistan has increased the area of land planted with cotton. | F
+@Q GAP
+For some years the cannery used frozen fish brought by ____ . | rail
+Fruit, vegetables and wheat need less ____ than cotton. | water

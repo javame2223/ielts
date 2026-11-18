@@ -1,0 +1,288 @@
+## The Invention of Paper | History
+Before paper existed, people wrote on whatever was available: clay tablets in Mesopotamia, papyrus in Egypt, and bamboo strips or silk in China. Each had drawbacks. Bamboo was heavy, silk was costly, and papyrus cracked easily in damp climates.
+
+According to Chinese tradition, paper was invented in AD 105 by Cai Lun, an official at the imperial court. He is said to have soaked tree bark, old rags and fishing nets in water, beaten them into a pulp and spread the mixture on a screen to dry. Archaeologists have since found fragments of paper that are two centuries older, so Cai Lun probably improved an existing method rather than creating it. Even so, his version was cheap and light, and it spread rapidly through China.
+
+For several hundred years the technique remained in East Asia. Its journey westwards is traditionally linked to a battle near the Talas River in Central Asia in 751, after which captured Chinese papermakers are said to have taught their craft in Samarkand. The city soon became famous for its fine paper. From there the knowledge passed to Baghdad, Cairo and, by the twelfth century, to Spain.
+
+Europeans at first distrusted the new material, considering it less durable than parchment, which was made from animal skin. Opinions changed when printing with movable type appeared in the fifteenth century. A single large Bible on parchment required the skins of about 170 calves; paper made mass production possible. Books became cheaper, literacy rose, and ideas began to travel faster than ever before.
+@V
+drawback = недостаток
+damp = влажный, сырой
+soak = замачивать
+pulp = бумажная масса, пульпа
+fragment = обрывок, фрагмент
+craft = ремесло
+durable = прочный, долговечный
+literacy = грамотность
+@Q TFNG
+Papyrus was well suited to wet weather. | F
+Cai Lun was the very first person to make paper. | F
+Samarkand gained a reputation for high-quality paper. | T
+Paper reached Spain before it reached Cairo. | F
+@Q GAP
+Parchment was produced from ____ . | animal skin
+Papermaking is traditionally said to have moved west after a battle fought in the year ____ . | 751
+@Q MCQ
+Why were Europeans initially unwilling to use paper? | A It was more expensive than parchment. | B They thought it would not last as long. | C It could not be used with ink. | D It was associated with their enemies. | B
+What was one result of combining paper with printing? | A Parchment became more valuable. | B Fewer people learned to read. | C Books fell in price. | D Bibles were no longer produced. | C
+
+## The Silk Road | History
+The Silk Road was never a single road. It was a network of trade routes, stretching more than 6,000 kilometres, that linked China with the Mediterranean from about the second century BC. The name itself is modern: it was invented in 1877 by the German geographer Ferdinand von Richthofen.
+
+Few merchants travelled the whole distance. Goods were passed from one trader to another in a long chain, and their price rose at every stage. Silk went west, where wealthy Romans paid enormous sums for it, while glass, silver and wool moved east. Spices, paper, horses and precious stones were exchanged along the way. Caravans of camels crossed deserts and mountain passes, resting at roadside inns called caravanserais, which were built roughly a day's journey apart.
+
+The great oasis cities of Central Asia, among them Samarkand, Bukhara and Merv, grew rich as meeting points. They were centres not only of commerce but also of learning, where scholars studied astronomy, medicine and mathematics. Ideas travelled as easily as goods. Buddhism reached China along these routes, and Islam later spread eastwards in the same way. Unfortunately, so did disease: many historians believe the plague that devastated Europe in the fourteenth century arrived along the trade routes from Asia.
+
+The overland trade declined after the fifteenth century. European sailors found sea routes to Asia, and ships could carry far more cargo than camels at a lower cost. The old cities lost much of their importance, although their magnificent buildings still attract visitors today.
+@V
+network = сеть
+merchant = купец, торговец
+caravan = караван
+inn = постоялый двор
+oasis = оазис
+commerce = торговля
+scholar = учёный
+cargo = груз
+@Q TFNG
+The term 'Silk Road' was used by ancient Chinese traders. | F
+Most merchants completed the entire journey from China to the Mediterranean. | F
+Caravanserais were located about one day's travel from each other. | T
+Samarkand was larger than Bukhara in the Middle Ages. | NG
+@Q MATCH
+the reason why the route lost its importance | D
+a list of products that were traded | B
+a negative consequence of the contacts between regions | C
+@Q GAP
+The price of goods increased at each ____ of the journey. | stage
+
+## Gutenberg and the Printing Press | History
+Until the middle of the fifteenth century, every book in Europe was copied by hand. A scribe might spend a year producing one Bible, and books were so expensive that only churches, universities and the very rich could own them. Mistakes crept in with each new copy.
+
+Johannes Gutenberg, a goldsmith from the German city of Mainz, changed this. Printing itself was not new: the Chinese had printed from carved wooden blocks for centuries and had even experimented with movable type made of clay. But the thousands of characters in written Chinese made that system impractical. European alphabets, with only a couple of dozen letters, were far better suited to it. Gutenberg's achievement was to combine several elements: metal letters that could be cast quickly in a mould, an oil-based ink that stuck to metal, and a press adapted from those used to make wine.
+
+Around 1455 he completed his famous Bible, of which about 180 copies were printed. Sadly, Gutenberg did not profit from his work. He had borrowed heavily, and his business partner took him to court and gained control of the workshop.
+
+The invention itself spread with extraordinary speed. By 1500 there were printing presses in more than 250 European towns, and millions of books had been produced. The effects were profound. Scientists could share accurate copies of their results, religious reformers could reach huge audiences, and ordinary languages such as German, French and English began to replace Latin in print. Some historians regard printing as the most important invention of the last thousand years.
+@V
+scribe = писец, переписчик
+goldsmith = ювелир, золотых дел мастер
+carve = вырезать
+movable type = подвижные литеры
+impractical = непрактичный
+mould = форма для литья
+profit = получать прибыль
+profound = глубокий, значительный
+@Q TFNG
+Before Gutenberg, books in Europe were affordable for most people. | F
+Movable type had been tried in China before Gutenberg's time. | T
+Gutenberg's press was based on a machine used in wine production. | T
+Gutenberg became wealthy as a result of his Bible. | F
+@Q MCQ
+Why was movable type less practical in China? | A Clay was too soft. | B The writing system had too many characters. | C Paper was not available. | D The government banned it. | B
+Which is NOT mentioned as an effect of printing? | A the spread of scientific knowledge | B the growth of writing in everyday languages | C a fall in the number of universities | D wider audiences for religious reformers | C
+@Q GAP
+About ____ copies of the Gutenberg Bible were printed. | 180
+Gutenberg lost his workshop to his ____ . | business partner
+
+## Building the Great Pyramid | History
+The Great Pyramid of Giza was built for the pharaoh Khufu around 2560 BC. It originally stood about 146 metres high and remained the tallest structure made by humans for nearly four thousand years. It contains roughly 2.3 million blocks of stone, most weighing more than two tonnes, and its sides are aligned almost perfectly with the points of the compass.
+
+How such a monument was built without iron tools, wheels for heavy transport or cranes has fascinated people for centuries. The Greek writer Herodotus, who visited Egypt some two thousand years after the pyramid was finished, claimed that 100,000 slaves had worked on it. Modern archaeology tells a different story. Excavations near the site have revealed a workers' town with bakeries, breweries and even medical facilities. The builders were not slaves but paid labourers and farmers, perhaps 20,000 to 30,000 of them, who were well fed with bread, beer and meat.
+
+Most of the limestone was cut in quarries close by. The finer white stone for the outer surface came from across the Nile, and granite for the inner chambers was floated down the river from Aswan, some 800 kilometres to the south. In 2013 archaeologists found the diary of an official named Merer, the oldest inscribed papyrus ever discovered, which describes boat crews delivering stone to Giza.
+
+The blocks were probably dragged on wooden sledges up ramps made of mud brick and rubble. A wall painting shows a man pouring water on the sand in front of a sledge; experiments have confirmed that wet sand cuts the force needed to pull a heavy load by about half.
+@V
+align = выравнивать
+monument = памятник, монумент
+crane = подъёмный кран
+excavation = раскопки
+labourer = рабочий
+quarry = каменоломня, карьер
+sledge = сани, волокуша
+ramp = пандус, наклонный настил
+@Q TFNG
+The Great Pyramid was the world's tallest man-made structure for about four thousand years. | T
+Herodotus saw the pyramid being built. | F
+The pyramid builders received food in return for their work. | T
+Merer's diary explains how the ramps were constructed. | F
+@Q SUM
+Evidence from a workers' town shows that the builders were paid ____ and farmers, not slaves. | labourers
+Granite for the internal rooms was transported by river from ____ . | Aswan
+Stone blocks were pulled on wooden ____ . | sledges
+@Q MCQ
+Why did workers pour water on the sand? | A to cool the stone | B to make the blocks easier to pull | C to make mud bricks | D to clean the sledges | B
+
+## A Short History of Tea | History
+After water, tea is the most widely consumed drink in the world. According to legend it was discovered in 2737 BC, when leaves from a wild bush blew into a pot of water being boiled for the Chinese emperor Shennong. Whatever the truth, tea was certainly being drunk in China more than two thousand years ago, at first as a medicine and later for pleasure.
+
+Buddhist monks, who valued tea because it kept them awake during long hours of meditation, carried it to Japan, where preparing and serving it developed into an elaborate ceremony. Tea reached Europe much later, brought by Dutch and Portuguese traders in the early seventeenth century. In Britain it was at first a luxury, heavily taxed and kept in locked boxes. So much was smuggled into the country that the government finally cut the tax sharply in 1784, and tea became the everyday drink of all classes.
+
+Britain's thirst created a problem: China would accept only silver in payment. To break this dependence, the British East India Company began growing tea in India. In 1848 it sent the Scottish botanist Robert Fortune to China, where, disguised as a local merchant, he secretly collected thousands of tea plants and seeds and took them to India.
+
+All true tea comes from one plant, Camellia sinensis. Whether it becomes green, oolong or black depends on how long the leaves are exposed to the air before they are dried. Today the largest producers are China and India, followed by Kenya and Sri Lanka, and around two billion people begin their day with a cup.
+@V
+legend = легенда
+monk = монах
+elaborate = сложный, изысканный
+luxury = роскошь
+smuggle = провозить контрабандой
+dependence = зависимость
+botanist = ботаник
+expose = подвергать воздействию
+@Q TFNG
+Tea was originally used in China for medical purposes. | T
+The Japanese tea ceremony was invented by Dutch traders. | F
+The British tax on tea was reduced because of smuggling. | T
+Robert Fortune was arrested by the Chinese authorities. | NG
+@Q SHORT
+What did China demand as payment for tea? | silver
+Which plant does all true tea come from? | Camellia sinensis
+@Q MCQ
+Green, oolong and black tea differ mainly in | A the region where they grow. | B the species of plant. | C how long the leaves are exposed to air. | D the age of the bush. | C
+Why did monks value tea? | A It was cheap. | B It helped them stay awake. | C It cured illnesses. | D It was a religious symbol. | B
+
+## Measuring Time | History
+For most of history people had little need for exact time. Farmers rose with the sun and worked until dusk. The earliest timekeeping devices were shadow clocks: the Egyptians used tall stone obelisks, and later sundials, to divide the day into parts. These were useless at night or in cloudy weather, so water clocks were developed, in which water dripped at a steady rate from one container into another.
+
+Mechanical clocks appeared in European monasteries and towns around 1300. They were driven by falling weights and had no minute hand, since they could gain or lose a quarter of an hour a day. A major advance came in 1656, when the Dutch scientist Christiaan Huygens built the first pendulum clock, reducing the error to a few seconds a day.
+
+Accurate time was most urgently needed at sea. Sailors could find their latitude from the sun, but to calculate longitude they had to know the precise time at their home port, and pendulum clocks did not work on a rolling ship. After many shipwrecks the British government offered a large prize for a solution. It was eventually won by John Harrison, a self-taught carpenter, whose marine chronometer of 1759 lost only about five seconds on a voyage of several weeks.
+
+Even then every town kept its own local time, set by the sun. It was the railways that forced a change, since timetables were impossible without a common standard. Britain adopted a single railway time in the 1840s, and in 1884 an international conference divided the world into time zones based on the line through Greenwich in London.
+@V
+dusk = сумерки
+device = устройство
+drip = капать
+monastery = монастырь
+pendulum = маятник
+latitude = широта
+longitude = долгота
+voyage = морское путешествие
+@Q TFNG
+Sundials could be used in any weather. | F
+The first mechanical clocks were accurate to within a few seconds a day. | F
+John Harrison had formal training as a scientist. | F
+Harrison received his prize money immediately. | NG
+@Q HEAD i. The problem of navigation; ii. Time and religion; iii. Using sun and water; iv. One time for everyone; v. The first machines; vi. Why clocks became cheaper
+Paragraph A | iii
+Paragraph B | v
+Paragraph C | i
+Paragraph D | iv
+
+## Roman Roads | History
+At the height of its power the Roman Empire was held together by about 80,000 kilometres of paved roads, reaching from Britain to Syria. The first major one, the Appian Way, was begun in 312 BC to link Rome with the south of Italy. The famous saying that all roads lead to Rome was close to the truth: distances across the empire were measured from a golden milestone in the centre of the capital.
+
+The roads were built primarily for the army. Soldiers needed to march quickly to wherever trouble arose, and it was usually the soldiers themselves who did the building. Roman engineers preferred straight lines, cutting through hills and bridging valleys rather than going around them. A trench was dug and filled with layers of sand, gravel and crushed stone, then topped with tightly fitted flat stones. The surface was slightly curved so that rainwater ran off into ditches at the sides.
+
+Although designed for military purposes, the roads soon carried merchants, officials and ordinary travellers. Stone markers showed the distance to the next town, and inns stood at regular intervals. The government ran a postal service in which riders changed horses at relay stations; an urgent message could cover 80 kilometres or more in a day, a speed not matched in Europe until the nineteenth century.
+
+After the empire collapsed in the fifth century, the roads were no longer maintained, and many were robbed of their stone for other buildings. Yet their routes survived. A number of modern European highways follow exactly the lines that Roman surveyors laid out two thousand years ago.
+@V
+paved = мощёный
+milestone = мильный камень, веха
+march = маршировать
+trench = траншея, ров
+gravel = гравий
+ditch = канава
+maintain = поддерживать в порядке, обслуживать
+surveyor = землемер, геодезист
+@Q TFNG
+The Appian Way connected Rome with southern Italy. | T
+Roman roads usually curved around hills. | F
+Slaves did most of the work of building the roads. | F
+Travellers had to pay to use the main roads. | NG
+@Q GAP
+The road surface was curved so that ____ would flow away. | rainwater
+Riders in the postal service changed horses at ____ . | relay stations
+@Q MCQ
+What does the writer say about the speed of the Roman postal service? | A It was slower than sea travel. | B It was not equalled for many centuries. | C It was available only to merchants. | D It depended on the weather. | B
+What happened to the roads after the fifth century? | A They were extended. | B They were destroyed by invaders. | C They fell into disrepair, but their routes remained. | D They were covered with new stone. | C
+
+## The Story of Maps | History
+A map is a way of seeing the world from above, something no human could actually do until the age of flight. The oldest known world map, a clay tablet from Babylon made around 600 BC, shows the earth as a flat disc surrounded by water, with Babylon itself at the centre. Placing one's own homeland in the middle is a habit that mapmakers have rarely abandoned.
+
+The ancient Greeks took a more scientific approach. They knew the earth was a sphere, and in the second century AD Ptolemy, working in Alexandria, proposed a grid of lines of latitude and longitude to fix the position of any place. His work was forgotten in Europe for a thousand years but was preserved and improved by scholars in the Islamic world.
+
+Medieval European maps were often religious pictures rather than practical guides, and they were of little use to sailors. This changed when voyages of exploration began. In 1569 the Flemish mapmaker Gerardus Mercator solved a serious problem for navigators: on his map a ship's constant compass course appeared as a straight line. The price was distortion. Because a globe cannot be flattened without stretching, regions far from the equator look much larger than they are. On a Mercator map Greenland seems about the same size as Africa, although Africa is in fact around fourteen times bigger.
+
+Today satellites photograph every corner of the planet, and digital maps are updated daily. Yet a map is still a selection. Someone decides what to show and what to leave out, and those choices shape how we imagine the world.
+@V
+tablet = табличка
+disc = диск
+abandon = отказываться, бросать
+sphere = сфера, шар
+grid = сетка
+preserve = сохранять
+distortion = искажение
+equator = экватор
+@Q YNNG
+Mapmakers have generally tended to put their own country at the centre. | Y
+Medieval European maps were helpful for people travelling by sea. | N
+Mercator's map shows the true size of all countries. | N
+Digital maps are more objective than paper maps. | NG
+@Q GAP
+The Babylonian world map was made of ____ . | clay
+On Mercator's map, a constant compass course is shown as a ____ . | straight line
+@Q MCQ
+What happened to Ptolemy's ideas after his death? | A They were immediately adopted across Europe. | B They were kept alive by Islamic scholars. | C They were proved wrong by the Babylonians. | D They were lost for ever. | B
+How much larger is Africa than Greenland, according to the passage? | A about twice | B about four times | C about fourteen times | D about forty times | C
+
+## Salt: The Mineral that Shaped History | History
+Today salt is so cheap that restaurants give it away, and doctors warn us against eating too much of it. For most of human history the situation was very different. Salt was scarce, valuable and at times literally worth fighting for.
+
+Its importance came from a simple fact: before refrigeration, salting was one of the few ways of preserving food. Meat and fish packed in salt could be kept through the winter or carried on long voyages. Armies could not march and ships could not sail without it. Humans and their animals also need a certain amount of salt simply to stay alive.
+
+Because everyone needed it, salt was an ideal thing to tax. Chinese emperors controlled its sale more than two thousand years ago. Roman soldiers were sometimes given an allowance to buy salt, and this is the origin of the English word 'salary'. In France a hated salt tax, the gabelle, was among the grievances that led to the revolution of 1789. In 1930 Mahatma Gandhi led thousands of Indians on a 390-kilometre walk to the sea to make their own salt, in protest against the British monopoly.
+
+Salt also created wealth. The city of Venice grew rich partly through its salt trade, and in West Africa caravans carried slabs of salt across the Sahara to Timbuktu, where it was at times exchanged for gold. Things changed in the nineteenth and twentieth centuries. New drilling methods revealed vast underground deposits, while canning and freezing reduced the need for salted food. Today the bulk of the salt produced worldwide is used not in kitchens but in the chemical industry and for melting ice on roads.
+@V
+scarce = дефицитный, редкий
+refrigeration = охлаждение
+preserve = консервировать, сохранять
+allowance = денежное довольствие
+grievance = недовольство, жалоба
+monopoly = монополия
+slab = плита, брусок
+deposit = залежь, месторождение
+@Q TFNG
+In the past, salt was used to stop food from going bad. | T
+The word 'salary' is connected with payments made to Roman soldiers. | T
+Gandhi's march was a protest against a French tax. | F
+Venice produced more salt than any other European city. | NG
+@Q MATCH
+an explanation of why salt lost its high value | D
+examples of governments making money from salt | C
+the biological need for salt | B
+@Q GAP
+In Timbuktu, salt was sometimes traded for ____ . | gold
+
+## Lighthouses | History
+For as long as people have gone to sea, they have needed guidance to reach harbour safely at night. The earliest signals were simply fires lit on hilltops. The most famous lighthouse of the ancient world was the Pharos of Alexandria in Egypt, completed around 280 BC. It was probably more than 100 metres tall, and it was counted among the seven wonders of the world. It guided ships for some 1,500 years before earthquakes finally brought it down.
+
+Building on land was one thing; building on rocks out at sea was far harder. The Eddystone rocks off the south-west coast of England had wrecked countless ships when Henry Winstanley put up a wooden tower there in 1698. He was so confident of it that he wished to be inside during the greatest storm ever known. In 1703 he got his wish, and both tower and builder were swept away. The fourth Eddystone lighthouse, designed by John Smeaton in 1759, was made of interlocking blocks of granite and shaped like the trunk of an oak tree. It became the model for lighthouses everywhere.
+
+Light was as much of a challenge as structure. Early lamps burned coal, candles or oil and were visible for only a few kilometres. In 1822 the French physicist Augustin Fresnel invented a lens made of rings of glass prisms, which gathered the light into a single powerful beam that could be seen more than thirty kilometres away.
+
+For centuries lighthouses were looked after by keepers, who lived in isolation for weeks on end. Automation has made the job disappear. Satellite navigation has reduced the need for lighthouses, yet most remain in service as a backup.
+@V
+harbour = гавань
+wreck = разбивать (судно); крушение
+swept away (sweep away) = сметать, уносить
+interlocking = сцепляющийся
+trunk = ствол
+lens = линза
+beam = луч
+isolation = изоляция, уединение
+@Q TFNG
+The Pharos of Alexandria was destroyed by fire. | F
+Henry Winstanley died in the lighthouse he had built. | T
+Smeaton's lighthouse was the first one built on the Eddystone rocks. | F
+Lighthouse keepers were well paid for their work. | NG
+@Q SUM
+Smeaton's tower was built from blocks of ____ that locked together. | granite
+Its shape was copied from the trunk of an ____ . | oak tree
+Fresnel's lens concentrated light into one strong ____ . | beam
+@Q MCQ
+What does the passage say about lighthouses today? | A They have all been closed. | B They are kept as a reserve system. | C They are more important than ever. | D They still have resident keepers. | B

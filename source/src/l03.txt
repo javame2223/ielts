@@ -1,0 +1,402 @@
+## Enrolling on an Evening Course | Section 1
+@CTX You will hear a man phoning a college to ask about evening language classes.
+@VOICES Woman=f Man=m
+@S
+Woman: Good afternoon, Westfield College, adult learning department.
+Man: Hello. I'd like some information about your evening Spanish classes, please.
+Woman: Certainly. Have you studied Spanish before?
+Man: Only a little, at school, about fifteen years ago. I've forgotten almost everything.
+Woman: Then I'd suggest the beginners' course. It runs on Tuesday evenings from half past six to half past eight.
+Man: Tuesday is difficult for me. Is there another day?
+Woman: There's also a group on Thursdays at the same time, but that one is nearly full. There are only two places left.
+Man: Thursday would be perfect. How long is the course?
+Woman: Twelve weeks, starting on the fifteenth of September.
+Man: And the cost?
+Woman: It's one hundred and forty pounds for the term. You'll also need the course book, which is about twenty-two pounds from the college shop.
+Man: Is there any discount? I'm a student at the moment.
+Woman: Yes, full-time students pay half price, but you'll need to show your student card when you register.
+Man: Great. Where are the classes held?
+Woman: In the Taylor Building. That's T, A, Y, L, O, R. It's the one behind the library. The room is number three one four, on the third floor.
+Man: Who is the teacher?
+Woman: Her name is Elena Marquez. She's from Madrid, and she's been with us for six years.
+Man: Is there an exam at the end?
+Woman: There's no exam, but if you attend at least ten of the twelve lessons, you'll receive a certificate.
+Man: That sounds fine. How do I register?
+Woman: You can do it online, or come to the office in person. We're open until seven on weekdays. Could I take your name for the list?
+Man: Yes, it's Oliver Sandford.
+@Q LGAP
+Level of course: ____ | beginners/beginner/beginners'
+Day chosen: ____ | Thursday
+Places left in that group: ____ | 2/two
+Length of course: ____ weeks | 12/twelve
+Start date: 15th ____ | September
+Course fee: £ ____ | 140/one hundred and forty
+Students must show their student ____ | card
+Name of building: ____ Building | Taylor
+Room number: ____ | 314/three one four
+A certificate is given for attending at least ____ lessons | 10/ten
+
+## Enquiring about a Flat to Rent | Section 1
+@CTX You will hear a woman phoning a letting agency about a flat she has seen advertised.
+@VOICES Agent=m Woman=f
+@S
+Agent: Hillside Lettings, good morning.
+Woman: Hi, I'm calling about the two-bedroom flat in Castle Street. Is it still available?
+Agent: Yes, it is. It only came on the market on Monday.
+Woman: Good. Could you tell me a bit more about it? Which floor is it on?
+Agent: It's on the second floor. I should say there's no lift in the building.
+Woman: That's fine. Is it furnished?
+Agent: Partly. There's a sofa, a dining table and beds, but you'd need to bring your own fridge. The previous one broke and the owner hasn't replaced it.
+Woman: I see. And the rent is seven hundred and fifty a month, is that right?
+Agent: That was a mistake in the advert, I'm afraid. It's seven hundred and ninety. That includes water, but not gas or electricity.
+Woman: Oh. And the deposit?
+Agent: One month's rent, paid in advance.
+Woman: What kind of heating does it have?
+Agent: Gas central heating, with a new boiler fitted last year.
+Woman: Is there anywhere to park?
+Agent: There's no private parking, but you can apply to the council for a resident's permit. That costs about sixty pounds a year.
+Woman: OK. How far is it from the station? I travel to work by train.
+Agent: About ten minutes on foot. And there's a bus stop right outside.
+Woman: That's convenient. Are pets allowed? I have a cat.
+Agent: The owner accepts cats, but not dogs.
+Woman: Lovely. When could I see it?
+Agent: I could show you on Wednesday at five fifteen, or Saturday morning.
+Woman: Wednesday, please.
+Agent: Fine. The address is forty-two Castle Street, flat five. Could I take your name?
+Woman: It's Rebecca Lyle. L, Y, L, E.
+Agent: Thank you. When you come, please bring a reference from your employer.
+@Q LGAP
+The flat is on the ____ floor | second/2nd
+The tenant must bring a ____ | fridge
+Monthly rent: £ ____ | 790/seven hundred and ninety
+The rent includes ____ | water
+The boiler was fitted last ____ | year
+A parking permit costs about £ ____ a year | 60/sixty
+Walking time to the station: ____ minutes | 10/ten
+Pets allowed: ____ only | cats/cat
+Viewing: Wednesday at ____ | 5.15/5:15/five fifteen
+The woman should bring a ____ from her employer | reference
+
+## Booking a Table for a Party | Section 1
+@CTX You will hear a man phoning a restaurant to book a table for a birthday dinner.
+@VOICES Woman=f Man=m
+@S
+Woman: The Olive Tree restaurant. Can I help you?
+Man: Yes, I'd like to book a table for a birthday dinner, please. It's my mother's seventieth.
+Woman: How lovely. When would you like to come?
+Man: Saturday the ninth of May, if possible, at about seven.
+Woman: Let me check. I'm sorry, seven o'clock is fully booked, but I could give you a table at eight fifteen.
+Man: Hmm, that's a little late for my mother. What about the Friday?
+Woman: Friday the eighth is fine. I can do seven o'clock then.
+Man: Perfect. There will be fourteen of us.
+Woman: For a group that size I'd recommend our private room upstairs. It holds up to sixteen, and there's no extra charge.
+Man: Excellent. Are there stairs, though? My mother uses a walking stick.
+Woman: There is a lift, so that's no problem.
+Man: Good. Do you have a set menu for groups?
+Woman: We do. Three courses for thirty-two pounds a head, not including drinks. There's a choice of fish, chicken or a vegetarian dish for the main course.
+Man: Two of our guests are vegetarian, and one can't eat nuts.
+Woman: I'll make a note. We need your choices four days before, so the kitchen can prepare.
+Man: Fine. Could we bring our own birthday cake?
+Woman: Of course. We'll keep it in the fridge and bring it out with candles. Some customers also ask for flowers on the table. We can arrange those for fifteen pounds.
+Man: Yes, please. She loves roses.
+Woman: Roses it is. We do ask for a deposit of fifty pounds for large groups.
+Man: I can pay that by card now.
+Woman: Thank you. And the name?
+Man: Graham Whitlock. W, H, I, T, L, O, C, K.
+Woman: And a contact number?
+Man: Oh one six one, four nine six, oh seven two two.
+@Q LGAP
+Occasion: mother's ____ birthday | 70th/seventieth/70
+Day of the booking: ____ | Friday
+Time: ____ o'clock | 7/seven
+Number of guests: ____ | 14/fourteen
+The private room is ____ | upstairs
+Set menu price: £ ____ per person | 32/thirty-two
+One guest cannot eat ____ | nuts
+Menu choices are needed ____ days before | 4/four
+Flowers requested: ____ | roses
+Deposit: £ ____ | 50/fifty
+
+## Hiring a Bicycle | Section 1
+@CTX You will hear a tourist asking about hiring bicycles at a hire shop.
+@VOICES Man=m Woman=f
+@S
+Man: Good morning. Welcome to Lakeside Cycle Hire.
+Woman: Morning. My husband and I would like to hire two bikes for the day. What do you have?
+Man: We have standard bikes, mountain bikes and electric bikes. Where are you planning to go?
+Woman: We thought we'd ride around the lake.
+Man: That's a lovely route, twenty-six kilometres in total, and mostly flat. A standard bike is all you need.
+Woman: Good. How much are they?
+Man: Eighteen pounds each for a full day, or twelve for half a day. Electric bikes are thirty-five.
+Woman: We'll take two standard bikes for the full day. Does that include helmets?
+Man: Helmets and locks are free. We also give you a repair kit, in case you get a flat tyre.
+Woman: I hope we won't need it. Do you have a map?
+Man: Yes, here you are. The route is marked in green. I'd recommend going anticlockwise, because then the wind is behind you on the way back.
+Woman: Good tip. Is there anywhere nice to stop for lunch?
+Man: About halfway round there's a village called Ashby, with a very good café next to the church. The only difficult part of the route is just after the village, where there's a steep hill for about a kilometre.
+Woman: We'll manage. What time do we need to be back?
+Man: We close at six, so please return the bikes by half past five.
+Woman: And what do you need from us?
+Man: Some identification, a driving licence for example, and a deposit of forty pounds per bike, which you get back when you return.
+Woman: Can I pay by card?
+Man: Card for the hire, yes, but the deposit has to be in cash, I'm afraid.
+Woman: No problem. Oh, one more question. What happens if it rains?
+Man: If you come back within the first hour, we give you a full refund.
+@Q LGAP
+Length of the route around the lake: ____ kilometres | 26/twenty-six
+Cost of a standard bike for a full day: £ ____ | 18/eighteen
+Free items: helmets and ____ | locks
+The route is marked in ____ on the map | green
+Recommended direction: ____ | anticlockwise
+Village for lunch: ____ | Ashby
+The café is next to the ____ | church
+After the village there is a steep ____ | hill
+Bikes must be returned by ____ | 5.30/5:30/half past five
+The deposit must be paid in ____ | cash
+
+## Registering at a Medical Centre | Section 1
+@CTX You will hear a new student registering with a doctor at a university medical centre.
+@VOICES Woman=f Man=m
+@S
+Woman: Hello, University Medical Centre.
+Man: Hi. I'm a new student and I'd like to register with a doctor.
+Woman: Of course. I'll fill in the form with you. What's your full name?
+Man: Kenji Mori. That's M, O, R, I.
+Woman: And your date of birth?
+Man: The third of August, two thousand and five.
+Woman: Thank you. Which course are you on?
+Man: Civil engineering. I'm in my first year.
+Woman: And where are you living?
+Man: In a hall of residence. Room twelve B, Darwin Hall.
+Woman: Do you have a mobile number?
+Man: Yes, oh seven four, three one eight, double two, six five nine.
+Woman: Thanks. Now a few health questions. Are you taking any medicine regularly?
+Man: No, nothing.
+Woman: Any allergies?
+Man: Yes, I'm allergic to penicillin.
+Woman: That's important, I'll mark it clearly. Do you smoke?
+Man: No.
+Woman: Good. And how much exercise do you take?
+Man: I go swimming twice a week.
+Woman: Excellent. Now, you'll be registered with Doctor Patel. She's here on Mondays, Wednesdays and Fridays.
+Man: How do I make an appointment?
+Woman: You can call this number, or use our app, which is the quickest way. For anything urgent, there's a walk-in clinic every morning from eight to ten. You don't need an appointment for that.
+Man: What happens if I'm ill at night or at the weekend?
+Woman: Ring one one one. That's the national advice line.
+Man: OK. Do I need to pay for anything?
+Woman: Appointments are free. Prescriptions cost nine pounds ninety per item.
+Man: Fine. Is that everything?
+Woman: Almost. We'd like all new patients to have a short health check with the nurse. I could offer you Thursday at two forty.
+Man: Thursday's fine.
+Woman: Then please bring your passport and your student card.
+@Q LGAP
+Surname: ____ | Mori
+Month of birth: ____ | August
+Course: civil ____ | engineering
+Hall of residence: ____ Hall | Darwin
+Allergic to: ____ | penicillin
+Exercise: ____ twice a week | swimming
+Name of doctor: Doctor ____ | Patel
+Walk-in clinic: every morning from eight to ____ | 10/ten
+Cost of a prescription item: £ ____ | 9.90/nine pounds ninety/nine ninety
+Health check with the nurse: Thursday at ____ | 2.40/2:40/two forty
+
+## Applying for a Part-time Job | Section 1
+@CTX You will hear a student phoning a café about a part-time job.
+@VOICES Man=m Woman=f
+@S
+Man: Hello, Corner House Café, Steve speaking.
+Woman: Hi. I saw your advert for part-time staff in the window. Is the job still open?
+Man: It is. We need someone to serve customers and help behind the counter. Have you worked in a café before?
+Woman: Not a café, but I worked in a hotel restaurant for two summers.
+Man: That's useful experience. What hours are you looking for?
+Woman: I'm a student, so I'm free at weekends and on Wednesday afternoons.
+Man: Weekends are exactly when we need help. The shifts are from eight to two, or from two to eight on Saturdays, and ten to four on Sundays.
+Woman: I'd prefer mornings on Saturday. What's the pay?
+Man: Eleven pounds fifty an hour to start with. After three months it goes up to twelve fifty, and of course you share the tips.
+Woman: That sounds fair. Is there a uniform?
+Man: We give you an apron with our logo. You just need to wear a plain white shirt and black trousers. And comfortable shoes, because you're on your feet all day.
+Woman: OK. Do staff get anything to eat?
+Man: You get a free lunch on every shift, and twenty per cent off anything you buy at other times.
+Woman: Great. Would I need any training?
+Man: The first shift is a training day with our manager, Dawn. She'll show you how to use the coffee machine and the till. The hardest thing for most new people is remembering the table numbers.
+Woman: I'm sure I'd learn. When could I come for an interview?
+Man: How about Friday at four thirty?
+Woman: Friday is fine. Should I bring anything?
+Man: A copy of your C V and the names of two referees. Sorry, I didn't ask your name.
+Woman: It's Priya Nair. N, A, I, R.
+Man: Thanks, Priya. We're at number eight, Bridge Street, opposite the post office.
+@Q LGAP
+Previous experience: worked in a ____ restaurant | hotel
+Saturday morning shift: eight to ____ | 2/two
+Starting pay: £ ____ an hour | 11.50/eleven fifty/eleven pounds fifty
+Pay rises after ____ months | 3/three
+Staff must wear a plain ____ shirt | white
+Free on every shift: ____ | lunch/a lunch/free lunch
+Staff discount: ____ per cent | 20/twenty
+The hardest thing to remember: the ____ numbers | table
+Interview: Friday at ____ | 4.30/4:30/four thirty
+The café is opposite the ____ | post office
+
+## Reporting a Broken Washing Machine | Section 1
+@CTX You will hear a woman phoning a repair company about a problem with her washing machine.
+@VOICES Man=m Woman=f
+@S
+Man: Quickfix Home Repairs. How can I help?
+Woman: Hello. My washing machine has stopped working and I'd like someone to look at it.
+Man: I'm sorry to hear that. What make is it?
+Woman: It's a Bosch. I bought it about four years ago.
+Man: So it's out of guarantee. What exactly is the problem?
+Woman: It fills with water and washes normally, but then the water doesn't drain away. And there's a strange smell, like burning.
+Man: Is there an error message on the display?
+Woman: Yes, it says E, eighteen.
+Man: That usually means the pump is blocked or broken. It's quite a common fault.
+Woman: Is that expensive to repair?
+Man: There's a call-out charge of forty-five pounds, which covers the first half hour. If you need a new pump, that's about eighty pounds extra.
+Woman: I see. That's still cheaper than a new machine. When could someone come?
+Man: The earliest I have is Thursday, between twelve and three.
+Woman: I'm at work then. Is there anything on Saturday?
+Man: Saturday morning, between nine and eleven. There's a weekend charge of ten pounds on top.
+Woman: That's all right. I'll take Saturday.
+Man: Can I have your name and address?
+Woman: Mrs Fenton. F, E, N, T, O, N. Seventeen Orchard Close.
+Man: Is that a house or a flat?
+Woman: It's a ground-floor flat. The bell doesn't work, so the engineer should knock on the window.
+Man: I'll tell him. And a phone number?
+Woman: Oh seven nine, double four, eight one, three seven six.
+Man: Thank you. Before he arrives, could you empty the machine and turn off the water at the tap? And please don't try to run it again.
+Woman: I'll do that. How can I pay?
+Man: By card or cash on the day. All our repairs are guaranteed for six months.
+@Q LGAP
+Age of the machine: about ____ years | 4/four
+The water does not ____ away | drain
+The smell is like ____ | burning
+Error message: E ____ | 18/eighteen
+Probable fault: the ____ | pump
+Call-out charge: £ ____ | 45/forty-five
+Visit: Saturday between nine and ____ | 11/eleven
+Surname: Mrs ____ | Fenton
+The engineer should knock on the ____ | window
+Repairs are guaranteed for ____ months | 6/six
+
+## Booking a Whale-watching Trip | Section 1
+@CTX You will hear a man phoning a tour company to book a boat trip.
+@VOICES Woman=f Man=m
+@S
+Woman: Ocean Adventures, good morning.
+Man: Good morning. I'm on holiday here with my family and we'd like to go on one of your whale-watching trips.
+Woman: Wonderful. We have two trips a day, one at nine in the morning and one at half past one.
+Man: Which would you recommend?
+Woman: The morning. The sea is usually calmer then, and you have a better chance of seeing whales.
+Man: Morning it is. How long does the trip last?
+Woman: About three and a half hours.
+Man: And what are we likely to see?
+Woman: At this time of year, mainly humpback whales. We often see dolphins as well, and sometimes seals on the rocks.
+Man: The children will love that. How much are the tickets?
+Woman: Adults are fifty-eight dollars, children under twelve are thirty, and under-fours go free.
+Man: There are two adults and two children, aged nine and thirteen.
+Woman: So that's three adult tickets and one child, I'm afraid. One hundred and seventy-four plus thirty. Two hundred and four dollars altogether.
+Man: Fine. What happens if we don't see any whales?
+Woman: Then you can come again free of charge on another day.
+Man: That's fair. Is tomorrow possible?
+Woman: Tomorrow is full, but there's space on Wednesday.
+Man: Wednesday is good. Where do we meet?
+Woman: At pier number six in the old harbour, next to the fish market. Please be there twenty minutes before we leave.
+Man: What should we bring?
+Woman: A warm jacket, even if it's sunny, because it's windy at sea. Sunglasses are a good idea too. We provide binoculars and hot drinks on board.
+Man: My wife sometimes gets seasick.
+Woman: She should take a tablet an hour before, and sit at the back of the boat, where there's less movement.
+Man: Thanks. The name is Brennan. B, R, E, double N, A, N.
+@Q LGAP
+Chosen departure time: ____ in the morning | 9/nine
+Length of trip: about three and a half ____ | hours
+Type of whale usually seen: ____ | humpback/humpbacks/humpback whales
+Adult ticket: $ ____ | 58/fifty-eight
+Total cost: $ ____ | 204/two hundred and four
+Day of the trip: ____ | Wednesday
+Meeting point: pier number ____ | 6/six
+The pier is next to the ____ market | fish
+Provided on board: ____ and hot drinks | binoculars
+Surname: ____ | Brennan
+
+## Opening a Student Bank Account | Section 1
+@CTX You will hear a student asking about opening a bank account.
+@VOICES Man=m Woman=f
+@S
+Man: Good morning. How can I help you today?
+Woman: Hello. I've just arrived from Brazil to study here and I need to open a bank account.
+Man: Welcome. We have an account specially for international students. Let me explain how it works.
+Woman: Thank you.
+Man: There's no monthly fee for the first three years. You get a debit card, which arrives by post in about five working days, and you can use our mobile app from the first day.
+Woman: Can I receive money from my parents in Brazil?
+Man: Yes. Receiving international payments is free. Sending money abroad costs four pounds each time.
+Woman: Is there an overdraft?
+Man: Not with this account, I'm afraid. You can only spend what you have.
+Woman: That's probably safer. What documents do I need?
+Man: Your passport, and a letter from your university confirming your address here. You can ask the student office for one. They usually prepare it in two days.
+Woman: I have my passport with me, but not the letter.
+Man: Then we can start the application now and finish it when you bring the letter. May I take your name?
+Woman: Camila Duarte. D, U, A, R, T, E.
+Man: And which university?
+Woman: Northfield University. I'm doing a master's degree in architecture.
+Man: How long is the course?
+Woman: Eighteen months.
+Man: Fine. Do you have a phone number here yet?
+Woman: Yes, oh seven five, eight three, double one, nine four two.
+Man: Thanks. One thing I should mention. If you pay in at least five hundred pounds a month, you earn two per cent interest on your savings.
+Woman: Good to know. Is the branch open on Saturdays?
+Man: Yes, from nine thirty until one. Otherwise our helpline is open twenty-four hours.
+Woman: Perfect. I'll come back on Friday with the letter.
+Man: I'll make an appointment for you. Is eleven o'clock all right?
+@Q LGAP
+No monthly fee for the first ____ years | 3/three
+The debit card arrives in about ____ working days | 5/five
+Cost of sending money abroad: £ ____ | 4/four
+The account has no ____ | overdraft
+Document needed: a ____ from the university | letter
+Surname: ____ | Duarte
+Subject: ____ | architecture
+Length of course: ____ months | 18/eighteen
+Interest on savings: ____ per cent | 2/two
+Saturday closing time: ____ | 1/one/1 pm/one o'clock
+
+## Arranging a House Move | Section 1
+@CTX You will hear a woman phoning a removal company to arrange a house move.
+@VOICES Man=m Woman=f
+@S
+Man: Swift Removals, Alan speaking.
+Woman: Hello. I'm moving house next month and I'd like a price, please.
+Man: Certainly. Where are you moving from?
+Woman: From Reading to Bristol.
+Man: That's about a hundred and twenty kilometres. And what size is your current home?
+Woman: It's a three-bedroom house, with a garage full of boxes, I'm sorry to say.
+Man: Don't worry, we're used to that. Is there anything very large or difficult? A piano, for example?
+Woman: There is a piano, actually. And a big glass table.
+Man: We'll need to send a special team for the piano. That adds seventy-five pounds. What date are you thinking of?
+Woman: Friday the twenty-first of June.
+Man: Fridays are our busiest days, and the most expensive. If you could move on a Tuesday, you'd save about fifteen per cent.
+Woman: Really? Then Tuesday the eighteenth would be fine.
+Man: Good. Would you like us to do the packing too?
+Woman: How much is that?
+Man: For a house your size, around two hundred pounds, and it includes all the boxes and materials.
+Woman: I'll pack the clothes and books myself, but I'd like you to pack the kitchen. All those plates and glasses.
+Man: A wise choice. We can do the kitchen alone for sixty pounds.
+Woman: Lovely. So what's the total?
+Man: The basic move is six hundred and forty pounds. With the piano and the kitchen, that comes to seven hundred and seventy-five.
+Woman: That's reasonable. Are my things insured?
+Man: Yes, up to twenty thousand pounds, as long as our team does the loading.
+Woman: What time would you arrive?
+Man: At half past seven in the morning. You should be in Bristol by early afternoon.
+Woman: Great. My name is Helen Ashworth. A, S, H, W, O, R, T, H.
+Man: Thank you, Mrs Ashworth. I'll email the details today.
+@Q LGAP
+Moving from Reading to ____ | Bristol
+Distance: about ____ kilometres | 120/a hundred and twenty/one hundred and twenty
+Number of bedrooms: ____ | 3/three
+Extra charge for the piano: £ ____ | 75/seventy-five
+Moving on a Tuesday saves about ____ per cent | 15/fifteen
+Date of the move: Tuesday ____ June | 18/18th/eighteenth/the eighteenth
+The company will pack the ____ | kitchen
+Total price: £ ____ | 775/seven hundred and seventy-five
+Goods are insured up to £ ____ | 20000/20,000/twenty thousand
+Surname: ____ | Ashworth

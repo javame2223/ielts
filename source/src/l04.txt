@@ -1,0 +1,233 @@
+## Welcome to the Youth Hostel | Section 2
+@CTX You will hear the manager of a youth hostel giving information to a group of new guests.
+@VOICES Manager=m
+@S
+Manager: Hello everyone, and welcome to Harbour View Hostel. My name's Marco and I'm the manager. I'll just take a few minutes to explain how everything works.
+Manager: First, your rooms. You're all on the second floor, in rooms twenty to twenty-six. Each of you has a locker under the bed. We don't provide padlocks, but you can buy one at reception for three euros.
+Manager: Breakfast is included in the price. It's served in the dining room on the ground floor between seven and nine thirty. If you have an early flight or train, tell us the night before and we'll prepare a breakfast bag for you.
+Manager: There's a kitchen for guests, also on the ground floor. You're welcome to cook your own meals. Please put your name on any food you leave in the fridge, and wash up when you finish. Every Friday we clear out anything without a name.
+Manager: The laundry room is in the basement. A wash costs four euros and the dryer is two. You'll need coins, and reception can give you change.
+Manager: Now, the rules. The hostel is quiet after eleven at night, so please keep the noise down. The front door is locked at midnight, but your key card opens it at any hour. Smoking is not allowed anywhere inside, only on the roof terrace.
+Manager: Speaking of the terrace, it's the best thing about this hostel. It has a wonderful view of the harbour, and on Wednesday evenings we have a barbecue up there. It costs eight euros, and it's a good way to meet other travellers.
+Manager: We also organise a free walking tour of the old town every morning at ten. It starts from the fountain in the main square and takes about two hours. The guides work for tips.
+Manager: Finally, on your last day, check-out is at ten thirty. You can leave your bags in the luggage room until the evening. Any questions, just ask at reception.
+@Q LGAP
+Guests are staying on the ____ floor | second/2nd
+A padlock costs ____ euros | 3/three
+Breakfast finishes at ____ | 9.30/9:30/nine thirty
+Guests must put their ____ on food in the fridge | name/names
+Unlabelled food is removed every ____ | Friday
+The laundry room is in the ____ | basement
+The front door is locked at ____ | midnight/12
+Day of the barbecue: ____ | Wednesday
+The walking tour starts from the ____ in the main square | fountain
+Check-out time: ____ | 10.30/10:30/ten thirty
+
+## The New Recycling Scheme | Section 2
+@CTX You will hear a council officer on local radio explaining a new system for collecting household waste.
+@VOICES Presenter=f Officer=m
+@S
+Presenter: From next month the way our rubbish is collected is going to change. Here to explain is David Reid from the city council.
+Officer: Thank you. Yes, from the first of March every household will have three bins instead of two. The reason is simple. At the moment only thirty-eight per cent of our waste is recycled, and we want to reach sixty per cent within five years.
+Officer: Let me go through the bins. The blue bin is for paper and cardboard. Please flatten boxes so they take up less room. The green bin is for glass, tins and plastic bottles. You don't need to remove labels, but please rinse everything first.
+Officer: The third bin is new. It's a small brown bin for food waste, such as vegetable peelings, tea bags and leftovers. We'll deliver one to every home, along with a roll of special bags. The food waste will be turned into gas, which is used to produce electricity.
+Officer: Everything else goes in your old black bin. But please note, the black bin will now be emptied every two weeks instead of every week. The brown food bin will be collected weekly.
+Officer: Collections start at half past six in the morning, so the safest thing is to put your bins out the night before.
+Officer: A few things must never go in any bin. Batteries are the most dangerous, because they can cause fires in the lorries. Take them to the collection boxes in supermarkets. Old clothes should go to charity shops, and garden waste to the recycling centre on Dock Road, which is open seven days a week.
+Officer: If you have a large item, such as a sofa or a fridge, we can collect it from your home for twenty pounds. Book through the council website.
+Officer: A leaflet explaining all of this will arrive through your door next week. And we're holding an information evening at the town hall on the twentieth of February at seven o'clock.
+Presenter: David, thank you very much.
+@Q LGAP
+The scheme starts on the first of ____ | March
+Current recycling rate: ____ per cent | 38/thirty-eight
+The blue bin is for paper and ____ | cardboard
+Items for the green bin should be ____ first | rinsed/rinse
+Colour of the new food waste bin: ____ | brown
+Food waste is turned into ____ | gas
+The black bin will be emptied every ____ weeks | 2/two
+@Q LMCQ
+Batteries should be taken to | A the recycling centre. | B supermarkets. | C charity shops. | B
+Collection of a large item costs | A ten pounds. | B twenty pounds. | C thirty pounds. | B
+The information evening will be held at | A the town hall. | B the recycling centre. | C the library. | A
+
+## A Tour of the Botanical Garden | Section 2
+@CTX You will hear a guide speaking to visitors at the entrance to a botanical garden.
+@VOICES Guide=f
+@S
+Guide: Good morning and welcome to Ashdown Botanical Garden. Before you set off, let me give you an idea of what there is to see.
+Guide: The garden was founded in eighteen forty-six by a doctor who wanted to grow plants for medicine. Today we have more than eight thousand kinds of plants from every continent, in an area of twenty-four hectares.
+Guide: If you look at your map, we're at the main gate in the south. Straight ahead of you is the Rose Garden, which is at its best this month. Beyond it you'll see the large glass building. That's the Palm House. It's the oldest building in the garden, and inside the temperature is kept at twenty-seven degrees, so you may want to take off your coat.
+Guide: To the east of the Palm House is the Rock Garden, with plants from mountain regions. The path there is steep and has steps, so it's not suitable for wheelchairs or pushchairs.
+Guide: On the west side is the lake. Please don't feed the ducks. Bread is bad for them. Next to the lake is our newest attraction, the Treetop Walk, which opened last year. It's a wooden bridge eighteen metres above the ground, and it gives you a bird's view of the forest area. There's a small extra charge of three pounds, and children must be with an adult.
+Guide: For families, the children's garden is behind the café. Children can dig, plant seeds and look for insects. There's a workshop there at two o'clock today on making a bee hotel.
+Guide: The café serves lunch from twelve, and you're welcome to picnic on the lawn beside the lake, but not in the Rose Garden.
+Guide: Free guided tours leave from the fountain at eleven and at three. They last an hour.
+Guide: The garden closes at six, but the glasshouses close an hour earlier. Finally, please don't pick the flowers or collect seeds. Enjoy your day.
+@Q LGAP
+The garden was founded in ____ | 1846/eighteen forty-six
+Its founder was a ____ | doctor
+Area of the garden: ____ hectares | 24/twenty-four
+The oldest building is the ____ House | Palm
+The path in the Rock Garden is ____ | steep
+The Treetop Walk is ____ metres above the ground | 18/eighteen
+Extra charge for the Treetop Walk: £ ____ | 3/three
+Today's workshop is about making a bee ____ | hotel
+@Q LMCQ
+Visitors may have a picnic | A in the Rose Garden. | B beside the lake. | C behind the Palm House. | B
+The glasshouses close at | A five o'clock. | B six o'clock. | C seven o'clock. | A
+
+## Podcast: Europe by Train | Section 2
+@CTX You will hear an episode of a travel podcast in which the presenter gives advice about travelling around Europe by train.
+@VOICES Host=f
+@S
+Host: Hello and welcome back to The Slow Traveller, the podcast for people who think the journey matters as much as the destination. I'm Kate, and this week I'm answering your questions about seeing Europe by train.
+Host: The question I get most often is about rail passes. Are they worth it? The honest answer is, it depends. A pass gives you unlimited travel in thirty-three countries, and for people under twenty-eight it's about a quarter cheaper. If you're planning lots of long journeys in a short time, it saves money. But if you only want three or four trips, ordinary tickets booked early are usually cheaper.
+Host: And booking early really matters. Tickets for most high-speed trains go on sale about three months ahead, and the lowest prices disappear quickly. One thing people forget is that even with a pass, you often need a seat reservation on fast trains. In France and Spain that's compulsory.
+Host: My second tip is to try a night train. They're coming back all over Europe. You fall asleep in Vienna and wake up in Rome, and you save the cost of a hotel. I'd pay a little extra for a bed in a sleeping compartment rather than an ordinary seat. Trust me, your back will thank you.
+Host: Third, pack light. You'll be lifting your bag onto racks and carrying it up station stairs. I travel with one backpack of about nine kilos, and I've never wished I had more.
+Host: What about food? Station restaurants are expensive. Do what locals do and buy bread, cheese and fruit at a market before you board. A picnic by the window is one of the great pleasures of train travel.
+Host: Finally, leave time for connections. I allow at least forty minutes when changing trains, because delays happen, especially in summer.
+Host: My favourite route? The line through the Swiss Alps from Chur to Tirano. It crosses nearly two hundred bridges, and every one has a view.
+Host: Next week, travelling with children. Until then, enjoy the ride.
+@Q LGAP
+A rail pass covers ____ countries | 33/thirty-three
+The discount is for travellers under ____ | 28/twenty-eight
+High-speed tickets go on sale about ____ months ahead | 3/three
+On fast trains you often need a seat ____ | reservation
+Night trains save the cost of a ____ | hotel
+Weight of the presenter's backpack: about ____ kilos | 9/nine
+She suggests buying food at a ____ | market
+Minimum time she allows for connections: ____ minutes | 40/forty
+@Q LMCQ
+According to the presenter, a rail pass is best for people who | A make a few short trips. | B make many long journeys in a short time. | C book their tickets early. | B
+Next week's episode is about | A night trains. | B the Swiss Alps. | C travelling with children. | C
+
+## Induction for New Supermarket Staff | Section 2
+@CTX You will hear a manager talking to new employees on their first day at a supermarket.
+@VOICES Manager=f
+@S
+Manager: Good morning, and welcome to the team at Freshways. I'm Linda, the store manager. Today is your induction day, so let me tell you what to expect.
+Manager: This morning you'll stay with me. After this talk we'll watch a short film about health and safety, and then I'll take you on a tour of the store. This afternoon each of you will work beside an experienced colleague in your own department.
+Manager: A few practical things. You'll each get a uniform, two shirts and a jacket, from the staff office. You need to provide your own black trousers and black shoes. Your name badge must be worn at all times.
+Manager: Lockers are in the staff room on the first floor. Please leave your bags and mobile phones there. Phones are not allowed on the shop floor.
+Manager: When you arrive and leave, you must clock in and out with your staff card at the machine by the back entrance. Staff never use the customer entrance. If you're going to be late or you're ill, phone the duty manager at least one hour before your shift.
+Manager: Breaks. On a shift of six hours or more you get a thirty-minute break, which is unpaid, and there's a free hot drinks machine in the staff room.
+Manager: You're paid every four weeks, on a Friday, directly into your bank account. And here's the good news. After you've been here for three months, you receive a staff discount card, which gives you ten per cent off your shopping.
+Manager: Now, safety. The most common accident in a supermarket is slipping on a wet floor. If you see anything spilled, don't walk past. Stay with it, and ask a colleague to bring the yellow warning sign. And never lift heavy boxes alone.
+Manager: Finally, customers. If someone asks where a product is, don't point. Walk with them to the shelf. That is what makes people come back.
+Manager: Right, let's start the film.
+@Q LGAP
+After the talk, new staff will watch a film about health and ____ | safety
+Staff must provide their own black trousers and ____ | shoes/black shoes
+Lockers are in the staff room on the ____ floor | first/1st
+Staff clock in at a machine by the ____ entrance | back
+If ill, staff must phone at least ____ before the shift | one hour/1 hour/an hour
+Length of the break: ____ minutes | 30/thirty
+Staff are paid every ____ weeks | 4/four
+The staff discount is ____ per cent | 10/ten
+The most common accident is slipping on a wet ____ | floor
+@Q LMCQ
+When a customer asks where a product is, staff should | A point to the correct shelf. | B call the manager. | C walk with the customer to it. | C
+
+## The Charity Fun Run | Section 2
+@CTX You will hear an organiser giving information to people who have signed up for a charity run.
+@VOICES Organiser=m
+@S
+Organiser: Thanks for coming, everyone. I'm Paul, and I'm organising this year's Riverside Fun Run. Let me give you the details.
+Organiser: The run takes place on Sunday the twelfth of October in Meadow Park. There are two distances, five kilometres and ten kilometres. The ten-kilometre run begins at half past nine and the five at ten fifteen. So far, six hundred and fifty people have registered, which is a record.
+Organiser: All the money raised goes to the children's hospital, to help buy a new scanner. Last year we collected eighteen thousand pounds, and this year our target is twenty-five thousand.
+Organiser: Now, on the day. Please arrive at least forty-five minutes before your start, to collect your number from the registration tent. Pin it on the front of your shirt, not the back. Inside the number is a small chip that records your time.
+Organiser: The route follows the river, crosses the old stone bridge and returns through the woods. It's mostly flat, but the path in the woods can be muddy, so wear old trainers. There are two water stations, one at the bridge and one at the finish.
+Organiser: You can leave bags at the sports hall beside the car park. And please don't drive if you can avoid it. The car park has only eighty spaces. There will be a free bus from the railway station every fifteen minutes.
+Organiser: Dogs are welcome on the five-kilometre run, on a lead, but not on the ten. Children under eleven must run with an adult.
+Organiser: Everyone who finishes gets a medal and a banana. There are prizes for the fastest man and woman, and my favourite, a prize for the best fancy dress costume. Last year it was won by a man dressed as a giant carrot.
+Organiser: Sponsorship forms are on the table by the door. Please collect your money and hand it in by the end of October. Now, any questions?
+@Q LGAP
+Date of the run: Sunday 12th ____ | October
+The ten-kilometre run starts at ____ | 9.30/9:30/half past nine/nine thirty
+Number of people registered: ____ | 650/six hundred and fifty
+The money will help buy a new ____ | scanner
+This year's target: £ ____ | 25000/25,000/twenty-five thousand
+Runners should arrive ____ minutes before the start | 45/forty-five
+The path in the woods may be ____ | muddy
+Car park spaces: ____ | 80/eighty
+@Q LMCQ
+Dogs are allowed | A on both runs. | B on the five-kilometre run only. | C on neither run. | B
+A special prize is given for | A the best costume. | B the oldest runner. | C the largest team. | A
+
+## Visiting the National Park | Section 2
+@CTX You will hear a ranger giving a talk to visitors at a national park visitor centre.
+@VOICES Ranger=f
+@S
+Ranger: Good morning, and welcome to Stonepeak National Park. I'm one of the rangers here, and I'd like to help you make the most of your visit, and stay safe.
+Ranger: The park covers almost nine hundred square kilometres of mountains, forest and lakes. It became a national park in nineteen fifty-one, and it's home to deer, eagles and, if you're very lucky, wild cats.
+Ranger: There are three marked trails starting from this centre. The Blue Trail is the easiest. It's a four-kilometre circle around the lake, it's flat, and it takes about an hour. It's suitable for pushchairs.
+Ranger: The Red Trail climbs through the forest to a waterfall. It's seven kilometres there and back, and you should allow three hours. The last section is rocky, so you need proper walking boots.
+Ranger: The Black Trail goes to the summit of Stonepeak itself. That's a full day, at least seven hours, and it's only for experienced walkers. If you choose it, please write your name in the book at the desk before you leave, and sign again when you return.
+Ranger: Whichever trail you take, remember that the weather changes quickly here. Carry a waterproof jacket, plenty of water and something to eat. Mobile phones don't work in most of the park, so take a paper map. We sell them here for two pounds fifty.
+Ranger: A few rules. Fires are forbidden everywhere, because the forest is very dry this summer. Please take all your litter home. Dogs must be kept on a lead between March and July, when birds are nesting on the ground.
+Ranger: Camping is allowed only at the official site by the lake, which costs twelve pounds a night. You need to book at this desk.
+Ranger: This centre has an exhibition about the park's wildlife and a café. We close at five thirty. And at eight this evening there's a guided walk to look for bats. It's free, but bring a torch.
+@Q LGAP
+The park became a national park in ____ | 1951/nineteen fifty-one
+Length of the Blue Trail: ____ kilometres | 4/four
+The Red Trail leads to a ____ | waterfall
+For the Red Trail, visitors need walking ____ | boots
+The Black Trail takes at least ____ hours | 7/seven
+A paper map costs £ ____ | 2.50/two pounds fifty/two fifty
+Forbidden everywhere in the park: ____ | fires/fire
+Camping costs £ ____ a night | 12/twelve
+For the evening bat walk, bring a ____ | torch
+@Q LMCQ
+Dogs must be on a lead from March to July because | A deer are giving birth. | B birds are nesting. | C the paths are crowded. | B
+
+## Classes at the Community Centre | Section 2
+@CTX You will hear a recorded message about activities at a community centre.
+@VOICES Voice=m
+@S
+Voice: Thank you for calling Elmwood Community Centre. Here is information about our programme for the autumn term, which runs from the eighth of September to the twelfth of December.
+Voice: We are pleased to offer four new classes this term. On Monday evenings at seven there is yoga for beginners with Angela. Please bring your own mat. On Tuesdays at ten in the morning we have a computer class for people over sixty, which covers email, online shopping and video calls. Laptops are provided.
+Voice: On Wednesday evenings from six thirty to eight thirty, there is Italian cooking. This class is limited to twelve people, and there is an extra charge of five pounds a week for ingredients. And on Saturday mornings at eleven, children aged eight to twelve can join our drama club, which will perform a play at the end of term.
+Voice: Our regular activities continue as usual. These include the choir on Thursday evenings, table tennis on Fridays, and the parent and baby group every weekday morning.
+Voice: Most classes cost six pounds per session, or fifty pounds for the whole term if you pay in advance. People who are unemployed or retired pay half price.
+Voice: To book a place, visit the office between nine and four, Monday to Friday, or book through our website. Please note that we cannot take bookings by telephone.
+Voice: We are also looking for volunteers to help in the centre's café and in the garden. No experience is needed. If you are interested, please ask for Maria at the office.
+Voice: The main hall is available to hire for parties and meetings at weekends. The charge is thirty pounds an hour, and it holds up to one hundred and fifty people.
+Voice: Finally, our annual autumn fair will take place on Saturday the fourth of October, with stalls, music and homemade cakes. Entry is free.
+Voice: Thank you for calling.
+@Q LGAP
+The autumn term ends on the twelfth of ____ | December
+For yoga, bring your own ____ | mat
+The computer class is for people over ____ | 60/sixty
+Maximum number in the cooking class: ____ | 12/twelve
+Extra weekly charge for ingredients: £ ____ | 5/five
+The children's Saturday class is a ____ club | drama
+Cost for the whole term if paid in advance: £ ____ | 50/fifty
+Bookings cannot be made by ____ | telephone/phone
+Volunteers are needed in the café and the ____ | garden
+Hiring the main hall costs £ ____ an hour | 30/thirty
+
+## Audio Guide: Ravensmoor Castle | Section 2
+@CTX You will hear the introduction to an audio guide for visitors to a castle.
+@VOICES Guide=m
+@S
+Guide: Welcome to Ravensmoor Castle. This audio guide will take you through nine hundred years of history. Before we begin, here is some general information.
+Guide: The castle was begun in the year eleven twenty by a knight called Sir Hugh de Vere. It was built on a hill above the river, so that soldiers could see enemies approaching from any direction. The oldest part is the Great Tower, directly in front of you, whose walls are four metres thick.
+Guide: The castle was attacked many times but captured only once, in thirteen thirty-two, after its defenders ran out of food. It remained in the same family for five centuries, until it was badly damaged by fire in seventeen eighty. After that it stood empty and local people took its stones to build their houses. Restoration began only in the nineteen sixties.
+Guide: Your visit follows the numbers on the walls. Number one is the gatehouse, where you are now. From here, go through the courtyard to number two, the Great Hall, where the family ate and entertained guests. Look up at the wooden roof, which is original.
+Guide: Number three is the kitchen, with a fireplace large enough to roast a whole cow. Number four is the chapel, which has the castle's only coloured glass window.
+Guide: Number five is the Great Tower. There are one hundred and twelve steps to the top. The staircase is narrow and turns to the right, which made it easier for defenders coming down to use their swords. The view from the top is magnificent, but the climb is not recommended for anyone with a heart condition.
+Guide: Beneath the tower is the prison, number six. Children usually like this best.
+Guide: The castle gardens were replanted using a drawing from sixteen ten. There, at two o'clock each day, you can watch a display of birds of prey.
+Guide: To hear about each place, press its number, then the green button. Now walk forward into the courtyard.
+@Q LGAP
+The castle was begun in the year ____ | 1120/eleven twenty
+The walls of the Great Tower are ____ metres thick | 4/four
+In 1332 the defenders ran out of ____ | food
+In 1780 the castle was damaged by ____ | fire
+Stop number two is the Great ____ | Hall
+The chapel has the only coloured ____ window | glass
+Number of steps in the Great Tower: ____ | 112/one hundred and twelve
+Under the tower is the ____ | prison
+The daily display in the gardens features birds of ____ | prey
+To hear the guide, press the number and then the ____ button | green

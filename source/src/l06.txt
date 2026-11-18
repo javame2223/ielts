@@ -1,0 +1,228 @@
+## Urban Heat Islands | Section 4
+@CTX You will hear part of a lecture on the climate of cities.
+@VOICES Lecturer=f
+@S
+Lecturer: Good morning. Today's topic is a problem that affects more than half of the world's population, the urban heat island.
+Lecturer: The term describes the fact that cities are warmer than the countryside around them. The effect was first measured in London in the early nineteenth century by an amateur scientist called Luke Howard, who compared thermometer readings in the centre with those in nearby villages. Today the difference in a large city is typically between one and three degrees during the day. But the important point is that it is greatest at night, when a city centre can be as much as ten degrees warmer than the surrounding fields.
+Lecturer: Why does this happen? There are four main causes. First, materials. Dark surfaces such as asphalt and roof tiles absorb sunlight during the day and release the heat slowly after sunset. Second, the lack of plants. Trees cool the air, both by giving shade and by releasing water through their leaves. Third, the shape of cities. Tall buildings on narrow streets trap heat and block the wind. And fourth, waste heat from vehicles, factories and, ironically, air conditioners, which cool the inside of a building by pumping heat outside.
+Lecturer: The consequences are serious. During heat waves the death rate rises, especially among elderly people, because the body cannot recover when nights stay hot. Demand for electricity increases sharply, and air quality gets worse.
+Lecturer: What can be done? The cheapest solution is to change the colour of surfaces. A white roof reflects most of the sunlight that falls on it, and can be thirty degrees cooler than a black one. New York has painted more than a million square metres of roofs white.
+Lecturer: Planting trees is the second approach. Studies show that a street with mature trees can be several degrees cooler than one without. The city of Melbourne plans to almost double its tree cover by twenty forty.
+Lecturer: Green roofs, covered with soil and plants, are a third option, though they cost more to build. Next week we'll look at how planners are using these ideas.
+@Q LGAP
+The effect was first measured in the city of ____ | London
+The temperature difference is greatest at ____ | night
+At night, a city centre can be up to ____ degrees warmer | 10/ten
+Dark surfaces such as ____ absorb sunlight | asphalt
+Trees cool the air by giving ____ and releasing water | shade
+Tall buildings trap heat and block the ____ | wind
+Air conditioners pump ____ outside | heat
+The people most at risk in heat waves are the ____ | elderly
+A white roof can be ____ degrees cooler than a black one | 30/thirty
+Melbourne plans to nearly ____ its tree cover | double
+
+## The History of the Pencil | Section 4
+@CTX You will hear part of a lecture about the history of an everyday object.
+@VOICES Lecturer=m
+@S
+Lecturer: In this series on everyday technology, I want to turn today to an object so ordinary that we hardly notice it, the pencil.
+Lecturer: Its story begins in the north of England in the fifteen sixties. According to tradition, a storm blew down a large tree near the village of Borrowdale, and under its roots shepherds found a black, shiny substance. They discovered it was excellent for marking their sheep. People believed the material was a kind of lead, which is why we still talk about the lead of a pencil. In fact it was graphite, a form of carbon, and pencils have never contained any lead at all.
+Lecturer: The Borrowdale graphite was unusually pure and solid. It could be cut into thin sticks, which at first were wrapped in string or sheepskin, and later placed inside a wooden case. For two centuries England had almost a monopoly, and the graphite was so valuable that it was transported under armed guard.
+Lecturer: The modern pencil was born out of war. In the seventeen nineties France was fighting Britain and could no longer import English graphite. An officer in the French army, Nicolas Conte, was asked to find a solution. In seventeen ninety-five he mixed powdered graphite of poor quality with clay, formed the mixture into rods and baked them in an oven. The method had an unexpected advantage. By changing the amount of clay, he could make the pencil harder or softer. More clay gives a harder, lighter line. That is the origin of the grades we still use, such as H for hard and B for black.
+Lecturer: Two later improvements came from America. In eighteen fifty-eight Hymen Lipman patented a pencil with a rubber attached to the end. And the familiar yellow colour appeared in eighteen ninety. The best graphite then came from China, where yellow was associated with royalty, so manufacturers painted their finest pencils yellow as a sign of quality.
+Lecturer: Why has the pencil survived the computer age? It is cheap, it needs no battery, and it works upside down, under water and even in space. A single pencil can draw a line roughly fifty-six kilometres long.
+@Q LGAP
+Graphite was found near the village of Borrowdale in the fifteen ____ | sixties/60s
+It was first used for marking ____ | sheep
+People wrongly believed the material was ____ | lead
+Early graphite sticks were wrapped in ____ or sheepskin | string
+Conte's method was developed in the year ____ | 1795/seventeen ninety-five
+He mixed powdered graphite with ____ | clay
+More clay makes a pencil ____ | harder
+In 1858 a ____ was attached to the end of the pencil | rubber
+In China, yellow was associated with ____ | royalty
+One pencil can draw a line about ____ kilometres long | 56/fifty-six
+
+## How Animals Sleep | Section 4
+@CTX You will hear part of a lecture on sleep in the animal kingdom.
+@VOICES Lecturer=f
+@S
+Lecturer: Last week we looked at human sleep. Today I want to widen the picture and ask how other animals sleep, because the variety is astonishing.
+Lecturer: Let's begin with the amount. The koala is one of the champions, sleeping for up to twenty hours a day. The reason is its diet. Eucalyptus leaves contain very little energy and take a long time to digest. At the other extreme are large plant-eaters that must spend most of their time feeding and watching for predators. A study published in two thousand and seventeen, which fitted wild African elephants with activity monitors, found that they slept for only about two hours a night, the shortest sleep recorded for any mammal.
+Lecturer: Now consider animals that can never fully stop. Dolphins must come to the surface to breathe, so they cannot become completely unconscious. Their solution is to sleep with one half of the brain at a time. The other half stays awake, and the eye connected to it remains open. After about two hours the two sides change over.
+Lecturer: Some birds do something similar. Ducks sleeping in a row are a good example. The birds at the ends of the row keep the outer eye open, watching for danger, while those in the middle close both eyes.
+Lecturer: Perhaps the most remarkable case is the frigatebird, a seabird that can stay in the air over the ocean for two months without landing. Researchers who attached small recorders to these birds found that they do sleep while flying, but for only about forty minutes a day, in bursts of a few seconds. On land the same birds sleep for more than twelve hours.
+Lecturer: Sea otters have a different problem, which is drifting away while asleep. They wrap themselves in seaweed, and mothers and young sometimes hold each other's paws.
+Lecturer: What does all this tell us? Sleep is clearly so important that evolution has kept it even where it is dangerous or inconvenient. No animal that has been studied carefully manages without it entirely.
+@Q LGAP
+Koalas sleep for up to ____ hours a day | 20/twenty
+Eucalyptus leaves contain very little ____ | energy
+Wild elephants were found to sleep about ____ hours a night | 2/two
+Dolphins must come to the surface to ____ | breathe
+Dolphins sleep with one ____ of the brain at a time | half
+The two sides of a dolphin's brain change over after about ____ hours | 2/two
+Ducks at the ends of a row keep one ____ open | eye
+Frigatebirds can stay in the air for two ____ | months
+While flying, frigatebirds sleep about ____ minutes a day | 40/forty
+Sea otters wrap themselves in ____ | seaweed
+
+## The Science of Habits | Section 4
+@CTX You will hear part of a lecture on the psychology of habits.
+@VOICES Lecturer=m
+@S
+Lecturer: Today we're looking at habits, the things we do automatically, without making a decision. Research by the psychologist Wendy Wood suggests that about forty-three per cent of our daily actions are performed out of habit, while we are thinking about something else.
+Lecturer: How does a habit work? Researchers describe a loop with three parts. First there is a cue, a signal that starts the behaviour. It might be a time of day, a place, or a feeling such as boredom. Second comes the routine, the behaviour itself. And third is the reward, which tells the brain that the loop is worth remembering. After enough repetitions, the cue alone produces a desire for the reward.
+Lecturer: You have probably heard that it takes twenty-one days to form a habit. That figure comes from a book published in nineteen sixty by a plastic surgeon, Maxwell Maltz, who noticed that his patients needed about three weeks to get used to their new faces. It was an observation, not an experiment.
+Lecturer: A proper study was carried out in two thousand and nine at University College London. Ninety-six volunteers chose a new daily behaviour, such as eating fruit with lunch, and reported each day how automatic it felt. On average, a habit took sixty-six days to form. But the range was enormous, from eighteen days to two hundred and fifty-four. Simple actions like drinking water became automatic quickly. Exercise took much longer. Encouragingly, missing a single day made no real difference.
+Lecturer: What about breaking a bad habit? The evidence suggests that habits are not deleted, they are replaced. The most effective method is to keep the cue and the reward, and change only the routine. Someone who eats biscuits at four o'clock because they want a break might take a short walk instead.
+Lecturer: Changing the environment also helps. Studies of students who moved to a different university found that they changed their habits more easily, because the old cues had disappeared. So if you want to start a new habit, a good moment is when you move house or begin a new job.
+@Q LGAP
+About ____ per cent of daily actions are done out of habit | 43/forty-three
+The first part of the habit loop is the ____ | cue
+The third part of the loop is the ____ | reward
+The figure of twenty-one days comes from a book by a plastic ____ | surgeon
+That book was published in ____ | 1960/nineteen sixty
+Number of volunteers in the London study: ____ | 96/ninety-six
+Average time to form a habit: ____ days | 66/sixty-six
+A behaviour that took much longer to become automatic: ____ | exercise
+To break a habit, change only the ____ | routine
+A good time to start a habit is when you move ____ or start a new job | house
+
+## The Origins of Writing | Section 4
+@CTX You will hear part of a lecture on the earliest writing system.
+@VOICES Lecturer=f
+@S
+Lecturer: When we think about why writing was invented, we imagine poetry, or laws, or letters. The truth is less romantic. Writing was invented by accountants.
+Lecturer: The story begins in Mesopotamia, in what is now southern Iraq. By about three thousand three hundred BC the city of Uruk had perhaps forty thousand inhabitants, and its temples controlled huge stores of grain, sheep and beer. Somebody had to keep records.
+Lecturer: For thousands of years before this, people in the region had used small clay tokens for counting. One shape stood for a measure of grain, another for a jar of oil. To prevent cheating, the tokens for a delivery were sealed inside a hollow clay ball. The problem, of course, was that you had to break the ball to check what was in it. So people began pressing the tokens into the outside of the ball before sealing it. And eventually someone realised that the marks alone were enough. The ball became a flat tablet, and the tokens were no longer needed.
+Lecturer: The first signs were simple pictures. A head of barley meant barley. But pictures are slow to draw in wet clay, so scribes began pressing the end of a cut reed into the surface instead. This made marks shaped like wedges. The Latin word for wedge is cuneus, and so we call the script cuneiform.
+Lecturer: The next step was the decisive one. Signs began to represent sounds as well as things. This allowed scribes to write names and, eventually, whole sentences of the spoken language. The number of signs fell from more than a thousand to about six hundred. That was still a great many to learn, and training as a scribe took around twelve years in a school known as a tablet house.
+Lecturer: Cuneiform was used for three thousand years, for a dozen different languages. It recorded contracts, medical texts and literature, including the story of Gilgamesh. Then it was forgotten completely, until scholars deciphered it in the nineteenth century. Because clay survives fire, hundreds of thousands of tablets still exist, most of them, I'm afraid, receipts.
+@Q LGAP
+The lecturer says writing was invented by ____ | accountants
+The city of Uruk had about ____ inhabitants | 40000/40,000/forty thousand
+Before writing, people counted with small clay ____ | tokens
+The tokens were sealed inside a hollow clay ____ | ball
+The first written signs were simple ____ | pictures
+Scribes pressed the end of a cut ____ into the clay | reed
+Cuneiform is named after the Latin word for ____ | wedge
+Later, signs began to represent ____ as well as things | sounds
+Training as a scribe took about ____ years | 12/twelve
+Cuneiform was deciphered in the ____ century | nineteenth/19th
+
+## Plants of the Desert | Section 4
+@CTX You will hear part of a lecture on how plants survive in deserts.
+@VOICES Lecturer=m
+@S
+Lecturer: A desert is defined as a region that receives less than two hundred and fifty millimetres of rain a year. For a plant, that creates one overwhelming problem, how to obtain water and how to keep it. Today I'll describe three strategies that desert plants have evolved.
+Lecturer: The first strategy is storage, and the best-known example is the cactus. Look at a saguaro cactus from the deserts of Arizona. It has no leaves. Its spines are in fact leaves that have changed over millions of years. They lose almost no water, they protect the plant from thirsty animals, and they even provide a little shade. The stem of the saguaro is folded, like an accordion, so that it can expand. After a storm, a large plant can take up about seven hundred and fifty litres of water in a few days. Its roots are shallow, but they spread out as far as the plant is tall, to catch rain before it disappears.
+Lecturer: Cacti also breathe differently from other plants. Most plants open the tiny holes in their surface during the day to take in carbon dioxide, and they lose water as they do so. A cactus opens them only at night, when the air is cool, stores the gas, and uses it for photosynthesis the next day. The price is slow growth. A saguaro may be only a few centimetres tall after ten years, though it can live for two centuries.
+Lecturer: The second strategy is to reach water that other plants cannot. The mesquite tree sends its roots down to water lying deep underground. Roots have been found at depths of more than fifty metres.
+Lecturer: The third strategy is simply to avoid the dry season. Many small desert flowers live for only a few weeks. Their seeds can lie in the soil for years, protected by a chemical coat that prevents them from growing. Only heavy rain washes the chemical away. Then the desert suddenly turns into a carpet of colour, the plants flower, produce new seeds and die, all before the ground dries out again.
+Lecturer: Next time, we'll consider desert animals.
+@Q LGAP
+A desert receives less than ____ millimetres of rain a year | 250/two hundred and fifty
+A cactus's spines are really ____ | leaves
+The saguaro's stem is folded so that it can ____ | expand
+After a storm, a large saguaro can take up about ____ litres of water | 750/seven hundred and fifty
+The saguaro's roots are ____ but wide | shallow
+A cactus opens its tiny holes only at ____ | night
+A saguaro can live for two ____ | centuries
+Mesquite roots can go deeper than ____ metres | 50/fifty
+Desert flower seeds are protected by a ____ coat | chemical
+The chemical is washed away only by heavy ____ | rain
+
+## Lifts and the Rise of the Skyscraper | Section 4
+@CTX You will hear part of a lecture on the history of architecture.
+@VOICES Lecturer=f
+@S
+Lecturer: If I asked you which invention made the modern city possible, you might say steel, or concrete. I'd like to suggest another candidate, the lift, or elevator.
+Lecturer: Lifting platforms are very old. The Romans used them in the Colosseum to raise animals into the arena. Nineteenth-century factories and warehouses had steam-powered lifts for goods. But nobody would travel in one by choice, for a simple reason. If the rope broke, the platform fell.
+Lecturer: The man who solved this was an American mechanic, Elisha Otis. He designed a safety brake, a spring that pushed metal teeth into the guide rails on each side if the rope lost its tension. In eighteen fifty-four, at a great exhibition in New York, he demonstrated it in dramatic style. He stood on a platform high above the crowd and ordered the rope to be cut. The platform dropped a few centimetres, and stopped.
+Lecturer: The first passenger lift using his brake was installed three years later in a department store in New York. It was a building of only five storeys, and the lift travelled at less than a kilometre an hour. But the principle was established.
+Lecturer: Consider what this meant for buildings. Before the lift, few were higher than six floors, because that was as far as people were willing to climb. And the top floors were the cheapest, occupied by servants and the poor. The lift turned that upside down. Suddenly the highest floors, with light, quiet and a view, became the most desirable and the most expensive.
+Lecturer: Height then depended on structure. Steel frames, first used in Chicago in the eighteen eighties, allowed walls to become thin. Electric lifts arrived in the same decade and were faster and cleaner than steam.
+Lecturer: Today's limits are different. In very tall buildings the steel cables become too heavy to support their own weight, which restricts a single lift to about five hundred metres. Engineers are now using cables of carbon fibre, which weigh far less. And in the tallest towers, lifts take up so much floor space that designers use double-deck cars, serving two floors at once.
+@Q LGAP
+The Romans used lifts in the Colosseum to raise ____ | animals
+People feared lifts because the ____ might break | rope
+Elisha Otis worked as a ____ | mechanic
+Otis demonstrated his brake in the year ____ | 1854/eighteen fifty-four
+The first passenger lift was installed in a department ____ | store
+That building had ____ storeys | 5/five
+Before lifts, the top floors were the ____ | cheapest
+Steel frames were first used in the city of ____ | Chicago
+Steel cables limit a single lift to about ____ metres | 500/five hundred
+New, lighter cables are made of carbon ____ | fibre/fiber
+
+## Podcast: The Food that Never Goes Bad | Section 4
+@CTX You will hear an episode of a science podcast about honey.
+@VOICES Host=m
+@S
+Host: Hello, and welcome to Curious Minds, the podcast that takes one small question and follows it wherever it leads. I'm Ben. This week's question came from a listener called Olivia, who is nine. She asked, why doesn't honey go bad?
+Host: It's a great question, because it really doesn't. Archaeologists opening Egyptian tombs have found pots of honey around three thousand years old, and it was still perfectly safe to eat.
+Host: So what's the secret? There are three parts to the answer. The first is water, or rather the lack of it. Honey is only about seventeen per cent water. Bacteria and moulds need moisture to grow, and when they land in honey the sugar actually pulls the water out of them, and they die.
+Host: The second reason is that honey is acidic. Its acidity is similar to that of orange juice, and most microbes can't survive in that.
+Host: The third reason is my favourite, because it involves the bees themselves. Nectar from flowers is mostly water, as much as eighty per cent. A bee collects it, carries it home in a special stomach and passes it to another bee, mouth to mouth. Appetising, I know. In the process the bees add an enzyme. That enzyme produces tiny amounts of hydrogen peroxide, the same chemical used to clean wounds. Then the bees fan the nectar with their wings to evaporate the water, and finally they seal each cell with wax.
+Host: That, by the way, explains why honey has been used as medicine for thousands of years. People put it on cuts and burns long before anyone knew what bacteria were, and some hospitals use a special medical honey today.
+Host: One warning. Honey only lasts if the jar is closed. Leave it open in a damp kitchen and it absorbs water from the air, and then it can spoil. And if your honey goes hard and cloudy, don't throw it out. It has only crystallised. Stand the jar in warm water and it will turn liquid again.
+Host: Finally, a number that changed how I look at my breakfast. In her whole life, a single worker bee makes about one twelfth of a teaspoon of honey.
+Host: Thanks, Olivia. Keep the questions coming.
+@Q LGAP
+The listener who asked the question is ____ years old | 9/nine
+Honey found in Egyptian tombs was about ____ years old | 3000/3,000/three thousand
+Honey is about ____ per cent water | 17/seventeen
+Honey's acidity is similar to that of ____ juice | orange
+Nectar can be as much as ____ per cent water | 80/eighty
+The bees add an ____ to the nectar | enzyme
+Bees evaporate the water by fanning with their ____ | wings
+Each cell is sealed with ____ | wax
+Hard, cloudy honey should be stood in warm ____ | water
+In her life, one bee makes about one twelfth of a ____ of honey | teaspoon
+
+## Podcast: The Lines that Changed Shopping | Section 4
+@CTX You will hear an episode of a podcast about the history of design, on the invention of the barcode.
+@VOICES Host=f
+@S
+Host: You're listening to Everyday Genius, the show about the hidden design in ordinary things. I'm Rachel. Today, an invention you see perhaps fifty times a day and never think about, the barcode.
+Host: Our story starts in nineteen forty-eight in Philadelphia. A supermarket manager visited a local college and begged the dean to find a way of recording products automatically at the checkout. The dean wasn't interested. But a student called Bernard Silver overheard the conversation and told his friend, Joseph Woodland.
+Host: Woodland became obsessed with the problem. He left his teaching job and moved to his grandfather's flat in Florida to think. The idea came to him on the beach. As a boy he had learned Morse code, with its dots and dashes. Sitting in a chair, he pushed his fingers into the sand and pulled them towards him, drawing four lines. He realised that instead of dots and dashes, he could use thin lines and thick lines.
+Host: The two friends received a patent in nineteen fifty-two. Interestingly, their design was not rectangular. It was circular, like a target, so that it could be read from any direction.
+Host: And then nothing happened for twenty years. The idea was ahead of its technology. Reading the code needed a very bright light and a computer, and in the nineteen fifties both were huge and expensive. Woodland and Silver sold their patent for just fifteen thousand dollars. Silver died in nineteen sixty-three, before a single product had been scanned.
+Host: Two inventions changed everything. The laser, in nineteen sixty, provided the light. The microchip provided cheap computing. In the early seventies American supermarkets agreed on a standard code, designed by an engineer at I B M called George Laurer. He chose a rectangle, because the round design smeared when it was printed.
+Host: The first scan took place on the twenty-sixth of June nineteen seventy-four, at a supermarket in Ohio. The product was a packet of chewing gum, which cost sixty-seven cents. That packet is now in a museum in Washington.
+Host: Shops were slow to adopt scanners, because they were expensive. But the benefits were enormous. Queues moved faster, and for the first time a shop knew exactly what it had sold. Today barcodes are scanned around ten billion times a day.
+@Q LGAP
+The story begins in the year ____ | 1948/nineteen forty-eight
+Woodland moved to his grandfather's flat in ____ | Florida
+The idea came to him on the ____ | beach
+As a boy he had learned ____ code | Morse
+The patent was received in ____ | 1952/nineteen fifty-two
+The original design was ____ in shape | circular/round
+The patent was sold for ____ dollars | 15000/15,000/fifteen thousand
+The light for reading codes was provided by the ____ | laser
+The first product scanned was a packet of chewing ____ | gum
+It cost ____ cents | 67/sixty-seven
+
+## Podcast: The Rubber Ducks that Mapped the Ocean | Section 4
+@CTX You will hear an episode of a podcast about the oceans.
+@VOICES Host=m
+@S
+Host: Welcome to Blue Planet Stories. I'm Tom, and today's episode is about one of the strangest scientific experiments ever carried out. Nobody planned it, and its equipment was made for the bath.
+Host: In January nineteen ninety-two, a container ship was crossing the Pacific Ocean from Hong Kong to the United States when it ran into a violent storm. Twelve containers were washed overboard. One of them broke open, and released about twenty-nine thousand plastic bath toys into the sea. There were yellow ducks, red beavers, blue turtles and green frogs.
+Host: Now, to most people that's a small accident. To an oceanographer called Curtis Ebbesmeyer, it was a gift. Scientists who study ocean currents normally release five hundred or a thousand floating bottles and hope that a few are found. Here were tens of thousands of bright objects, all released at a known place at a known time.
+Host: Ten months later, the first toys washed up on the coast of Alaska, about three thousand two hundred kilometres from where they had started. Ebbesmeyer built a network of people who walk beaches, and asked them to report every toy they found. With a colleague, he put the data into a computer model of the currents.
+Host: The model predicted that some of the toys would circle the North Pacific, and they did. That great circular current takes about three years to complete one round. Others, the model said, would drift north through the Bering Strait and become frozen in the Arctic ice. The ice moves slowly across the top of the world, and the prediction was that the toys would emerge years later in the Atlantic. Sure enough, in the early two thousands, faded ducks were reported on the east coast of North America, and later in Britain.
+Host: There's a serious side to the story. After years at sea the toys had lost their colour. The ducks and beavers had turned white. But the plastic itself was still whole. It showed just how long plastic lasts in the ocean, and how far it can travel.
+Host: And if you find one of those ducks on a beach today, keep it. Collectors have paid up to a thousand dollars for one.
+@Q LGAP
+The accident happened in ____ 1992 | January
+The ship was sailing from ____ to the United States | Hong Kong
+Number of containers lost: ____ | 12/twelve
+Colour of the toy turtles: ____ | blue
+The first toys reached Alaska after ____ months | 10/ten
+Distance travelled to Alaska: about ____ kilometres | 3200/3,200/three thousand two hundred
+One round of the North Pacific current takes about ____ years | 3/three
+Some toys became frozen in the Arctic ____ | ice
+After years at sea, the ducks had turned ____ | white
+Collectors have paid up to a ____ dollars for a toy | thousand/1000/1,000

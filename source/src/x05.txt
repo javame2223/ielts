@@ -1,0 +1,199 @@
+## The Bilingual Brain
+@INSERT 3
+Bilingualism begins remarkably early. Newborn babies whose mothers spoke two languages during pregnancy can already tell the two apart by their rhythm. In an Italian experiment, infants only seven months old who were growing up in bilingual homes were quicker than others to notice when the rule of a simple game changed and a puppet began to appear on the opposite side of a screen. Far from being confused, they seemed to have had early practice in switching attention.
+
+Bilingual speakers frequently move between their languages within a single conversation, or even a single sentence. Teachers once treated this habit, known as code-switching, as a sign of laziness or of imperfect knowledge. Linguists who have analysed recordings disagree. The switches are not random but occur at points where the grammar of both languages allows them, and speakers choose a word from the other language because it expresses something more exactly or marks a shared identity with the listener.
+
+Is there an age after which a language can no longer be learned perfectly? A study published in 2018, based on a grammar quiz completed online by more than 600,000 people, concluded that the ability to learn grammar remains strong until about seventeen, later than had been supposed. To reach the level of a native speaker, however, learners generally needed to have started by the age of ten. Adults have advantages of their own: they learn vocabulary faster and can study rules consciously.
+@V
+pregnancy = беременность
+infant = младенец
+code-switching = переключение между языками
+consciously = сознательно
+@Q TFNG
+Newborn babies are unable to distinguish between two languages. | F
+Linguists regard code-switching as evidence of poor language skills. | F
+The 2018 study collected its data through the internet. | T
+@Q GAP
+To reach native level, learners usually needed to start by the age of ____ . | ten/10
+Moving between languages within one conversation is known as ____ . | code-switching
+
+## Why Children Need to Play
+@INSERT 3
+Human children are not the only young that play. Kittens stalk and pounce, young goats leap and puppies wrestle, and biologists have long asked why animals should spend energy on activities that can attract predators. Experiments with rats give part of the answer. Young rats prevented from play-fighting with others grow into adults that cannot read social signals properly: faced with a stranger, they either panic or attack without cause. Play, it seems, is how a young mammal's brain learns to deal with the unexpected.
+
+An influential idea about children's play came from Denmark. In the 1930s the landscape architect Carl Theodor Sorensen noticed that children ignored the tidy playgrounds he had designed and preferred to play on building sites. In 1943 he opened a 'junk playground' in a suburb of Copenhagen, supplied with planks, bricks, old tyres and tools, where children could build and demolish as they pleased under the eye of a single adult. The idea spread to many countries after the war under the name of adventure playground.
+
+Since then playgrounds in much of the world have moved in the opposite direction, with soft rubber surfaces and low equipment designed above all to prevent injury. Some researchers think this has gone too far. The Norwegian psychologist Ellen Sandseter argues that children have a natural appetite for mild risk, such as climbing high or moving fast, and that by mastering it they gradually overcome their fears. A child who is never allowed to feel slightly afraid, she suggests, may grow up more fearful, not less.
+@V
+pounce = набрасываться
+plank = доска
+mastering (master) = овладевать
+overcome = преодолевать
+@Q TFNG
+Rats that were unable to play when young behave normally as adults. | F
+Sorensen got his idea from watching where children chose to play. | T
+Sandseter believes that playgrounds should remove every risk. | F
+@Q GAP
+Sorensen opened his 'junk playground' in the year ____ . | 1943
+After the war the idea became known as the ____ playground. | adventure
+
+## The Homework Debate
+@INSERT 2
+Comparisons between countries make the picture no clearer. Surveys of fifteen-year-olds carried out for the OECD, an international economic organisation, found that pupils in Shanghai spent about fourteen hours a week on homework, while those in Finland and South Korea spent less than three. All three systems are among the most successful in the world. Within a single country, schools that set more homework do tend to achieve better results, but across countries the amount appears to explain very little.
+
+How pupils work may be more important than how long. Researchers in Spain who studied more than 7,000 teenagers found that those who did their homework regularly and without help did better in mathematics and science tests than those who spent longer on it or who relied on their parents. About an hour a day seemed to be the most effective amount; beyond that, results did not improve. Well-meant assistance from parents can even be harmful if it removes the need for the child to think.
+
+Some authorities have tried to abolish homework by law. In France, written homework for primary school children has officially been forbidden since 1956, on the grounds that it increases inequality, but teachers have continued to set it and most parents expect it. Several American primary schools have recently replaced all homework with a simple request that pupils read a book of their own choice each evening.
+@V
+comparison = сравнение
+relied (rely) = полагаться
+assistance = помощь
+inequality = неравенство
+@Q TFNG
+Pupils in Finland and South Korea do well although they do little homework. | T
+Spanish pupils who were helped by their parents achieved the best results. | F
+French primary teachers stopped setting written homework after 1956. | F
+@Q GAP
+In the Spanish study, about ____ a day appeared to be the most effective amount. | an hour
+In France, written homework has officially been forbidden in ____ schools. | primary
+
+## Two Ways of Thinking about Ability
+@INSERT 3
+The effects of praise can be traced back to the first years of life. In a long-term American study, researchers filmed parents at home with their children aged between one and three and counted how often they praised effort ('you worked hard on that') as opposed to qualities ('you're so clever'). Five years later, the children who had heard a larger proportion of praise for effort were more likely to say that they enjoyed difficult tasks and to believe that people can become smarter.
+
+Teachers have looked for practical ways of applying the idea. Dweck often describes a high school in Chicago where students who had not passed a course received the grade 'Not Yet' rather than a fail. The words, she argues, tell a student that he or she is on a path towards success and has simply not arrived. Other schools encourage pupils to add the word 'yet' to statements such as 'I can't do fractions', or display work in progress on the walls alongside finished pieces.
+
+Sport supplies some of the favourite illustrations. The American basketball player Michael Jordan, often called the greatest in the history of the game, was not selected for the senior team at his high school at the age of fifteen. By his own account the disappointment drove him to practise for hours each morning before lessons. Stories of this kind are inspiring, though critics point out that they prove little, since nobody collects the stories of those who practised just as hard without becoming famous.
+@V
+path = путь
+fraction = дробь
+disappointment = разочарование
+inspiring = вдохновляющий
+@Q TFNG
+Children who were praised for effort as toddlers later tended to enjoy difficult tasks. | T
+At the Chicago school, students who had not passed were given the grade 'Not Yet'. | T
+Michael Jordan was chosen for his school's senior team at fifteen. | F
+@Q GAP
+Some schools ask pupils to add the word ____ to statements about what they cannot do. | yet
+Critics say that inspiring stories about famous people ____ little. | prove
+
+## Putting Things Off
+@INSERT 3
+The problem is certainly not a product of the modern world. Around 700 BC the Greek poet Hesiod warned his brother not to put off work until tomorrow or the day after. The French novelist Victor Hugo, struggling to finish a book for which the deadline had already passed, is said to have ordered his servant to lock away all his clothes, leaving him with nothing but a large shawl, so that he could not leave the house until the manuscript was complete.
+
+Hugo's trick is an example of what economists call a commitment device: a way of binding oneself in advance. Its value was tested in an experiment at an American university. Students on one course had to hand in three essays by fixed dates spread evenly through the term; those on a second could submit all three at any time before the final day; and those on a third were invited to choose their own deadlines, with penalties for lateness. The first group earned the highest marks and the second the lowest. The students who set their own deadlines came in between, because many of them chose dates that were too late.
+
+Underlying all this is a conflict between the person we are now and the person we expect to be. In one study, volunteers were asked to choose films to watch. For the same evening most picked light comedies, but for an evening a week ahead they chose serious, 'improving' films. When that evening came, of course, many wanted to change. We are generous in making plans for our future selves and reluctant to carry them out.
+@V
+shawl = шаль
+commitment = обязательство
+submit = сдавать, подавать
+penalties (penalty) = штраф, наказание
+@Q TFNG
+Victor Hugo had his clothes locked away so that he would stay at home and write. | T
+Students who could hand in their work at any time achieved the best marks. | F
+People tend to choose more serious films for a future date than for the same evening. | T
+@Q GAP
+A way of binding oneself in advance is called a ____ device. | commitment
+The Greek poet ____ warned against putting off work. | Hesiod
+
+## Reading for Pleasure
+@INSERT 3
+Does it matter whether the words are on paper or on a screen? A review that combined the results of more than fifty studies, involving about 170,000 readers, found that people generally understood informational texts somewhat better when they read them on paper, particularly when time was limited. Screen readers tended to move faster and to overestimate how much they had taken in. For stories read at leisure the difference largely disappeared, so the device is probably less important than the habit of skimming that screens encourage.
+
+The number of books in a home turns out to be a surprisingly powerful indicator. Sociologists who analysed data from twenty-seven countries found that children who grew up with several hundred books around them stayed in education, on average, about three years longer than those from homes with none, even when the parents had similar jobs and schooling. Books on the shelf do not work by magic, of course; they are a sign of a household in which reading and discussion are valued.
+
+One simple practice deserves mention: reading aloud. Most parents read to their small children but stop once the child can read alone, usually at about seven. Surveys suggest that many children are sorry when this happens. Listening allows them to enjoy stories that are still too difficult to read for themselves, with richer vocabulary and longer sentences, and it keeps books associated with warmth and attention rather than with schoolwork.
+@V
+overestimate = переоценивать
+skimming (skim) = бегло просматривать
+indicator = показатель
+shelf = полка
+@Q TFNG
+Readers using screens often believed they had understood more than they really had. | T
+The effect of books at home disappeared when the parents' education was taken into account. | F
+Most parents continue reading aloud until their children are teenagers. | F
+@Q GAP
+People understood informational texts somewhat better when reading on ____ . | paper
+Children from homes with many books stayed in education about ____ years longer. | three/3
+
+## Learning Online
+@INSERT 4
+One of the best-known sources of online lessons began almost by accident. In 2004 Salman Khan, a financial analyst in the United States, started tutoring a young cousin in mathematics by telephone. When other relatives asked for help, he recorded short explanations and put them on the internet. To his surprise, his cousins said they preferred the recordings to him in person: they could stop and repeat a difficult step as often as they liked without feeling embarrassed. The Khan Academy he went on to found now offers thousands of free lessons used by millions of students.
+
+The attraction of such tools is easier to understand in the light of a finding published in 1984 by the educational psychologist Benjamin Bloom. He compared students taught in an ordinary class with others who had a personal tutor and were not allowed to move on until they had mastered each topic. The average tutored student did better than ninety-eight per cent of those in the class. Since no country can afford a tutor for every child, Bloom challenged researchers to find methods of group teaching that were equally effective.
+
+Software that adapts to each learner, offering easier or harder questions according to previous answers, is an attempt to meet that challenge, and the newest programs can hold a conversation and give hints rather than answers. Whether they come close to a human tutor is not yet known. Early trials suggest that students learn more when the program guides them step by step, and less when it simply supplies solutions that they copy.
+@V
+tutor = репетитор, наставник
+embarrassed = смущённый
+afford = позволить себе
+hint = подсказка
+@Q TFNG
+Khan's cousins preferred his recorded lessons to being taught by him directly. | T
+In Bloom's study, tutored students performed slightly worse than those in a class. | F
+It has been proved that software is as effective as a human tutor. | F
+@Q GAP
+Salman Khan began by tutoring his cousin in ____ . | mathematics
+The average tutored student did better than ____ per cent of those taught in a class. | ninety-eight/98
+
+## Taking a Year Out
+@INSERT 3
+Attitudes vary considerably from country to country. In Denmark and Norway, taking a year or more out is so normal that the average age of students entering university is over twenty-one. In Israel, young people commonly travel for several months after completing their military service. In the United States the practice has traditionally been rare, but it is growing, and Harvard University has for decades encouraged the students it admits to consider postponing their arrival for a year.
+
+Some governments organise such years themselves. Germany has run a 'voluntary social year' since 1964, in which tens of thousands of school leavers annually work in hospitals, care homes, kindergartens or environmental projects in return for pocket money, accommodation and insurance. Participants gain a realistic view of professions they may be considering, and institutions that are short of staff gain willing helpers. France introduced a similar civic service in 2010.
+
+What separates a valuable year from a wasted one? Studies point to two things. The first is a clear aim, even a modest one, such as reaching a certain level in a language or saving a particular sum. The second is reflection. Students who kept a record of what they did and thought about what they had learned from it were better able to explain the experience afterwards, and it is this ability, rather than the travel itself, that impresses admissions tutors and employers.
+@V
+military service = военная служба
+annually = ежегодно
+kindergarten = детский сад
+reflection = осмысление, размышление
+@Q TFNG
+Students in Denmark and Norway usually start university straight after school. | F
+Participants in the German scheme receive a full salary. | F
+Germany's voluntary social year has existed for several decades. | T
+@Q GAP
+France introduced a civic service in the year ____ . | 2010
+Besides a clear aim, a valuable gap year requires ____ . | reflection
+
+## Music Lessons and the Mind
+@INSERT 3
+How much does practice explain? In a famous study in the early 1990s, the psychologist Anders Ericsson asked teachers at a music academy in Berlin to divide their violin students into three groups according to ability. The best, he found, had accumulated an average of about 10,000 hours of solitary practice by the age of twenty, several thousand more than the weakest. The figure was later popularised as a rule for success in any field. Subsequent analyses have been more cautious, concluding that practice accounts for only about a fifth of the differences between musicians.
+
+Early training seems to be essential for one rare ability: perfect pitch, the capacity to name any note on hearing it, without a reference. Perhaps one person in ten thousand possesses it, and almost all of them began music lessons before the age of six. It is also considerably more common among those whose mother tongue is a language such as Mandarin Chinese, in which the pitch of a syllable changes its meaning, which suggests that the ear can be tuned by speech as well as by music.
+
+The benefits of playing may be most evident late in life. Older adults who have played an instrument for many years are better than others of the same age at following a conversation in a noisy room, a skill that normally declines with age even when hearing itself is good. The explanation appears to be that long practice in picking out one line of music from many sharpens the brain's processing of sound in general.
+@V
+cautious = осторожный
+capacity = способность
+reference = ориентир, эталон
+sharpens (sharpen) = обострять
+@Q TFNG
+The best violinists in Ericsson's study had practised more than the weakest. | T
+Later research concluded that practice explains almost all the differences between musicians. | F
+Perfect pitch is more common among speakers of Mandarin Chinese. | T
+@Q GAP
+Almost everyone with perfect pitch began lessons before the age of ____ . | six/6
+Older musicians are better at following a conversation in a ____ room. | noisy
+
+## Pen or Keyboard?
+@INSERT 3
+Laptops bring a second handicap that has nothing to do with typing. In a Canadian experiment, students were asked to attend a lecture and, in some cases, to carry out unrelated tasks on the internet at the same time. Those who did so scored eleven per cent lower in the test that followed. More remarkably, students who were not using a computer at all, but who sat where they could see the screen of someone who was browsing, did seventeen per cent worse than those with no such view.
+
+If writing by hand helps because it forces the mind to work on the material, drawing ought to help even more, and experiments suggest that it does. Volunteers at a Canadian university were given a list of simple words and asked either to write each one out repeatedly or to make a quick sketch of it. Later they recalled about twice as many of the words they had drawn. The quality of the drawings made no difference at all.
+
+Education authorities have reached different conclusions about what all this means for schools. In 2016 Finland stopped requiring schools to teach joined-up handwriting and put more emphasis on typing, arguing that fluent keyboard skills are what pupils will need. Several American states have moved the other way and passed laws obliging primary schools to teach it again.
+@V
+handicap = помеха, недостаток
+browsing (browse) = просматривать сайты
+sketch = набросок
+obliging (oblige) = обязывать
+@Q TFNG
+Students who could see another person's screen were affected more than those who were browsing themselves. | T
+People who made better drawings remembered more words. | F
+Finland has increased the time spent on joined-up handwriting. | F
+@Q GAP
+Students who multitasked on a laptop scored ____ per cent lower in the test. | eleven/11
+Volunteers recalled about ____ as many of the words they had drawn. | twice

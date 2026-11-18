@@ -1,0 +1,200 @@
+## Farming in the City
+@INSERT 3
+Growing food in cities is not a new idea. During the Second World War, governments urged citizens to dig up lawns and parks, and in the United States some twenty million 'victory gardens' are estimated to have supplied about forty per cent of the country's vegetables. A more recent example is Havana. When the collapse of the Soviet Union in 1991 cut off Cuba's supplies of fuel and fertiliser, the city's inhabitants turned empty plots into organic gardens, which still provide a large share of the fresh vegetables eaten in the capital.
+
+Today the most determined efforts are being made where land is scarcest. Singapore, a crowded island state that imports about ninety per cent of its food, has set a target of producing thirty per cent of its nutritional needs at home by 2030. Farms have appeared on the roofs of multi-storey car parks and housing blocks, and the government offers grants to companies developing new techniques.
+
+One such technique combines plants with fish. In an aquaponic system, fish are raised in tanks and the water, rich in their waste, is pumped through beds of vegetables. Bacteria convert the waste into nutrients that the plants absorb, and the cleaned water returns to the fish. The result is two crops from the same water, with almost nothing discharged. The method is not simple, however, since the needs of fish, plants and bacteria must be kept in careful balance.
+@V
+lawn = газон
+target = цель, целевой показатель
+grant = субсидия, грант
+tank = резервуар, бак
+@Q TFNG
+Victory gardens produced a significant share of American vegetables during the war. | T
+Cubans began urban farming because their government banned imported food. | F
+Aquaponic systems are easy to manage. | F
+@Q GAP
+Singapore imports about ____ per cent of its food. | ninety/90
+In aquaponics, ____ turn fish waste into nutrients for the plants. | bacteria
+
+## Losing the Forests
+@INSERT 3
+It may seem strange that land which supports such luxuriant vegetation makes poor farmland, but the soil beneath most tropical forests is thin and infertile. Almost all the nutrients are held in the living plants themselves. When a leaf falls, it decays within weeks in the warm, damp conditions, and the minerals are taken up again at once by roots near the surface. Once the trees are cut and burned, heavy rain washes the remaining goodness away, and after a few harvests the farmer must often clear a fresh patch.
+
+Damage is not confined to the areas that are actually cleared. As roads and fields advance, the forest is broken into isolated fragments. Wind and sunlight penetrate the exposed edges, drying the vegetation and making it vulnerable to fire, which in an undisturbed rainforest is almost unknown. Large animals such as jaguars, which need extensive territories, disappear from small fragments first, and the trees whose seeds they spread follow.
+
+A popular response has been to plant trees, and governments and companies have announced schemes to plant billions. Scientists caution that such projects are no substitute for protecting what already exists. Many consist of a single fast-growing species, such as eucalyptus, grown in rows for timber; these plantations shelter few animals and hold far less carbon than an old forest. Where conditions allow, simply fencing off damaged land and letting the forest return naturally is often cheaper and more effective.
+@V
+infertile = неплодородный
+penetrate = проникать
+territories (territory) = территория
+substitute = замена
+@Q TFNG
+The soil in tropical forests is rich in nutrients. | F
+Large animals are the first to vanish from small patches of forest. | T
+Plantations of a single species store as much carbon as old forests. | F
+@Q GAP
+In a rainforest, most nutrients are held in the living ____ . | plants
+Many planting schemes use a single fast-growing species such as ____ . | eucalyptus
+
+## Plastic in the Oceans
+@INSERT 4
+Lost fishing gear is especially destructive. A net made of nylon does not rot, and after it has been abandoned it may drift for years, still trapping fish, turtles and seals, a process known as ghost fishing. When researchers analysed the contents of the Pacific patch in 2018, they found that nets accounted for almost half of its total weight. Some fishing communities now mark their gear so that lost nets can be traced, and pay crews to bring old ones back to port.
+
+Rivers are the main route by which plastic from the land reaches the sea. It was once thought that a handful of great rivers carried most of it, but more detailed studies point instead to about a thousand smaller ones, typically short rivers flowing through crowded coastal cities in Asia, where heavy rain washes uncollected rubbish straight into the water. This finding is in one sense encouraging, since a river is a far easier place to intercept waste than the open sea. Floating barriers that guide debris to a collection point are already operating in several cities.
+
+Records kept by volunteers who clean beaches give a useful picture of what is being thrown away. Year after year, the commonest items are much the same: cigarette ends, food wrappers, bottles and their caps, bags and straws. Almost all are objects designed to be used once, for a few minutes, and then discarded.
+@V
+gear = снасти, снаряжение
+intercept = перехватывать
+wrapper = обёртка
+discarded (discard) = выбрасывать
+@Q TFNG
+Fishing nets stop catching animals once they have been lost. | F
+Recent studies suggest that most river plastic comes from a few very large rivers. | F
+The items most often found on beaches are designed to be used only once. | T
+@Q GAP
+Nets made up almost ____ of the total weight of the Pacific patch. | half
+Floating ____ are used in some cities to collect waste from rivers. | barriers
+
+## The World's Water Problem
+@INSERT 3
+A great deal of water is consumed invisibly, in the things we buy. Producing a single cotton T-shirt requires roughly 2,700 litres, a cup of coffee about 140 litres and a kilogram of beef as much as 15,000 litres, most of it used to grow the animals' feed. Economists call this 'virtual water'. When a dry country imports grain or meat instead of producing it, it is in effect importing the water that was needed to grow it, and this trade allows many nations in arid regions to feed far more people than their own rivers could support.
+
+Because most great rivers flow through several countries, it is often predicted that the wars of the future will be fought over water. Tension certainly exists: Egypt, which depends almost entirely on the Nile, has protested strongly against a huge dam built upstream by Ethiopia. History, however, offers some reassurance. Researchers who examined relations between states sharing rivers over half a century found that agreements were far more common than violence. A treaty dividing the waters of the Indus between India and Pakistan, signed in 1960, has survived several wars between the two.
+
+Cities, too, can run short. In early 2018, after three years of drought, the South African city of Cape Town announced that within weeks it would have to turn off the taps in most homes, a moment officials named 'Day Zero'. Residents were limited to fifty litres a person per day, less than a short shower and a few flushes of a toilet require. The city's consumption fell to roughly half its previous level, the rains returned that winter, and Day Zero never arrived.
+@V
+arid = засушливый
+tension = напряжённость
+reassurance = успокоение, утешение
+taps (tap) = водопроводный кран
+@Q TFNG
+More water is needed to produce a kilogram of beef than a cotton T-shirt. | T
+Countries that share rivers have usually gone to war over them. | F
+Cape Town's water supply was eventually cut off. | F
+@Q GAP
+The water used to produce imported goods is known as ____ water. | virtual
+Residents of Cape Town were limited to ____ litres each per day. | fifty/50
+
+## Harvesting the Wind
+@INSERT 3
+The pioneer of wind electricity was a Scottish engineer, James Blyth. In 1887 he built a turbine with cloth sails in the garden of his holiday cottage and used it to charge batteries that lit the house, the first in the world to be powered by the wind. He offered the surplus current to light the main street of the village, but the inhabitants declined, reportedly regarding electricity as the work of the devil. A few months later an American inventor, Charles Brush, constructed a far larger machine with 144 wooden blades beside his mansion in Ohio.
+
+A modern turbine works on the same principle as an aircraft wing. Air flowing over the curved blades creates lift, which turns the rotor, and a generator in the housing at the top of the tower converts the motion into electricity. Sensors measure the direction of the wind, and motors turn the whole head to face it. Turbines begin to generate in a light breeze and reach full output in a strong one, but in a gale they are shut down automatically to avoid damage.
+
+Public attitudes depend a good deal on who benefits. In Denmark many early turbines were bought by cooperatives of local residents, and by the early 2000s more than 100,000 families owned shares in one. People who receive an income from a turbine, it appears, are much less inclined to object to the sight of it. Where wind farms belong to distant companies, opposition from neighbours has often been fierce.
+@V
+pioneer = первопроходец
+breeze = лёгкий ветер
+gale = буря, очень сильный ветер
+fierce = яростный
+@Q TFNG
+Charles Brush's turbine was bigger than James Blyth's. | T
+Turbines continue to operate in the strongest storms. | F
+Danish residents who own shares in a turbine tend to oppose it. | F
+@Q GAP
+Blyth used his turbine to charge ____ that lit his cottage. | batteries
+A turbine blade works on the same principle as an aircraft ____ . | wing
+
+## The Wolves of Yellowstone
+@INSERT 3
+Some researchers have gone further and claimed that the wolves altered the rivers themselves. As willows and other plants returned to the banks, the argument runs, their roots held the soil together, so that the channels became narrower and deeper and wandered less. The new beaver dams slowed the current and created pools in which fish and frogs could breed. A short film presenting this story has been watched online tens of millions of times.
+
+Yellowstone is not the only place where the removal of a predator has had unexpected results. Along the Pacific coast of North America, sea otters were hunted almost to extinction for their fur by the early twentieth century. Otters eat sea urchins, spiny animals that feed on the giant seaweed known as kelp. With the otters gone, urchins multiplied and chewed through the stems of the kelp, turning underwater forests full of fish into bare rock. Where otters have since been protected and have returned, the kelp has grown back.
+
+In Europe, wolves are coming back without human help. Protected by law since the 1980s, they have spread from the east and south into countries where they had been absent for a century or more; the first pack in modern Germany was recorded in 2000, and there are now well over a hundred. The animals have shown that they can live surprisingly close to people, but attacks on sheep have made their return controversial, and governments pay for electric fences and guard dogs.
+@V
+channel = русло
+extinction = вымирание, истребление
+fur = мех
+spiny = колючий
+@Q MATCH
+an example of a similar process in the sea | E
+wolves returning without being reintroduced by people | F
+@Q TFNG
+Sea otters were hunted for their fur. | T
+Kelp forests failed to recover after the otters returned. | F
+@Q GAP
+Sea otters feed on sea ____ . | urchins
+
+## Rivers of Ice
+@INSERT 3
+The retreating ice is giving up objects that it has held for thousands of years. The most celebrated discovery was made in 1991, when two hikers in the Alps on the border between Austria and Italy noticed a body protruding from the ice. They assumed it was an unlucky climber, but it proved to be a man who had died about 5,300 years ago. With him were a copper axe, a bow, arrows and clothing of leather and woven grass, all remarkably preserved. In Norway, melting ice patches have yielded ancient skis, arrows and even a woollen tunic.
+
+Melting also creates a serious hazard. As a glacier shrinks, water collects in a lake behind the bank of loose rock that the ice has left at its lower end. Such natural dams are unstable. If one gives way, perhaps after an avalanche falls into the lake, millions of cubic metres of water are released in minutes. In 1941 a flood of this kind destroyed a large part of the Peruvian city of Huaraz and killed several thousand people. Engineers in Peru, Nepal and Bhutan now lower the level of the most dangerous lakes by digging channels or tunnels.
+
+Some communities have tried to slow the melting directly. Each summer, workers in Switzerland cover part of the Rhone Glacier with white blankets, which reflect sunlight and have been shown to cut the loss of ice beneath them by more than half. The measure protects an ice cave visited by tourists, but nobody pretends that it could save a whole glacier: the cost would be enormous.
+@V
+hiker = пеший турист
+hazard = опасность
+avalanche = лавина
+blanket = покрывало, одеяло
+@Q TFNG
+The hikers realised at once that the body was thousands of years old. | F
+Lakes formed by melting glaciers can burst suddenly. | T
+The Swiss blankets could be used to protect entire glaciers cheaply. | F
+@Q GAP
+The man found in the ice in 1991 was carrying an axe made of ____ . | copper
+The flood of 1941 destroyed a large part of the city of ____ . | Huaraz
+
+## The Hidden Cost of Noise
+@INSERT 4
+Complaints about noise are nothing new. In 1906 a New York doctor's wife, Julia Barnett Rice, founded a society to campaign against what she called unnecessary noise, beginning with the tugboats that sounded their whistles all night on the river beside her home. She collected evidence that the din was harming patients in the city's hospitals, and her efforts led to the first quiet zones around hospitals and schools, an idea soon copied elsewhere.
+
+True quiet has since become rare. Gordon Hempton, an American sound recordist who has spent decades searching for places free of man-made noise, considers a location quiet if he can listen for fifteen minutes during daylight without hearing an engine or an aircraft. By that standard, he has found only about a dozen such places remaining in the United States. One of them, a moss-covered spot in a rainforest in Washington State, he has marked with a small red stone.
+
+Not all harmful noise is imposed on us; some we choose. The World Health Organization has warned that more than a billion young people risk damaging their hearing by listening to music at high volume through earphones. Hearing lost in this way does not return, because the delicate cells of the inner ear cannot be replaced. Specialists advise keeping the volume below sixty per cent of the maximum and taking regular breaks.
+@V
+campaign = вести кампанию
+din = грохот, шум
+imposed (impose) = навязывать
+delicate = хрупкий, нежный
+@Q TFNG
+Julia Barnett Rice's campaign began with the noise made by boats. | T
+Hempton has found hundreds of quiet places in the United States. | F
+Hearing damaged by loud music usually recovers after a few weeks. | F
+@Q GAP
+Rice's efforts led to quiet zones around hospitals and ____ . | schools
+Specialists recommend keeping the volume below ____ per cent of the maximum. | sixty/60
+
+## When the Stars Disappeared
+@INSERT 3
+How unfamiliar the real night sky has become was shown in January 1994, when an earthquake cut the electricity supply to the whole of Los Angeles before dawn. Staff at a local observatory and the emergency services received calls from anxious residents reporting a strange, giant, silvery cloud hanging over the darkened city. What they were seeing, many for the first time in their lives, was the Milky Way.
+
+The problem is growing. Measurements from satellites indicate that the area of the Earth's surface that is artificially lit increased by about two per cent a year in the middle of the last decade. Ironically, a technology intended to save energy is partly to blame. Modern LED lamps use far less electricity than the old orange street lights, and because they are so cheap to run, many towns have simply installed more of them and left them on for longer. Their bluish-white light also scatters more in the atmosphere than the old orange glow.
+
+A new source of interference comes from above. Since 2019 private companies have launched thousands of small communication satellites into low orbits, and tens of thousands more are planned. Shortly after sunset and before sunrise they reflect sunlight and cross the long-exposure photographs taken by telescopes as bright streaks. Astronomers are negotiating with the operators, some of whom have agreed to fit their satellites with darker surfaces.
+@V
+dawn = рассвет
+anxious = встревоженный
+interference = помехи
+streak = полоса, след
+@Q TFNG
+People in Los Angeles immediately recognised the Milky Way in 1994. | F
+LED lamps use more electricity than older street lights. | F
+Some satellite operators have agreed to make their satellites darker. | T
+@Q GAP
+The artificially lit area of the Earth was growing by about ____ per cent a year. | two/2
+Satellites appear in telescope photographs as bright ____ . | streaks
+
+## The True Price of Fast Fashion
+@INSERT 3
+Social media has accelerated the cycle. Styles that once lasted a season may now be fashionable for a few weeks, promoted by videos in which shoppers unpack large parcels of cheap clothes for their followers. Surveys in Britain have found that a considerable number of young people would be reluctant to be photographed twice in the same outfit. Online shopping has brought a further problem: between a fifth and a third of clothing bought on the internet is sent back, and because checking and repacking returned items costs more than some of them are worth, a proportion is simply destroyed.
+
+What becomes of unwanted clothes is clearest in places such as the Kantamanto market in Accra, the capital of Ghana, one of the largest second-hand clothing markets in the world. Around fifteen million garments arrive there every week in tightly packed bales from Europe, North America and Asia. Traders buy the bales unopened, and as the quality has declined, more and more of the contents prove unsellable. An estimated forty per cent leaves the market as waste, much of it ending up on beaches or in open dumps.
+
+There are signs of change. Websites on which people resell their own clothes have grown rapidly, and several well-known brands now offer repairs or take back used items. In 2023 France introduced a scheme under which the state pays part of the bill when a customer has a garment or a pair of shoes mended. The European Union is drawing up rules that would require clothes to be more durable and easier to recycle.
+@V
+reluctant = неохотный, не желающий
+outfit = наряд, комплект одежды
+bale = тюк
+mended (mend) = чинить
+@Q TFNG
+All clothing returned to online shops is sold again. | F
+Traders at Kantamanto can inspect the clothes before they buy a bale. | F
+In France the state contributes to the cost of repairing clothes. | T
+@Q GAP
+About ____ million garments arrive at the Kantamanto market each week. | fifteen/15
+An estimated ____ per cent of the clothing leaves the market as waste. | forty/40

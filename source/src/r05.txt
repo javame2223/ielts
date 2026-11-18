@@ -1,0 +1,288 @@
+## The Bilingual Brain | Education & Psychology
+More than half of the world's people use two or more languages in daily life, yet for much of the twentieth century bilingualism was regarded with suspicion. Teachers and doctors in several countries warned immigrant parents that speaking two languages at home would confuse their children and hold back their progress at school.
+
+That belief rested on poorly designed studies, which often compared poor immigrant children with wealthy native speakers. In 1962 two Canadian researchers, Elizabeth Peal and Wallace Lambert, compared children from similar backgrounds in Montreal and found that the bilingual group actually did better on a range of tests. Since then, the picture has become more detailed. Bilingual children do tend to have a slightly smaller vocabulary in each language than monolingual children of the same age, but their total vocabulary across both languages is as large or larger.
+
+What makes the bilingual mind interesting is that both languages are active all the time, even when only one is being used. The speaker must constantly select the right word and suppress its competitor. Some psychologists argue that this continuous exercise strengthens the brain's ability to focus and to switch between tasks, though recent attempts to repeat these experiments have produced mixed results, and the question remains open.
+
+The most striking claim concerns old age. Studies of hospital patients in Canada and India have reported that people who used two languages throughout their lives showed symptoms of dementia four to five years later, on average, than those who spoke only one. Whatever the truth about the brain, the practical and cultural benefits of knowing a second language are not in doubt.
+@V
+suspicion = подозрение, недоверие
+confuse = путать, сбивать с толку
+background = происхождение, среда
+monolingual = одноязычный
+suppress = подавлять
+competitor = соперник, конкурент
+strengthen = укреплять
+dementia = деменция
+@Q TFNG
+In the past, some experts advised immigrant parents against using two languages at home. | T
+Early studies compared children from similar social backgrounds. | F
+Bilingual children know fewer words in total than monolingual children. | F
+Peal and Lambert were themselves bilingual. | NG
+@Q MCQ
+What is said about the claim that bilingualism improves attention? | A It has been fully proved. | B It has been abandoned. | C The evidence is not consistent. | D It applies only to children. | C
+According to some studies, lifelong bilinguals | A never develop dementia. | B show signs of dementia several years later. | C recover from dementia more quickly. | D develop dementia earlier. | B
+@Q GAP
+A bilingual speaker has to ____ the word from the language not being used. | suppress
+The 1962 study was carried out in the city of ____ . | Montreal
+
+## Why Children Need to Play | Education & Psychology
+To an adult, a child building a tower of blocks or pretending to be a pirate may appear to be doing nothing useful. Developmental psychologists see things differently. Play, they argue, is the main way in which young children learn about the world and about one another.
+
+Different kinds of play develop different abilities. Physical play, such as running, climbing and wrestling, builds strength and coordination and teaches children to judge risk. Building with blocks or sand introduces ideas of size, balance and number. Most important of all, perhaps, is pretend play. When children agree that a cardboard box is a spaceship, they must negotiate roles, follow shared rules and control their impulses. A child who is playing a guard, for example, will stand still far longer than one who is simply told to do so.
+
+The Russian psychologist Lev Vygotsky observed in the 1930s that in play a child behaves 'a head taller than himself', practising skills that are still slightly beyond him. More recent research supports this. Children who have plenty of opportunity for free play tend to be better at solving problems and at getting along with others.
+
+Despite this, time for play has been shrinking. In many countries formal lessons in reading and arithmetic begin earlier than they used to, school breaks have been shortened, and parents worried about traffic and strangers are less willing to let children play outside alone. Some experts connect these changes with rising levels of anxiety among young people. They point to Finland, where children do not start formal schooling until the age of seven, yet achieve excellent results later on.
+@V
+pretend = притворяться, воображать
+coordination = координация
+negotiate = договариваться
+impulse = порыв, импульс
+observe = замечать, наблюдать
+opportunity = возможность
+arithmetic = арифметика
+anxiety = тревожность
+@Q YNNG
+Play is an unimportant part of childhood. | N
+Pretend play helps children learn self-control. | Y
+Children today have more time to play than previous generations. | N
+Computer games are a harmful form of play. | NG
+@Q GAP
+Physical play teaches children how to judge ____ . | risk
+In Finland, formal schooling begins at the age of ____ . | seven/7
+@Q MCQ
+What did Vygotsky mean by saying a child at play is 'a head taller'? | A Children grow faster when they play. | B Children practise abilities slightly above their usual level. | C Older children should lead games. | D Play makes children feel proud. | B
+Which reason for the decline of outdoor play is mentioned? | A bad weather | B parents' fears about safety | C a lack of toys | D the cost of playgrounds | B
+
+## The Homework Debate | Education & Psychology
+Few topics in education cause as much disagreement as homework. Attitudes have swung back and forth for more than a century. Around 1900 an American campaign claimed that homework damaged children's health, and some districts abolished it for younger pupils. After the Soviet Union launched the first satellite in 1957, fear of falling behind led American schools to set more of it than ever.
+
+What does the research show? The most thorough reviews have been carried out by the psychologist Harris Cooper, who analysed dozens of studies. He found that for secondary school students, those who did homework achieved better test results, up to a point: beyond about two hours a night, the benefit disappeared. For primary school children, however, there was almost no link between homework and achievement.
+
+Supporters reply that test scores are not the only goal. Homework, they say, teaches responsibility and time management and keeps parents informed about what their children are studying. Opponents answer that it eats into time for play, sport, sleep and family life, and that it is unfair. A child with educated parents, a quiet room and a computer has a clear advantage over one who has none of these, so homework may widen the gap between rich and poor.
+
+Many teachers have concluded that quality matters more than quantity. Short tasks that practise what was taught in class or that ask pupils to read for pleasure seem more valuable than long worksheets. Cooper himself recommends the 'ten-minute rule': ten minutes a night in the first year of school, increasing by ten minutes with each year.
+@V
+swung (swing) = колебаться, качаться
+abolish = отменять
+thorough = тщательный
+review = обзор
+achievement = успеваемость, достижение
+opponent = противник
+widen = расширять
+worksheet = рабочий лист с заданиями
+@Q TFNG
+Opinions about homework have remained the same for over a century. | F
+The launch of a Soviet satellite led to more homework in the USA. | T
+Cooper found a strong connection between homework and results in primary schools. | F
+Cooper's own children did very little homework. | NG
+@Q MATCH
+arguments for and against homework | C
+a practical guideline for how much homework to set | D
+historical changes in attitudes | A
+@Q GAP
+For secondary students, the benefit of homework vanished after about ____ a night. | two hours
+
+## Two Ways of Thinking about Ability | Education & Psychology
+Why do some people give up after a failure while others try harder? The American psychologist Carol Dweck has spent several decades studying this question. Her answer is that much depends on what people believe about their own abilities.
+
+According to Dweck, individuals with a 'fixed mindset' see intelligence as something you are born with and cannot change. For them, every task is a test of how clever they are. Because failure would show that they lack ability, they tend to avoid challenges and lose interest when work becomes hard. Those with a 'growth mindset', by contrast, believe that ability can be developed through effort and good strategies. They treat mistakes as information and are more likely to persist.
+
+In one famous experiment, children were given a set of puzzles and then praised. Some were told, 'You must be smart at this'; others, 'You must have worked hard.' When offered a choice afterwards, most of those praised for intelligence chose an easy task, whereas most of those praised for effort chose a more difficult one from which they could learn. After a later, very hard set of problems, the first group's performance fell, while the second group improved.
+
+These ideas have been enthusiastically adopted by schools, sometimes too simply. Dweck has criticised the notion that teachers need only praise effort; effort that leads nowhere should prompt a change of method. Moreover, large studies testing mindset lessons have found that the improvement in grades is modest, and concentrated among pupils who were previously struggling. A growth mindset appears to be helpful, but it is not a magic solution.
+@V
+mindset = установка, образ мышления
+challenge = трудная задача, вызов
+strategy = стратегия
+persist = упорствовать, не сдаваться
+praise = хвалить
+notion = представление, идея
+prompt = побуждать
+modest = скромный, умеренный
+@Q TFNG
+People with a fixed mindset believe intelligence cannot be changed. | T
+Children praised for being smart usually chose the harder task. | F
+The group praised for effort did better after facing very hard problems. | T
+Dweck carried out her experiment in several countries. | NG
+@Q SUM
+People with a growth mindset regard their ____ as useful information. | mistakes
+Dweck says that unsuccessful effort should lead to a change of ____ . | method
+Large studies show that the effect of mindset lessons on grades is ____ . | modest
+@Q MCQ
+Which pupils benefit most from mindset lessons, according to large studies? | A the most intelligent | B those who had been having difficulties | C the youngest | D those with fixed mindsets only | B
+
+## Putting Things Off | Education & Psychology
+Almost everyone delays unpleasant tasks from time to time, but for roughly one adult in five procrastination is a persistent habit that damages work, finances and health. It was once explained as laziness or poor time management. Psychologists now tend to see it as a problem of managing emotions.
+
+The reasoning is as follows. A task such as writing a report or filling in a tax form produces unpleasant feelings: boredom, anxiety or fear of doing it badly. Doing something else instead brings immediate relief. That relief works as a reward, so the habit of avoiding is strengthened. The cost arrives later, in the form of stress, guilt and rushed work, but the human brain gives far more weight to the present than to the future.
+
+Certain characteristics make a task more likely to be postponed. Deadlines that are distant, goals that are vague and jobs with no clear first step are all easy to put off. Perfectionists are particularly at risk, since starting means facing the possibility that the result will not be perfect.
+
+Advice that follows from this view is quite practical. Large projects should be divided into small, specific actions, so that the first step takes only a few minutes. Deciding in advance exactly when and where to work, for instance 'at nine o'clock in the library', has been shown to increase the chance of starting. Removing temptations, such as putting the phone in another room, is more reliable than depending on willpower. Finally, research suggests that students who forgive themselves for past procrastination delay less the next time, perhaps because guilt is itself a feeling people try to escape.
+@V
+procrastination = прокрастинация, откладывание дел
+persistent = устойчивый, постоянный
+relief = облегчение
+guilt = чувство вины
+postpone = откладывать
+vague = расплывчатый, неясный
+temptation = соблазн
+willpower = сила воли
+@Q YNNG
+Procrastination is mainly caused by laziness. | N
+People value present feelings more than future consequences. | Y
+Perfectionists rarely procrastinate. | N
+Procrastination is more common among men than women. | NG
+@Q GAP
+About one adult in ____ is a habitual procrastinator. | five
+Avoiding a task gives a person immediate ____ . | relief
+@Q MCQ
+Which kind of task is most likely to be postponed? | A one with a close deadline | B one with unclear goals | C one that takes a few minutes | D one done in a library | B
+What does the writer say about forgiving yourself? | A It encourages more delay. | B It reduces later procrastination. | C It has no measurable effect. | D It works only for perfectionists. | B
+
+## Reading for Pleasure | Education & Psychology
+Surveys in many countries tell the same story: young people are reading fewer books for enjoyment than they used to. In one long-running British survey, the proportion of children who said they liked reading in their free time fell in 2024 to its lowest level since the study began almost twenty years earlier. Screens are usually blamed, but the reasons are probably more complex, including the pressure of examinations and the fact that many adults are rarely seen reading.
+
+Does it matter? The evidence suggests that it does. Researchers who followed thousands of British people from birth found that those who read for pleasure at the age of ten made more progress in vocabulary, spelling and even mathematics by sixteen than those who did not. Reading for pleasure had a greater effect than whether their parents had a university degree.
+
+Part of the explanation is simply exposure to words. Books, including children's books, contain many more rare words than everyday conversation or television does. A child who reads for twenty minutes a day meets well over a million words a year. Stories also seem to exercise the imagination in a social way: several studies have found that people who read a lot of fiction are better at understanding what others think and feel.
+
+How can the habit be encouraged? Forcing children to read specified books and write reports on them is often counter-productive. What appears to work is choice. Children read more when they select their own material, whether it is a comic, a magazine or a novel, when they have books at home, and when they see adults around them reading for enjoyment.
+@V
+survey = опрос
+proportion = доля
+blame = винить
+complex = сложный
+spelling = правописание
+exposure = знакомство, контакт
+fiction = художественная литература
+counter-productive = приводящий к обратному результату
+@Q TFNG
+The British survey has recorded a decline in children's enjoyment of reading. | T
+Reading for pleasure at ten was linked to later progress in mathematics. | T
+Parents' education had a bigger effect than reading for pleasure. | F
+Boys read less than girls in the British survey. | NG
+@Q SHORT
+Which type of book is said to improve understanding of other people's feelings? | fiction
+How many words a year does a child meet by reading twenty minutes a day? | over a million/a million/well over a million
+@Q MCQ
+According to the passage, children's books | A use simpler words than conversation. | B contain more unusual words than television. | C are less useful than comics. | D should be chosen by teachers. | B
+What is the most effective way to encourage reading? | A setting book reports | B allowing children to choose what they read | C banning comics | D limiting books at home | B
+
+## Learning Online | Education & Psychology
+In 2012 several leading American universities began offering free courses over the internet to anyone who wished to enrol. These 'massive open online courses', or MOOCs, attracted enormous publicity. A single course on artificial intelligence drew 160,000 students from almost every country, and some commentators predicted that traditional universities would soon be out of business.
+
+The reality proved less dramatic. Researchers found that only about five to ten per cent of those who signed up for a typical course ever completed it. Furthermore, most participants were not the disadvantaged learners the founders had hoped to reach; the majority already had a degree. Studying alone, without deadlines, classmates or a teacher who notices one's absence, requires a degree of self-discipline that many people lack.
+
+Online learning nevertheless continued to grow, and in 2020 the pandemic forced schools and universities worldwide to adopt it almost overnight. The experience was mixed. Lessons could continue, but younger children and those without a quiet place to work or a reliable internet connection fell behind, and teachers reported that it was hard to tell whether pupils on a screen had understood.
+
+The lesson that many educators have drawn is that technology works best in combination with human contact. In the 'flipped classroom', students watch recorded lectures at home and use class time for discussion and problem-solving with the teacher's help. Short videos followed by quizzes hold attention better than hour-long lectures. Online courses have also found a secure place in professional training, where motivated adults need to learn a specific skill without leaving their jobs.
+@V
+enrol = записываться, зачисляться
+publicity = огласка, внимание прессы
+commentator = обозреватель
+disadvantaged = находящийся в невыгодном положении
+self-discipline = самодисциплина
+pandemic = пандемия
+reliable = надёжный
+lecture = лекция
+@Q TFNG
+MOOCs were initially expected by some to replace universities. | T
+The majority of people who enrol on a MOOC finish it. | F
+Most MOOC participants had no previous higher education. | F
+MOOCs are cheaper to produce than textbooks. | NG
+@Q HEAD i. Finding the right mixture; ii. A sudden worldwide experiment; iii. Great expectations; iv. The cost of technology; v. Disappointing figures; vi. Teachers' opposition
+Paragraph A | iii
+Paragraph B | v
+Paragraph C | ii
+Paragraph D | i
+
+## Taking a Year Out | Education & Psychology
+In Britain, Australia and a growing number of other countries, it has become common for young people to take a 'gap year' between leaving school and starting university. The idea has older roots: in the seventeenth and eighteenth centuries wealthy young Englishmen completed their education with a Grand Tour of Europe lasting many months.
+
+Today's gap years take many forms. Some students work to save money for their studies. Others travel, volunteer on projects abroad, or learn a language. A successful year usually combines several of these and has a definite plan.
+
+Supporters claim a number of benefits. Students arrive at university a year older, more independent and often clearer about what they want to study. Research in Australia found that those who had taken a gap year were more motivated than those who entered directly from school, and a study at a British university reported that they achieved slightly higher grades. Employers often say they value the practical skills and maturity that such experience brings.
+
+There are risks as well. A year spent mostly on the sofa is of little value, and some young people find it hard to return to study after earning a wage. Organised programmes abroad can cost thousands of pounds, which puts them beyond the reach of poorer families, and critics have questioned whether short-term volunteering by unskilled teenagers really helps the communities that receive them. In some cases it may even take paid work away from local people. Advisers therefore suggest that students should arrange their university place before the gap year begins, and choose projects run by organisations with long-term local partners.
+@V
+roots = корни, истоки
+volunteer = работать волонтёром
+definite = определённый, чёткий
+independent = самостоятельный
+motivated = мотивированный
+maturity = зрелость
+unskilled = неквалифицированный
+arrange = организовать, устроить
+@Q TFNG
+The Grand Tour was available to young people of all social classes. | F
+Australian research found gap-year students less motivated than others. | F
+Some students struggle to go back to studying after working. | T
+Most British students now take a gap year. | NG
+@Q MCQ
+What criticism is made of volunteering abroad? | A It is too dangerous. | B It may not benefit local communities. | C It lasts too long. | D It is not recognised by universities. | B
+What do advisers recommend? | A avoiding work during a gap year | B travelling without a plan | C securing a university place in advance | D choosing the cheapest programme | C
+@Q GAP
+Employers appreciate the practical skills and ____ gained in a gap year. | maturity
+Organised programmes abroad may cost ____ of pounds. | thousands
+
+## Music Lessons and the Mind | Education & Psychology
+In 1993 a short article in a scientific journal reported that students who listened to ten minutes of a Mozart sonata scored higher on a test of spatial reasoning than those who sat in silence. Newspapers called it the 'Mozart effect', and the idea that classical music makes children more intelligent spread rapidly. The governor of one American state even proposed giving a classical CD to every newborn baby.
+
+The claim did not survive careful examination. The original improvement lasted only about fifteen minutes, and later studies showed that the same small effect could be produced by anything that puts a listener in a good mood, including a lively pop song or an exciting story.
+
+Learning to play an instrument is a different matter. It is one of the most demanding activities the brain can undertake, requiring the player to read symbols, move both hands precisely, listen and adjust, all at the same time. Brain scans show that in professional musicians the bundle of fibres connecting the two halves of the brain is larger than in other people, particularly in those who began training before the age of seven.
+
+Whether these changes make musicians cleverer in general is less certain. Children who take music lessons do, on average, perform better at school, but they also tend to come from wealthier and better-educated families. Experiments that assign children to music lessons at random have found improvements in language skills, such as distinguishing similar sounds, while effects on general intelligence are small. Perhaps the wisest conclusion is that music is worth learning for its own sake: for discipline, for pleasure and for the experience of creating something with others.
+@V
+spatial = пространственный
+reasoning = рассуждение, мышление
+examination = изучение, проверка
+demanding = требующий усилий
+undertake = предпринимать
+adjust = подстраиваться, корректировать
+bundle = пучок
+assign = распределять, назначать
+@Q TFNG
+The 1993 study found a permanent increase in intelligence. | F
+A similar effect to the 'Mozart effect' can be caused by an enjoyable pop song. | T
+Musicians who began early show the largest differences in the brain. | T
+Mozart himself began playing at the age of three. | NG
+@Q GAP
+Playing an instrument requires moving both ____ precisely. | hands
+Random experiments have found that music lessons improve ____ skills. | language
+@Q MCQ
+Why is it difficult to prove that music lessons raise school performance? | A Musical children rarely take tests. | B Children who have lessons often come from advantaged families. | C Schools do not record the data. | D Lessons are too short. | B
+What is the writer's final opinion? | A Music lessons are a waste of time. | B Music should be learned mainly to raise intelligence. | C Music is valuable in itself. | D Only classical music is beneficial. | C
+
+## Pen or Keyboard? | Education & Psychology
+In lecture halls everywhere, the scratch of pens has largely been replaced by the tapping of keys. Typing is faster than handwriting, and typed notes are tidier and easier to search. It might seem obvious that laptops are the better tool for students. A series of experiments suggests otherwise.
+
+In a study published in 2014, the psychologists Pam Mueller and Daniel Oppenheimer asked university students to watch recorded talks and take notes either by hand or on a laptop that was not connected to the internet. Afterwards they were tested. On questions about simple facts the two groups did equally well, but on questions requiring understanding of ideas, those who had written by hand scored noticeably higher.
+
+The explanation seems to lie in speed itself. Students with laptops tended to type what the speaker said almost word for word. Those writing by hand could not keep up, so they were forced to listen, select the main points and express them in their own words. This mental processing is precisely what helps information to stick. Even when laptop users were told not to copy word for word, they found it hard to stop.
+
+Other research points in the same direction. Young children who practise forming letters by hand recognise them more easily than those who learn on a keyboard, and brain imaging shows more widespread activity during handwriting. It should be added that some later studies have failed to repeat Mueller and Oppenheimer's result exactly, so the debate is not closed. Nor does anyone suggest giving up computers. The sensible approach may be to use each tool for what it does best: the keyboard for producing long texts, and the pen for thinking and learning.
+@V
+scratch = скрип, царапанье
+tidy = аккуратный
+obvious = очевидный
+noticeably = заметно
+keep up = поспевать
+processing = обработка
+stick = закрепляться, запоминаться
+widespread = обширный, распространённый
+@Q TFNG
+The laptops in the 2014 study had internet access. | F
+Both groups performed similarly on factual questions. | T
+Laptop users easily stopped typing word for word when asked. | F
+The students in the study were all studying psychology. | NG
+@Q SUM
+Students using laptops usually typed the speaker's words almost ____ . | word for word
+Students writing by hand had to ____ the main points. | select
+They then expressed these points in their ____ . | own words
+@Q MCQ
+What does the writer recommend? | A abandoning computers in education | B using the pen and the keyboard for different purposes | C teaching typing before handwriting | D recording all lectures | B

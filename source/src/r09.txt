@@ -1,0 +1,290 @@
+## The Social Life of Elephants | Animals & Geography
+Elephants are the largest animals living on land, and among the most intelligent. An African elephant's brain weighs about five kilograms, more than that of any other land animal. But what impresses researchers most is not the size of the brain; it is the complexity of elephant society.
+
+The basic unit is the family, a group of related females and their young led by the oldest female, known as the matriarch. Males leave the family in their early teens and live alone or in loose groups with other males. The matriarch's experience is vital. She remembers the location of water holes that may be needed only once in many years, and studies in Kenya have shown that families led by older matriarchs are better at recognising the roar of a dangerous lion. During a severe drought in Tanzania in 1993, groups with older leaders lost far fewer calves, apparently because the leaders remembered a previous drought and led their families to distant food.
+
+Elephants communicate constantly. Besides trumpeting, they produce deep rumbles, many of them too low for humans to hear, which can travel several kilometres. They show what looks very much like emotion. They greet returning relatives with obvious excitement, help injured companions, and show a striking interest in the bones of dead elephants, touching them gently with their trunks.
+
+Their future is uncertain. In the early twentieth century Africa may have held several million elephants; today there are about 415,000. Poaching for ivory killed vast numbers, and although the international ivory trade was banned in 1989, illegal hunting continues. An increasing problem is conflict with farmers, as expanding villages and fields leave elephants less room.
+@V
+complexity = сложность
+matriarch = матриарх, старшая самка
+roar = рёв
+calf (calves) = детёныш (слонёнок)
+rumble = гул, рокот
+companion = спутник, товарищ
+trunk = хобот
+poaching = браконьерство
+@Q TFNG
+An elephant family is led by its oldest male. | F
+Older matriarchs are better at identifying dangerous lions. | T
+Humans can hear all the sounds elephants make. | F
+Elephants in Tanzania are larger than those in Kenya. | NG
+@Q MCQ
+Why did groups with older leaders do better in the 1993 drought? | A They were larger. | B Their leaders remembered where to find food. | C They were fed by park staff. | D They lived closer to rivers. | B
+What is described as a growing threat to elephants? | A disease | B competition with lions | C conflict with farming communities | D lack of matriarchs | C
+@Q GAP
+Male elephants leave the family in their early ____ . | teens
+The international trade in ivory was banned in ____ . | 1989
+
+## Emperors of the Ice | Animals & Geography
+The emperor penguin is the largest of all penguins, standing more than a metre tall, and it breeds in the harshest conditions faced by any bird. While other Antarctic animals raise their young in the brief summer, emperors do so in the depths of winter, on the sea ice, in darkness, with temperatures falling below minus forty degrees and winds of over 150 kilometres an hour.
+
+The cycle begins in autumn, when the birds walk as much as a hundred kilometres inland to their colonies. The female lays a single egg and immediately passes it to the male, who balances it on his feet beneath a warm fold of skin. She then returns to the sea to feed. For about two months the male keeps the egg warm. He eats nothing during this time and may lose almost half his body weight.
+
+To survive, the males cooperate. Thousands crowd together in a tight huddle, which may be twenty degrees or more warmer in the centre than outside. The huddle is constantly in motion: birds on the cold outer edge gradually work their way inwards while those in the middle move out, so that each takes a turn in the warmth.
+
+The females come back around the time the chicks hatch and take over, and the hungry males finally leave to feed. The timing of the whole cycle means that the young are ready to swim in summer, when the ice edge is close and food is abundant.
+
+Because emperors depend on stable sea ice for most of the year, they are highly exposed to a warming climate. In 2022 several colonies in one region lost almost all their chicks when the ice broke up before the young had grown waterproof feathers.
+@V
+breed = размножаться, выводить потомство
+harsh = суровый
+colony = колония
+fold = складка
+huddle = плотная группа, куча
+abundant = обильный
+stable = устойчивый
+feather = перо
+@Q TFNG
+Emperor penguins raise their chicks during the Antarctic summer. | F
+The male looks after the egg while the female feeds at sea. | T
+Penguins at the centre of the huddle remain there all winter. | F
+Emperor penguins live longer than other penguin species. | NG
+@Q SUM
+The male balances the egg on his ____ . | feet
+During this period he may lose nearly ____ of his body weight. | half
+In 2022 some colonies lost their chicks because the ____ broke up early. | ice
+@Q MCQ
+Why is the breeding cycle timed as it is? | A so that eggs are laid when it is warmest | B so that the young can swim in summer when food is plentiful | C to avoid predators in autumn | D so that adults can migrate north | B
+
+## The Changing Sahara | Animals & Geography
+The Sahara is the largest hot desert in the world, covering about nine million square kilometres, an area nearly as large as the United States. The popular image is of endless sand dunes, but sand seas make up only around a fifth of it. Most of the Sahara consists of bare rock, gravel plains and mountains, some rising above 3,000 metres.
+
+Daytime temperatures in summer regularly exceed forty-five degrees, yet nights can be cold, because dry air and clear skies let heat escape quickly. Rain is rare and unpredictable; some areas receive none for years. Life has nevertheless adapted. The fennec fox loses heat through its enormous ears, and the camel can go for a week or more without drinking.
+
+Remarkably, the Sahara was not always a desert. Rock paintings in the mountains of Algeria and Libya, thousands of years old, show giraffes, elephants, hippos and people swimming. Between about 11,000 and 5,000 years ago the region was a grassland with lakes and rivers. This 'Green Sahara' was the result of a slight change in the tilt of the Earth's axis, which moved the African monsoon rains northwards. When the rains shifted south again, the land dried out within a few centuries, and many of its people moved towards the Nile valley, which may have contributed to the rise of Egyptian civilisation.
+
+The Sahara affects places far beyond Africa. Each year winds lift hundreds of millions of tonnes of dust from it. Some of this crosses the Atlantic and falls on the Amazon rainforest, where the phosphorus it contains helps to fertilise the soil. On the desert's southern edge, African nations are planting a belt of trees and vegetation, the Great Green Wall, to stop farmland from turning to desert.
+@V
+dune = дюна
+bare = голый
+adapt = приспосабливаться
+grassland = степь, луга
+tilt = наклон
+axis = ось
+monsoon = муссон
+vegetation = растительность
+@Q TFNG
+Most of the Sahara is covered with sand dunes. | F
+The Sahara is always hot at night. | F
+The Sahara was once home to animals such as hippos. | T
+The Great Green Wall has already been completed. | NG
+@Q MATCH
+the influence of the Sahara on another continent | D
+evidence that the climate of the region was once wetter | C
+examples of animals adapted to desert conditions | B
+@Q GAP
+Saharan dust carries ____ , which fertilises the Amazon's soil. | phosphorus
+
+## The Mighty Amazon | Animals & Geography
+By the amount of water it carries, the Amazon is easily the greatest river on Earth. It discharges about a fifth of all the fresh water that rivers pour into the oceans, more than the next seven largest rivers combined. So powerful is the flow that fresh water can be found on the surface of the Atlantic more than a hundred kilometres from the shore. Whether the Amazon or the Nile is the longer river is still disputed, since it depends on which stream is counted as the source; both are well over 6,000 kilometres.
+
+The river rises high in the Andes of Peru, less than 200 kilometres from the Pacific Ocean, and flows east across the whole width of South America. More than a thousand tributaries join it. There is not a single bridge across the main river along its entire length, mainly because it passes through thinly populated forest where there are few roads to connect.
+
+Each year, rains in the Andes cause the river to rise by as much as fifteen metres, flooding an area of forest larger than England for months at a time. Fish swim among the tree trunks and feed on fallen fruit, spreading the seeds. The river is home to more species of fish than any other, probably over 3,000, along with pink river dolphins, giant otters and the piranha, whose danger to humans is greatly exaggerated.
+
+The Amazon has been a highway for people for thousands of years, and ocean-going ships can travel upstream as far as the Peruvian city of Iquitos, some 3,600 kilometres from the sea. Today dams on its tributaries, gold mining that pollutes the water with mercury, and the clearing of the surrounding forest all threaten the system.
+@V
+discharge = сбрасывать (воду)
+shore = берег
+dispute = оспаривать
+source = исток, источник
+tributary = приток
+exaggerate = преувеличивать
+upstream = вверх по течению
+mercury = ртуть
+@Q TFNG
+The Amazon carries more water than any other river. | T
+Everyone agrees that the Amazon is longer than the Nile. | F
+Several bridges cross the main Amazon river. | F
+Piranhas kill dozens of people every year. | F
+@Q GAP
+The Amazon begins in the ____ of Peru. | Andes
+Large ships can sail up the river as far as the city of ____ . | Iquitos
+@Q MCQ
+Why are there no bridges over the main river? | A The river is too deep. | B There are few roads in the forest to link up. | C Bridges are forbidden by law. | D Annual floods destroy them. | B
+How do fish help the flooded forest? | A They eat insects. | B They clean the water. | C They spread the seeds of fruit. | D They provide food for dolphins. | C
+
+## The Coldest Continent | Animals & Geography
+Antarctica is the coldest, windiest and driest continent. The lowest natural temperature ever measured at ground level, minus 89.2 degrees Celsius, was recorded at the Russian Vostok station in 1983. Although about ninety-eight per cent of the land is covered by ice, so little snow falls in the interior that it technically counts as a desert. The ice sheet is on average about two kilometres thick, and it holds roughly seventy per cent of the planet's fresh water.
+
+No human set eyes on the continent until 1820, and the first people reached the South Pole in December 1911, when a Norwegian team led by Roald Amundsen arrived five weeks ahead of the British expedition under Robert Scott. Scott and his four companions died on the return journey.
+
+Antarctica has no permanent inhabitants and belongs to no country. Under the Antarctic Treaty, signed in 1959 and now accepted by more than fifty states, the continent is reserved for peaceful purposes. Military activity is prohibited, and a later agreement forbids mining. Several thousand scientists and support staff live at research stations in summer, falling to about a thousand in the dark winter months.
+
+Their research is of global importance. Ice drilled from deep within the sheet contains tiny bubbles of ancient air, providing a record of the atmosphere going back 800,000 years. It was in Antarctica, in 1985, that British scientists discovered the hole in the ozone layer, a finding that led to an international ban on the chemicals responsible. Today attention is fixed on the stability of the ice itself: if the West Antarctic ice sheet were to melt entirely, global sea level would rise by several metres.
+@V
+interior = внутренняя часть
+expedition = экспедиция
+permanent = постоянный
+treaty = договор
+prohibit = запрещать
+bubble = пузырёк
+ozone layer = озоновый слой
+stability = устойчивость
+@Q TFNG
+Antarctica can be classified as a desert. | T
+Scott's team reached the South Pole before Amundsen's. | F
+Mining is allowed in Antarctica under strict conditions. | F
+The Vostok station is the largest research base in Antarctica. | NG
+@Q HEAD i. A continent without owners; ii. The race for the Pole; iii. Wildlife of the Southern Ocean; iv. Extremes of climate; v. Lessons from the ice; vi. Tourism and its dangers
+Paragraph A | iv
+Paragraph B | ii
+Paragraph C | i
+Paragraph D | v
+
+## Clever Crows | Animals & Geography
+For a long time the use of tools was thought to be a uniquely human ability, and later one shared only with apes. Then scientists turned their attention to the crow family. On the Pacific island of New Caledonia lives a crow that not only uses tools but manufactures them. It strips twigs and shapes them into hooks, and tears strips from the edges of tough leaves, in order to pull insects out of holes in wood. Different populations on the island produce tools of different designs, which suggests that the techniques are learned from other birds.
+
+The most famous individual was a captive New Caledonian crow named Betty, studied at Oxford University. In 2002 she was given a straight piece of wire and a small bucket of food at the bottom of a tube. Without any training, Betty bent the wire into a hook and lifted the bucket out.
+
+Other experiments recall a fable by the ancient Greek writer Aesop, in which a thirsty crow drops pebbles into a jug to raise the water. Real crows presented with a tube of water and a floating piece of food do exactly this, and they choose heavy objects that sink rather than light ones that float. Crows in a Japanese city have been filmed placing nuts on the road for cars to crack and waiting for the traffic lights to change before collecting them.
+
+Crows also have excellent memories for people. Researchers in Seattle who wore a particular mask while trapping crows found that the birds scolded anyone wearing that mask for years afterwards. Even crows that had not been born at the time joined in, having apparently learned from their elders whom to distrust.
+@V
+tool = орудие, инструмент
+strip = обдирать; полоска
+twig = веточка
+hook = крючок
+captive = содержащийся в неволе
+fable = басня
+pebble = камешек, галька
+scold = ругать, браниться
+@Q TFNG
+Tool use was once believed to belong only to humans. | T
+Betty had been trained to bend wire before the experiment. | F
+Crows prefer to drop floating objects into the water tube. | F
+New Caledonian crows are larger than European crows. | NG
+@Q SHORT
+What did Betty make out of the wire? | a hook/hook
+In which city did researchers wear masks while trapping crows? | Seattle
+@Q MCQ
+What suggests that crows learn tool designs from each other? | A All crows make identical tools. | B Tool designs vary between populations. | C Young crows cannot make tools. | D Crows only use tools in captivity. | B
+What is notable about the Seattle crows that had not yet been born during the trapping? | A They ignored the mask. | B They also reacted against the mask. | C They attacked the researchers physically. | D They moved to another city. | B
+
+## Songs of the Humpback | Animals & Geography
+In 1967 the biologist Roger Payne and his colleague Scott McVay made a remarkable discovery while analysing underwater recordings made near Bermuda. The long, eerie sounds produced by humpback whales were not random. They were arranged in repeated patterns, in the same way as the song of a bird, although on a far larger scale. A single song may last up to half an hour, and a whale may repeat it for many hours.
+
+Only the males sing, mostly in the warm waters where humpbacks gather to breed, so the songs are thought to be connected with mating, though exactly how is unclear. They may attract females, or they may be a means by which males compete with or keep track of one another.
+
+The most extraordinary feature is the way the songs change. All the males in one population sing the same song, but it gradually evolves through the season as new phrases are added and old ones dropped. Occasionally something more dramatic happens. Researchers studying whales off eastern Australia found that within two years the entire population had abandoned its song and adopted a completely different one, which had been introduced by a small number of visitors from the Indian Ocean. Such songs then spread eastwards across the South Pacific from one population to the next. Scientists have described this as one of the clearest examples of culture in animals.
+
+Payne's recordings were released as an album in 1970 and became an unexpected bestseller. The public response helped to bring about the international ban on commercial whaling in 1986, and humpback numbers have since recovered strongly. The whales now face a different threat: the noise of ships, which can drown out their songs.
+@V
+eerie = жуткий, таинственный
+random = случайный
+mating = спаривание
+compete = соревноваться
+keep track of = следить, отслеживать
+evolve = развиваться, меняться
+commercial = коммерческий
+drown out = заглушать
+@Q TFNG
+Both male and female humpbacks sing. | F
+The purpose of the songs is fully understood. | F
+All males in the same population sing the same song at a given time. | T
+Payne's recordings were made in the Indian Ocean. | F
+@Q GAP
+One humpback song can last as long as ____ . | half an hour
+The whales off eastern Australia took up a new song brought by visitors from the ____ . | Indian Ocean
+@Q MCQ
+Why are humpback songs considered an example of culture? | A They are inherited genetically. | B They are learned and passed between populations. | C They are identical all over the world. | D They are taught by mothers to calves. | B
+What effect did Payne's album have? | A It reduced interest in whales. | B It contributed to the ban on commercial whaling. | C It was banned in several countries. | D It proved whales could talk. | B
+
+## The Ship of the Desert | Animals & Geography
+Few animals are as well adapted to their environment as the camel. There are two domesticated species: the one-humped dromedary of Arabia and North Africa, and the two-humped Bactrian camel of Central Asia, which can endure winters of minus thirty degrees as well as summer heat.
+
+Contrary to popular belief, a camel's hump does not hold water. It is a store of fat, weighing up to thirty-six kilograms, which the animal draws on when food is scarce. Keeping its fat in one place instead of spreading it under the skin helps the camel to stay cool.
+
+Its ability to cope without water depends on several other features. A camel can lose up to a quarter of its body weight in water without harm, a loss that would kill most mammals. Its body temperature can vary by about six degrees during the day, so it does not begin to sweat until the air is very hot. Its kidneys produce highly concentrated urine, and its nostrils recover moisture from the air it breathes out. When water is finally available, a thirsty camel can drink more than a hundred litres in around ten minutes. Long eyelashes and nostrils that can close protect it from blowing sand, and broad, padded feet stop it from sinking into soft ground.
+
+Camels were domesticated more than three thousand years ago, and they transformed life in dry regions. A loaded camel can walk around forty kilometres a day, and without camels the caravan trade across the Sahara and along the Silk Road would have been impossible. Today they are still valued for milk, meat and wool, and scientists are studying the unusually small antibodies in camel blood for use in medicine.
+@V
+domesticated = одомашненный
+hump = горб
+endure = выносить, выдерживать
+cope = справляться
+sweat = потеть
+kidney = почка
+nostril = ноздря
+antibody = антитело
+@Q TFNG
+The Bactrian camel has two humps. | T
+A camel's hump is filled with water. | F
+Camels start sweating as soon as the temperature rises slightly. | F
+Camel milk is healthier than cow's milk. | NG
+@Q SUM
+A camel can survive losing a ____ of its body weight in water. | quarter
+A thirsty camel can drink over a hundred litres in about ____ minutes. | ten/10
+Its wide, padded ____ prevent it from sinking in sand. | feet
+@Q MCQ
+Why are scientists interested in camel blood? | A It contains very small antibodies. | B It never freezes. | C It stores water. | D It contains no fat. | A
+
+## Iceland: Energy from the Earth | Animals & Geography
+Iceland sits on the Mid-Atlantic Ridge, the boundary where the North American and Eurasian plates are slowly moving apart. As a result the island has about thirty active volcanic systems and hundreds of hot springs. The English word 'geyser' comes from Geysir, the name of a famous spouting spring in the south of the country.
+
+For centuries Icelanders used the hot water mainly for washing and bathing. Houses were heated with peat and, later, with imported coal, and photographs of the capital, Reykjavik, from the early twentieth century show a city under a cloud of smoke. The change began in the 1930s, when hot water was first piped to a school and some nearby houses. The oil crisis of the 1970s, which sharply raised the cost of imported fuel, persuaded the government to extend the system across the country.
+
+Today about nine out of ten Icelandic homes are heated directly with geothermal water. Almost all of the nation's electricity is renewable as well, roughly seventy per cent coming from hydroelectric dams and thirty per cent from geothermal power stations. The warm water has other uses. Pavements and car parks in Reykjavik are heated from below to keep them free of ice, greenhouses grow tomatoes and even bananas close to the Arctic Circle, and outdoor swimming pools are open all year.
+
+Cheap, clean electricity has attracted energy-hungry industries, particularly aluminium smelting and data centres. Not all Icelanders welcome this, since new power stations and dams change wild landscapes that are valued for their own sake and for tourism. Iceland's experience cannot simply be copied elsewhere, but its engineers now advise geothermal projects in East Africa, Asia and beyond.
+@V
+boundary = граница
+geyser = гейзер
+spout = бить струёй
+peat = торф
+pipe = подавать по трубам; труба
+renewable = возобновляемый
+greenhouse = теплица
+smelting = выплавка (металла)
+@Q TFNG
+Iceland lies on the border between two tectonic plates. | T
+Reykjavik used to suffer from smoke pollution. | T
+Most of Iceland's electricity comes from geothermal power stations. | F
+Iceland exports electricity to other European countries. | NG
+@Q MATCH
+industries that have been drawn to Iceland | D
+the reason the heating system was expanded nationally | B
+unusual ways in which hot water is used today | C
+@Q GAP
+About ____ out of ten homes in Iceland use geothermal heating. | nine
+
+## The Sea that Disappeared | Animals & Geography
+In 1960 the Aral Sea, lying between Kazakhstan and Uzbekistan, was the fourth largest lake in the world, with an area of about 68,000 square kilometres. Fishing fleets working from ports such as Moynaq and Aralsk landed tens of thousands of tonnes of fish a year. Sixty years later most of it had become desert.
+
+The sea was fed by two great rivers, the Amu Darya and the Syr Darya. In the 1960s Soviet planners decided to use their water to irrigate vast new fields of cotton and rice in the surrounding dry lands. Thousands of kilometres of canals were dug, many of them unlined, so that a large part of the water soaked into the sand or evaporated before it reached the crops. With far less water arriving, the sea began to shrink. By the late 1980s it had split in two, and by the 2010s it had lost about ninety per cent of its volume.
+
+The results were disastrous. As the water grew saltier, the native fish died and the fishing industry collapsed; rusting ships now lie on dry sand far from any shore. The exposed seabed, covered in salt and residues of farm chemicals, is swept by winds that carry toxic dust over a wide region, and rates of breathing and other illnesses among local people have risen. Without the moderating influence of the water, summers have become hotter and winters colder.
+
+There has been a partial recovery in the north. A dam completed by Kazakhstan in 2005, with support from the World Bank, raised the level of the small northern sea, and fish and fishermen have returned. The larger southern part is unlikely to be restored. In Uzbekistan, efforts now focus on planting hardy saxaul shrubs on the dry seabed to hold down the dust.
+@V
+fleet = флот
+irrigate = орошать
+canal = канал
+evaporate = испаряться
+rust = ржаветь
+residue = остаток
+toxic = токсичный
+shrub = кустарник
+@Q TFNG
+In 1960 the Aral Sea was the largest lake in the world. | F
+Much of the diverted water was lost before reaching the fields. | T
+The local climate has become more extreme since the sea shrank. | T
+Moynaq is now a popular tourist destination. | NG
+@Q GAP
+The Aral Sea received its water from the Syr Darya and the ____ . | Amu Darya
+A dam completed in ____ helped the northern sea to recover. | 2005
+@Q MCQ
+Why did the fishing industry collapse? | A Fishermen moved to cities. | B Rising salt levels killed the fish. | C Fishing was banned. | D The ports were closed by the government. | B
+What is being done on the dry seabed in Uzbekistan? | A Cotton is being grown. | B Shrubs are being planted to reduce dust. | C New canals are being dug. | D A large dam is being built. | B
