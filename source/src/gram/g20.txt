@@ -1,0 +1,136 @@
+# 20 | Phrasal Verbs | 3 | Как устроены фразовые глаголы, разделяемые и неразделяемые, 60 самых нужных для IELTS и их формальные синонимы
+@GOAL Понимать и правильно строить фразовые глаголы (порядок слов с местоимением!), знать самые частотные для Speaking и Listening и уметь заменять их формальными синонимами в Writing.
+@PLAN
+1. Что такое фразовый глагол; буквальное и идиоматическое значение.
+2. Разделяемые (turn it off) и неразделяемые (look after her).
+3. Трёхчастные (look forward to, put up with).
+4. Значения частиц: up, down, out, off, on.
+5. Тематические группы для IELTS.
+6. Формальные замены для Writing.
+7. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Порядок слов
+- **Разделяемые** (transitive separable): существительное — до или после частицы, **местоимение — только между**: *turn off the light / turn the light off / turn **it** off* (✗ *turn off it*). Так: *put off, take up, give up, set up, pick up, bring up, carry out, cut down, find out, fill in, look up, point out, throw away, turn down, work out*.
+- **Неразделяемые**: дополнение всегда после частицы: *look after **her**, deal with **it**, come across **it**, get over **it**, run into **him**, look into **the problem***.
+- **Непереходные** (без дополнения): *grow up, break down, take off (о самолёте), get up, turn up, give in, run out*.
+- **Трёхчастные**: всегда вместе: *look forward to, put up with, come up with, get on with, run out of, catch up with, cut down on, keep up with, look up to, do away with*.
+✗ Can you turn off it? → ✓ Can you turn it off?
+✗ She looks her brother after. → ✓ She looks after her brother.
+### 2. Значения частиц (подсказки)
+| Частица | Значение | Примеры |
+| **up** | полностью, увеличение, появление | *use up, fill up, grow up, bring up (вопрос), set up, turn up* |
+| **down** | уменьшение, отказ, запись | *cut down, slow down, turn down (отказать), write down, break down* |
+| **out** | наружу, до конца, найти | *run out, find out, carry out, work out, point out, sell out* |
+| **off** | прекращение, отправление | *turn off, call off (отменить), take off, put off (отложить), set off (отправиться)* |
+| **on** | продолжение, включение | *carry on, go on, turn on, keep on, hold on* |
+### 3. Самые нужные для IELTS
+| Фразовый | Значение | Формальный синоним (Writing) |
+| bring up | воспитывать; поднимать (тему) | raise |
+| carry out | проводить (исследование) | conduct |
+| come up with | придумать | devise, propose |
+| cut down on | сократить потребление | reduce |
+| deal with | справляться, заниматься | handle, address, tackle |
+| find out | выяснить | discover, establish |
+| get rid of | избавиться | eliminate, dispose of |
+| give up | бросить | quit, abandon |
+| go up / go down | расти / падать | increase / decrease |
+| look into | расследовать, изучить | investigate, examine |
+| make up | составлять; выдумывать | constitute, account for |
+| put off | откладывать | postpone, delay |
+| put up with | терпеть | tolerate |
+| run out of | закончиться (о запасе) | exhaust, deplete |
+| set up | основать, создать | establish, found |
+| take up | начать (хобби); занимать (место, время) | start; occupy |
+| turn down | отказать | reject, decline |
+| point out | указать | note, indicate |
+| look after | заботиться | care for |
+| keep up with | не отставать | keep pace with |
+| catch up | догнать | — |
+| break down | сломаться | fail, malfunction |
+| call off | отменить | cancel |
+| figure out / work out | понять, вычислить | determine, calculate |
+| level off | выровняться (график) | stabilise |
+| pick up | подобрать; выучить без усилий; улучшиться | acquire; recover |
+| bring about | вызвать (перемены) | cause |
+| do away with | отменить, упразднить | abolish |
+| account for | составлять (долю); объяснять | constitute; explain |
+| result in / lead to | приводить к | cause |
+@USE
+### Speaking
+Фразовые глаголы — признак естественной речи (Fluency and Lexical Resource): *I **took up** running last year. I **grew up** in a small town. I can't **put up with** noisy neighbours. I'd like to **set up** my own business.*
+### Writing
+В эссе предпочитай однословные синонимы: ✗ *Governments should **cut down** pollution* → ✓ *Governments should **reduce** pollution*. Но академичные фразовые допустимы: ***carry out** research, **account for** 20%, **result in**, **bring about** change, **level off*** (Task 1).
+### Listening
+В Section 1–2 часто звучат *fill in (the form), pick up (the keys), drop off, check in/out, sign up for* — их надо узнавать на слух.
+@EX MCQ Значение
+Can you ____ the children while I'm at work? | A look after | B look for | C look up | A
+The meeting was ____ because the manager was ill. | A called off | B called up | C called in | A
+I've ____ smoking. I haven't had a cigarette for a year. | A given up | B given in | C given out | A
+We've ____ milk. Can you buy some? | A run out of | B run into | C run over | A
+She ____ the job offer because the salary was too low. | A turned down | B turned up | C turned off | A
+Scientists ____ an experiment to test the theory. | A carried on | B carried out | C carried off | B
+He ____ in a small village in the mountains. | A grew up | B brought up | C got up | A
+I can't ____ this noise any longer! | A put up with | B put off | C put on | A
+They ____ a new company in 2015. | A set off | B set up | C set out | B
+Can you ____ a better idea? | A come up with | B come across | C come into | A
+The car ____ on the motorway. | A broke up | B broke down | C broke out | B
+After rising for five years, sales ____ in 2020. | A levelled off | B levelled out of | C took off | A
+@EX MCQ Порядок слов с местоимением
+The radio is too loud. Can you ____? | A turn down it | B turn it down | B
+I don't know this word. I'll ____ in a dictionary. | A look it up | B look up it | A
+That's my sister. I've always ____. | A looked up to her | B looked her up to | A
+These are your toys. Please ____. | A put them away | B put away them | A
+The problem is serious. We must ____ immediately. | A deal it with | B deal with it | B
+She dropped her keys and ____. | A picked up them | B picked them up | B
+I met Anna by chance. I ____ in the supermarket. | A ran into her | B ran her into | A
+This form is important. Please ____ carefully. | A fill in it | B fill it in | B
+@EX GAP Впиши частицу (up, down, out, off, on, over, after, into)
+Please turn ____ the lights when you leave. | off
+I need to find ____ more about the course. | out
+The plane took ____ an hour late. | off
+Carry ____ — you're doing great! | on
+The police are looking ____ the accident. | into
+Prices went ____ by 10% last year. | up/down
+We had to put ____ the meeting until next week. | off
+It took her months to get ____ the illness. | over
+Write ____ the new words in your notebook. | down
+Who brought you ____? — My grandparents. | up
+@EX GAP Замени фразовый глагол формальным синонимом (одно слово)
+Researchers carried out a survey. → Researchers ____ a survey. | conducted
+We must cut down pollution. → We must ____ pollution. | reduce
+The company was set up in 1990. → The company was ____ in 1990. | established/founded
+They put off the decision. → They ____ the decision. | postponed/delayed
+The council turned down the proposal. → The council ____ the proposal. | rejected/declined
+Women make up 40% of the workforce. → Women ____ 40% of the workforce. | constitute/represent/comprise
+We need to find out the cause. → We need to ____ the cause. | discover/establish/determine/identify
+The government must deal with this problem. → The government must ____ this problem. | address/tackle/handle
+@EX ERR Найди ошибку
+(A) I'm (B) looking forward (C) to (D) see you. | D | # to seeing you
+(A) Could you (B) pick up (C) me (D) at six? | B | # pick me up
+(A) The plane (B) took (C) up (D) at 6 am. | C | # took off — о самолёте
+(A) We've (B) run out (C) petrol (D) again. | C | # run out of petrol
+(A) He (B) gave (C) up it (D) last year. | C | # gave it up
+(A) The children (B) were brought (C) up by (D) theirs grandparents. | D | # their grandparents
+@TEST MCQ Тест
+Researchers ____ a study on sleep and memory. | A carried out | B carried on | A
+I ____ an old friend at the station yesterday. | A ran into | B ran out | A
+The match was ____ because of heavy rain. | A called off | B put up | A
+We need to ____ our spending. | A cut down on | B cut off on | A
+My son wants to ____ the guitar. | A take up | B take off | A
+Can you ____ the TV? I can't hear it. | A turn up | B turn on up | A
+I'm sorry, I can't ____ the answer. | A work out | B work off | A
+The new law will ____ major changes. | A bring about | B bring off | A
+Older people sometimes find it hard to ____ technology. | A keep up with | B keep on with | A
+The figure ____ at around 50% after 2015. | A levelled off | B levelled down | A
+@TEST TR Тест: перепиши с фразовым глаголом из скобок
+The flight was cancelled. (call off) → The flight was ____. | called off
+She stopped smoking last year. (give up) → She ____ last year. | gave up smoking
+I can't tolerate rude people. (put up with) → I can't ____ rude people. | put up with
+They established the charity in 2001. (set up) → They ____ in 2001. | set up the charity/set the charity up
+@TEST ERR Тест: найди ошибку
+(A) Please (B) turn off (C) it (D) before you go. | B | # turn it off
+(A) We (B) need to (C) come up (D) a solution. | C | # come up with
+(A) She (B) looks (C) her little brother (D) after. | B | # looks after her little brother
+(A) Prices (B) went (C) up (D) with 5%. | D | # by 5%
+(A) I (B) can't (C) put up (D) this noise. | C | # put up with
+(A) He (B) turned (C) down (D) it. | C | # turned it down

@@ -1,0 +1,135 @@
+# 14 | Present Perfect vs Past Simple | 3 | Связь с настоящим или законченное прошлое: маркеры времени, for/since, «опыт», новости, Task 1 и Speaking
+@GOAL Безошибочно выбирать между Present Perfect и Past Simple по смыслу и маркерам времени, знать «серые зоны» (this morning, just, British vs American) и правильно использовать оба времени в Task 1, Task 2 и Speaking.
+@PLAN
+1. Главный критерий: указано ли законченное время в прошлом?
+2. Маркеры Past Simple и маркеры Present Perfect.
+3. Опыт (ever / never) и конкретный случай (when?).
+4. Незаконченный период: for, since, this week, so far.
+5. Результат, новости, just / already / yet.
+6. Present Perfect Continuous против Present Perfect Simple.
+7. Сложные случаи: this morning, «it's the first time», since + Past Simple.
+8. Как это выглядит в Task 1, Task 2 и Speaking.
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Главное правило
+**Past Simple** — действие в **законченном** периоде прошлого, связь с «сейчас» не важна. **Present Perfect** — период ещё **не закончен** или важен **результат / опыт сейчас**, а точное время не называется.
+| Past Simple | Present Perfect |
+| I **lost** my keys yesterday. (история) | I'**ve lost** my keys. (их нет сейчас) |
+| She **lived** in Rome for five years. (больше не живёт) | She'**s lived** in Rome for five years. (живёт до сих пор) |
+| Did you **see** the match last night? | **Have** you **seen** the new film? (вообще, уже) |
+| Shakespeare **wrote** 39 plays. (умер) | This author **has written** ten novels. (жив, может написать ещё) |
+### 2. Маркеры
+| Только Past Simple | Обычно Present Perfect |
+| yesterday, last week/year, ago, in 2010, when I was a child, at 5 o'clock, then, the other day | ever, never, just, already, yet, so far, up to now, recently, lately, since…, for… (до сих пор), this week/month/year, today (не закончился), how long…? |
+✗ I have seen him two days ago. → ✓ I saw him two days ago.
+✗ When have you arrived? → ✓ When did you arrive?
+✗ I live here since 2015. → ✓ I have lived here since 2015.
+✗ In 2010 the company has opened a new factory. → ✓ In 2010 the company opened a new factory.
+### 3. Опыт и конкретный случай
+Вопрос об опыте — Present Perfect; как только разговор переходит к деталям (когда? где? как?) — **Past Simple**:
+> "**Have** you ever **been** to Turkey?" — "Yes, I **have**. I **went** there last summer. It **was** amazing."
+### 4. Незаконченный период и for / since
+- **for** + длительность, **since** + точка начала: *for three years, since 2020, since I was a child*.
+- После **since** в придаточном — Past Simple: *I've known her **since we were** at school.*
+- *It's (been) five years **since** I **last saw** him.*
+- *this week / this year / today*: если период не закончился — Present Perfect (*I've drunk three coffees today*); если говоришь о закончившейся части — Past Simple (*I **drank** too much coffee this morning* — сказано днём, утро закончилось).
+### 5. Новости, результат, just / already / yet
+- Новость вводится Present Perfect, детали — Past Simple: *A strong earthquake **has hit** Japan. It **struck** at 6 am local time.*
+- **just, already** — в утверждениях; **yet** — в вопросах и отрицаниях в конце: *Have you finished **yet**? I haven't finished **yet**.*
+- В американском английском с just/already/yet часто Past Simple (*Did you eat yet?*), в британском и на IELTS безопаснее Present Perfect.
+### 6. Present Perfect Simple vs Continuous
+| Simple — результат, количество | Continuous — процесс, длительность |
+| I'**ve written** three emails. | I'**ve been writing** emails all morning. |
+| She'**s painted** the room. (готово) | She'**s been painting** the room. (может быть, не закончила; руки в краске) |
+| Глаголы состояния: I'**ve known** him for years. | ✗ I've been knowing him |
+### 7. Особые конструкции
+- *It's the first / second time I'**ve been** here.* (не *I am here*)
+- *This is the best film I'**ve ever seen**.*
+- *I haven't seen him **for ages** / **since** Monday.*
+- *Have you ever…?* — *No, never.* / *Yes, once.*
+@USE
+### Task 1
+- Все даты в прошлом (1990–2020) → **только Past Simple** (*rose, fell, peaked*). Present Perfect здесь ошибка.
+- Если график доходит до «сейчас» и описываешь изменения до настоящего момента (редко), возможно *has risen since 2010*. Безопасное правило: есть конкретные прошлые годы — Past Simple.
+### Task 2
+- Present Perfect — для тенденций, которые продолжаются: *In recent years, the internet **has transformed** the way we work. The number of people living alone **has risen** considerably.*
+- Past Simple — для конкретных прошлых примеров: *When my city **introduced** a bike-sharing scheme in 2018, car traffic **fell**.*
+### Speaking
+- Part 1 «Have you ever…?» → начни с Present Perfect, продолжи Past Simple с деталями.
+- Part 2 «Describe a place you have visited» → в вопросе Present Perfect, но рассказ — Past Simple: *I visited Samarkand two years ago…*
+- Part 3 о переменах: *Technology **has changed** education a lot. Twenty years ago, students **used** textbooks; now…*
+@EX MCQ Маркеры времени
+I ____ to Paris three times. | A went | B have been | B
+I ____ to Paris in 2019. | A went | B have been | A
+She ____ her phone. She can't call you. | A lost | B has lost | B
+____ you ____ the news this morning? (сейчас вечер) | A Did / hear | B Have / heard | A
+We ____ here since 2010. | A lived | B have lived | B
+He ____ in the army for two years, then became a teacher. | A served | B has served | A
+I ____ never ____ sushi. | A did / eat | B have / eaten | B
+They ____ married ten years ago. | A got | B have got | A
+How long ____ you ____ your car? | A did / have | B have / had | B
+When ____ you ____ to drive? | A did / learn | B have / learnt | A
+@EX MCQ Опыт → детали, новости → детали
+"Have you ever met a famous person?" — "Yes, I ____ a famous actor at the airport last year." | A have met | B met | B
+"Have you seen Tom?" — "Yes, I ____ him in the library ten minutes ago." | A saw | B have seen | A
+The President ____ in Tokyo. He ____ this morning for a two-day visit. | A has arrived / arrived | B arrived / has arrived | A
+"I've lost my wallet." — "Where ____ you last ____ it?" | A did / have | B have / had | A
+The museum ____ to visitors. It ____ last Monday after five years of repairs. | A has reopened / reopened | B reopened / has reopened | A
+"Have you finished your essay?" — "Yes, I ____ it last night." | A have finished | B finished | B
+@EX GAP For, since, ago, yet, already, just
+I've lived here ____ 2015. | since
+I moved here ten years ____. | ago
+She has worked at the bank ____ six months. | for
+Have you done your homework ____? | yet
+I've ____ eaten, thanks — I'm not hungry. (уже) | already
+The film has ____ started — hurry, you've only missed a minute! (только что) | just
+It's three years ____ I last saw her. | since
+I haven't seen him ____ ages. | for
+@EX GAP Впиши Past Simple или Present Perfect
+I ____ (not / see) Anna since the party. | have not seen/haven't seen
+I ____ (see) Anna at the party last week. | saw
+How many countries ____ (you / visit) so far? | have you visited
+The number of students ____ (rise) sharply in 2016. | rose
+In recent years, online learning ____ (become) very popular. | has become
+When I was a child, I ____ (want) to be a pilot. | wanted
+This is the first time I ____ (try) Indian food. | have tried/'ve tried
+She ____ (work) here for five years, but she left in 2019. | worked
+@EX MCQ Present Perfect Simple или Continuous?
+I ____ three chapters today. | A have read | B have been reading | A
+I ____ this book all day and I still haven't finished it. | A have read | B have been reading | B
+How long ____ you ____ each other? | A have / known | B have / been knowing | A
+Your eyes are red. ____ you ____? | A Have / cried | B Have / been crying | B
+She ____ ten kilometres so far. | A has run | B has been running | A
+It ____ for hours. The streets are flooded. | A has rained | B has been raining | B
+@EX ERR Найди ошибку
+(A) I (B) have visited (C) my grandparents (D) last weekend. | B | # visited
+(A) In 2005, (B) the number of cars (C) has reached (D) 2 million. | C | # reached
+(A) She (B) is (C) a doctor (D) since 2018. | B | # has been
+(A) When (B) have you (C) moved (D) to London? | B | # When did you move
+(A) It's (B) the first time (C) I (D) am in Japan. | D | # have been
+(A) I (B) have known (C) her (D) since five years. | D | # for five years
+(A) Did you (B) ever (C) eat (D) octopus? (вопрос об опыте вообще) | A | # Have you ever eaten
+(A) Since (B) I have moved (C) here, (D) I've made many friends. | B | # Since I moved here
+@TEST MCQ Тест: выбери вариант
+The company ____ 200 new staff so far this year. | A employed | B has employed | B
+Two years ago, the government ____ a new tax on sugar. | A introduced | B has introduced | A
+I ____ him since we were at school. | A know | B have known | B
+"Have you ever been to India?" — "Yes, I ____ there in 2019." | A have been | B went | B
+The price of houses ____ significantly over the past decade. | A has increased | B increased | A
+In 1990, the unemployment rate ____ 8%. | A has been | B was | B
+She looks tired. She ____ all night. | A has worked | B has been working | B
+It's the third time this week you ____ late! | A are | B have been | B
+"Is Jack here?" — "No, he ____ out. He'll be back soon." | A went | B has gone | B
+I ____ my homework yet. | A didn't finish | B haven't finished | B
+@TEST TR Тест: перепиши, сохранив смысл (впиши недостающую часть)
+I started working here three years ago. → I ____ for three years. | have worked here/have been working here/'ve worked here/'ve been working here
+The last time I saw her was in 2020. → I ____ since 2020. | haven't seen her/have not seen her
+I have never eaten such a delicious cake. → This is the most delicious cake I ____. | have ever eaten/'ve ever eaten
+They got married twenty years ago. → They ____ married for twenty years. | have been
+It's two years since we moved here. → We moved here ____. | two years ago
+@TEST ERR Тест: найди ошибку
+(A) The population (B) of the city (C) has grown (D) rapidly in the 1980s. | C | # grew
+(A) I (B) haven't (C) seen her (D) yesterday. | B | # didn't see
+(A) He (B) has been (C) to the doctor (D) three days ago. | B | # went
+(A) We (B) are friends (C) since (D) childhood. | B | # have been friends
+(A) How long (B) do (C) you (D) know her? | B | # have you known

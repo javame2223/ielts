@@ -1,0 +1,133 @@
+# 18 | Reported Speech | 3 | Косвенная речь: сдвиг времён, местоимения и указатели времени; вопросы и просьбы; глаголы-«пересказчики» (claim, deny, suggest, warn)
+@GOAL Передавать чужие слова, вопросы и просьбы грамматически точно и разнообразно (не только *said*), чтобы в Task 2 и Speaking ссылаться на мнения: *Experts claim that…, Some argue that…*
+@PLAN
+1. Said vs told; that можно опустить.
+2. Сдвиг времён (backshift) и когда он не обязателен.
+3. Местоимения, места и время: here → there, tomorrow → the next day.
+4. Косвенные вопросы: asked if / where … (прямой порядок слов).
+5. Просьбы и приказы: told / asked someone (not) to do.
+6. Глаголы-пересказчики с разными конструкциями.
+7. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Say и tell
+- **say** (something) (to someone): *She **said** (that) she was tired. She **said to me** that…*
+- **tell** + **кому** обязательно: *She **told me** (that) she was tired.*
+✗ She said me that… → ✓ She told me that… / She said to me that…
+✗ He told that he was busy. → ✓ He said that he was busy.
+### 2. Сдвиг времён
+Если вводящий глагол в прошлом (*said, told, asked*), время обычно «отступает» на шаг назад:
+| Прямая речь | Косвенная речь |
+| "I **work** here." | He said he **worked** there. |
+| "I **am working**." | He said he **was working**. |
+| "I **have finished**." | She said she **had finished**. |
+| "I **finished** yesterday." | She said she **had finished** the day before. |
+| "I **will** call you." | He said he **would** call me. |
+| "I **can** swim." | She said she **could** swim. |
+| "I **must** go." | He said he **had to** go. (или must) |
+| "You **should** rest." | She said I **should** rest. (не меняется: would, could, might, should, ought to) |
+**Сдвиг не обязателен**, если сказанное всё ещё верно: *She said she **lives** in London* (до сих пор живёт), *The teacher said the Earth **goes** round the Sun.* Если вводный глагол в настоящем (*says, has said*), времена не меняются: *He **says** he **is** tired.*
+### 3. Указатели
+| Прямая | Косвенная |
+| now | then, at that moment |
+| today / tonight | that day / that night |
+| yesterday | the day before, the previous day |
+| tomorrow | the next day, the following day |
+| last week | the week before, the previous week |
+| next month | the following month |
+| ago | before / earlier |
+| here / this | there / that |
+### 4. Вопросы
+- Общий вопрос → **if / whether** + прямой порядок: *"Are you ready?" → She **asked if I was** ready.*
+- Специальный → вопросительное слово + прямой порядок, без do/did: *"Where do you live?" → He **asked me where I lived**.*
+✗ He asked me where did I live. → ✓ He asked me where I lived.
+✗ She asked was I hungry. → ✓ She asked if I was hungry.
+### 5. Просьбы, приказы, советы
+**tell / ask / advise / warn / remind / order + объект + (not) to + V**:
+- *"Please close the door." → She **asked me to close** the door.*
+- *"Don't be late!" → He **told us not to be** late.*
+- *"You should see a doctor." → She **advised me to see** a doctor.*
+### 6. Глаголы-пересказчики
+| Конструкция | Глаголы | Пример |
+| + that | claim, argue, explain, admit, deny, insist, complain, point out, warn, agree | *Experts **claim that** the policy will fail.* |
+| + to-infinitive | agree, refuse, offer, promise, threaten | *He **promised to help**.* |
+| + объект + to-infinitive | advise, ask, encourage, invite, persuade, remind, warn, urge | *She **reminded me to call**.* |
+| + -ing | admit, deny, suggest, recommend | *He **denied taking** the money. She **suggested going** by train.* |
+| + preposition + -ing | apologise for, accuse sb of, insist on, blame sb for, congratulate sb on | *He **apologised for being** late.* |
+✗ He suggested me to go. → ✓ He suggested that I (should) go. / He suggested going.
+✗ She explained me the rules. → ✓ She explained the rules to me.
+@USE
+### Task 2
+Вместо «Some people say…» используй точные глаголы: *Supporters of this policy **argue that**… Critics **point out that**… Scientists **have warned that**… Some people **claim that**…, but I would argue that…*
+### Speaking Part 2 / 3
+Пересказ разговора делает историю живой: *My friend **told me** she **had** never **been** abroad, so I **suggested going** to Turkey together.*
+@EX MCQ Say / tell и сдвиг времён
+She ____ me that she was leaving. | A said | B told | B
+He ____ that he was hungry. | A said | B told | A
+"I'm tired," she said. → She said she ____ tired. | A is | B was | C has been | B
+"We have finished," they said. → They said they ____. | A have finished | B had finished | C finished | B
+"I will help you," he said. → He said he ____ help me. | A will | B would | C had | B
+"I can't come," she said. → She said she ____ come. | A can't | B couldn't | C hadn't | B
+"I saw him yesterday," Tom said. → Tom said he ____ him the day before. | A saw | B had seen | C has seen | B
+"Water boils at 100°C," the teacher said. → The teacher said water ____ at 100°C. | A boils | B had boiled | A
+"I must leave," she said. → She said she ____ leave. | A had to | B has to | A
+"You should rest," the doctor said. → The doctor said I ____ rest. | A should | B should have | A
+@EX GAP Указатели времени и места
+"I'll call you tomorrow." → He said he would call me ____. | the next day/the following day
+"I met her last week." → She said she had met her ____. | the week before/the previous week
+"I'm busy now." → He said he was busy ____. | then/at that moment/at that time
+"I'll stay here." → She said she would stay ____. | there
+"We arrived two days ago." → They said they had arrived two days ____. | before/earlier
+"This is my car." → He said that ____ was his car. | that/it
+@EX TR Перепиши вопросы в косвенной речи
+"Where do you work?" she asked me. → She asked me where ____. | I worked
+"Are you coming?" he asked. → He asked if ____. | I was coming
+"What time did the train leave?" I asked. → I asked what time ____. | the train had left/the train left
+"Have you seen my keys?" she asked us. → She asked us whether ____ her keys. | we had seen
+"Can you swim?" he asked her. → He asked her if ____. | she could swim
+"Why is she crying?" he asked. → He asked why ____. | she was crying
+@EX TR Просьбы, приказы, советы
+"Please sit down," she said to me. → She asked me ____. | to sit down
+"Don't touch the screen!" he told the children. → He told the children ____ the screen. | not to touch
+"You should study more," my teacher said. → My teacher advised me ____ more. | to study
+"Remember to lock the door," Mum said to me. → Mum reminded me ____ the door. | to lock
+"Don't swim here — it's dangerous," the guard said. → The guard warned us ____ there. | not to swim
+@EX MCQ Глаголы-пересказчики
+He ____ taking the money, but the police didn't believe him. | A refused | B denied | B
+She ____ to lend me her car. | A suggested | B offered | B
+They ____ me of lying. | A accused | B blamed | A
+He apologised ____ late. | A to be | B for being | B
+She suggested ____ a taxi. | A to take | B taking | B
+The teacher encouraged us ____ questions. | A to ask | B asking | A
+He insisted ____ for the meal. | A to pay | B on paying | B
+She ____ that the plan was too expensive. | A pointed out | B told | A
+@EX ERR Найди ошибку
+(A) She (B) said (C) me (D) that she was busy. | B | # told me / said to me
+(A) He asked me (B) where (C) did I (D) live. | C | # where I lived
+(A) The manager (B) told (C) that the meeting (D) was cancelled. | B | # said / told us
+(A) She asked (B) me (C) if I (D) can help her. | D | # could help
+(A) He (B) suggested (C) me (D) to see a doctor. | C | # suggested that I see / suggested seeing
+(A) They (B) told us (C) don't (D) be late. | C | # not to be late
+(A) She (B) explained (C) me (D) the problem. | C | # explained the problem to me
+@TEST MCQ Тест
+"I'm going to Spain," she said. → She said she ____ to Spain. | A is going | B was going | B
+"I've lost my phone," he said. → He said he ____ his phone. | A had lost | B lost | A
+"Do you like pizza?" → She asked me ____ pizza. | A if I liked | B did I like | A
+"Where is the station?" → He asked ____. | A where the station was | B where was the station | A
+"Don't be late," said the teacher. → The teacher told us ____ late. | A not to be | B don't be | A
+"Let's go to the cinema." → She suggested ____ to the cinema. | A to go | B going | B
+He promised ____ me the next day. | A calling | B to call | B
+She ____ me to apply for the job. | A suggested | B encouraged | B
+The scientist ____ that climate change is accelerating. | A warned | B told | A
+"I didn't break it!" → He denied ____ it. | A to break | B breaking | B
+@TEST TR Тест: перепиши
+"I will finish it tomorrow," she said. → She said she would finish it ____. | the next day/the following day
+"What are you doing?" he asked me. → He asked me what ____. | I was doing
+"Please help me," she said to her brother. → She asked her brother ____. | to help her
+"I'm sorry I'm late," he said. → He apologised for ____. | being late
+@TEST ERR Тест: найди ошибку
+(A) He told (B) us (C) that he (D) will come later. | D | # would come
+(A) She asked (B) me (C) what (D) did I want. | D | # what I wanted
+(A) The doctor (B) advised (C) to him (D) to rest. | C | # advised him to rest
+(A) They (B) asked (C) whether (D) were we ready. | D | # whether we were ready
+(A) He (B) admitted (C) to steal (D) the car. | C | # admitted stealing
+(A) My friend (B) said (C) to me (D) to call her. | B | # told me to call her / asked me to call her

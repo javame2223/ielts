@@ -1,0 +1,117 @@
+# 19 | Relative Clauses | 3 | who, which, that, whose, where, when, why; defining и non-defining; запятые; пропуск местоимения; предлог + which; which о целом предложении
+@GOAL Соединять мысли определительными придаточными без ошибок в выборе местоимения и запятых. Это один из самых быстрых способов показать «complex structures» в Writing.
+@PLAN
+1. Относительные местоимения: who, which, that, whose, where, when, why.
+2. Defining (без запятых) и non-defining (с запятыми).
+3. Когда that невозможен; когда местоимение можно опустить.
+4. Предлог + which / whom; предлог в конце.
+5. Which, относящееся ко всему предложению.
+6. Quantifier + of which / of whom (most of whom).
+7. Сокращённые придаточные (людей, живущих… → people living…) — подробнее в теме 25.
+8. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Кто есть кто
+| Местоимение | Для | Пример |
+| **who** | людей | *The man **who** called you is my uncle.* |
+| **which** | предметов, животных | *The book **which** I lent you…* |
+| **that** | людей и предметов (только defining) | *The car **that** I bought…* |
+| **whose** | чей (принадлежность) | *A student **whose** parents are doctors…; a city **whose** population is growing* |
+| **whom** | людей в роли дополнения (формально) | *The candidate **whom** we interviewed…* |
+| **where** | место (= in which) | *The town **where** I grew up…* |
+| **when** | время | *The year **when** I graduated…* |
+| **why** | причина (the reason why) | *That's **the reason why** I left.* |
+✗ The people which live here… → ✓ The people who live here…
+✗ The house what I bought… → ✓ The house that/which I bought…
+✗ The woman who her car was stolen… → ✓ The woman whose car was stolen…
+### 2. Defining и non-defining
+| Defining (определяющее) | Non-defining (дополнительное) |
+| нужно, чтобы понять, **о ком/чём** речь | добавляет информацию о том, кто уже понятен |
+| **без запятых** | **с запятыми** с обеих сторон |
+| можно **that** | **нельзя that** |
+| *Students **who work hard** usually succeed.* (не все студенты) | *My brother, **who lives in Paris**, is a doctor.* (брат один) |
+Смысл меняется: *The students **who** had passed the exam went home* (только сдавшие) — *The students, **who** had passed the exam, went home* (все сдали и ушли).
+✗ Paris that is the capital of France is beautiful. → ✓ Paris, which is the capital of France, is beautiful.
+### 3. Пропуск местоимения
+В defining-придаточном местоимение можно опустить, если оно — **дополнение** (после него идёт новое подлежащее): *The film (**that**) **we** watched was great.* Нельзя опустить, если оно — подлежащее: *The man **who** lives next door…* (не *The man lives next door is…*). В non-defining опускать нельзя никогда.
+### 4. Предлоги
+- Неформально предлог в конце: *The house **which** I grew up **in**.* / *The person (**who**) I spoke **to**.*
+- Формально (эссе) предлог перед **which / whom**: *The house **in which** I grew up. The person **to whom** I spoke.*
+- После предлога нельзя *that* и *who*: ✗ *in that*, ✗ *with who* → ✓ *in which*, ✓ *with whom*.
+- *where = in which*, *when = on/in which*: *the day **on which** / **when** we met*.
+### 5. Which о всём предложении
+*Prices rose sharply, **which** led to protests.* — *which* относится ко всей мысли (запятая обязательна; *that* или *what* нельзя).
+✗ Prices rose sharply, what led to protests. → ✓ …, which led to protests.
+### 6. Количество + of which / of whom
+*The company employs 500 people, **most of whom** work part-time. He has three cars, **none of which** is new. Ten students, **two of whom** were from Japan, …*
+@USE
+### Task 1
+Компактные сравнения: *Japan, **which** had the highest figure in 1990, fell to third place. Coal, **which** accounted for 40% in 2000, was overtaken by gas.*
+Итог с *which*: *Sales doubled, **which** was the largest increase of any category.*
+### Task 2
+Определения и уточнения: *People **who** live in cities…, Countries **whose** economies depend on tourism…, The main reason **why**…, …, **which** means that…*
+Формально: *the extent **to which** …, the way **in which** technology affects…*
+@EX MCQ Выбери местоимение
+The woman ____ lives next door is a pilot. | A who | B which | C whose | A
+This is the house ____ I was born. | A which | B where | C who | B
+The laptop ____ I bought last week has broken. | A who | B which | C whose | B
+I know a man ____ son plays for Real Madrid. | A who | B whose | C which | B
+2020 was the year ____ everything changed. | A where | B when | C which | B
+That's the reason ____ I didn't call. | A why | B which | C what | A
+The company, ____ was founded in 1990, now employs 2,000 people. | A that | B which | C what | B
+The man to ____ I spoke was very helpful. | A who | B whom | C that | B
+She failed the exam, ____ surprised everyone. | A that | B what | C which | C
+He has two sisters, both of ____ are teachers. | A them | B whom | C who | B
+@EX MCQ Запятые: defining или non-defining?
+Which is correct? (у меня один брат) | A My brother who lives in Canada is an engineer. | B My brother, who lives in Canada, is an engineer. | B
+Which is correct? (не все дети, а только те, что едят овощи) | A Children who eat vegetables are healthier. | B Children, who eat vegetables, are healthier. | A
+Which is correct? | A London, that is a huge city, is expensive. | B London, which is a huge city, is expensive. | B
+Which is correct? | A The book that you gave me is great. | B The book, that you gave me, is great. | A
+Which is correct? | A Mount Everest which is in Nepal is the highest mountain. | B Mount Everest, which is in Nepal, is the highest mountain. | B
+Which is correct? | A People, who smoke, risk their health. | B People who smoke risk their health. | B
+@EX GAP Впиши who, which, whose, where, when (или «-», если можно опустить)
+The film ____ we saw last night was boring. (можно опустить) | -/—/that/which
+The town ____ my grandparents live is very small. | where
+Do you remember the day ____ we first met? | when
+She's the student ____ essay won the prize. | whose
+The man ____ repaired my car was very friendly. | who/that
+Unemployment fell, ____ was good news for the government. | which
+My parents, ____ have been married for 30 years, still go dancing. | who
+The museum, ____ opened in 1900, is free to visit. | which
+@EX TR Соедини предложения
+I have a friend. He speaks five languages. → I have a friend ____ five languages. | who speaks/that speaks
+The hotel was excellent. We stayed in it. (формально, с предлогом) → The hotel in ____ was excellent. | which we stayed
+Tom is a doctor. His wife is my teacher. → Tom, ____ is my teacher, is a doctor. | whose wife
+Prices increased. This made people angry. → Prices increased, ____ people angry. | which made
+The company has 300 workers. Most of them are women. → The company has 300 workers, most ____ are women. | of whom
+This is the village. I grew up in this village. → This is the village ____ I grew up. | where/in which
+@EX ERR Найди ошибку
+(A) The people (B) which (C) live here (D) are friendly. | B | # who
+(A) Tokyo, (B) that (C) is the capital of Japan, (D) is huge. | B | # which
+(A) The man (B) who (C) his car (D) was stolen called the police. | C | # whose car
+(A) She lost her job, (B) what (C) was a shock (D) to her family. | B | # which
+(A) This is (B) the hotel (C) where (D) we stayed in. | C | # which we stayed in / where we stayed
+(A) The person (B) with (C) who (D) I work is very kind. | C | # with whom
+(A) He has three children, (B) all of (C) them (D) are at university. | C | # all of whom
+@TEST MCQ Тест
+The scientist ____ discovered penicillin was Alexander Fleming. | A who | B which | C whose | A
+The city ____ I live has excellent public transport. | A which | B where | C when | B
+Countries ____ economies depend on oil are at risk. | A which | B whose | C that | B
+My car, ____ is ten years old, still runs well. | A that | B which | C what | B
+The temperature rose to 40°C, ____ broke the record. | A which | B what | C that | A
+This is the woman ____ I told you about. | A — | B whose | C what | A
+The period during ____ prices rose was short. | A that | B which | C when | B
+I met two students, neither of ____ spoke English. | A them | B whom | C who | B
+The day ____ she arrived was very cold. | A where | B when | C which | B
+Anyone ____ wants to join can sign up here. | A who | B which | C whose | A
+@TEST TR Тест: соедини предложения
+The museum is very popular. It opened last year. → The museum, ____ last year, is very popular. | which opened
+I met a girl. Her father is a famous actor. → I met a girl ____ is a famous actor. | whose father
+Sales fell by 20%. This worried the shareholders. → Sales fell by 20%, ____ the shareholders. | which worried
+@TEST ERR Тест: найди ошибку
+(A) The book (B) what (C) I'm reading (D) is fascinating. | B | # that / which
+(A) My sister, (B) who (C) she is a nurse, (D) works nights. | C | # who is a nurse
+(A) Oil prices rose, (B) that (C) caused (D) inflation. | B | # which
+(A) The reason (B) because (C) I came (D) is to help you. | B | # why
+(A) The house (B) in (C) that (D) we lived was old. | C | # in which
+(A) The film (B) we watched it (C) last night (D) was great. | B | # we watched (it лишнее — его заменяет относительное местоимение)
+(A) Paris (B) is the city (C) which (D) I first met my wife. | C | # where / in which

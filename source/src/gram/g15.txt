@@ -1,0 +1,149 @@
+# 15 | Gerund & Infinitive | 3 | -ing или to + инфинитив: глаголы, прилагательные, предлоги; stop/remember/try с разным смыслом; let/make; герундий как подлежащее
+@GOAL Автоматически выбирать форму второго глагола (enjoy **doing**, decide **to do**, make someone **do**) и понимать, как меняется смысл после stop, remember, forget, try, regret, mean, go on. Использовать герундий-подлежащее для «академичного» стиля Task 2.
+@PLAN
+1. Глаголы + -ing.
+2. Глаголы + to-infinitive.
+3. Глагол + объект + to-infinitive (want someone to do).
+4. Инфинитив без to: make, let, help, модальные; see / hear someone do / doing.
+5. Глаголы с изменением смысла: stop, remember, forget, try, regret, mean, go on, need.
+6. После предлогов — всегда -ing (включая look forward to, be used to, object to).
+7. Прилагательные + to: easy to, difficult to; it is + adj + to.
+8. Герундий как подлежащее и инфинитив цели (in order to).
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Глагол + -ing
+**enjoy, finish, avoid, mind, miss, suggest, recommend, consider, deny, admit, imagine, keep, practise, risk, involve, can't stand, can't help, give up, put off, carry on, look forward to, be worth, it's no use**.
+> I **enjoy reading**. They **suggested taking** a taxi. It's **worth visiting** the old town.
+✗ He suggested to go home. → ✓ He suggested going home. / He suggested that we (should) go home.
+✗ I avoid to eat sugar. → ✓ I avoid eating sugar.
+### 2. Глагол + to + инфинитив
+**want, would like, decide, plan, hope, expect, agree, refuse, promise, offer, manage, fail, afford, learn, seem, appear, tend, choose, arrange, attempt, threaten, deserve, aim, intend**.
+> We **decided to leave** early. Prices **tend to rise** in winter. Many families **can't afford to buy** a house.
+### 3. Глагол + объект + to + инфинитив
+**want, would like, expect, ask, tell, advise, allow, encourage, force, persuade, remind, teach, warn, enable, require, invite**:
+> I **want you to help** me. Governments should **encourage people to use** public transport. Technology **enables us to work** from home.
+✗ I want that you come. → ✓ I want you to come.
+✗ The law allows to drive at 17. → ✓ The law allows people to drive at 17. / The law allows driving at 17.
+### 4. Без to
+- После модальных: *can do, must go, should study*.
+- **make + объект + V**: *My parents **made me study**.* (в пассиве с to: *I **was made to study***)
+- **let + объект + V**: *They **let us leave** early.*
+- **help (to) + V**: *This **helps (to) reduce** costs.*
+- **had better, would rather**: *You'd better go.*
+- Восприятие: **see / hear / watch / notice + объект + V** (всё действие) или **+ V-ing** (часть процесса): *I **saw him cross** the road. I **saw him crossing** the road.*
+### 5. Меняется смысл
+| Глагол | + -ing | + to-infinitive |
+| **stop** | прекратить: *He **stopped smoking**.* | остановиться, чтобы: *He **stopped to smoke**.* |
+| **remember** | помнить то, что было: *I **remember meeting** her.* | не забыть сделать: ***Remember to lock** the door.* |
+| **forget** | забыть, что было (обычно с never): *I'll **never forget seeing** the ocean.* | забыть сделать: *I **forgot to call** him.* |
+| **try** | попробовать (эксперимент): ***Try drinking** some water.* | постараться (трудно): *I **tried to open** the window, but it was stuck.* |
+| **regret** | жалеть о сделанном: *I **regret leaving** school early.* | с сожалением сообщать: *We **regret to inform** you…* |
+| **mean** | означать, повлечь: *A new job **means moving** to another city.* | собираться: *I **meant to call** you.* |
+| **go on** | продолжать то же: *She **went on talking**.* | перейти к другому: *He **went on to become** president.* |
+| **need** | пассивное значение: *The car **needs washing**.* | активное: *I **need to wash** the car.* |
+Глаголы **like, love, hate, prefer, start, begin, continue** принимают обе формы почти без разницы. Но *would like / would love / would prefer* + **to**: *I'**d like to go**.*
+### 6. После предлогов — -ing
+*interested **in learning**, good **at solving**, instead **of driving**, **by using**, **without asking**, **before leaving**, **after finishing**, responsible **for organising***.
+Ловушка — **to** как предлог: *look forward **to seeing**, be used **to working**, get used **to living**, object **to paying**, be committed **to reducing**, contribute **to improving**, the key **to succeeding**, when it comes **to choosing***.
+✗ I look forward to hear from you. → ✓ I look forward to hearing from you.
+✗ We are committed to reduce emissions. → ✓ We are committed to reducing emissions.
+### 7. Прилагательное + to-infinitive
+*It is **difficult / important / essential / easy / necessary / possible** **to** find work.* *English is **easy to learn**. I was **pleased to hear** the news. She was **the first woman to win** the prize.*
+### 8. Герундий-подлежащее и инфинитив цели
+- Подлежащее-действие — герундий: ***Learning** a language **takes** time. **Recycling** reduces waste.* (глагол в ед. ч.)
+- Цель — **to / in order to / so as to**: *Many people move to cities **(in order) to find** work.* ✗ *for find work* → ✓ *to find work*; *for + существительное*: *for work*.
+- Отрицательная цель — **in order not to / so as not to**: *We left early **so as not to miss** the train.*
+@USE
+### Task 2
+- Герундий в начале предложения звучит академично: ***Banning** cars from city centres **would** reduce pollution. **Investing** in education **benefits** everyone.*
+- Глагол + объект + to-infinitive — готовые «решения»: *Governments should **encourage / require / force / allow** companies **to** …*; *This **enables people to** …*
+- Цель через *in order to* разнообразит связки: *…in order to reduce traffic congestion.*
+### Writing GT (письма)
+- *I look forward **to hearing** from you. I would appreciate **receiving** a reply. I am writing **to complain** about… Would you mind **sending** me…? I would like **to request**…*
+### Speaking
+- Part 1 «Do you like…?» → *I really **enjoy cooking**, but I **can't stand washing** up.* — естественный «range».
+@EX MCQ -ing или to?
+I enjoy ____ in the mountains. | A walking | B to walk | A
+We decided ____ a new car. | A buying | B to buy | B
+Would you mind ____ the window? | A opening | B to open | A
+She refused ____ the documents. | A signing | B to sign | B
+I can't afford ____ abroad this year. | A travelling | B to travel | B
+He admitted ____ the money. | A taking | B to take | A
+They managed ____ the project on time. | A finishing | B to finish | B
+Have you considered ____ a part-time job? | A getting | B to get | A
+Prices tend ____ in the summer. | A rising | B to rise | B
+I'm thinking of ____ my job. | A changing | B to change | A
+It's not worth ____ about. | A worrying | B to worry | A
+She promised ____ me with my essay. | A helping | B to help | B
+@EX MCQ Объект + инфинитив, make / let
+My parents wanted me ____ medicine. | A study | B to study | C studying | B
+The teacher made us ____ the essay again. | A write | B to write | C writing | A
+They let their children ____ late at weekends. | A stay | B to stay | C staying | A
+The new law requires companies ____ their emissions. | A reduce | B to reduce | C reducing | B
+I was made ____ for two hours at the airport. | A wait | B to wait | C waiting | B
+This app helps you ____ new words. | A learn | B learning | C learnt | A
+She advised me ____ a lawyer. | A to see | B seeing | C see | A
+I heard someone ____ my name. | A called | B call | C to call | B
+@EX MCQ Смысл меняется
+I remember ____ this film as a child — it was my favourite. | A watching | B to watch | A
+Please remember ____ the lights when you leave. | A turning off | B to turn off | B
+He stopped ____ at a café because he was tired. | A resting | B to rest | B
+You should stop ____ so much coffee. | A drinking | B to drink | A
+If you can't sleep, try ____ a warm bath. | A taking | B to take | A
+I tried ____ the door, but it was locked. | A opening | B to open | B
+I regret ____ him the truth. Now he's angry. | A telling | B to tell | A
+We regret ____ you that your application was unsuccessful. | A informing | B to inform | B
+Getting a job in London would mean ____ a flat. | A renting | B to rent | A
+After university she went on ____ a famous scientist. | A becoming | B to become | B
+The walls need ____. | A painting | B to paint | A
+I forgot ____ my keys, so I couldn't get in. | A bringing | B to bring | B
+@EX GAP После предлога / to-предлога
+I look forward to ____ (meet) you. | meeting
+She is good at ____ (solve) problems. | solving
+He left without ____ (say) goodbye. | saying
+I'm not used to ____ (drive) on the left. | driving
+The government is committed to ____ (cut) emissions. | cutting
+Thank you for ____ (help) me. | helping
+Instead of ____ (complain), try to find a solution. | complaining
+When it comes to ____ (choose) a career, many students are confused. | choosing
+@EX GAP Впиши подходящую форму глагола в скобках
+____ (smoke) is banned in all restaurants. | Smoking
+It is essential ____ (protect) endangered species. | to protect
+Many people go abroad ____ (find) better jobs. | to find/in order to find
+The museum was the first building in the city ____ (have) solar panels. | to have
+She can't stand ____ (wait) in queues. | waiting
+I'd rather ____ (stay) at home tonight. | stay
+The film was difficult ____ (understand). | to understand
+We left early so as not ____ (miss) the train. | to miss
+@EX ERR Найди ошибку
+(A) He (B) suggested (C) to take (D) a taxi. | C | # suggested taking
+(A) I (B) want (C) that you (D) help me. | C | # want you to help me
+(A) We (B) are looking forward (C) to see (D) you. | C | # to seeing
+(A) My boss (B) made me (C) to stay (D) late. | C | # made me stay
+(A) Many students (B) work part-time (C) for pay (D) their fees. | C | # to pay
+(A) The law (B) doesn't allow (C) to smoke (D) in offices. | C | # allow people to smoke / allow smoking
+(A) Learn (B) a new language (C) takes (D) time. | A | # Learning
+(A) I (B) avoid (C) to drive (D) in rush hour. | C | # driving
+@TEST MCQ Тест
+I'd like ____ a table for two, please. | A booking | B to book | B
+She kept ____ the same question. | A asking | B to ask | A
+The manager asked us ____ the report by Friday. | A finish | B to finish | B
+____ fast food every day is bad for your health. | A Eat | B Eating | B
+He stopped ____ when the doctor told him about his lungs. | A smoking | B to smoke | A
+I will never forget ____ the Pyramids for the first time. | A seeing | B to see | A
+Parents should not let children ____ too much TV. | A watch | B to watch | A
+I'm interested in ____ more about the course. | A learn | B learning | B
+It's important ____ enough sleep. | A get | B to get | B
+He was the youngest player ____ for the national team. | A to play | B playing | A
+@TEST TR Тест: перепиши, сохранив смысл
+"Let's take the train," she said. → She suggested ____ the train. | taking
+I can't wait to see you next week. → I'm looking forward ____ next week. | to seeing you
+The teacher said we could leave early. → The teacher let ____ early. | us leave
+It isn't a good idea to argue with him; it's useless. → It's no use ____ with him. | arguing
+I didn't remember to buy milk. → I forgot ____ milk. | to buy
+@TEST ERR Тест: найди ошибку
+(A) Governments (B) should encourage (C) people (D) using public transport. | D | # to use
+(A) I'm (B) used to (C) get up (D) early. | C | # getting up
+(A) Would you mind (B) to close (C) the door, (D) please? | B | # closing
+(A) She (B) managed (C) finishing (D) on time. | C | # to finish
+(A) This car (B) needs (C) to repair (D) urgently. | C | # needs repairing / needs to be repaired

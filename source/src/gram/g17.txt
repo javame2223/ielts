@@ -1,0 +1,133 @@
+# 17 | Passive Voice | 3 | Пассив во всех временах и с модальными; by-agent; get-пассив; It is said that… / He is said to…; have something done; пассив в процессах Task 1
+@GOAL Строить пассив в любом времени и с модальными глаголами, понимать, когда он уместен (процессы, наука, официальный стиль), и использовать безличные конструкции *It is believed that… / is thought to…* для академичного Task 2.
+@PLAN
+1. Формула: be (в нужном времени) + V3.
+2. Пассив во всех временах и с модальными.
+3. Когда нужен пассив и когда by.
+4. Пассив с двумя дополнениями: I was given…
+5. Безличный пассив: It is said that…, He is said to…
+6. Have / get something done.
+7. Пассив в Task 1 (процессы, карты) и Task 2.
+8. Типичные ошибки.
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Формула и времена
+Пассив = **be** в нужном времени + **V3** (третья форма). Время показывает только *be*.
+| Время | Актив | Пассив |
+| Present Simple | They **make** cars here. | Cars **are made** here. |
+| Present Continuous | They **are building** a bridge. | A bridge **is being built**. |
+| Past Simple | They **built** it in 1900. | It **was built** in 1900. |
+| Past Continuous | They **were repairing** the road. | The road **was being repaired**. |
+| Present Perfect | They **have closed** the factory. | The factory **has been closed**. |
+| Past Perfect | They **had sold** the house. | The house **had been sold**. |
+| Future | They **will open** a museum. | A museum **will be opened**. |
+| be going to | They **are going to demolish** it. | It **is going to be demolished**. |
+| Modal | You **must wear** a helmet. | A helmet **must be worn**. |
+| Modal Perfect | Someone **should have told** him. | He **should have been told**. |
+| Infinitive / -ing | I want **someone to invite** me. / I hate **people laughing** at me. | I want **to be invited**. / I hate **being laughed** at. |
+### 2. Когда пассив
+- Исполнитель неизвестен, неважен или очевиден: *My bike **was stolen**. The criminal **was arrested**.*
+- Важен процесс или результат (наука, производство, Task 1): *The clay **is heated** to 1,000°C.*
+- Официальный, безличный стиль: *Applications **must be submitted** by Friday.*
+- **by** + исполнитель — только если он важен: *Guernica **was painted by** Picasso.*
+- Непереходные глаголы (*happen, arrive, die, rise, fall, occur, seem, exist, belong*) пассива **не имеют**.
+✗ The accident was happened at night. → ✓ The accident happened at night.
+✗ Prices were risen. → ✓ Prices rose. / Prices were raised (by the company).
+✗ The museum built in 1890. → ✓ The museum was built in 1890.
+✗ English is speaking in many countries. → ✓ English is spoken in many countries.
+### 3. Два дополнения
+*They gave **me** a prize.* → ***I was given** a prize.* (чаще) / *A prize **was given to me**.* Так же: *offer, send, show, tell, teach, promise, pay*.
+### 4. Безличный пассив (say, believe, think, expect, report, know, consider)
+| It + пассив + that | Подлежащее + пассив + to-infinitive |
+| **It is said that** the castle is haunted. | The castle **is said to be** haunted. |
+| **It is believed that** he lives abroad. | He **is believed to live** abroad. |
+| **It is thought that** the fire started at night. | The fire **is thought to have started** at night. (прошлое → to have + V3) |
+| **It is expected that** prices will rise. | Prices **are expected to rise**. |
+Также: ***There is thought to be** a link between diet and cancer.*
+### 5. Have / get something done
+Кто-то делает для тебя: *I **had my hair cut**. We're **having the kitchen painted**. You should **get your eyes tested**.* Также о неприятностях: *She **had her phone stolen**.*
+### 6. Get-пассив (разговорный)
+*He **got injured** in the match. They **got married** last year. I **got caught** in the rain.* — В эссе лучше *be*.
+@USE
+### Task 1 — процессы и карты
+- Процесс: почти все глаголы в пассиве, Present Simple: *First, the raw materials **are collected** and **taken** to the factory, where they **are crushed**.*
+- Карты (было → стало): Past Simple / Present Perfect пассив: *The trees **were cut down** and a car park **was built**. The school **has been extended**.*
+- План на будущее: *A new road **will be constructed**. The shops **are going to be replaced** by a supermarket.*
+### Task 2
+- Безличный пассив для «общего мнения»: ***It is often argued that** … / Fast food **is widely believed to** contribute to obesity.*
+- Модальный пассив для решений: *Stricter laws **should be introduced**. More money **could be invested** in…*
+- Не превращай всё в пассив: в своём мнении нужен актив (*I believe…*).
+@EX GAP Поставь глагол в пассив (время подскажет контекст)
+Paper ____ (make) from wood. | is made
+The bridge ____ (build) in 1932. | was built
+A new hospital ____ (build) at the moment. | is being built
+The results ____ (announce) next week. | will be announced
+The thief ____ (already / arrest). | has already been arrested
+When we arrived, the food ____ (already / eat). | had already been eaten
+The road ____ (repair) when I drove past yesterday. | was being repaired
+This form must ____ (sign) by both parents. | be signed
+Smartphones ____ (use) by billions of people every day. | are used
+The meeting ____ (cancel) because of the storm. (past) | was cancelled/was canceled
+@EX MCQ Актив или пассив?
+The accident ____ at 6 pm. | A happened | B was happened | A
+English ____ in many countries. | A speaks | B is spoken | B
+Unemployment ____ sharply in 2009. | A rose | B was risen | A
+The Mona Lisa ____ by Leonardo da Vinci. | A painted | B was painted | B
+The letter ____ yet. | A hasn't sent | B hasn't been sent | B
+Many species ____ out because of hunting. | A have died | B have been died | A
+The new law ____ next year. | A will introduce | B will be introduced | B
+This castle ____ to the king. | A belonged | B was belonged | A
+I ____ a free ticket by the organisers. | A gave | B was given | B
+The students ____ to bring calculators. | A told | B were told | B
+@EX MCQ Пассив с инфинитивом, -ing и модальными
+I hate ____ what to do. | A telling | B being told | B
+She wants ____ to the party. | A to invite | B to be invited | B
+The work should ____ by Friday. | A finish | B be finished | B
+The problem could ____ earlier. | A have been solved | B have solved | A
+He avoided ____ by the police. | A seeing | B being seen | B
+Children need ____ with love. | A to treat | B to be treated | B
+@EX TR Безличный пассив: перепиши
+People say that the town is very old. → The town is said ____ very old. | to be
+People believe that the painting was stolen. → The painting is believed ____ stolen. | to have been
+Experts expect that prices will rise. → Prices are expected ____. | to rise
+They think that he lives in Spain. → It is thought ____ in Spain. | that he lives
+People know that smoking causes cancer. → Smoking is known ____ cancer. | to cause
+Reports say that the president is ill. → The president is reported ____ ill. | to be
+@EX TR Have something done и перефразирование
+A mechanic repaired my car yesterday. → I had ____ yesterday. | my car repaired
+Someone is going to paint our house. → We are going to have ____. | our house painted
+Someone stole her bag on the train. → She had ____ on the train. | her bag stolen
+They will send you the documents. → You ____ the documents. | will be sent
+Somebody has broken the window. → The window ____. | has been broken
+They must finish the report today. → The report ____ today. | must be finished
+@EX ERR Найди ошибку
+(A) The bridge (B) built (C) in (D) 1995. | B | # was built
+(A) The meeting (B) was (C) took place (D) in the main hall. | B | # The meeting took place
+(A) Many houses (B) were destroy (C) in (D) the earthquake. | B | # were destroyed
+(A) The museum (B) is visiting (C) by thousands of people (D) every year. | B | # is visited
+(A) The clay (B) is heat (C) to a temperature (D) of 1,000°C. | B | # is heated
+(A) She (B) is believed (C) that she (D) lives in Paris. | C | # She is believed to live / It is believed that she lives
+(A) My phone (B) has (C) been stole (D) from my bag. | C | # been stolen
+@TEST MCQ Тест
+The new airport ____ in 2030. | A will complete | B will be completed | B
+The car ____ at the moment, so I'm taking the bus. | A is repaired | B is being repaired | B
+These houses ____ a hundred years ago. | A were built | B have been built | A
+The price of oil ____ in 2014. | A fell | B was fallen | A
+The suspect ____ to have left the country. | A believes | B is believed | B
+I'm going to have my eyes ____. | A test | B tested | B
+The work ____ by the time we arrived. | A had been done | B had done | A
+The winner ____ a cheque for $1,000. | A was given | B gave | A
+Visitors ____ not to touch the paintings. | A ask | B are asked | B
+She doesn't like ____ in public. | A criticising | B being criticised | B
+@TEST TR Тест: перепиши в пассиве
+They are building a new school in our area. → A new school ____ in our area. | is being built
+People think that the fire was caused by a cigarette. → The fire is thought ____ by a cigarette. | to have been caused
+Someone cut my hair yesterday. (have) → I ____ yesterday. | had my hair cut
+They should have warned us about the storm. → We should ____ about the storm. | have been warned
+@TEST ERR Тест: найди ошибку
+(A) First, (B) the grapes (C) are pick (D) by hand. | C | # are picked
+(A) The problem (B) was (C) occurred (D) last year. | B | # The problem occurred
+(A) A new law (B) has (C) introduced (D) this year. | C | # has been introduced
+(A) The castle (B) is said (C) that it (D) is haunted. | C | # The castle is said to be haunted / It is said that the castle is haunted
+(A) Our house (B) is (C) painting (D) this week. | C | # is being painted
+(A) The documents (B) must (C) be (D) send by email. | D | # be sent

@@ -1,0 +1,107 @@
+# S3 | Итоговый тест этапа 3 | 3
+@INTRO 100 вопросов по темам 14–20: Present Perfect / Past Simple, герундий и инфинитив, условные предложения, пассив, косвенная речь, относительные придаточные, фразовые глаголы. Это уровень экзамена на Band 7+: почти в каждом вопросе есть ловушка. Часть C (перефразирование) проверяет, умеешь ли ты сам построить конструкцию. Около 60 минут, без подсказок. Цель — 85+.
+@TEST MCQ Часть A. Выбери правильный вариант (40)
+I ____ in this city for most of my life, and I still love it. | A lived | B have lived | B
+The Titanic ____ in 1912. | A has sunk | B sank | B
+The number of cyclists in London ____ steadily since 2000. | A rose | B has risen | B
+"Have you ever tried skydiving?" — "Yes, I ____ it in New Zealand two years ago." | A have done | B did | B
+It's the first time she ____ abroad. | A travels | B has travelled | B
+I've ____ my keys. Can you help me look for them? | A lost | B been losing | A
+He denied ____ the documents. | A to steal | B stealing | B
+The government should force companies ____ their workers fairly. | A pay | B to pay | B
+I remember ____ my grandfather's farm as a child. | A visiting | B to visit | A
+Don't forget ____ the tickets before you leave. | A buying | B to buy | B
+She is used to ____ under pressure. | A work | B working | B
+They made us ____ for an hour. | A wait | B to wait | A
+We were made ____ for an hour. | A wait | B to wait | B
+If I ____ you, I wouldn't sign that contract. | A am | B were | B
+If he had listened to me, he ____ into trouble. | A wouldn't get | B wouldn't have got | B
+Take your passport ____ they ask for ID. | A in case | B unless | A
+You won't get a visa ____ you have a job offer. | A unless | B in case | A
+If you heat butter, it ____. | A melts | B would melt | A
+If the government ____ more teachers, classes would be smaller. | A employs | B employed | B
+____ you need any help, just call me. | A Should | B Would | A
+The bridge ____ at the moment, so the road is closed. | A is repaired | B is being repaired | B
+The suspect is believed ____ the country last night. | A to leave | B to have left | B
+Smartphones ____ by people of all ages. | A use | B are used | B
+The accident ____ on the main road. | A happened | B was happened | A
+I had my car ____ last week. | A service | B serviced | B
+The meeting ____ by the time I arrived. | A had finished | B had been finished | A
+She told me she ____ the film the week before. | A saw | B had seen | B
+He asked me where ____. | A I lived | B did I live | A
+The teacher advised us ____ notes. | A take | B to take | B
+She suggested ____ a break. | A to take | B taking | B
+"I'll do it tomorrow," he said. → He said he would do it ____. | A tomorrow | B the next day | B
+The town ____ I was born has changed completely. | A which | B where | B
+Scientists, ____ research is funded by the state, must publish their results. | A who | B whose | B
+She passed all her exams, ____ made her parents proud. | A which | B that | A
+The company has 200 employees, half of ____ work from home. | A them | B whom | B
+The house in ____ he grew up is now a museum. | A that | B which | B
+We need to ____ a solution quickly. | A come up with | B come up | A
+The concert was ____ due to the storm. | A called off | B called out | A
+I can't ____ his rudeness any more. | A put up | B put up with | B
+Prices ____ after the new tax was introduced. | A went up | B were gone up | A
+@TEST GAP Часть B. Впиши нужную форму (20)
+I ____ (not / see) my cousin since last summer. | have not seen/haven't seen
+When ____ (you / start) learning English? | did you start
+She ____ (work) here since 2018 and she loves it. | has worked/has been working
+I'm sorry, I ____ (forget) your name. | have forgotten/'ve forgotten/forgot
+____ (protect) the environment is everyone's responsibility. | Protecting
+We are looking forward to ____ (welcome) you. | welcoming
+He refused ____ (answer) any questions. | to answer
+If I ____ (know) about the party, I would have come. | had known
+If it ____ (not / rain) tomorrow, we'll have a picnic. | does not rain/doesn't rain
+I would travel more if I ____ (have) more money. | had
+The results ____ (publish) next month. | will be published
+The castle ____ (say) to be the oldest in Scotland. | is said
+More money should ____ (spend) on education. | be spent
+The road ____ (build) when we moved here, so there was a lot of noise. | was being built
+She asked me if I ____ (can) help her. | could
+He told us ____ (not / touch) anything. | not to touch
+The man ____ car was stolen called the police. | whose
+That's the day ____ my life changed. | when
+Carry ____ working — you're almost done. | on
+The volunteers set ____ a website to collect donations. | up
+@TEST TR Часть C. Перепиши, сохранив смысл (15)
+I started this job in 2020. → I ____ this job since 2020. | have had/have been doing/have done/'ve had
+The last time I went to the cinema was in May. → I ____ to the cinema since May. | haven't been/have not been/haven't gone/have not gone
+"Why don't we go by train?" he said. → He suggested ____ by train. | going/that we go/that we should go
+It was a mistake to tell her — I'm sorry about it. → I regret ____ her. | telling
+I don't have a car, so I can't visit you often. → If I ____ a car, I could visit you more often. | had
+He didn't wake up early, so he missed the bus. → If he had woken up early, ____ the bus. | he would not have missed/he wouldn't have missed/he would have caught
+You can go out, but you must be back by 10. → You can go out as long as ____ back by 10. | you are/you're/you come
+People say that the hotel is haunted. → The hotel is said ____ haunted. | to be
+They have cancelled the flight. → The flight ____. | has been cancelled/has been canceled
+Someone repaired my phone yesterday. → I had ____ yesterday. | my phone repaired
+"Where are you going?" she asked me. → She asked me ____. | where I was going
+"Don't park here," the officer said to us. → The officer told us ____ there. | not to park
+The woman is a doctor. I met her at the party. → The woman ____ at the party is a doctor. | I met/who I met/that I met/whom I met
+Unemployment rose. This caused social problems. → Unemployment rose, ____ social problems. | which caused
+They postponed the meeting. → They ____ the meeting. (phrasal verb) | put off/put back
+@TEST ERR Часть D. Найди ошибку (20)
+(A) In 2019 (B) the company (C) has opened (D) three new stores. | C | # opened
+(A) I (B) know (C) him (D) since we were children. | B | # have known
+(A) He (B) has (C) left (D) the company two years ago. | B | # left
+(A) She (B) avoided (C) to answer (D) my question. | C | # answering
+(A) We (B) are committed (C) to improve (D) our service. | C | # to improving
+(A) Smoking (B) are (C) banned (D) in public places. | B | # is banned
+(A) If I (B) would be (C) rich, (D) I would travel the world. | B | # were
+(A) Unless (B) you don't (C) hurry, (D) you will miss the train. | B | # Unless you hurry
+(A) If she (B) had studied, (C) she (D) would pass. | D | # would have passed
+(A) The new library (B) opened (C) by the mayor (D) last week. | B | # was opened
+(A) Many species (B) have (C) been (D) disappeared. | C | # have disappeared
+(A) The house (B) is (C) being (D) build. | D | # being built
+(A) She (B) said (C) me (D) that she was tired. | B | # told me
+(A) He asked (B) me (C) what (D) did I want. | D | # what I wanted
+(A) The doctor (B) suggested (C) me (D) to rest. | C | # suggested that I rest / suggested resting
+(A) The people (B) which (C) work here (D) are friendly. | B | # who / that
+(A) My father, (B) that (C) is a pilot, (D) travels a lot. | B | # who
+(A) Prices rose (B) sharply, (C) what (D) caused protests. | C | # which
+(A) I need (B) to look (C) up it (D) in the dictionary. | C | # look it up
+(A) We (B) have (C) run out (D) sugar. | C | # run out of
+@TEST CI Часть E. Правильно (C) или с ошибкой (I)? (5)
+I have been waiting for you for an hour. | C
+She stopped to talk when the teacher came in. (= перестала разговаривать) | I | # stopped talking
+The museum, which was built in 1850, is free. | C
+If I would have known, I would have helped. | I | # If I had known
+English is spoken all over the world. | C

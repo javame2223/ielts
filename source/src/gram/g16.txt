@@ -1,0 +1,122 @@
+# 16 | Conditionals | 3 | Zero, First, Second, Third; unless, as long as, provided that, in case; were, could, might в условиях; условия в аргументах Task 2
+@GOAL Свободно строить все четыре типа условных предложений, выбирать тип по реальности ситуации и использовать условия как инструмент аргументации в Task 2 (*If governments invested…, people would…*).
+@PLAN
+1. Структура: if-часть + главная часть, запятая, порядок частей.
+2. Zero: общие истины.
+3. First: реальное будущее.
+4. Second: нереальное настоящее / маловероятное будущее; were; совет If I were you.
+5. Third: нереальное прошлое, сожаления.
+6. Альтернативы if: unless, as long as, provided (that), on condition that, in case, otherwise, suppose.
+7. Модальные в главной части: might, could, may.
+8. Типичные ошибки русскоязычных.
+9. Практика 1–6 и тест по теме.
+@THEORY
+### 1. Четыре типа
+| Тип | if-часть | главная часть | Смысл |
+| Zero | Present Simple | Present Simple | всегда так: *If you **heat** ice, it **melts**.* |
+| First | Present Simple | will / can / may + V | реально в будущем: *If it **rains**, we'**ll stay** at home.* |
+| Second | Past Simple (were) | would / could / might + V | нереально сейчас / маловероятно: *If I **had** more time, I **would learn** Chinese.* |
+| Third | Past Perfect | would / could / might **have** + V3 | нереально в прошлом: *If I **had studied**, I **would have passed**.* |
+- Если **if-часть первая — запятая**; если вторая — запятая не нужна: *We'll stay at home if it rains.*
+- **Will / would никогда не ставятся в if-часть** (кроме вежливых просьб *If you would follow me…*).
+✗ If I will have time, I will call you. → ✓ If I have time, I'll call you.
+✗ If I would be rich, I would travel. → ✓ If I were rich, I would travel.
+✗ If I had known, I would come. → ✓ If I had known, I would have come.
+### 2. First или Second?
+Решает **вероятность**, а не время: *If I **win** the competition…* (я участвую, шанс реален) — *If I **won** the lottery…* (почти невозможно). В Task 2 Second conditional делает предложения о политике «гипотетическими» и вежливыми: *If the government **banned** cars from city centres, air quality **would improve**.*
+### 3. Were и If I were you
+Во Second conditional с *I / he / she / it* в формальном стиле — **were**: *If she **were** here, she would know what to do.* Совет: ***If I were you**, I'**d apply** for the job.* (*was* — разговорно, на экзамене лучше *were*).
+### 4. Third conditional и сожаления
+- *If the government **had acted** earlier, the crisis **could have been** avoided.*
+- Сокращения: *If I'd known* (= had), *I'd have come* (= would have).
+- Сожаление о прошлом: ***I wish I had studied** harder* (подробно — тема 26).
+### 5. Альтернативы if
+| Слово | Смысл | Пример |
+| **unless** | если не (= if … not) | *You won't pass **unless** you study.* (не *unless you don't study*) |
+| **as long as / provided (that) / providing / on condition that** | при условии, что | *You can borrow my car **as long as** you drive carefully.* |
+| **in case** | на случай, если (мера предосторожности) | *Take an umbrella **in case** it rains.* (≠ if) |
+| **otherwise** | иначе | *Hurry up, **otherwise** we'll miss the bus.* |
+| **suppose / supposing / imagine** | предположим | ***Suppose** you lost your job, what would you do?* |
+| **even if** | даже если | *I'll go **even if** it rains.* |
+**in case ≠ if**: *I'll take a map **in case** I get lost* (беру в любом случае) — *I'll use the map **if** I get lost* (только если заблужусь).
+### 6. Модальные и вариации
+- *If you **should** see him, tell him to call me.* (если вдруг)
+- *If it **were to** rain, the match **would be** cancelled.* (очень маловероятно; формально)
+- В главной части: *might / could / may* для меньшей уверенности: *If prices rise, demand **may** fall.*
+- Повелительное наклонение: *If you see Tom, **tell** him…*
+@USE
+### Task 2 — условия как аргумент
+- Second conditional для предложений и гипотез: *If public transport **were** free, fewer people **would** drive to work.*
+- Third conditional для примеров из прошлого: *If the city **had invested** in cycle lanes ten years ago, traffic **would** not **have become** so bad.*
+- *Unless* и *provided that* делают позицию точнее: *Tourism can benefit local communities, **provided that** it is carefully managed.*
+- Не злоупотребляй: 2–3 условных предложения на эссе достаточно.
+### Speaking
+- Part 3 «What would happen if…?» → отвечай Second conditional: *If everyone worked from home, city centres would probably become quieter…*
+- Part 1 «What would you do if you had a day off?» — *If I had a free day, I'd…*
+@EX MCQ Определи тип и выбери форму
+If you mix red and white, you ____ pink. | A get | B will get | C would get | A
+If I ____ time tomorrow, I'll help you. | A have | B will have | C had | A
+If I ____ rich, I would buy a house by the sea. | A am | B were | C will be | B
+If she had left earlier, she ____ the train. | A would catch | B would have caught | C will catch | B
+We ____ if we don't hurry. | A will be late | B would be late | C are late | A
+If I ____ you, I'd accept the offer. | A am | B was being | C were | C
+If they ____ harder, they would have won. | A tried | B had tried | C would try | B
+If people ate less meat, there ____ fewer health problems. | A will be | B would be | C would have been | B
+What ____ you do if you lost your passport? | A will | B would | C did | B
+If water ____ to 100°C, it boils. | A is heated | B will be heated | C would be heated | A
+@EX GAP Раскрой скобки
+If it ____ (rain) tomorrow, the match will be cancelled. | rains
+If I ____ (know) her number, I would call her. | knew
+If we ____ (not / leave) now, we'll miss the bus. | don't leave/do not leave
+She would have passed if she ____ (study) more. | had studied
+If I had more money, I ____ (buy) a new laptop. | would buy
+If you had told me, I ____ (help) you. | would have helped
+If you ____ (press) this button, the machine starts. | press
+If he ____ (be) taller, he could play basketball professionally. | were/was
+@EX MCQ Unless, as long as, in case, otherwise
+You can't enter ____ you have a ticket. | A unless | B if | C in case | A
+Take some water ____ you get thirsty. | A if | B in case | C unless | B
+You can stay ____ you are quiet. | A as long as | B unless | C in case | A
+Leave now, ____ you'll be late. | A unless | B otherwise | C provided | B
+I'll lend you the money ____ you pay me back next week. | A provided that | B unless | C in case | A
+____ you won a million dollars, what would you do? | A Supposing | B Unless | C Otherwise | A
+I'll go to the beach ____ it's cold. I love swimming. | A even if | B unless | C as long as | A
+We won't succeed ____ we work together. | A unless | B if | C in case | A
+@EX TR Перепиши, используя слово в скобках или начало
+I don't have a car, so I can't drive to work. → If I ____ to work. | had a car, I could drive/had a car, I would drive/had a car, I'd drive
+She didn't study, so she failed. → If she had studied, ____. | she would not have failed/she wouldn't have failed/she would have passed
+If you don't apologise, she won't forgive you. → Unless ____, she won't forgive you. | you apologise/you apologize
+You can borrow my bike, but you must return it by six. → You can borrow my bike as long as ____ by six. | you return it
+I'll take a jacket because it might get cold. → I'll take a jacket in case ____ cold. | it gets
+I'm not you, but my advice is to see a doctor. → If ____, I would see a doctor. | I were you/I was you
+@EX ERR Найди ошибку
+(A) If I (B) will see him, (C) I will (D) tell him. | B | # If I see him
+(A) If she (B) would know (C) the answer, (D) she would tell us. | B | # If she knew
+(A) If I had known, (B) I (C) would (D) come. | D | # would have come
+(A) Unless (B) you don't (C) hurry, (D) you'll be late. | B | # Unless you hurry
+(A) Take an umbrella (B) if (C) it rains — (D) the forecast isn't sure. | B | # in case it rains (мера предосторожности)
+(A) If (B) governments invested (C) more in health, (D) people will live longer. | D | # would live
+(A) If (B) you will need (C) help, (D) call me. | B | # If you need help
+@TEST MCQ Тест
+If you ____ ice in the sun, it melts. | A leave | B will leave | C left | A
+If I ____ a better job, I'll move to the city. | A find | B will find | C found | A
+If people recycled more, there ____ less waste. | A will be | B would be | C would have been | B
+If the bus ____ late, we wouldn't have missed the flight. | A wasn't | B hadn't been | C wouldn't be | B
+I wouldn't do that if I ____ you. | A am | B were | C will be | B
+____ you work harder, you won't get promoted. | A Unless | B If | C In case | A
+I'll give you my number ____ you need help. | A in case | B unless | C otherwise | A
+If the government ____ taxes, many businesses would close. | A raises | B raised | C had raised | B
+If I had saved money, I ____ buy a car now. | A could | B could have | C can | A | # Смешанный тип (тема 21): прошлое условие → результат сейчас.
+You can use my laptop ____ you're careful with it. | A provided | B unless | C otherwise | A
+@TEST TR Тест: перепиши
+He didn't take the medicine, so he didn't get better. → If he had taken the medicine, he ____ better. | would have got/would have gotten/would have felt/could have got/might have got
+I can't help you because I'm busy. → If I ____ busy, I could help you. | weren't/were not/wasn't/was not
+You must book early or there won't be any seats. → Unless ____ early, there won't be any seats. | you book
+The match will be played only if it doesn't rain. → The match will be played provided ____. | it doesn't rain/it does not rain/that it doesn't rain/that it does not rain
+We didn't know about the problem, so we didn't fix it. → If we ____ about the problem, we would have fixed it. | had known
+@TEST ERR Тест: найди ошибку
+(A) If I (B) would have (C) more free time, (D) I would learn the guitar. | B | # If I had
+(A) If he (B) had asked me, (C) I (D) would help him. | D | # would have helped
+(A) What (B) will you do (C) if you (D) won the lottery? | B | # would you do
+(A) Unless (B) we don't (C) act now, (D) the problem will get worse. | B | # Unless we act
+(A) If (B) I was (C) the president, (D) I will change the law. | D | # I would change
