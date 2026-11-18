@@ -64,6 +64,27 @@ main{padding-bottom:56px}
 .hgrid>.cont{grid-column:span 7}.hgrid>.stats{grid-column:span 5}.hgrid>.skill{grid-column:span 3}.hgrid>.recent{grid-column:span 7}.hgrid>.cal{grid-column:span 5}.hgrid>.full{grid-column:1/-1}
 .hgrid>.recent,.hgrid>.cal{align-self:start}
 .hgrid>.skills{grid-column:1/-1;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+/* daily plan & words */
+.stats-mini{text-align:right}.stats-mini b{font:800 24px var(--ui);margin-right:6px;color:var(--acc)}.stats-mini span{color:var(--mute);font-size:14px}
+.plan .items{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px;margin-top:10px}
+.plan .it{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;border:1px solid var(--line);border-radius:10px;color:inherit;text-decoration:none}
+.plan .it:hover{border-color:var(--acc)}
+.plan .it .ck{flex:none;width:22px;height:22px;border-radius:50%;border:2px solid var(--line);display:grid;place-items:center;font-size:13px;color:#fff}
+.plan .it.on .ck{background:var(--ok);border-color:var(--ok)}
+.plan .it b{display:block;font-size:15px}.plan .it span{font-size:13px;color:var(--mute)}
+.vstat{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:12px 0}
+.vstat div{background:var(--soft);border-radius:10px;padding:10px 12px}.vstat b{display:block;font:800 22px var(--ui)}.vstat span{font-size:13px;color:var(--mute)}
+.vcard{max-width:760px;margin:0 auto}
+.vtop{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.vword{font:800 34px/1.2 var(--ui);margin:18px 0 8px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.vsay{font-size:18px;padding:4px 10px}
+.vctx{font:17px/1.6 var(--read);color:var(--mute);min-height:1.6em}.vctx mark{background:color-mix(in srgb,var(--mark) 22%,transparent);color:var(--ink);border-radius:3px;padding:0 2px}
+.vmean{font:700 22px/1.4 var(--ui);color:var(--word);margin:10px 0 4px}
+.vopts{display:grid;gap:8px;margin:12px 0}
+.vopts button{text-align:left;padding:12px 14px;border-radius:10px;border:1.5px solid var(--line);background:var(--card);font-size:16px}
+.vopts button.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 14%,var(--card))}
+.vopts button.bad{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 12%,var(--card))}
+@media(max-width:560px){.vword{font-size:27px}}
 /* live speaking */
 .lvmodes{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:10px 0}
 .lvmodes button{display:flex;flex-direction:column;align-items:flex-start;gap:4px;text-align:left;padding:12px 14px;border-radius:12px;border:1.5px solid var(--line);background:var(--card)}
@@ -291,7 +312,7 @@ ol.ql li,ul.ql li{margin:6px 0}
 <!--BODY-->
 <header class="top" id="top"><div class="wrap">
 <a class="brand" href="#home"><i>IELTS</i>Skills Pack</a>
-<nav class="tabs" aria-label="Разделы"><a href="#home" data-tab="home">Главная</a><a href="#reading" data-tab="reading">Reading</a><a href="#listening" data-tab="listening">Listening</a><a href="#writing" data-tab="writing">Writing</a><a href="#speaking" data-tab="speaking">Speaking</a><a href="#live" data-tab="live">Live Speaking</a><a href="#grammar" data-tab="grammar">Grammar</a></nav>
+<nav class="tabs" aria-label="Разделы"><a href="#home" data-tab="home">Главная</a><a href="#reading" data-tab="reading">Reading</a><a href="#listening" data-tab="listening">Listening</a><a href="#writing" data-tab="writing">Writing</a><a href="#speaking" data-tab="speaking">Speaking</a><a href="#live" data-tab="live">Live Speaking</a><a href="#grammar" data-tab="grammar">Grammar</a><a href="#words" data-tab="words">Слова</a></nav>
 <div class="search"><input id="q" type="search" placeholder="Поиск по словам, темам, вопросам" autocomplete="off" aria-label="Поиск по всем материалам"></div>
 <div class="ov" title="Общий прогресс"><span class="bar"><i id="ovBar"></i></span><span id="ovPct">0%</span></div>
 </div></header>
@@ -299,7 +320,7 @@ ol.ql li,ul.ql li{margin:6px 0}
 <main>
 <section class="view wrap" id="v-home">
 <h1>Привет! Готов заниматься?</h1>
-<p class="lead">Reading — {{NR}} текстов ({{NQ}} вопросов) · Listening — {{NL}} аудиозаписей · Writing и Speaking — актуальные вопросы сентября–декабря 2026 с образцами ответов и разбором.</p>
+<p class="lead">Reading — {{NR}} текстов ({{NQ}} вопросов) · Listening — {{NL}} аудиозаписей · Writing и Speaking — актуальные вопросы 2026 с образцами ответов · Live Speaking — экзамен с голосовым экзаменатором · Grammar — 27 тем · тренажёр слов.</p>
 <div class="hgrid">
  <div class="card cont" id="hCont"></div>
  <div class="card stats" id="hStats"></div>
@@ -308,6 +329,7 @@ ol.ql li,ul.ql li{margin:6px 0}
  <div class="card skill" id="hs-writing"></div>
  <div class="card skill" id="hs-speaking"></div>
  <div class="card skill" id="hs-grammar"></div></div>
+ <div class="card full plan" id="hPlan"></div>
  <div class="card recent"><p class="eyebrow">Последние результаты</p><ul class="rlist" id="hRecent"></ul></div>
  <div class="card cal"><p class="eyebrow">Занятия за 4 недели</p><div id="hCal"></div></div>
  <details class="card full"><summary><b>Как пользоваться сайтом</b></summary>
@@ -428,6 +450,35 @@ ol.ql li,ul.ql li{margin:6px 0}
 </section>
 <script type="application/json" id="ldata">{{LDATA}}</script>
 
+<section class="view wrap" id="v-words" hidden>
+<div class="lhead"><div><h1>Тренажёр слов</h1><p class="lead">Карточки из новых слов всех текстов Reading и полезных выражений из образцов Writing. Каждое слово показано в предложении из текста. Слова, которые ты не вспомнил, возвращаются чаще, а выученные — всё реже: через 1, 3, 7, 14, 30 и 60 дней.</p></div><div class="stats-mini" id="vMini"></div></div>
+<div id="vHome">
+ <div class="card">
+  <h3>Колода</h3>
+  <div class="lvmodes" id="vDecks">
+   <button type="button" data-d="r" aria-pressed="true"><b>Reading</b><span id="vCntR"></span></button>
+   <button type="button" data-d="w" aria-pressed="false"><b>Writing</b><span id="vCntW"></span></button>
+   <button type="button" data-d="all" aria-pressed="false"><b>Все слова</b><span id="vCntA"></span></button>
+  </div>
+  <div class="vstat" id="vStat"></div>
+  <div class="acts"><button type="button" class="btn pri" id="vGoCards">Карточки (20 слов)</button><button type="button" class="btn" id="vGoQuiz">Тест: выбери перевод</button></div>
+  <p class="src">Совет: 20 слов в день, то есть 10–15 минут. Произноси каждое слово вслух и придумай с ним своё предложение.</p>
+ </div>
+</div>
+<div id="vSess" hidden>
+ <div class="card vcard">
+  <div class="vtop"><span class="eyebrow" id="vProg"></span><button type="button" class="btn" id="vQuit">Закончить</button></div>
+  <div class="vword"><span id="vWord"></span> <button type="button" class="btn vsay" id="vSay" aria-label="Произнести">🔊</button></div>
+  <p class="vctx" id="vCtx"></p>
+  <div id="vBack" hidden><p class="vmean" id="vMean"></p><p class="src" id="vSrc"></p></div>
+  <div class="vopts" id="vOpts" hidden></div>
+  <div class="acts" id="vActs"></div>
+ </div>
+</div>
+<div id="vDone" hidden></div>
+</section>
+<script type="application/json" id="vdata">{{VDATA}}</script>
+
 <section class="view wrap" id="v-grammar" hidden>
 <div class="lhead"><div><h1>Grammar</h1><p class="lead">{{NG}} тем в 4 этапах: план урока, теория с типичными ошибками, практика с автопроверкой и пояснениями, тест по каждой теме и итоговый тест на 100 вопросов после каждого этапа. Тема считается освоенной, когда тест сдан на 85% и выше.</p></div><div class="stats-mini" id="gMini"></div></div>
 <div id="gList"></div>
@@ -537,7 +588,7 @@ const GD=JSON.parse($('#gdata').textContent);
 const GT=GD.topics.map(x=>x.k+'-t'),GS=GD.tests.map(x=>x.k);
 const gTitle=k=>{const m=/^(g\d+)(?:-(p\d+|t))?$/.exec(k);if(m){const x=GD.topics.find(y=>y.k===m[1]);if(x)return 'Grammar '+x.n+'. '+x.title+(m[2]==='t'?' — тест':m[2]?' — практика '+m[2].slice(1):'');}
   const s=GD.tests.find(y=>y.k===k);return s?'Grammar: '+s.title:null;};
-const label=k=>{if(k==='live')return 'Live Speaking';const g=gTitle(k);if(g)return g;const u=byK[k];return u?(k[0]==='r'?'Reading ':'Listening ')+u.dataset.n+'. '+u.dataset.title:k;};
+const label=k=>{if(k==='live')return 'Live Speaking';if(k==='words')return 'Тренажёр слов';const g=gTitle(k);if(g)return g;const u=byK[k];return u?(k[0]==='r'?'Reading ':'Listening ')+u.dataset.n+'. '+u.dataset.title:k;};
 
 const ctrls=u=>$$('.q',u).map(q=>q.querySelector('input,select'));
 const pct=st=>st&&st.t?Math.round(100*st.s/st.t):0;
@@ -625,7 +676,7 @@ tBtn.addEventListener('click',()=>{if(tLeft===0){tReset();return;}tRun=!tRun;cle
   if(tRun)tInt=setInterval(()=>{tLeft--;if(tLeft<=0){tLeft=0;clearInterval(tInt);tRun=false;toast('20 минут прошло');}tDraw();},1000);tDraw();});
 
 /* ---------- views ---------- */
-const views={live:$('#v-live'),grammar:$('#v-grammar'),gram:$('#v-gram'),home:$('#v-home'),reading:$('#v-reading'),listening:$('#v-listening'),writing:$('#v-writing'),speaking:$('#v-speaking'),search:$('#v-search'),unit:$('#v-unit')};
+const views={words:$('#v-words'),live:$('#v-live'),grammar:$('#v-grammar'),gram:$('#v-gram'),home:$('#v-home'),reading:$('#v-reading'),listening:$('#v-listening'),writing:$('#v-writing'),speaking:$('#v-speaking'),search:$('#v-search'),unit:$('#v-unit')};
 let curView=null,curUnit=null,pendingEl=null;
 const scrollMem={};
 function route(){
@@ -678,6 +729,97 @@ function openUnit(k){
   refreshBar();
 }
 
+/* ---------- vocabulary trainer ---------- */
+const VD=JSON.parse($('#vdata').textContent);
+const VDK={r:VD.r.map(x=>({id:'r|'+x[0]+'|'+x[3],w:x[0],m:x[1],c:x[2],src:'#r'+x[3],sl:'Reading, текст '+x[3]})),
+  w:VD.w.map(x=>({id:'w|'+x[0]+'|'+x[3],w:x[0],m:x[1],c:x[2],src:null,sl:'Writing, образец '+x[3]}))};
+VDK.all=VDK.r.concat(VDK.w);
+const VIV=[0,1,3,7,14,30,60],DAY=864e5;
+let vDeck='r',VS=null;
+const vShuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
+function vSt(){const u=S.units.vocab;return u&&u.w&&typeof u.w==='object'?u.w:{};}
+function vPut(id,box){const w=Object.assign({},vSt());w[id]=[box,now()+(box?VIV[Math.min(box,6)]*DAY:10*60*1000)];S.units=Object.assign({},S.units,{vocab:{w,at:now()}});saveLocal();if(ref){clearTimeout(rt);rt=setTimeout(flush,3000);}}
+function vCounts(list){const st=vSt(),t=now();let n=0,l=0,k=0,d=0;list.forEach(c=>{const s=st[c.id];if(!s)n++;else{if(s[0]>=3)k++;else l++;if(s[1]<=t)d++;}});return {n,l,k,d,all:list.length};}
+function renderWords(){
+  const c=vCounts(VDK[vDeck]);
+  $('#vCntR').textContent=VDK.r.length+' слов из текстов';$('#vCntW').textContent=VDK.w.length+' выражений из образцов';$('#vCntA').textContent=VDK.all.length+' всего';
+  $('#vStat').innerHTML=`<div><b>${c.k}</b><span>выучено</span></div><div><b>${c.l}</b><span>в процессе</span></div><div><b>${c.d}</b><span>повторить сегодня</span></div><div><b>${c.n}</b><span>новых</span></div>`;
+  const ca=vCounts(VDK.all);$('#vMini').innerHTML=`<div><b>${ca.k}</b><span>из ${ca.all} выучено</span></div>`;
+}
+$('#vDecks').addEventListener('click',e=>{const b=e.target.closest('button[data-d]');if(!b)return;vDeck=b.dataset.d;$$('#vDecks button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));renderWords();});
+function vStart(mode){
+  const deck=VDK[vDeck],st=vSt(),t=now();
+  const due=vShuf(deck.filter(c=>st[c.id]&&st[c.id][1]<=t)).slice(0,20);
+  const fresh=deck.filter(c=>!st[c.id]).slice(0,20-due.length);
+  const q=vShuf(due.concat(fresh));
+  if(!q.length){toast('В этой колоде на сегодня всё повторено');return;}
+  VS={mode,q,i:0,ok:0,bad:0,deck,again:[]};$('#vHome').hidden=true;$('#vDone').hidden=true;$('#vSess').hidden=false;vShow();
+}
+function vSpeak(w){try{if(!('speechSynthesis' in window))return;speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(w.replace(/\s*\(.*?\)/g,''));u.lang='en-GB';const v=speechSynthesis.getVoices().find(x=>/en[-_]GB/i.test(x.lang));if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u);}catch(e){}}
+function vCtx(c){if(!c.c)return '';const core=c.w.replace(/\s*\(.*?\)/g,'').split('…')[0].trim().toLowerCase();const low=c.c.toLowerCase();
+  let i=low.indexOf(core),len=core.length;
+  if(i<0){const st=core.length>4?core.replace(/(e|y|ies|es|s)$/,''):core;i=low.indexOf(st);if(i>=0){len=st.length;while(i+len<low.length&&/[a-z]/.test(low[i+len]))len++;}}
+  return i<0?esc(c.c):esc(c.c.slice(0,i))+'<mark>'+esc(c.c.slice(i,i+len))+'</mark>'+esc(c.c.slice(i+len));}
+function vShow(){
+  if(VS.i>=VS.q.length){if(VS.again.length){VS.q=VS.q.concat(vShuf(VS.again));VS.again=[];}else return vEnd();}
+  const c=VS.q[VS.i];
+  $('#vProg').textContent=`${VS.mode==='quiz'?'Тест':'Карточки'} · ${Math.min(VS.i+1,VS.q.length)} / ${VS.q.length}`;
+  $('#vWord').textContent=c.w;$('#vCtx').innerHTML=vCtx(c);$('#vBack').hidden=true;$('#vMean').textContent=c.m;
+  $('#vSrc').innerHTML=c.src?`<a href="${c.src}">${esc(c.sl)}</a>`:esc(c.sl);
+  const acts=$('#vActs'),opts=$('#vOpts');
+  if(VS.mode==='cards'){opts.hidden=true;acts.innerHTML='<button type="button" class="btn pri" id="vFlip">Показать перевод</button>';}
+  else{
+    const pool=vShuf(VS.deck.filter(x=>x.m!==c.m)).slice(0,3).map(x=>x.m);const ch=vShuf(pool.concat(c.m));
+    opts.hidden=false;opts.innerHTML=ch.map(m=>`<button type="button" data-m="${esc(m)}">${esc(m.split(' — ')[0])}</button>`).join('');acts.innerHTML='';
+  }
+}
+function vMark(known){
+  const c=VS.q[VS.i],s=vSt()[c.id];const box=s?s[0]:0;
+  if(known){VS.ok++;vPut(c.id,Math.min(box+1,6));}else{VS.bad++;vPut(c.id,0);VS.again.push(c);}
+  VS.i++;vShow();
+}
+$('#vSess').addEventListener('click',e=>{
+  const b=e.target.closest('button');if(!b||!VS)return;
+  if(b.id==='vSay'){vSpeak(VS.q[VS.i].w);return;}
+  if(b.id==='vQuit'){vEnd();return;}
+  if(b.id==='vFlip'){$('#vBack').hidden=false;vSpeak(VS.q[VS.i].w);$('#vActs').innerHTML='<button type="button" class="btn" id="vNo">Не вспомнил</button><button type="button" class="btn pri" id="vYes">Знал</button>';return;}
+  if(b.id==='vNo'){vMark(false);return;}if(b.id==='vYes'){vMark(true);return;}
+  if(b.dataset.m!==undefined&&!b.disabled){
+    const c=VS.q[VS.i],good=b.dataset.m===c.m;
+    $$('#vOpts button').forEach(x=>{x.disabled=true;if(x.dataset.m===c.m)x.classList.add('ok');});if(!good)b.classList.add('bad');
+    $('#vBack').hidden=false;vSpeak(c.w);
+    $('#vActs').innerHTML=`<button type="button" class="btn pri" id="${good?'vYes':'vNo'}">Дальше</button>`;
+  }
+});
+$('#vGoCards').addEventListener('click',()=>vStart('cards'));
+$('#vGoQuiz').addEventListener('click',()=>vStart('quiz'));
+function vEnd(){
+  if(!VS)return;const r=VS;VS=null;$('#vSess').hidden=true;
+  if(r.ok+r.bad>0){pushHist({k:'words',at:now()});changed();}
+  $('#vDone').innerHTML=`<div class="card vcard"><p class="eyebrow">Готово</p><h2>Повторено слов: ${r.ok+r.bad}</h2><p>Знал сразу: <b>${r.ok}</b> · Не вспомнил: <b>${r.bad}</b> (эти слова вернутся сегодня ещё раз)</p>
+   <div class="acts"><button type="button" class="btn pri" id="vMore">Ещё 20 слов</button><button type="button" class="btn" id="vBackHome">К колодам</button></div></div>`;
+  $('#vDone').hidden=false;renderWords();
+  $('#vMore').addEventListener('click',()=>vStart(r.mode));
+  $('#vBackHome').addEventListener('click',()=>{$('#vDone').hidden=true;$('#vHome').hidden=false;});
+}
+
+/* ---------- daily plan ---------- */
+function renderPlan(){
+  const today=day(now()),hist=S.hist.filter(x=>day(x.at)===today);
+  const did=re=>hist.some(x=>re.test(x.k));
+  const nextR=firstOpen(R),nextL=firstOpen(L),nextG=GD.topics.find(x=>(gStat(x.k+'-t')||0)<85);
+  const items=[
+    {on:did(/^r\d+$/),href:nextR?'#'+nextR.dataset.k:'#reading',t:'Reading',s:nextR?`Текст ${nextR.dataset.n}: ${nextR.dataset.title}`:'Все тексты пройдены — повтори любой'},
+    {on:did(/^l\d+$/),href:nextL?'#'+nextL.dataset.k:'#listening',t:'Listening',s:nextL?`Запись ${nextL.dataset.n}: ${nextL.dataset.title}`:'Все записи пройдены — повтори любую'},
+    {on:did(/^g/),href:nextG?'#'+nextG.k:'#grammar',t:'Grammar',s:nextG?`Тема ${nextG.n}: ${nextG.title}`:'Все темы освоены'},
+    {on:did(/^w-/),href:'#writing',t:'Writing',s:'Одно задание Task 1 или Task 2 и сравнение с образцом'},
+    {on:did(/^live$/),href:'#live',t:'Live Speaking',s:'Экзамен с экзаменатором: Part 1 или полный тест'},
+    {on:did(/^words$/),href:'#words',t:'20 слов',s:'Карточки или тест в тренажёре слов'},
+  ];
+  const n=items.filter(x=>x.on).length;
+  $('#hPlan').innerHTML=`<div class="hd" style="display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap"><div><p class="eyebrow">План на сегодня</p><b style="font-size:18px">${n===items.length?'Всё сделано — отличный день!':'Сделано '+n+' из '+items.length}</b></div><div class="bar" style="width:200px"><i style="width:${100*n/items.length}%"></i></div></div>
+   <div class="items">${items.map(x=>`<a class="it${x.on?' on':''}" href="${x.href}"><span class="ck">${x.on?'✓':''}</span><span><b>${x.t}</b><span>${esc(x.s)}</span></span></a>`).join('')}</div>`;
+}
 /* ---------- live speaking ---------- */
 const LD=JSON.parse($('#ldata').textContent);
 const SRec=window.SpeechRecognition||window.webkitSpeechRecognition;
@@ -956,7 +1098,7 @@ function refresh(){
   docProgress();
 }
 function render(v){
-  if(v==='live')renderLive();else if(v==='grammar')renderGrammar();else if(v==='home')renderHome();else if(v==='reading')renderReading();else if(v==='listening')renderListening();else if(v==='search')renderSearch();
+  if(v==='words')renderWords();else if(v==='live')renderLive();else if(v==='grammar')renderGrammar();else if(v==='home')renderHome();else if(v==='reading')renderReading();else if(v==='listening')renderListening();else if(v==='search')renderSearch();
 }
 const firstOpen=list=>list.find(u=>status(u.dataset.k)!=='done');
 const day=t=>{const d=new Date(t);return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();};
@@ -975,7 +1117,7 @@ function renderHome(){
     h=`<p class="eyebrow">С чего начать</p><h2>Начни с первого текста Reading</h2><p class="lead">Раздел за 10 минут: текст, новые слова и 13 вопросов. Прогресс сохранится сам, и в следующий раз здесь появится кнопка «Продолжить».</p>
     <div class="acts"><a class="btn pri" href="#r1">Открыть Reading 1</a><a class="btn" href="#l1">Listening 1</a></div>`;
   }
-  $('#hCont').innerHTML=h;
+  $('#hCont').innerHTML=h;renderPlan();
   const days=new Set(S.hist.map(x=>day(x.at)));
   let streak=0;{const d=new Date();if(!days.has(day(d)))d.setDate(d.getDate()-1);while(days.has(day(d))){streak++;d.setDate(d.getDate()-1);}}
   const checks=S.hist.filter(x=>x.s!=null);

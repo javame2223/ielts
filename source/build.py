@@ -161,6 +161,25 @@ def apply_extension(paras, vocab_lines, groups, ext, errors, where):
     return paras[:ins] + extra + paras[ins:], vocab_lines + sec.get("V", []), fixed + new_groups
 
 
+VOCAB = {"r": [], "w": []}
+
+
+def context(paras, phrase):
+    """First sentence of the text that contains the phrase (for flashcards)."""
+    core = re.sub(r"\s*\(.*?\)", "", phrase).strip()
+    parts = [x.strip() for x in core.split("…")]
+    stem = lambda w: re.sub(r"(e|y|ies|es|s)$", "", w) if len(w) > 4 else w
+    pats = [r"(?<![A-Za-z])" + r".{1,40}?".join(re.escape(x) for x in parts) + r"(?![A-Za-z])",
+            r"(?<![A-Za-z])" + r".{1,40}?".join(re.escape(x) for x in parts),
+            r"(?<![A-Za-z])" + r"[a-z]*\W+".join(re.escape(stem(w)) for w in " ".join(parts).split())]
+    sents = [s.strip() for p in paras for s in re.split(r"(?<=[.!?])\s+", p)]
+    for pat in pats:
+        for s in sents:
+            if re.search(pat, s, flags=re.I):
+                return s
+    return ""
+
+
 def build_reading(errors):
     secs, toc, cats, total_q = [], [], {}, 0
     num = 0
@@ -199,6 +218,8 @@ def build_reading(errors):
                 errors.append(f"{where}: {nq} questions")
             words = sum(len(p.split()) for p in paras)
             vhtml = "".join(f"<li><b>{E(a.strip())}</b> — {E(b.strip())}</li>" for a, b in vocab)
+            for a, b in vocab:
+                VOCAB["r"].append([a.strip(), b.strip(), context(paras, a.strip()), num])
             cats.setdefault(cat, []).append(num)
             toc.append(f"<a href='#r{num}' title='{E(name)}'>{num}</a>")
             secs.append(
@@ -475,6 +496,8 @@ def build_writing(errors):
         if not lo <= words <= hi:
             errors.append(f"Writing {key}: {words} words")
         items = vocab_items(md["V"])
+        for a, m_, u_ in items:
+            VOCAB["w"].append([a, m_ + (" — " + u_ if u_ else ""), context(body, a), key])
         if len(items) < 10:
             errors.append(f"Writing {key}: only {len(items)} vocabulary items")
         paras = "".join(highlight(body, items, key, errors))
@@ -520,6 +543,7 @@ def main():
         "{{WRITING}}": build_writing(errors), "{{SPEAKING}}": rd("speaking.html").replace("{{CARDS}}", build_cards(errors)[0]).replace("{{PART1}}", build_part1(errors)),
     }.items():
         page = page.replace(k, v)
+    page = page.replace("{{VDATA}}", json.dumps(VOCAB, ensure_ascii=False).replace("</", "<\\/"))
     head, body = page.split("<!--BODY-->")
     note = " Аудиофайлы лежат в папке <b>audio</b> — она должна находиться рядом с этим файлом."
     # 1) standalone file: a full HTML document that plays audio from ./audio
