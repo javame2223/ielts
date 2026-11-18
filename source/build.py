@@ -534,7 +534,7 @@ def main():
     os.makedirs(os.path.join(site, "audio"), exist_ok=True)
     open(os.path.join(site, "index.html"), "w", encoding="utf-8").write(
         "<!doctype html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n"
-        "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n"
+        "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n<meta name=\"color-scheme\" content=\"light\">\n"
         + head + "</head>\n<body>\n" + body.replace("{{AUDIONOTE}}", "") + "</body>\n</html>\n")
     open(os.path.join(site, ".nojekyll"), "w").close()
     for f in glob.glob(os.path.join(ROOT, "audio", "*.mp3")):
