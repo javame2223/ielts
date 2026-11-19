@@ -1352,12 +1352,15 @@ ol.ql li,ul.ql li{margin:6px 0}
    <label><input type="checkbox" id="lvSubs" checked> Показывать текст вопросов</label>
    <label><input type="checkbox" id="lvStrict"> Строгий режим (как на экзамене: без комментариев)</label>
    <label><input type="checkbox" id="lvType"> Отвечать текстом (без микрофона)</label>
+   <label>Распознавание: <select id="lvLang"><option value="en-US">английский, США (точнее для большинства акцентов)</option><option value="en-GB">английский, Великобритания</option></select></label>
+   <label><input type="checkbox" id="lvRec"> Записывать голос (на телефоне может мешать распознаванию)</label>
   </div>
   <div class="acts"><button type="button" class="btn pri" id="lvStart">Начать экзамен</button></div>
   <p class="src" id="lvSupport"></p>
  </div>
  <details class="card"><summary><b>Как это работает и как получить максимум</b></summary><ul class="ql">
   <li><b>Наушники.</b> Лучше надеть их, чтобы микрофон не слышал голос экзаменатора.</li>
+  <li><b>Если расшифровка неточная:</b> говори чуть медленнее и чётче, держи телефон или микрофон ближе, убери фоновый шум. Попробуй другой вариант распознавания (США / Великобритания). На телефоне выключи «Записывать голос»: вторая запись с микрофона мешает распознаванию. Ошибки расшифровки — это особенность распознавания в браузере, а не обязательно ошибки в твоей речи.</li>
   <li><b>Браузер.</b> Распознавание речи работает в Chrome и Edge (на компьютере и Android) и в Safari на iPhone. В других браузерах тест идёт без расшифровки, но запись голоса сохраняется.</li>
   <li><b>Конец ответа.</b> Когда ты замолчал на 2–3 секунды (в Part 2 — дольше), экзаменатор продолжает. Можно нажать «Я закончил ответ».</li>
   <li><b>Живой диалог:</b> экзаменатор реагирует на ответы («Great answer! Let's move on…») и задаёт уточняющие вопросы по тому, что ты сказал: на «да» — один вопрос, на «нет» — другой. На слишком короткий ответ попросит рассказать подробнее.</li>
@@ -7215,6 +7218,7 @@ function lvAbort(){if(!LV||LV.abort)return;LV.abort=true;try{lvAudio.pause();}ca
 function lvChk(){if(!LV||LV.abort)throw new Error('abort');}
 function renderLive(){
   if(lvInit)return;lvInit=true;
+  $('#lvRec').checked=!/Android|iPhone|iPad|Mobile/i.test(navigator.userAgent)||!SRec;
   $('#lvCardSel').insertAdjacentHTML('beforeend',LD.cards.map(c=>`<option value="${c.n}">${c.n}. ${esc(c.t.replace(/^Describe /,'').replace(/\.$/,''))}</option>`).join(''));
   $('#lvSupport').textContent=SRec?'В этом браузере есть распознавание речи: после теста будет расшифровка твоих ответов.'
     :'В этом браузере нет распознавания речи: экзамен пройдёт с записью голоса, но без расшифровки. Для расшифровки открой сайт в Chrome или Edge.';
@@ -7241,6 +7245,7 @@ function lvSay(line,part){
 
 async function lvMic(){
   if(LV.typed)return false;
+  if(SRec&&!$('#lvRec').checked)return true;   // recognition only: Chrome opens the microphone itself
   try{
     const st=await navigator.mediaDevices.getUserMedia({audio:{echoCancellation:true,noiseSuppression:true}});
     LV.stream=st;const AC=window.AudioContext||window.webkitAudioContext;
@@ -7260,14 +7265,23 @@ function lvListen(o){
     const finish=why=>{if(done)return;done=true;clearInterval(timer);LV.wake=null;LV.finish=null;LV.onTyped=null;
       if(rec){rec.onend=null;try{rec.stop();}catch(e){}}
       $('#lvDone').disabled=true;$('#lvLevel').style.width='0';$('#lvTime').textContent='';$('#lvTypedBox').hidden=true;
-      resolve({text:(fin+' '+inter).replace(/\s+/g,' ').trim(),ms:now()-t0,why,heard:spoke||!!fin});};
+      const tail=inter&&!fin.toLowerCase().endsWith(inter.toLowerCase())?' '+inter:'';
+      resolve({text:(fin+tail).replace(/\s+/g,' ').trim(),ms:now()-t0,why,heard:spoke||!!fin});};
     LV.wake=()=>finish('abort');LV.finish=finish;
     if(LV.typed){$('#lvTypedBox').hidden=false;const ta=$('#lvTyped');ta.value='';ta.focus();LV.onTyped=v=>{fin=v;finish('typed');};}
     else if(SRec){
-      rec=new SRec();rec.lang='en-GB';rec.continuous=true;rec.interimResults=true;
-      rec.onresult=e=>{inter='';for(let i=e.resultIndex;i<e.results.length;i++){const r=e.results[i];if(r.isFinal)fin+=(fin?' ':'')+r[0].transcript.trim();else inter+=r[0].transcript;}spoke=true;last=now();draw();};
+      let base='',sess='';
+      rec=new SRec();rec.lang=$('#lvLang').value||'en-US';rec.continuous=true;rec.interimResults=true;rec.maxAlternatives=1;
+      rec.onresult=e=>{let f='',it='';
+        for(let i=0;i<e.results.length;i++){const r=e.results[i],tx=(r[0].transcript||'').trim();if(!tx)continue;
+          if(r.isFinal){const lf=f.toLowerCase(),lt=tx.toLowerCase();
+            if(f&&lt.startsWith(lf))f=tx;            // Android repeats the whole phrase in each final result
+            else if(f&&lf.endsWith(lt))continue;     // duplicate tail
+            else f+=(f?' ':'')+tx;}
+          else it=tx;}
+        sess=f;inter=it;fin=(base+' '+sess).trim();spoke=true;last=now();draw();};
       rec.onerror=e=>{if(e.error==='not-allowed'||e.error==='service-not-allowed')rec=null;};
-      rec.onend=()=>{if(!done&&rec){try{rec.start();}catch(e){}}};
+      rec.onend=()=>{base=(base+' '+sess).trim();sess='';fin=base;if(!done&&rec){try{rec.start();}catch(e){}}};
       try{rec.start();}catch(e){}
     }
     timer=setInterval(()=>{
